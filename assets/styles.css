@@ -299,4 +299,19 @@ a { color: inherit; }
   .controls-inner { gap: 12px; }
   .modal { padding: 12px; }
   .modal-panel { padding: 22px 20px 20px; }
+
+  /* Wrapped on a phone, the source and topic rows push every story below the
+     fold. Scroll them sideways instead, bleeding to the screen edge so it is
+     obvious there is more to the right. */
+  .chips, .tagbar {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    scrollbar-width: none;               /* Firefox */
+    margin: 0 -16px; padding-left: 16px; padding-right: 16px;
+    scroll-snap-type: x proximity;
+  }
+  .chips::-webkit-scrollbar, .tagbar::-webkit-scrollbar { display: none; }
+  .chip, .tag { flex: 0 0 auto; scroll-snap-align: start; }
+  /* Not sticky here - pinned, it would sit on top of the scrolling tags. */
+  .tagbar-label { flex: 0 0 auto; }
 }
