@@ -314,6 +314,7 @@ An honest list for whoever takes this on.
 ## File map
 
 ```
+README.md                   this file
 index.html                  the page
 assets/styles.css           all styling (plain CSS, no build step)
 assets/app.js               feed loading, filtering, search, tags, summary popup
