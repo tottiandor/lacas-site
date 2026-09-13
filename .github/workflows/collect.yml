@@ -1,0 +1,56 @@
+name: Collect news
+
+on:
+  schedule:
+    # Every 20 minutes. GitHub queues cron jobs on a best-effort basis, so the
+    # real gap is often a little longer at busy times - that is normal.
+    - cron: "*/20 * * * *"
+  workflow_dispatch:        # lets you run it by hand from the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - "sources/**"        # re-collect immediately when a source is added or changed
+      - "scrape.py"
+
+# Never let two collection runs overlap and fight over the same commit.
+concurrency:
+  group: collect-news
+  cancel-in-progress: false
+
+permissions:
+  contents: write           # needed to commit the refreshed data/news.json
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # No dependencies to install - the scraper is standard library only.
+      - name: Collect news
+        run: python scrape.py
+
+      - name: Commit if anything changed
+        run: |
+          if git diff --quiet -- data/news.json; then
+            echo "No new stories - nothing to commit."
+            exit 0
+          fi
+          git config user.name  "laca-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          git commit -m "Update news feed ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+          # Another run may have pushed while we were collecting; rebase and retry.
+          for attempt in 1 2 3; do
+            git pull --rebase --autostash origin main && git push && exit 0
+            echo "Push attempt $attempt failed, retrying..."
+            sleep 5
+          done
+          echo "Could not push after 3 attempts" >&2
+          exit 1
