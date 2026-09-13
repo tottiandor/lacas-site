@@ -11,11 +11,12 @@ ADDING A NEW SITE
 Nothing else in the project needs to change: the scraper, the JSON feed and the
 front end all pick the new source up automatically.
 """
-from . import creativereview, famouscampaigns, thedrum, theinspiration
+from . import creativereview, famouscampaigns, kreativ, thedrum, theinspiration
 
 SOURCES = [
     thedrum.SOURCE,
     creativereview.SOURCE,
     theinspiration.SOURCE,
     famouscampaigns.SOURCE,
+    kreativ.SOURCE,
 ]

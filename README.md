@@ -149,6 +149,7 @@ has already read.
 | [Creative Review](https://www.creativereview.co.uk/) | RSS | Clean feed: images, authors, dates. ~12 items. |
 | [The Inspiration](https://theinspiration.com/) | RSS | Image-led, so cards have no summary text. **See the warning below.** |
 | [Famous Campaigns](https://www.famouscampaigns.com/) | RSS | Clean feed. ~10 items. |
+| [Kreatív](https://kreativ.hu/) | Front-page HTML + Open Graph metadata | Hungarian trade press. No feed. **Added by owner decision despite robots.txt — see below.** ~25 items. |
 
 ### Two things to know about the source list
 
@@ -156,17 +157,25 @@ has already read.
 inspiration 2010 – 2026. Thank You for Being Part of it."* — a farewell notice. The
 adapter works, but the well may have run dry. Worth replacing with a live publication.
 
-**Kreativ.hu could not be added.** Its `robots.txt` says `User-agent: * → Disallow: /`,
-which asks all crawlers except a named handful (Googlebot, Bingbot, Applebot and several
-AI crawlers) to stay off the entire site. Our collector is not on that list, so adding it
-would mean ignoring an explicit request. Two legitimate routes forward:
+**Kreativ.hu is collected without permission, by an explicit decision.** Its
+`robots.txt` opens with `User-agent: * → Disallow: /`, allowing only a named list of
+crawlers (Googlebot, Bingbot, Applebot and several AI crawlers). This collector is not on
+that list. The site owner reviewed this and chose to add the source anyway.
 
-- Email Kreatív and ask to be allowed — they maintain that file carefully, so there is a
-  real person to ask, and a clearly-identified aggregator that links back is an easy yes
-  for many publishers.
-- Ask whether they offer a partner feed or API.
+Whoever inherits this should know that, because it is now their risk to carry:
 
-Once you have permission, it is a normal adapter and takes about ten minutes.
+- The adapter is written to be as light as possible — a 4-second gap between requests
+  (slower than any named crawler is asked for), at most 10 article pages per run, never
+  the same page twice, and an honest User-Agent so Kreatív can identify and block it.
+- **To remove it, delete its line from `sources/__init__.py`.** That is the whole revert;
+  its stored stories then age out of the feed.
+- **The clean fix is a short email to Kreatív asking to be allowed.** They maintain that
+  file carefully, so there is a real person to ask, and a clearly-identified aggregator
+  that links back is an easy yes for many publishers. If permission comes, delete the
+  warning block at the top of `sources/kreativ.py` and nothing else changes.
+- Of the five sources this is the most fragile: it reads rendered HTML, so a site redesign
+  will break it where an RSS feed would not. If it starts returning nothing, that is the
+  first thing to suspect.
 
 ---
 
@@ -177,8 +186,8 @@ produce this shape can feed the site — a different scraper, a CMS export, a ma
 
 ```jsonc
 {
-  "generatedAt": "2026-09-13T22:40:11Z",   // last run that actually changed something
-  "itemCount": 82,
+  "generatedAt": "2026-09-13T22:52:04Z",   // last run that actually changed something
+  "itemCount": 107,
   "sources": [
     { "id": "thedrum", "name": "The Drum", "site": "https://...",
       "accent": "#00d1b2", "status": "ok", "error": null, "count": 40 }
@@ -227,7 +236,8 @@ An honest list for whoever takes this on.
 **Worth doing early**
 
 - **Replace The Inspiration** with a publication that is still publishing.
-- **Resolve Kreativ.hu** — ask for permission, as above.
+- **Get written permission from Kreatív**, as above. It is the one source running
+  against a site's stated wishes, and the only one that carries any real risk.
 - **Add a `/health` view.** `sources[].status` is already in the JSON but only surfaces as
   a struck-through chip. A source that silently dies is the most likely failure here, and
   right now nobody gets told. A weekly Action that opens an issue when a source fails
@@ -268,6 +278,7 @@ sources/thedrum.py          worked example: a site with no feed
 sources/creativereview.py   worked example: a site with a feed (copy this one)
 sources/theinspiration.py
 sources/famouscampaigns.py
+sources/kreativ.py            worked example: a site with no feed, using Open Graph tags
 data/news.json              generated - do not edit by hand
 .github/workflows/collect.yml   the every-20-minutes job
 ```
