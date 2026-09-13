@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T23:21:28Z",
+  "generatedAt": "2026-09-13T23:34:53Z",
   "itemCount": 107,
   "sources": [
     {
@@ -63,6 +63,10 @@
         "OOH",
         "Campaigns"
       ],
+      "rawTags": [
+        "Fashion",
+        "OOH"
+      ],
       "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/fenty-shadows.mp4",
       "author": "James Herring",
       "category": "Fashion",
@@ -82,12 +86,11 @@
       "fullSummary": "Luxid's strategy director and Drum B2B juror, on B2B's image problem, behavioral science and why insight alone doesn't help a client. Nikos Lemanis has no time for the idea that brand and performance…",
       "tags": [
         "Marketing",
-        "The Drum Awards",
-        "Agencies",
-        "The Drum B2B Awards",
-        "Judge Of The Day",
-        "Marketing Services"
+        "Branding",
+        "Strategy",
+        "B2B"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/nikos-lemanis.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "Margo Waldrop",
       "category": "Marketing",
@@ -106,11 +109,9 @@
       "summary": "December 8-ig meghosszabbította Tarr Zoltán Grósz Judit közmédiáért felelős miniszteri biztosi megbízatását. A szeptember 10-én közzétett döntés nem tartalmaz indoklást a három hónapos…",
       "fullSummary": "December 8-ig meghosszabbította Tarr Zoltán Grósz Judit közmédiáért felelős miniszteri biztosi megbízatását. A szeptember 10-én közzétett döntés nem tartalmaz indoklást a három hónapos…",
       "tags": [
-        "Kozmedia",
-        "Grosz Judit",
-        "Media",
         "Politics"
       ],
+      "rawTags": [],
       "image": "https://kreativ.hu/img-cache/g/r/o/s/z/grosz-judit-portre-0-20260911-920-690-90-zc.webp",
       "author": "L. B.",
       "category": "",
@@ -130,12 +131,10 @@
       "fullSummary": "Skyrim is one of the world’s most played games. But for 15 years, fans have experienced the same problem – the so-called ‘encumbrance mechanic’ that slows players down if they have too many…",
       "tags": [
         "Creative",
-        "Creative Work",
-        "Ikea",
-        "Mother",
         "Advertising",
         "Gaming"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/screenshot-2026-09-11-122051.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "Jennifer Faull",
       "category": "Creative",
@@ -154,13 +153,9 @@
       "summary": "Október 8-án kerül a hazai mozikba az Extázis Uncut, amely bongor Fonogram-díjas konceptalbumának dalait egy összefüggő filmes történet részeivé alakítja. A dokumentarista és fikciós elemeket vegyítő…",
       "fullSummary": "Október 8-án kerül a hazai mozikba az Extázis Uncut, amely bongor Fonogram-díjas konceptalbumának dalait egy összefüggő filmes történet részeivé alakítja. A dokumentarista és fikciós elemeket vegyítő…",
       "tags": [
-        "Film & TV",
-        "Premier",
-        "Bongor",
-        "Extazis",
-        "Albumfilm",
-        "Popkult"
+        "Music"
       ],
+      "rawTags": [],
       "image": "https://kreativ.hu/img-cache/e/x/t/a/z/extazis-uncut-plakat-0-20260911-920-690-90-zc.webp",
       "author": "L. B.",
       "category": "",
@@ -179,13 +174,9 @@
       "summary": "A közmédia jövőjéről, a médiaszabályozásról, a kultúra finanszírozásáról és a tartalomgyártók felelősségéről is beszélgetnek a ma kezdődő DE!HOGYNEM Feszten. A DE! Akcióközösség balatonalmádi…",
       "fullSummary": "A közmédia jövőjéről, a médiaszabályozásról, a kultúra finanszírozásáról és a tartalomgyártók felelősségéről is beszélgetnek a ma kezdődő DE!HOGYNEM Feszten. A DE! Akcióközösség balatonalmádi…",
       "tags": [
-        "Ajanlo",
-        "Fesztival",
-        "Programok",
-        "Kozelet",
-        "Media",
-        "Popkult"
+        "Media"
       ],
+      "rawTags": [],
       "image": "https://kreativ.hu/img-cache/d/e/-/h/o/de-hogynem-programok-png-0-20260911-920-690-90-zc.webp",
       "author": "Kreatív",
       "category": "",
@@ -205,12 +196,10 @@
       "fullSummary": "Oscar Quine surveys advertising’s current obsession with the ‘number two’ and asks whether all that toilet humor tells us something about the culture producing it. Recently, retailer Marks and Spencer…",
       "tags": [
         "Marketing",
-        "Branding",
-        "Brand Strategy",
-        "Creative Thinking",
-        "Marketing Services",
-        "Advertising"
+        "Advertising",
+        "Retail"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/adobestock-1479991301.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "Oscar Quine",
       "category": "Marketing",
@@ -233,6 +222,10 @@
         "COOH",
         "OOH"
       ],
+      "rawTags": [
+        "Cause Related",
+        "COOH"
+      ],
       "image": null,
       "author": "Staff",
       "category": "Cause Related",
@@ -252,12 +245,12 @@
       "fullSummary": "The event’s inaugural chief creator officer has designed four days of programming intended to move marketers and influencers beyond panels and networking – and towards commercial…",
       "tags": [
         "Marketing",
-        "Advertising Week",
-        "Creator Marketing",
         "Advertising",
         "Branding",
-        "Design"
+        "Design",
+        "Social Media"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/dharadvertisingweekcrop.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "The Drum",
       "category": "Marketing",
@@ -276,6 +269,10 @@
       "summary": "London’s backlash against camera-equipped smart glasses has reached the Tube, with spoof stickers styled as official TfL safety notices appearing inside Underground carriages and warning wearers that “everyone thinks you look like a…",
       "fullSummary": "London’s backlash against camera-equipped smart glasses has reached the Tube, with spoof stickers styled as official TfL safety notices appearing inside Underground carriages and warning wearers that “everyone thinks you look like a massive nonce”. The stickers borrow the visual language of public transport signage, complete with TfL blue, a simplified glasses icon and a […]",
       "tags": [
+        "COOH",
+        "Technology"
+      ],
+      "rawTags": [
         "COOH",
         "Technology"
       ],
@@ -299,11 +296,9 @@
       "tags": [
         "Marketing",
         "Branding",
-        "Brand Strategy",
-        "Marketing Services",
-        "Ritson’s Remedies",
         "Business"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/copy-of-youtube-thumbnails-2.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "John McCarthy",
       "category": "Marketing",
@@ -325,6 +320,10 @@
         "Entertainment",
         "Gaming"
       ],
+      "rawTags": [
+        "Entertainment",
+        "Gaming"
+      ],
       "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/KALLAX-STORAGEBORN-a-free-creation-for-The-Elder-Scrolls-V_-Skyrim™-from-IKEA.mp4",
       "author": "James Herring",
       "category": "Entertainment",
@@ -343,11 +342,9 @@
       "summary": "A KDNP által jelölt médiaszakember azután lépett vissza, hogy az Országgyűlés Művelődési Bizottsága két alkalommal sem támogatta a megválasztását. Ezzel Martí Zoltán az első FKT-jelölt, aki maga…",
       "fullSummary": "A KDNP által jelölt médiaszakember azután lépett vissza, hogy az Országgyűlés Művelődési Bizottsága két alkalommal sem támogatta a megválasztását. Ezzel Martí Zoltán az első FKT-jelölt, aki maga…",
       "tags": [
-        "Jelolt",
-        "Visszalepes",
-        "Fuggetlen Kozmedia Testulet",
         "Media"
       ],
+      "rawTags": [],
       "image": "https://kreativ.hu/img-cache/m/a/r/t/i/marti-zoltan-fb-0-20260911-810-607-5-90-zc.webp",
       "author": "Kreatív",
       "category": "",
@@ -370,6 +367,9 @@
         "Branding",
         "Fashion"
       ],
+      "rawTags": [
+        "COOH"
+      ],
       "image": null,
       "author": "Staff",
       "category": "COOH",
@@ -388,13 +388,10 @@
       "summary": "A médiamenedzser azután vonta vissza pályázatát, hogy az Országgyűlés a Független Közmédia Testület tagjává választotta. Szabó György a második ismert jelentkező, aki kiszállt az NMHH és a…",
       "fullSummary": "A médiamenedzser azután vonta vissza pályázatát, hogy az Országgyűlés a Független Közmédia Testület tagjává választotta. Szabó György a második ismert jelentkező, aki kiszállt az NMHH és a…",
       "tags": [
-        "Nmhh",
-        "Mediatanacs",
-        "Szabo Gyorgy",
-        "Visszalepes",
         "Media",
         "Awards"
       ],
+      "rawTags": [],
       "image": "https://kreativ.hu/img-cache/s/z/a/b/o/szabo-gyorgy-fb-0-20260911-920-690-90-zc.webp",
       "author": "Kreatív",
       "category": "",
@@ -414,11 +411,9 @@
       "fullSummary": "As AI becomes more embedded in creative work, and the Zoom calls stack up, Dulcie Cowling argues the value of being around other people may only increase. Recently, I was on a work Zoom call when I…",
       "tags": [
         "Marketing",
-        "Branding",
-        "Agency Culture",
-        "Marketing Services",
         "AI"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/screenshot-2026-09-10-151734.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "Dulcie Cowling",
       "category": "Marketing",
@@ -441,6 +436,7 @@
         "Film & TV",
         "Health"
       ],
+      "rawTags": [],
       "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/09/Alzheimers-Research-UK-The-First-One-ad.jpg",
       "author": "Adam Woodward",
       "category": "",
@@ -461,6 +457,9 @@
       "tags": [
         "AI"
       ],
+      "rawTags": [
+        "Artificial Intelligence"
+      ],
       "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/09/shutterstock_2668435643.jpg",
       "author": "Johnny Rohrbach",
       "category": "Artificial Intelligence",
@@ -479,13 +478,10 @@
       "summary": "A 2001. szeptember 11-i terrortámadás nemcsak a hírmédiát és a popkultúrát változtatta meg, hanem a reklámipart is új kérdések elé állította: megszólalhat-e egy márka egy közös tragédiáról, és ha…",
       "fullSummary": "A 2001. szeptember 11-i terrortámadás nemcsak a hírmédiát és a popkultúrát változtatta meg, hanem a reklámipart is új kérdések elé állította: megszólalhat-e egy márka egy közös tragédiáról, és ha…",
       "tags": [
-        "USA",
-        "9 11",
-        "Reklamtortenet",
-        "Terrortamadas",
-        "Megemlekezes",
-        "25 Ev"
+        "Advertising",
+        "Branding"
       ],
+      "rawTags": [],
       "image": "https://kreativ.hu/img-cache/9/-/1/1/-/9-11-getty-png-0-20260911-920-690-90-zc.webp",
       "author": "Lakos Boglárka",
       "category": "",
@@ -505,12 +501,12 @@
       "fullSummary": "HOURS' co-founder and chief creative officer and Drum Awards Festival juror on gameplay-driven design, authenticity over trend-chasing, and why Roblox demands a different kind of brand thinking.\"True…",
       "tags": [
         "Marketing",
-        "The Drum Awards",
-        "Agencies",
-        "The Drum Awards Festival",
-        "Judge Of The Day",
-        "Marketing Services"
+        "Branding",
+        "Design",
+        "Gaming",
+        "Awards"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/maryna-semioshyna.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "Margo Waldrop",
       "category": "Marketing",
@@ -529,13 +525,10 @@
       "summary": "Az MMSZ által felkért szakmai zsűri idén négy hazai marketingvezetőt jelölt a European Marketer of the Year – Nominee of Hungary díj shortlistjére: Balogh Barbarát, a VELUX globális márkaalelnökét,…",
       "fullSummary": "Az MMSZ által felkért szakmai zsűri idén négy hazai marketingvezetőt jelölt a European Marketer of the Year – Nominee of Hungary díj shortlistjére: Balogh Barbarát, a VELUX globális márkaalelnökét,…",
       "tags": [
-        "Marketing",
-        "European Marketer Of The Year",
-        "Advertising",
-        "Media",
         "Branding",
         "Awards"
       ],
+      "rawTags": [],
       "image": "https://kreativ.hu/img-cache/e/m/o/t/y/emoty-nominees-20260910-920-690-90-zc.webp",
       "author": "Kreatív",
       "category": "",
@@ -554,10 +547,9 @@
       "summary": "Our global ranking of the indies setting the pace across creativity, client satisfaction and industry recognition, now underpinned by a more rigorous methodology than ever before, is here. Find out…",
       "fullSummary": "Our global ranking of the indies setting the pace across creativity, client satisfaction and industry recognition, now underpinned by a more rigorous methodology than ever before, is here. Find out…",
       "tags": [
-        "Agencies",
-        "Summer Of Agency Love",
-        "Independent Agencies"
+        "Agencies"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/r2.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "The Drum",
       "category": "Agencies",
@@ -576,13 +568,10 @@
       "summary": "Az online értékelés lezajlott, kiderült, mely egészségügyi/gyógyszeripari marketingmegoldások kerültek a legjobbak közé.",
       "fullSummary": "Az online értékelés lezajlott, kiderült, mely egészségügyi/gyógyszeripari marketingmegoldások kerültek a legjobbak közé.",
       "tags": [
-        "Egeszsegugy",
-        "Gyogyszeripar",
-        "Verseny",
-        "Medcom",
         "Health",
         "Awards"
       ],
+      "rawTags": [],
       "image": "https://kreativ.hu/img-cache/m/e/d/c/o/medcom2-png-0-20260910-458-25-611-90-zc.webp",
       "author": "Kreatív",
       "category": "",
@@ -601,11 +590,9 @@
       "summary": "Idén is az év nemzetközi filmtermésének legizgalmasabb darabjait gyűjtötte össze a BIFF - III. Budapest International Film Festival 2026.",
       "fullSummary": "Idén is az év nemzetközi filmtermésének legizgalmasabb darabjait gyűjtötte össze a BIFF - III. Budapest International Film Festival 2026.",
       "tags": [
-        "Filmfesztival",
-        "Biff",
-        "Popkult",
         "Film & TV"
       ],
+      "rawTags": [],
       "image": "https://kreativ.hu/img-cache/b/i/f/f/2/biff2026-cover-b-png-20260910-549-75-733-90-zc.webp",
       "author": "S. D.",
       "category": "",
@@ -625,12 +612,10 @@
       "fullSummary": "Snickers has spent 16 years building one of advertising’s most effective platforms. Paddy Gilmore asks why its latest AI execution feels so much weaker. Unless you’ve been living under a stone for the…",
       "tags": [
         "Marketing",
-        "Branding",
-        "Brand Strategy",
-        "Funny Matters",
-        "Marketing Services",
-        "AI"
+        "AI",
+        "Advertising"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/picture1-1789031204.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "Paddy Gilmore",
       "category": "Marketing",
@@ -649,13 +634,10 @@
       "summary": "A Médiaunió Alapítvány 2025 őszén indította el a Függőség 7 jele című kezdeményezést, amely a tinédzserkori szerhasználat és a viselkedési függőségek kockázataira hívta fel a figyelmet. A kampány…",
       "fullSummary": "A Médiaunió Alapítvány 2025 őszén indította el a Függőség 7 jele című kezdeményezést, amely a tinédzserkori szerhasználat és a viselkedési függőségek kockázataira hívta fel a figyelmet. A kampány…",
       "tags": [
-        "Fuggoseg",
-        "Jatekfuggoseg",
-        "Mediaunio",
-        "Drogfuggoseg",
-        "Alkoholbetegseg",
-        "Advertising"
+        "Campaigns",
+        "Media"
       ],
+      "rawTags": [],
       "image": "https://kreativ.hu/img-cache/m/u/2/6/-/mu26-4-png-20260910-690-920-90-zc.webp",
       "author": "Kreatív",
       "category": "",
@@ -674,13 +656,9 @@
       "summary": "Notting Hill Carnival is a masterclass in what inclusive beauty really looks like. Here&Now 365’s Preet Khanna argues that brands need to go beyond diverse casting and prove their credentials through…",
       "fullSummary": "Notting Hill Carnival is a masterclass in what inclusive beauty really looks like. Here&Now 365’s Preet Khanna argues that brands need to go beyond diverse casting and prove their credentials through…",
       "tags": [
-        "Brand Purpose",
-        "Other",
-        "Brand Strategy",
-        "Creative Work",
-        "Partner Insights",
-        "Marketing Services"
+        "Branding"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/vatika-kv-grid-1.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "Manish Tiwari",
       "category": "",
@@ -703,6 +681,7 @@
         "Campaigns",
         "Fashion"
       ],
+      "rawTags": [],
       "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/09/Whistles_DFAOM_OOHMockups_Dominique2featured.jpg",
       "author": "Rebecca Fulleylove",
       "category": "",
@@ -721,13 +700,12 @@
       "summary": "A játék –, és dokumentumfilmnél még nagyban vitatkoznak róla, a reklám viszont már egyre otthonosabban kezeli az AI-eszközöket a gyártásban. Az biztosnak tűnik, hogy a filmiparban már nem csak…",
       "fullSummary": "A játék –, és dokumentumfilmnél még nagyban vitatkoznak róla, a reklám viszont már egyre otthonosabban kezeli az AI-eszközöket a gyártásban. Az biztosnak tűnik, hogy a filmiparban már nem csak…",
       "tags": [
+        "AI",
+        "Advertising",
         "Film & TV",
-        "Umbrella",
-        "Acg",
-        "Filmgyartas",
-        "Filmipar",
-        "AI"
+        "Gaming"
       ],
+      "rawTags": [],
       "image": "https://kreativ.hu/img-cache/p/r/o/m/p/promptmonsters-reel-2026-00-0-20260910-549-75-733-90-zc.webp",
       "author": "Schäffer Dániel",
       "category": "",
@@ -745,12 +723,8 @@
       "accent": "#e8453c",
       "summary": "A SzínPhonia. A Pécsi Iskola. A Művészeti Kar 30 éve című tárlat a Pécshez és a Pécsi Tudományegyetem Művészeti Karának szellemi közegéhez kapcsolódó, több generáción átívelő alkotói kapcsolatokon…",
       "fullSummary": "A SzínPhonia. A Pécsi Iskola. A Művészeti Kar 30 éve című tárlat a Pécshez és a Pécsi Tudományegyetem Művészeti Karának szellemi közegéhez kapcsolódó, több generáción átívelő alkotói kapcsolatokon…",
-      "tags": [
-        "Pecs",
-        "Kiallitas",
-        "Hungarian Art Business",
-        "Popkult"
-      ],
+      "tags": [],
+      "rawTags": [],
       "image": "https://kreativ.hu/img-cache/h/a/b/-/s/hab-szinphonia4-20260910-549-75-733-90-zc.webp",
       "author": "Kreatív",
       "category": "",
@@ -772,6 +746,7 @@
         "Branding",
         "Media"
       ],
+      "rawTags": [],
       "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/09/UCS_CR-HeroBalloon-BTS-6.jpg",
       "author": "Paul Weedon",
       "category": "",
@@ -792,6 +767,7 @@
       "tags": [
         "Design"
       ],
+      "rawTags": [],
       "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/09/Always-travelling-cover-flat-jpg.jpg",
       "author": "Eliza Williams",
       "category": "",
@@ -810,13 +786,10 @@
       "summary": "Indul a Doing Good – CSR Award 2026, a PPH Media társadalmi felelősségvállalást támogató szakmai versenye.",
       "fullSummary": "Indul a Doing Good – CSR Award 2026, a PPH Media társadalmi felelősségvállalást támogató szakmai versenye.",
       "tags": [
-        "Verseny",
-        "Csr",
-        "Pph Media",
-        "Doing Good",
         "Media",
         "Awards"
       ],
+      "rawTags": [],
       "image": "https://kreativ.hu/img-cache/c/s/r/2/0/csr2026-1920x720-png-20260901-920-690-90-zc.webp",
       "author": "Kreatív",
       "category": "",
@@ -835,13 +808,9 @@
       "summary": "Ballai Attilát nem sokkal azután küldték el, hogy júliusban Szöllősi Györgyöt, a Nemzeti Sport főszerkesztőjét, sportújságírót, Orbán Viktor bizalmasát is felmentették.",
       "fullSummary": "Ballai Attilát nem sokkal azután küldték el, hogy júliusban Szöllősi Györgyöt, a Nemzeti Sport főszerkesztőjét, sportújságírót, Orbán Viktor bizalmasát is felmentették.",
       "tags": [
-        "Kozmedia",
-        "Nemzeti Sport",
-        "Foszerkeszto",
-        "Kirugas",
-        "Nemzeti Sportradio",
-        "Media"
+        "Sport"
       ],
+      "rawTags": [],
       "image": "https://kreativ.hu/img-cache/b/a/l/l/a/ballai-attila-20260909-250-187-5-90-zc.webp",
       "author": "T. R.",
       "category": "",
@@ -861,12 +830,9 @@
       "fullSummary": "A mesterséges intelligencia segítségével automatizált szövegírás, képgenerálás és videókészítés után megjelenhet az AI hírbemondó is a hazai médiapiacon. A technológia egy online cikkből néhány perc…",
       "tags": [
         "AI",
-        "Online Media",
-        "Hirek",
-        "Videos Tartalmak",
-        "AI Hirbemondo",
         "Media"
       ],
+      "rawTags": [],
       "image": "https://kreativ.hu/img-cache/a/i/x/-/s/aix-studio-ai-avatar-hirbemondo-png-0-20260909-920-690-90-zc.webp",
       "author": "T. R.",
       "category": "",
@@ -886,12 +852,10 @@
       "fullSummary": "“Make me feel uncomfortable!” That was Charlotte Lock’s first brief to WPP after taking over as Boots CMO in November 2025 – a surprising instruction, perhaps, from a brand that has spent more than…",
       "tags": [
         "Creative",
-        "Creative Work",
-        "The CMO Role",
-        "Anatomy Of An Ad",
         "Agencies",
         "Branding"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/boots-60s-tv-still-4.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "Mel Henson",
       "category": "Creative",
@@ -909,14 +873,8 @@
       "accent": "#e8453c",
       "summary": "Tizedik alkalommal rendezik meg a hazai független zenei színtér legfontosabb éves találkozóját.",
       "fullSummary": "Tizedik alkalommal rendezik meg a hazai független zenei színtér legfontosabb éves találkozóját.",
-      "tags": [
-        "Music",
-        "Kiado",
-        "Fuggetlen",
-        "Magyar Zene Haza",
-        "Fizikai",
-        "Vinyl"
-      ],
+      "tags": [],
+      "rawTags": [],
       "image": "https://kreativ.hu/img-cache/i/l/f/-/2/ilf-2025-kredit-zoltai-andras-independent-label-fair-1-20260909-920-690-90-zc.webp",
       "author": "T. R.",
       "category": "",
@@ -936,11 +894,10 @@
       "fullSummary": "Dara Treseder is four years into a mandate to overhaul Autodesk’s brand and modernize its marketing operation. When she first joined in 2022, her response to that brief was to double down on brand.…",
       "tags": [
         "B2B",
-        "Autodesk",
-        "Marketing",
         "AI",
         "Branding"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/screenshot-2026-09-08-152951.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "Jennifer Faull",
       "category": "B2B",
@@ -960,11 +917,9 @@
       "fullSummary": "He grew Merkle into a $2bn global powerhouse, retired for barely a year and is now back, chasing a second billion-dollar business built around the rise of the chief revenue officer. The Drum meets a…",
       "tags": [
         "B2B",
-        "Agencies",
-        "Agency Leadership",
-        "Marketing",
         "Business"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/rob-the-games-afoot-1788685966.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "Rob Morrice",
       "category": "B2B",
@@ -983,11 +938,9 @@
       "summary": "Buy a data platform these days and the neutrality statement all but writes itself. The catch is which question it bothers to answer. Erin Lutenski on the test that no amount of encryption can…",
       "fullSummary": "Buy a data platform these days and the neutrality statement all but writes itself. The catch is which question it bothers to answer. Erin Lutenski on the test that no amount of encryption can…",
       "tags": [
-        "Marketing",
-        "Branding",
-        "Martech",
-        "B2B"
+        "Marketing"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/chatgpt-image-sep-4-2026-09-38-14-am.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "Erin Lutenski",
       "category": "Marketing",
@@ -1006,12 +959,10 @@
       "summary": "Az AI-láthatóság körül rövid idő alatt meglepően sok biztos recept jelent meg. Elég egy llms.txt, száz AI-cikk, egy első hely a Google-ben vagy néhány látványos képernyőkép, és már kész is az új…",
       "fullSummary": "Az AI-láthatóság körül rövid idő alatt meglepően sok biztos recept jelent meg. Elég egy llms.txt, száz AI-cikk, egy első hely a Google-ben vagy néhány látványos képernyőkép, és már kész is az új…",
       "tags": [
-        "Markak",
         "AI",
-        "Lathatosag",
-        "Az AI Szemevel",
-        "Advertising"
+        "Strategy"
       ],
+      "rawTags": [],
       "image": "https://kreativ.hu/img-cache/c/h/a/t/g/chatgpt-image-2026-szept-8-11-07-43-png-0-20260908-920-690-90-zc.webp",
       "author": "Krankovics Béla",
       "category": "",
@@ -1035,6 +986,10 @@
         "Campaigns",
         "OOH"
       ],
+      "rawTags": [
+        "Advertising",
+        "COOH"
+      ],
       "image": null,
       "author": "Staff",
       "category": "Advertising",
@@ -1056,6 +1011,7 @@
         "Branding",
         "Campaigns"
       ],
+      "rawTags": [],
       "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/09/Boots-60s-TV-still-2.jpg",
       "author": "Daniel Milroy Maher",
       "category": "",
@@ -1077,8 +1033,10 @@
         "AI",
         "Agencies",
         "Branding",
+        "Strategy",
         "B2B"
       ],
+      "rawTags": [],
       "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/08/TFS_DangerousFoods_HR_notext_cmyk_gator.jpg",
       "author": "Eliza Williams",
       "category": "",
@@ -1096,7 +1054,10 @@
       "accent": "#ff4d4d",
       "summary": "The former CMO of Goalhanger, LadBible and Boiler Room explains what an ADHD diagnosis revealed about 20 years of hyperfocus, pattern recognition and burning out on schedule",
       "fullSummary": "The former CMO of Goalhanger, LadBible and Boiler Room explains what an ADHD diagnosis revealed about 20 years of hyperfocus, pattern recognition and burning out on schedule",
-      "tags": [],
+      "tags": [
+        "Diversity"
+      ],
+      "rawTags": [],
       "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/08/SM-CR-COLLAGE-ADHD.png",
       "author": "Stephen Mai",
       "category": "",
@@ -1115,11 +1076,11 @@
       "summary": "The Drum is giving one up-and-coming marketer from a brand or agency the chance to join us in Miami this November with a free ticket worth $2,995. Reuben Webb explains why attending your first event…",
       "fullSummary": "The Drum is giving one up-and-coming marketer from a brand or agency the chance to join us in Miami this November with a free ticket worth $2,995. Reuben Webb explains why attending your first event…",
       "tags": [
+        "Agencies",
         "Branding",
-        "B2B World Fest",
-        "B2B",
-        "Agencies"
+        "B2B"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/screenshot-2026-09-04-at-16-48-26.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "Reuben Webb",
       "category": "",
@@ -1137,7 +1098,10 @@
       "accent": "#00d1b2",
       "summary": "Shopping used to happen in shops. Now it can happen on our sofas, in our social feeds, through creators and even on our TVs. Host Jenni Baker explores the impact with leaders from Dollar General,…",
       "fullSummary": "Shopping used to happen in shops. Now it can happen on our sofas, in our social feeds, through creators and even on our TVs. Host Jenni Baker explores the impact with leaders from Dollar General,…",
-      "tags": [],
+      "tags": [
+        "Retail"
+      ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/img-9766.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "",
       "category": "",
@@ -1157,10 +1121,10 @@
       "fullSummary": "As consumers embrace more holistic health, brands are rethinking how tech supports wellbeing. Turning intelligence into meaningful guidance is a challenge set to be faced by every sector. Google’s…",
       "tags": [
         "AI",
-        "Partner Insights",
         "Branding",
         "Health"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/thedrum-health.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "Maria Greaves",
       "category": "",
@@ -1180,11 +1144,9 @@
       "fullSummary": "Andrew Tindall compares human and AI testing across ten major ads and finds the machines are surprisingly good at spotting winners and losers, provided they’re allowed to admit uncertainty. As someone…",
       "tags": [
         "Marketing",
-        "Branding",
-        "Tindall On Effectiveness",
-        "Marketing Services",
         "AI"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/screenshot-2026-09-08-111713.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "Andrew Tindall",
       "category": "Marketing",
@@ -1204,11 +1166,10 @@
       "fullSummary": "The Drum’s commerce media columnist, Kiri Masters, learns that while there has never been more good technology available to a retail media network, the organizational appetite to install it is the…",
       "tags": [
         "Commerce Media",
-        "Retail",
-        "Branding",
-        "Retail Media",
-        "Media"
+        "Media",
+        "Retail"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/adobestock-2000124029.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "Kiri Masters",
       "category": "Commerce Media",
@@ -1228,12 +1189,10 @@
       "fullSummary": "This year’s biggest ever Summer of sport reveals how modern fandom is changing – from the rise of more human, personality-led content to the growing importance of private sharing. What do these…",
       "tags": [
         "Marketing",
-        "Sport",
-        "Social Media",
-        "Other",
-        "Partner Insights",
-        "Sports Marketing"
+        "Branding",
+        "Sport"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/untitled-design-7-1788261452.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "Maria Greaves",
       "category": "Marketing",
@@ -1253,11 +1212,9 @@
       "fullSummary": "I watched a video on LinkedIn the likes of which I had never seen there. It took me back to the squirm comedy of Ricky Gervais’s The Office. Only this wasn’t edgy comedy made for TV, this was edgy…",
       "tags": [
         "B2B",
-        "Branding",
-        "Creative Work",
-        "Creative",
         "Film & TV"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/hqdefault-1788515168.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "Reuben Webb",
       "category": "B2B",
@@ -1280,6 +1237,10 @@
         "Social Media",
         "Branding"
       ],
+      "rawTags": [
+        "Retail",
+        "Social Media"
+      ],
       "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/ikea-pronounce.mp4",
       "author": "James Herring",
       "category": "Retail",
@@ -1298,13 +1259,9 @@
       "summary": "Organizations have more data than ever, but it often needs to be channeled better. Analytic Partners’ Preeti Croke unpacks key lessons from this year’s industry events to reveal how to make data flow…",
       "fullSummary": "Organizations have more data than ever, but it often needs to be channeled better. Analytic Partners’ Preeti Croke unpacks key lessons from this year’s industry events to reveal how to make data flow…",
       "tags": [
-        "Marketing",
-        "AI",
-        "Other",
-        "Brand Strategy",
-        "Advertising Effectiveness",
-        "Measurement & ROI"
+        "Marketing"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/adobestock-2148045340.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "Preeti Croke",
       "category": "Marketing",
@@ -1323,6 +1280,7 @@
       "summary": "We talk to BBH London's CCO Felipe Serradourada Guimaraes and deputy CSO Saskia Jones about what makes their working partnership tick",
       "fullSummary": "We talk to BBH London's CCO Felipe Serradourada Guimaraes and deputy CSO Saskia Jones about what makes their working partnership tick",
       "tags": [],
+      "rawTags": [],
       "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/09/SH06_001_UI.png",
       "author": "Eliza Williams",
       "category": "",
@@ -1343,6 +1301,7 @@
       "tags": [
         "Film & TV"
       ],
+      "rawTags": [],
       "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/09/MLC_The-Heist.jpg",
       "author": "Adam Woodward",
       "category": "",
@@ -1364,6 +1323,7 @@
         "Campaigns",
         "Health"
       ],
+      "rawTags": [],
       "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/09/ComicRelief2.jpg",
       "author": "Daniel Milroy Maher",
       "category": "",
@@ -1382,12 +1342,9 @@
       "summary": "Come inside The Drum’s London newsroom later this month for two days of candid conversations with leaders from Unilever, Salesforce, Channel 4, Diageo, Mars, Berghaus and more. What does the CMO of…",
       "fullSummary": "Come inside The Drum’s London newsroom later this month for two days of candid conversations with leaders from Unilever, Salesforce, Channel 4, Diageo, Mars, Berghaus and more. What does the CMO of…",
       "tags": [
-        "Commerce Media",
-        "Technology",
-        "Media",
-        "Marketing",
-        "The Drum Live"
+        "Commerce Media"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/screenshot-2026-09-07-115227.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "The Drum",
       "category": "Commerce Media",
@@ -1407,11 +1364,10 @@
       "fullSummary": "Google’s AI Max migration takes another set of controls out of marketers’ hands. Mark Ritson thinks that could ultimately be good news. On September 1, Google started moving the digital furniture.…",
       "tags": [
         "Marketing",
-        "Branding",
-        "Digital Marketing",
-        "Professional Services",
-        "AI"
+        "AI",
+        "Strategy"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/adobestock-289055016.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "Mark Ritson",
       "category": "Marketing",
@@ -1431,11 +1387,9 @@
       "fullSummary": "On the same day in London and New York, we ran our shortlist shows and read the state of the industry from more than 500 entries to The Drum Awards for B2B. Congratulations to everyone who made the…",
       "tags": [
         "B2B",
-        "The Drum Awards",
-        "Branding",
-        "B2B World Fest",
         "Awards"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/b2b-awards-v2.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "Reuben Webb",
       "category": "B2B",
@@ -1454,11 +1408,9 @@
       "summary": "Napjaink AI-kutatásának és a vele kapcsolatos kollektív fantáziálásnak az egyik hot topikja, hogy a mesterséges intelligencia fejlődésével kialakul-e a gépekben valamiféle tudatosság. Esetleg…",
       "fullSummary": "Napjaink AI-kutatásának és a vele kapcsolatos kollektív fantáziálásnak az egyik hot topikja, hogy a mesterséges intelligencia fejlődésével kialakul-e a gépekben valamiféle tudatosság. Esetleg…",
       "tags": [
-        "AI",
-        "Vita",
-        "Tudatossag",
-        "Media"
+        "AI"
       ],
+      "rawTags": [],
       "image": "https://kreativ.hu/img-cache/c/h/a/t/g/chatgpt-image-2026-szept-7-10-40-35-png-0-20260907-920-690-90-zc.webp",
       "author": "Moldvay Tamás",
       "category": "",
@@ -1477,6 +1429,9 @@
       "summary": "",
       "fullSummary": "",
       "tags": [
+        "Advertising"
+      ],
+      "rawTags": [
         "Advertising"
       ],
       "image": "https://theinspiration.com/wp-content/uploads/ripins-750x536.webp",
@@ -1501,6 +1456,10 @@
         "Environmental",
         "Design"
       ],
+      "rawTags": [
+        "COOH",
+        "Environmental"
+      ],
       "image": null,
       "author": "Staff",
       "category": "COOH",
@@ -1523,6 +1482,7 @@
         "Music",
         "Media"
       ],
+      "rawTags": [],
       "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/08/GRINDR-AND-MADONNA-TEAM-UP-FOR-LEGENDARY-TIMES-SQUARE-PERFORMANCE_.jpg",
       "author": "Lucie Greene",
       "category": "",
@@ -1545,6 +1505,10 @@
         "Health & Beauty",
         "Branding",
         "Campaigns"
+      ],
+      "rawTags": [
+        "Celebrity",
+        "Health & Beauty"
       ],
       "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/parkinsons-harrison-ford-michael-j-fox.mp4",
       "author": "James Herring",
@@ -1569,6 +1533,10 @@
         "Branding",
         "Gaming"
       ],
+      "rawTags": [
+        "Entertainment",
+        "Experiential"
+      ],
       "image": null,
       "author": "Staff",
       "category": "Entertainment",
@@ -1590,6 +1558,7 @@
         "Creative",
         "Advertising"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/toyota-yaris-1.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "Mel Henson",
       "category": "Creative",
@@ -1609,9 +1578,9 @@
       "fullSummary": "For Cecily Strong, years of late nights spent recording the hit NBC entertainment show Saturday Night Live mean she’s grown to love her duvet in the morning – and very little will tempt her out…",
       "tags": [
         "Creative",
-        "Creative Work",
         "Advertising"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/pr-imagest-c-kitchen-with-lockup.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "Mel Henson",
       "category": "Creative",
@@ -1633,6 +1602,7 @@
         "Creative",
         "Advertising"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/michael-j-fox-and-harrison-ford-parkinsons-the-drum.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "Mel Henson",
       "category": "Creative",
@@ -1652,10 +1622,12 @@
       "fullSummary": "The design platform Canva is simple, accessible and enjoyable to use, so it’s fitting that its new ad is, too. Interestingly, however, it hasn’t used its own highly advanced AI capabilities to make…",
       "tags": [
         "Creative",
-        "Advertising",
         "AI",
-        "Design"
+        "Advertising",
+        "Design",
+        "Diversity"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/9afafd09-6c03-43cc-907b-c69e4daa8f30.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "Mel Henson",
       "category": "Creative",
@@ -1675,12 +1647,9 @@
       "fullSummary": "Az influenszermarketing mára a reklámpiac egyik mindennapos eszközévé vált. A jogi környezet és a Gazdasági Versenyhivatal gyakorlata is egyre kiforrottabb. A kampányban részt vevő hirdető,…",
       "tags": [
         "Advertising",
-        "Kockazat",
-        "Mediaugynokseg",
-        "Jog",
-        "Influenszermarketing",
-        "Media"
+        "Campaigns"
       ],
+      "rawTags": [],
       "image": null,
       "author": "Dr. Pusztay Petra",
       "category": "",
@@ -1699,13 +1668,11 @@
       "summary": "Elindult a nevezés a legjobb promóciós megoldásokat, márkamegjelenéseket, aktivációkat és eseményeket díjazó BTL reklámversenyünkre. Az első nevezési határidő október 19, de legkésőbb október 29-ig…",
       "fullSummary": "Elindult a nevezés a legjobb promóciós megoldásokat, márkamegjelenéseket, aktivációkat és eseményeket díjazó BTL reklámversenyünkre. Az első nevezési határidő október 19, de legkésőbb október 29-ig…",
       "tags": [
-        "Btl",
-        "Verseny",
-        "PR",
-        "Lollipop",
-        "Awards",
-        "Advertising"
+        "Advertising",
+        "Branding",
+        "Awards"
       ],
+      "rawTags": [],
       "image": "https://kreativ.hu/img-cache/l/o/l/l/i/lolli2026-v2-png-20260806-920-690-90-zc.webp",
       "author": "Kreatív",
       "category": "",
@@ -1723,14 +1690,8 @@
       "accent": "#e8453c",
       "summary": "Hogyan alakítják a magyarság nemzeti identitását a mohácsi csata körül kialakult narratívák, és milyen érdekek mentén születtek meg e különböző értelmezések? Miként jött létre ezekből a reformkor…",
       "fullSummary": "Hogyan alakítják a magyarság nemzeti identitását a mohácsi csata körül kialakult narratívák, és milyen érdekek mentén születtek meg e különböző értelmezések? Miként jött létre ezekből a reformkor…",
-      "tags": [
-        "Kommunikacio",
-        "Interju",
-        "Mohacs",
-        "Evfordulo",
-        "Tortenesz",
-        "Mohacs 500"
-      ],
+      "tags": [],
+      "rawTags": [],
       "image": null,
       "author": "Tiszóczi Roland",
       "category": "",
@@ -1749,13 +1710,9 @@
       "summary": "For The Drum’s regular feature Secret Sauce, Carley Faircloth-Kilmurray of Spiro says for experiential to work, its creative must answer the right question. There’s a moment every experiential agency…",
       "fullSummary": "For The Drum’s regular feature Secret Sauce, Carley Faircloth-Kilmurray of Spiro says for experiential to work, its creative must answer the right question. There’s a moment every experiential agency…",
       "tags": [
-        "Agencies",
-        "Agency Performance",
-        "Experiential",
-        "Brand Strategy",
-        "Agency Culture",
-        "Secret Sauce"
+        "Agencies"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/spiro.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "Carley Faircloth-Kilmurray",
       "category": "Agencies",
@@ -1774,12 +1731,9 @@
       "summary": "M&A advisor Tony Walford explains why timing the market matters less than making sure your agency is genuinely ready to sell. As the UK tumbles towards the first autumn statement under new prime…",
       "fullSummary": "M&A advisor Tony Walford explains why timing the market matters less than making sure your agency is genuinely ready to sell. As the UK tumbles towards the first autumn statement under new prime…",
       "tags": [
-        "Agencies",
-        "Agency Models",
-        "Agency Leadership",
-        "Summer Of Agency Love",
-        "Mergers And Acquisitions"
+        "Agencies"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/adobestock-1944860601.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "Tony Walford",
       "category": "Agencies",
@@ -1798,12 +1752,9 @@
       "summary": "For our Secret Sauce feature in which agencies tell us what sets them apart, Beatriz Porto and Maria Fernanda Vidal explain why MG Empower sees itself as a ‘living laboratory’.From the very…",
       "fullSummary": "For our Secret Sauce feature in which agencies tell us what sets them apart, Beatriz Porto and Maria Fernanda Vidal explain why MG Empower sees itself as a ‘living laboratory’.From the very…",
       "tags": [
-        "Agencies",
-        "Agency Culture",
-        "Secret Sauce",
-        "Summer Of Agency Love",
-        "Marketing Services"
+        "Agencies"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/mg-empower.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "Beatriz Porto",
       "category": "Agencies",
@@ -1824,6 +1775,9 @@
       "tags": [
         "Advertising",
         "Food & Drink"
+      ],
+      "rawTags": [
+        "Advertising"
       ],
       "image": "https://theinspiration.com/wp-content/uploads/1786955878279-1-750x536.webp",
       "author": "Daniel Ingvartsen",
@@ -1846,6 +1800,9 @@
         "Photography",
         "Awards"
       ],
+      "rawTags": [
+        "Photography"
+      ],
       "image": "https://theinspiration.com/wp-content/uploads/pure-street-6-750x536.webp",
       "author": "Daniel Ingvartsen",
       "category": "Photography",
@@ -1864,6 +1821,9 @@
       "summary": "",
       "fullSummary": "",
       "tags": [
+        "Advertising"
+      ],
+      "rawTags": [
         "Advertising"
       ],
       "image": "https://theinspiration.com/wp-content/uploads/s88qdmilsza8fpgski7crk7k8550-750x536.webp",
@@ -1886,6 +1846,9 @@
       "tags": [
         "Advertising"
       ],
+      "rawTags": [
+        "Advertising"
+      ],
       "image": "https://theinspiration.com/wp-content/uploads/maxresfdggdfgfdgfdefault-750x536.webp",
       "author": "Daniel Ingvartsen",
       "category": "Advertising",
@@ -1904,6 +1867,9 @@
       "summary": "",
       "fullSummary": "",
       "tags": [
+        "Movies"
+      ],
+      "rawTags": [
         "Movies"
       ],
       "image": "https://theinspiration.com/wp-content/uploads/vuyvz3cjnaf3ym5c6dwn-750x536.avif",
@@ -1926,6 +1892,7 @@
       "tags": [
         "AI"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/chatgpt-image-aug-13-2026-at-02-22-50-pm-1786628360.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "",
       "category": "",
@@ -1944,6 +1911,9 @@
       "summary": "",
       "fullSummary": "",
       "tags": [
+        "Advertising"
+      ],
+      "rawTags": [
         "Advertising"
       ],
       "image": "https://theinspiration.com/wp-content/uploads/specsavers-testlist-groove-armada-rt200440-750x536.avif",
@@ -1966,6 +1936,9 @@
       "tags": [
         "Art"
       ],
+      "rawTags": [
+        "Art"
+      ],
       "image": "https://theinspiration.com/wp-content/uploads/dssadsa_16-750x536.webp",
       "author": "Daniel Ingvartsen",
       "category": "Art",
@@ -1984,6 +1957,9 @@
       "summary": "",
       "fullSummary": "",
       "tags": [
+        "Goodvertising"
+      ],
+      "rawTags": [
         "Goodvertising"
       ],
       "image": "https://theinspiration.com/wp-content/uploads/wwf-fire-on-display-750x536.webp",
@@ -2006,6 +1982,9 @@
       "tags": [
         "Advertising"
       ],
+      "rawTags": [
+        "Advertising"
+      ],
       "image": "https://theinspiration.com/wp-content/uploads/maxresdsdfssdffdefault-750x536.webp",
       "author": "Daniel Ingvartsen",
       "category": "Advertising",
@@ -2025,8 +2004,10 @@
       "fullSummary": "In the latest edition of The Brand Growth Drumbeat video series, Unilever’s Ryu Yokoi and Kantar’s Jeff Greenspoon explore why growth in the AI era belongs to brands turning intelligence, consistency…",
       "tags": [
         "AI",
-        "Branding"
+        "Branding",
+        "Strategy"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/jeff-kantar.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "",
       "category": "",
@@ -2045,6 +2026,9 @@
       "summary": "",
       "fullSummary": "",
       "tags": [
+        "Advertising"
+      ],
+      "rawTags": [
         "Advertising"
       ],
       "image": "https://theinspiration.com/wp-content/uploads/burger-king-coups-soleil-cote-belge-2-750x536.webp",
@@ -2067,6 +2051,9 @@
       "tags": [
         "Advertising"
       ],
+      "rawTags": [
+        "Advertising"
+      ],
       "image": "https://theinspiration.com/wp-content/uploads/ikea-prix-emotionnel-belgique-4.jpeg-750x536.webp",
       "author": "Daniel Ingvartsen",
       "category": "Advertising",
@@ -2087,6 +2074,7 @@
       "tags": [
         "AI"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/david-billings-thumbnail-emphathylabs-1785934152.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "",
       "category": "",
@@ -2105,8 +2093,10 @@
       "summary": "Basket Case is the podcast dedicated to having fun with and making fun of commerce media. Brought to you by The Drum and Qsic, the series explores the biggest trends, debates, and absurdities shaping…",
       "fullSummary": "Basket Case is the podcast dedicated to having fun with and making fun of commerce media. Brought to you by The Drum and Qsic, the series explores the biggest trends, debates, and absurdities shaping…",
       "tags": [
-        "Branding"
+        "Branding",
+        "Media"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/bc-e2-title-article-1785313300.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "",
       "category": "",
@@ -2125,13 +2115,9 @@
       "summary": "2026-ot sokáig fordulópontként emlegették a mesterséges intelligencia üzleti használatában: az volt a terv, hogy az Európai Unió AI Actjének szigorú, magas kockázatú rendszerekre vonatkozó szabályai…",
       "fullSummary": "2026-ot sokáig fordulópontként emlegették a mesterséges intelligencia üzleti használatában: az volt a terv, hogy az Európai Unió AI Actjének szigorú, magas kockázatú rendszerekre vonatkozó szabályai…",
       "tags": [
-        "Szabalyozas",
-        "Europai Unio",
-        "AI",
-        "Kommunikacios Ipar",
-        "AI Act",
-        "2026"
+        "AI"
       ],
+      "rawTags": [],
       "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-1922928034-jpeg-0-20260722-920-690-90-zc.webp",
       "author": "Tiszóczi Roland",
       "category": "",
@@ -2150,13 +2136,11 @@
       "summary": "Már tudtok nevezni az idei RGB-re, ahol ezúttal is az elmúlt év legjobb kommunikációhoz, marketinghez és médiához kapcsolódó designmegoldásait keressük. Az első nevezési határidő szeptember 14.",
       "fullSummary": "Már tudtok nevezni az idei RGB-re, ahol ezúttal is az elmúlt év legjobb kommunikációhoz, marketinghez és médiához kapcsolódó designmegoldásait keressük. Az első nevezési határidő szeptember 14.",
       "tags": [
-        "Jelentkezes",
-        "Rgb",
-        "Rgb Kreativ Design Award",
-        "2026",
-        "Verseny",
-        "Design"
+        "Design",
+        "Media",
+        "Awards"
       ],
+      "rawTags": [],
       "image": "https://kreativ.hu/img-cache/r/g/b/2/6/rgb26-admin-megosztasikep-1920x1080px-201-01-png-0-20260706-690-920-90-zc.webp",
       "author": "Kreatív",
       "category": "",
@@ -2175,13 +2159,10 @@
       "summary": "Eljött a pillanat, amikor szabad álmodozni. Sőt muszáj. Ki kell találnunk, közösen, a szakmának, a piaci szereplőknek, a közönségnek és a politikai döntéshozóknak, hogy milyen legyen Magyarország…",
       "fullSummary": "Eljött a pillanat, amikor szabad álmodozni. Sőt muszáj. Ki kell találnunk, közösen, a szakmának, a piaci szereplőknek, a közönségnek és a politikai döntéshozóknak, hogy milyen legyen Magyarország…",
       "tags": [
-        "Mediatorveny",
-        "Kozmedia",
-        "Modositas",
-        "Polyak Gabor",
-        "Atalakulas",
-        "Mediarendszer"
+        "Media",
+        "Politics"
       ],
+      "rawTags": [],
       "image": null,
       "author": "Polyák Gábor",
       "category": "",
@@ -2200,13 +2181,10 @@
       "summary": "Az új médiatörvény elfogadása után sem késő társadalmi vitát folytatni – állítja Zsolt Péter, szociológus, a Méltányosság Politikaelemző Központ kutatási igazgatója. Szerinte a mostani szabályozás a…",
       "fullSummary": "Az új médiatörvény elfogadása után sem késő társadalmi vitát folytatni – állítja Zsolt Péter, szociológus, a Méltányosság Politikaelemző Központ kutatási igazgatója. Szerinte a mostani szabályozás a…",
       "tags": [
-        "Finanszirozas",
-        "Zsolt Peter",
-        "Tarsadalmi Vita",
-        "Szociologus",
-        "Uj Mediatorveny",
-        "Sajtoalap"
+        "Media",
+        "Politics"
       ],
+      "rawTags": [],
       "image": null,
       "author": "Tiszóczi Roland",
       "category": "",
@@ -2227,6 +2205,9 @@
       "tags": [
         "Goodvertising"
       ],
+      "rawTags": [
+        "Goodvertising"
+      ],
       "image": "https://theinspiration.com/wp-content/uploads/greenpeace-metro-londres-shell-canicule-6.jpeg-750x536.webp",
       "author": "Daniel Ingvartsen",
       "category": "Goodvertising",
@@ -2245,6 +2226,9 @@
       "summary": "",
       "fullSummary": "",
       "tags": [
+        "Advertising"
+      ],
+      "rawTags": [
         "Advertising"
       ],
       "image": "https://theinspiration.com/wp-content/uploads/Geoeye-Takahiro-Iwasaki-750x536.webp",
@@ -2268,6 +2252,9 @@
         "Advertising",
         "Sport"
       ],
+      "rawTags": [
+        "Advertising"
+      ],
       "image": "https://theinspiration.com/wp-content/uploads/expedition-impossible-columbia-sportswear-750x536.webp",
       "author": "Daniel Ingvartsen",
       "category": "Advertising",
@@ -2288,6 +2275,9 @@
       "tags": [
         "Advertising"
       ],
+      "rawTags": [
+        "Advertising"
+      ],
       "image": "https://theinspiration.com/wp-content/uploads/maxresddasfdfsdsffdsefault-750x536.webp",
       "author": "Daniel Ingvartsen",
       "category": "Advertising",
@@ -2306,6 +2296,9 @@
       "summary": "",
       "fullSummary": "",
       "tags": [
+        "Advertising"
+      ],
+      "rawTags": [
         "Advertising"
       ],
       "image": "https://theinspiration.com/wp-content/uploads/uber-eats-emballe-sac-marques-special-australie-6.jpeg-750x536.webp",
@@ -2329,6 +2322,9 @@
         "Advertising",
         "Food & Drink"
       ],
+      "rawTags": [
+        "Advertising"
+      ],
       "image": "https://theinspiration.com/wp-content/uploads/DeLonghi-Tiny-Coffee-Shops.Dp75nD5K-750x536.webp",
       "author": "Daniel Ingvartsen",
       "category": "Advertising",
@@ -2349,6 +2345,9 @@
       "tags": [
         "Advertising",
         "OOH"
+      ],
+      "rawTags": [
+        "Advertising"
       ],
       "image": "https://theinspiration.com/wp-content/uploads/imgi_18_polaroid-data-centers-campagne-ete-20260619.jpg-750x536.webp",
       "author": "Daniel Ingvartsen",
@@ -2371,7 +2370,11 @@
         "Advertising",
         "AI",
         "Agencies",
-        "Campaigns"
+        "Campaigns",
+        "Strategy"
+      ],
+      "rawTags": [
+        "Advertising"
       ],
       "image": "https://theinspiration.com/wp-content/uploads/madame-airma-ia-cannes-lions-G-750x536.webp",
       "author": "Daniel Ingvartsen",
@@ -2392,11 +2395,11 @@
       "fullSummary": "‘Go BIG with BigQuery’ has won Gold in Creative Use of Budget at The Drum Awards for Marketing for proving that strategic, hyper-regional allocation can rival massive brand spends in the fiercely…",
       "tags": [
         "Marketing",
-        "The Drum Awards",
         "Branding",
-        "Marketing Services",
+        "Strategy",
         "Awards"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/creative-use-of-budget-google-cloud-1780393922.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "The Drum",
       "category": "Marketing",
@@ -2416,12 +2419,11 @@
       "fullSummary": "‘The Most Wonderful Drive of the Year’ has won Bronze in Creative at The Drum Awards for Marketing for proving that radical humanity beats discounting in a crowded luxury market. Here is the…",
       "tags": [
         "Marketing",
-        "The Drum Awards",
-        "Branding",
-        "Marketing Services",
         "Film & TV",
-        "Fashion"
+        "Fashion",
+        "Awards"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/creative-tilt-creative-production.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "The Drum",
       "category": "Marketing",
@@ -2441,12 +2443,10 @@
       "fullSummary": "Artlist won Gold in AI and Silver at The Drum Awards for Marketing by proving that artificial intelligence can replace million-dollar Big Game production workflows without sacrificing quality. The…",
       "tags": [
         "Marketing",
-        "The Drum Awards",
-        "Branding",
-        "Marketing Services",
         "AI",
         "Awards"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/creative-use-of-budget-artlist.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "The Drum",
       "category": "Marketing",
@@ -2466,12 +2466,11 @@
       "fullSummary": "‘Army Marketing Cloud’ has won Silver in Data & Insight at The Drum Awards for Marketing for solving a crisis in military recruitment by transforming distrust into trust at scale. Facing a 78%…",
       "tags": [
         "Marketing",
-        "The Drum Awards",
-        "Branding",
-        "Marketing Services",
         "AI",
+        "Strategy",
         "Awards"
       ],
+      "rawTags": [],
       "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/datainsight-team-ddb.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format",
       "author": "The Drum",
       "category": "Marketing",

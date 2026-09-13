@@ -47,14 +47,12 @@ def normalise(raw: dict, source: dict, stored: dict | None, seen_at: str) -> dic
     if not full_summary and stored:
         full_summary = stored.get("fullSummary", "")
 
-    # Publisher-assigned tags are only available on the run that fetched the
-    # article. On later runs the adapter returns the headline alone, so keep the
-    # richer tags we already worked out rather than re-deriving weaker ones.
-    raw_tags = raw.get("raw_tags") or []
-    if raw_tags or not (stored and stored.get("tags")):
-        tags = derive_tags(title=title, summary=summary, raw_tags=raw_tags, section=category)
-    else:
-        tags = stored["tags"]
+    # Publisher-assigned tags only come back on the run that fetched the article,
+    # so we keep them. That means tags can be re-derived from scratch every run,
+    # and editing the vocabulary in sources/_tags.py retags the whole archive on
+    # the next run rather than only affecting new stories.
+    raw_tags = raw.get("raw_tags") or (stored or {}).get("rawTags") or []
+    tags = derive_tags(title=title, summary=summary, raw_tags=raw_tags, section=category)
 
     return {
         "id": id_for(url),
@@ -66,6 +64,7 @@ def normalise(raw: dict, source: dict, stored: dict | None, seen_at: str) -> dic
         "summary": summary,
         "fullSummary": full_summary,
         "tags": tags,
+        "rawTags": raw_tags,   # the publisher's own words, kept so tags can be rebuilt
         "image": raw.get("image") or None,
         "author": clean(raw.get("author")),
         "category": category,

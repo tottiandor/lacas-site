@@ -185,6 +185,10 @@ list terms in any language — they all map onto one label:
 Terms of five characters or more match as a prefix, which is what makes Hungarian work
 (`media` catches `közmédiáért`). Accents are folded, so write them or don't.
 
+Tags are rebuilt from scratch on every run, so **editing the vocabulary retags the whole
+archive** the next time the collector runs, not just new stories. That works because each
+item keeps the publisher's original tags in `rawTags` alongside the derived ones.
+
 ---
 
 ## Sources currently configured
@@ -246,7 +250,8 @@ produce this shape can feed the site — a different scraper, a CMS export, a ma
       "accent": "#00d1b2",
       "summary": "Short text, shown on the card.",
       "fullSummary": "Longer text, shown in the Summary popup.",
-      "tags": ["AI", "Retail"],
+      "tags": ["AI", "Retail"],          // derived; rebuilt every run
+      "rawTags": ["ai", "shoppable"],    // the publisher's own, kept so tags can be rebuilt
       "image": "https://...",
       "author": "Jane Smith",
       "category": "Advertising",
