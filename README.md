@@ -1,38 +1,69 @@
 # Laca's Site
 
-A prototype news aggregator for the creative industries. It collects headlines from
-a list of publications and shows them on one page, newest first, updating on its own
-throughout the day.
+A news aggregator for the creative industries. It collects headlines from a list of
+publications every night and shows them on one page — newest first, tagged by topic,
+filterable by source.
 
-**Status: working prototype.** It runs end to end and is ready to be handed to whoever
-builds it out. See [What to fix first](#what-to-fix-first) for the honest list of what a
-production version still needs.
+**Status: working prototype, running end to end.** See
+[What to fix first](#what-to-fix-first) for the honest list of what a production version
+still needs.
 
 ---
 
 ## How it works
 
-There is no server and no database. The whole thing is three moving parts:
+There is no server and no database. Three moving parts:
 
 ```
-  GitHub Actions (every 20 min)
+  GitHub Actions (03:10 UTC nightly)
           |
           |  runs scrape.py, which asks each source for its latest stories
           v
   data/news.json          <-- one file, committed back into the repo
           |
-          |  the page fetches it, and re-fetches every 90 seconds
+          |  the page fetches it on load, and re-checks every 10 minutes
           v
   index.html on GitHub Pages
 ```
 
 Because the collector commits its results into the repo, GitHub Pages republishes the
-site automatically. Hosting cost is zero and there is nothing to keep running.
+site automatically. Hosting costs nothing and there is nothing to keep running.
 
-**How live is "live"?** New stories appear within roughly 20–40 minutes of publication.
-GitHub runs scheduled jobs on a best-effort basis, so the gap varies. That is genuinely
-quasi-live rather than instant — see [What to fix first](#what-to-fix-first) if you need
-it faster.
+**Collection is a scheduled job, not something that happens when someone visits.** The
+page only ever reads a file. That is what keeps it free, fast and impossible to overload
+— but it also means the freshest a story can be is "since last night's run". Run the
+workflow by hand any time you want it sooner.
+
+## What's on the page
+
+- **One main feed** with every source mixed together, newest first. Each card is
+  colour-dotted and labelled with the publication it came from.
+- **A source filter** per site, with counts, so you can read just one publication.
+- **Topic tags** on every card. Click one to filter; click again to clear. Tags come from
+  the publisher's own tags where they have them, plus a topic vocabulary that works
+  across languages — clicking **AI** finds the Hungarian articles about *mesterséges
+  intelligencia* as well as the English ones.
+- **Search** across headlines, summaries, authors and tags.
+- **A Summary button** on each card, opening a popup with a longer extract, the byline,
+  the topic tags and a link through to the article.
+- **A "New" flag** on anything first collected in the last 24 hours.
+
+### About those summaries
+
+**The summaries are the publisher's own words, not written by us.** Each one is the
+description the publication puts in its own feed (or, for sites without feeds, the
+opening of the article). The popup says so explicitly — *"Summary published by
+&lt;publication&gt;"*.
+
+This was a deliberate choice: the alternative was calling a language model on every new
+article, which needs an API key, costs money nightly, and would leave whoever inherits
+this with a bill and a dependency. Sticking to the publisher's text means every article
+is treated identically, for ever, with nothing to maintain.
+
+If you later decide you do want written summaries, the place to add it is `scrape.py`,
+where each item is assembled — set `fullSummary` from the model instead of the feed, and
+change the attribution line in `assets/app.js` (`modal-attrib`) so it stops crediting the
+publisher for words they did not write.
 
 ---
 
@@ -46,9 +77,9 @@ it faster.
 
 The site is then live at `https://<your-username>.github.io/<repo-name>/`.
 
-> One gotcha worth knowing: on a public repo, GitHub **disables scheduled workflows after
-> 60 days with no commits**. The collector commits regularly, so it keeps itself alive —
-> but if all sources go quiet for two months, re-enable it in the Actions tab.
+> On a public repo, GitHub **disables scheduled workflows after 60 days with no commits**.
+> The collector commits most nights, so it keeps itself alive — but if every source goes
+> quiet for two months, re-enable it in the Actions tab.
 
 ## Running it on your own machine
 
@@ -58,8 +89,8 @@ Needs Python 3.10+ and nothing else — no `pip install`, no `npm`.
 python scrape.py
 ```
 
-Then, to view the page (opening `index.html` directly will not work, because the browser
-blocks `fetch` on `file://` URLs):
+Then, to view the page (opening `index.html` directly will not work, because browsers
+block `fetch` on `file://` URLs):
 
 ```bash
 python -m http.server 8765
@@ -71,73 +102,88 @@ Visit <http://localhost:8765>.
 
 ## Adding a site
 
-This is the part that was designed to be easy. **One new file, one new line.**
+### The easy way: one command
 
-### If the site has an RSS feed
-
-Most do. Try `https://thesite.com/feed/` or `/rss.xml` in a browser — if you get a wall of
-XML, you are in business. Copy `sources/creativereview.py` and change the values:
-
-```python
-# sources/designweek.py
-from ._common import make_rss_source
-
-SOURCE = make_rss_source(
-    id="designweek",                             # short, no spaces; used internally
-    name="Design Week",                          # shown on the site
-    site="https://www.designweek.co.uk/",        # linked in the footer
-    feed="https://www.designweek.co.uk/feed/",   # the feed itself
-    accent="#00a8e8",                            # the source's dot colour
-)
+```bash
+python add_site.py https://www.designweek.co.uk
 ```
 
-Then register it in `sources/__init__.py`:
+That will:
 
-```python
-from . import creativereview, designweek, famouscampaigns, thedrum, theinspiration
+- find the site's RSS feed (checking what the page advertises, then the usual paths);
+- fetch it and confirm it actually parses, reporting how many stories it found and how
+  many have dates and images;
+- check `robots.txt` and **warn you if the site asks crawlers to stay away**;
+- work out a sensible id and display name;
+- write the entry into `sites.json`.
 
-SOURCES = [
-    ...
-    designweek.SOURCE,
-]
+Then `python scrape.py`, commit, and the site is live. Add `--dry-run` to see what it
+would do without changing anything. `--name`, `--id`, `--accent` and `--limit` override
+the guesses.
+
+### The manual way
+
+`sites.json` is plain config — no Python involved:
+
+```json
+{
+  "sites": [
+    {
+      "id": "designweek",
+      "name": "Design Week",
+      "site": "https://www.designweek.co.uk/",
+      "feed": "https://www.designweek.co.uk/feed/",
+      "accent": "#00a8e8"
+    }
+  ]
+}
 ```
 
-That is the whole job. Titles, links, images, authors, categories and publication dates
-are all pulled out automatically.
+`id`, `name` and `feed` are required; everything else is optional. Set `"enabled": false`
+to switch a source off without deleting it.
 
-### If the site has no feed
+### When a site has no feed
 
-Copy `sources/thedrum.py` instead and adapt it. It is the worked example of a site with
-no feed, and it shows the approach worth copying: **look for structured data before you
-parse HTML.** The Drum's homepage embeds a JSON-LD listing of its front-page stories,
-which survives site redesigns; CSS class names do not.
+Some don't — The Drum and Kreatív are both in this category. Those need a small Python
+adapter in `sources/`. Copy whichever example is closer:
 
-An adapter is just a dictionary with a `fetch_items(known)` function. That function
-returns a list of plain dicts, and every key except `title` and `url` is optional:
+- **`sources/thedrum.py`** — reads the JSON-LD structured data the site already publishes.
+  *Prefer this approach.* Structured data survives redesigns; CSS class names do not.
+- **`sources/kreativ.py`** — reads the rendered HTML and Open Graph tags, for sites with
+  no structured data at all.
+
+Then import it and add it to `ADAPTERS` in `sources/__init__.py`. An adapter is just a
+dict with a `fetch_items(known)` function returning plain dicts — only `title` and `url`
+are required:
 
 ```python
 {
     "title": "Headline",
     "url": "https://...",
-    "summary": "One or two sentences.",
+    "summary": "Short text for the card.",
+    "full_summary": "Longer text for the Summary popup.",
     "image": "https://...",
     "author": "Jane Smith",
     "category": "Advertising",
-    "published_at": "2026-09-13T09:00:00Z",  # any readable date format
+    "raw_tags": ["ai", "retail"],             # the publisher's own tags
+    "published_at": "2026-09-13T09:00:00Z",   # any readable date format
 }
 ```
 
 `known` maps each canonical URL to what is already stored, so an adapter can skip work it
-has already done. `sources/thedrum.py` uses it to avoid re-downloading article pages it
-has already read.
+has already done — both examples use it to avoid re-downloading articles they have read.
 
-### Before you add a site, check two things
+### Adding a topic tag
 
-1. **`https://thesite.com/robots.txt`** — if `User-agent: *` is followed by
-   `Disallow: /`, the site is asking not to be crawled. Respect it, or write and ask
-   them for permission.
-2. **Does it set a `Crawl-delay`?** If so, pass it to `fetch(url, crawl_delay=N)` as
-   `sources/thedrum.py` does.
+`sources/_tags.py` holds the topic vocabulary. Adding one is a single line, and you can
+list terms in any language — they all map onto one label:
+
+```python
+"Podcasting": ["podcast", "podcasting", "podcaszt"],
+```
+
+Terms of five characters or more match as a prefix, which is what makes Hungarian work
+(`media` catches `közmédiáért`). Accents are folded, so write them or don't.
 
 ---
 
@@ -145,37 +191,35 @@ has already read.
 
 | Source | Method | Notes |
 |---|---|---|
-| [The Drum](https://www.thedrum.com/) | Front-page JSON-LD + per-article metadata | No RSS feed. Honours the site's 5-second crawl-delay; reads at most 20 new article pages per run and never re-reads one. |
-| [Creative Review](https://www.creativereview.co.uk/) | RSS | Clean feed: images, authors, dates. ~12 items. |
-| [The Inspiration](https://theinspiration.com/) | RSS | Image-led, so cards have no summary text. **See the warning below.** |
-| [Famous Campaigns](https://www.famouscampaigns.com/) | RSS | Clean feed. ~10 items. |
-| [Kreatív](https://kreativ.hu/) | Front-page HTML + Open Graph metadata | Hungarian trade press. No feed. **Added by owner decision despite robots.txt — see below.** ~25 items. |
+| [The Drum](https://www.thedrum.com/) | Front-page JSON-LD + per-article metadata | No RSS feed. Honours the site's 5-second crawl-delay and never re-reads an article. Supplies its own editorial tags. |
+| [Kreatív](https://kreativ.hu/) | Front-page HTML + Open Graph metadata | Hungarian trade press. No feed. **Collected against the site's robots.txt — see below.** |
+| [Creative Review](https://www.creativereview.co.uk/) | RSS | Clean feed: images, authors, dates. |
+| [The Inspiration](https://theinspiration.com/) | RSS | Image-led: cards show a picture and headline but no summary, because the feed carries none. |
+| [Famous Campaigns](https://www.famouscampaigns.com/) | RSS | Clean feed, with the publisher's own categories. |
 
 ### Two things to know about the source list
 
-**The Inspiration appears to have closed.** Its most recent post is titled *"The
-inspiration 2010 – 2026. Thank You for Being Part of it."* — a farewell notice. The
-adapter works, but the well may have run dry. Worth replacing with a live publication.
+**The Inspiration looks like it has stopped publishing.** Its most recent post is a
+farewell notice — *"The inspiration 2010 – 2026. Thank You for Being Part of it."* The
+adapter works fine and the back catalogue still shows, but do not expect new stories.
+Kept in deliberately.
 
-**Kreativ.hu is collected without permission, by an explicit decision.** Its
-`robots.txt` opens with `User-agent: * → Disallow: /`, allowing only a named list of
-crawlers (Googlebot, Bingbot, Applebot and several AI crawlers). This collector is not on
-that list. The site owner reviewed this and chose to add the source anyway.
+**Kreativ.hu is collected without permission, by an explicit decision.** Its `robots.txt`
+opens with `User-agent: * → Disallow: /`, allowing only a named list of crawlers
+(Googlebot, Bingbot, Applebot and several AI crawlers). This collector is not on that
+list. The site owner reviewed this and chose to add the source anyway.
 
-Whoever inherits this should know that, because it is now their risk to carry:
+Whoever inherits this should know, because it becomes their risk to carry:
 
-- The adapter is written to be as light as possible — a 4-second gap between requests
-  (slower than any named crawler is asked for), at most 10 article pages per run, never
-  the same page twice, and an honest User-Agent so Kreatív can identify and block it.
-- **To remove it, delete its line from `sources/__init__.py`.** That is the whole revert;
-  its stored stories then age out of the feed.
-- **The clean fix is a short email to Kreatív asking to be allowed.** They maintain that
-  file carefully, so there is a real person to ask, and a clearly-identified aggregator
-  that links back is an easy yes for many publishers. If permission comes, delete the
-  warning block at the top of `sources/kreativ.py` and nothing else changes.
-- Of the five sources this is the most fragile: it reads rendered HTML, so a site redesign
-  will break it where an RSS feed would not. If it starts returning nothing, that is the
-  first thing to suspect.
+- The adapter is deliberately light — a 4-second gap between requests, at most 30 article
+  pages a night, never the same page twice, and an honest User-Agent so Kreatív can
+  identify and block it if they object.
+- **To remove it, delete `kreativ.SOURCE` from `ADAPTERS` in `sources/__init__.py`.** That
+  is the whole revert; its stored stories then age out.
+- Of the five sources it is the most fragile: it reads rendered HTML, so a redesign will
+  break it where a feed would not. If it goes quiet, suspect that first.
+- Asking Kreatív for permission remains the clean fix. Technically the scrape works
+  regardless — the question is whether the site has asked you not to, and it has.
 
 ---
 
@@ -186,7 +230,7 @@ produce this shape can feed the site — a different scraper, a CMS export, a ma
 
 ```jsonc
 {
-  "generatedAt": "2026-09-13T22:52:04Z",   // last run that actually changed something
+  "generatedAt": "2026-09-14T01:40:11Z",   // last run that actually changed something
   "itemCount": 107,
   "sources": [
     { "id": "thedrum", "name": "The Drum", "site": "https://...",
@@ -200,7 +244,9 @@ produce this shape can feed the site — a different scraper, a CMS export, a ma
       "source": "thedrum",
       "sourceName": "The Drum",
       "accent": "#00d1b2",
-      "summary": "One or two sentences.",
+      "summary": "Short text, shown on the card.",
+      "fullSummary": "Longer text, shown in the Summary popup.",
+      "tags": ["AI", "Retail"],
       "image": "https://...",
       "author": "Jane Smith",
       "category": "Advertising",
@@ -213,19 +259,16 @@ produce this shape can feed the site — a different scraper, a CMS export, a ma
 }
 ```
 
-A few behaviours worth knowing:
+Behaviours worth knowing:
 
-- **Stories are never lost.** Once collected, an item stays in the file even after it
-  drops off the source's front page, up to `MAX_ITEMS` (400) in `scrape.py`.
-- **A broken source cannot take the site down.** If a source fails, its previously
-  collected stories are kept, the failure is recorded in `sources[].status`, and its chip
-  on the page shows struck through.
-- **Duplicates collapse by URL**, ignoring tracking parameters, so the same story picked
-  up twice appears once.
-- **Unchanged runs write nothing**, which keeps the commit history meaningful — a commit
-  means real news arrived.
-- `datePrecise: false` means the source gave us no date and we used the time we first saw
-  the story instead. The page marks those with an asterisk.
+- **Stories are never lost.** Once collected, an item stays even after it drops off the
+  source's front page, up to `MAX_ITEMS` (400) in `scrape.py`.
+- **A broken source cannot take the site down.** Its previously collected stories are
+  kept, the failure is recorded in `sources[].status`, and its chip shows struck through.
+- **Duplicates collapse by URL**, ignoring tracking parameters.
+- **Unchanged runs write nothing**, so a commit always means real news arrived.
+- `datePrecise: false` means the source gave no date and we used first-seen instead. The
+  page marks those with an asterisk.
 
 ---
 
@@ -235,33 +278,31 @@ An honest list for whoever takes this on.
 
 **Worth doing early**
 
-- **Replace The Inspiration** with a publication that is still publishing.
-- **Get written permission from Kreatív**, as above. It is the one source running
-  against a site's stated wishes, and the only one that carries any real risk.
-- **Add a `/health` view.** `sources[].status` is already in the JSON but only surfaces as
-  a struck-through chip. A source that silently dies is the most likely failure here, and
-  right now nobody gets told. A weekly Action that opens an issue when a source fails
-  twice running would cover it.
-- **Watch the payload size.** At ~600 bytes per item, `MAX_ITEMS: 400` is about 250 KB —
-  fine. If you raise it much past that, split the JSON by page or by month.
+- **Nobody is told when a source dies.** `sources[].status` is in the JSON and shows as a
+  struck-through chip, but silent failure is the most likely thing to go wrong here. A
+  weekly Action that opens an issue when a source fails twice running would cover it.
+- **Replace The Inspiration**, or accept it as an archive.
+- **Tag quality is uneven.** Publisher tags are specific and good; the vocabulary in
+  `sources/_tags.py` is broad but hand-written, so it misses topics nobody has added yet.
+  Worth reviewing the tag list after a few weeks of real data.
+- **Watch the payload.** At ~800 bytes an item, `MAX_ITEMS: 400` is roughly 320 KB. Fine
+  now; if you raise it much, split the JSON by page or month.
 
-**When you add more than ~10 sources**
+**When you add more than about ten sources**
 
-- Collection is currently sequential. Feeds are fast, but sites needing per-article
-  fetches (like The Drum) are not. Run sources concurrently before this becomes a problem.
-- Consider moving from "commit the JSON" to a small API if the commit noise gets tiring.
-  The front end only needs the JSON shape above to stay the same.
+- Collection is sequential. Feeds are quick, but sites needing per-article fetches (The
+  Drum, Kreatív) are not — roughly 6 minutes for the current five on a cold start. Run
+  sources concurrently before this gets annoying.
+- The 25-minute workflow timeout will need raising at around 15–20 scraped sites.
 
-**Editorial decisions that are not really technical**
+**Editorial calls, not technical ones**
 
-- **Summary length.** Cards show up to 240 characters and always link to the publisher.
-  That is normal aggregator practice, but each publisher's terms are their own, and a
-  cease-and-desist is cheaper to avoid than to answer. If the site becomes public and
-  visible, it is worth a quick check of each source's syndication terms — and a friendly
-  email to any publisher you are leaning on heavily.
-- **Ranking.** Everything is strictly newest-first. A busy source can dominate the top of
-  the page. Interleaving by source, or a simple per-source cap on the front page, may read
-  better once there are more sites.
+- **Summary length.** Cards show 240 characters, the popup 450, always linked and always
+  credited. That is normal aggregator practice, but each publisher's terms are their own.
+  If the site becomes public and visible, check the syndication terms of any source you
+  lean on heavily.
+- **Ranking.** Strictly newest-first, so a busy source can dominate. Interleaving by
+  source, or a per-source cap on the front page, may read better as the list grows.
 
 ---
 
@@ -270,18 +311,25 @@ An honest list for whoever takes this on.
 ```
 index.html                  the page
 assets/styles.css           all styling (plain CSS, no build step)
-assets/app.js               fetch, filter, search, auto-refresh (no framework)
+assets/app.js               feed loading, filtering, search, tags, summary popup
 scrape.py                   the collector - run this
-sources/__init__.py         >>> the list of sites; add yours here <<<
+add_site.py                 >>> adds a new site for you: python add_site.py <url> <<<
+sites.json                  >>> feed-based sources live here; no Python needed <<<
+sources/__init__.py         the source registry (Python adapters + sites.json)
 sources/_common.py          HTTP, text cleanup, RSS parsing, the RSS adapter factory
-sources/thedrum.py          worked example: a site with no feed
-sources/creativereview.py   worked example: a site with a feed (copy this one)
+sources/_tags.py            the topic vocabulary
+sources/thedrum.py          worked example: no feed, reads JSON-LD
+sources/kreativ.py          worked example: no feed, reads Open Graph tags
+sources/creativereview.py   worked example: a plain RSS feed
 sources/theinspiration.py
 sources/famouscampaigns.py
-sources/kreativ.py            worked example: a site with no feed, using Open Graph tags
 data/news.json              generated - do not edit by hand
-.github/workflows/collect.yml   the every-20-minutes job
+.github/workflows/collect.yml   the nightly job
 ```
+
+If you change `assets/styles.css` or `assets/app.js`, bump the `?v=` number on those two
+links in `index.html`. Without it, browsers and the Pages CDN will serve the old file to
+people who have visited before.
 
 No dependencies, no build step, no framework, in either the collector or the page. That is
 deliberate: it means this still runs in two years without a maintenance weekend first.

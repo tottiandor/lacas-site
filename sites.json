@@ -1,0 +1,4 @@
+{
+  "_comment": "Feed-based sources. Add one with: python add_site.py https://thesite.com  -- or by hand, copying the shape below. Set \"enabled\": false to switch one off without deleting it.",
+  "sites": []
+}

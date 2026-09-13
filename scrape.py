@@ -14,6 +14,7 @@ import sys
 
 from sources import SOURCES
 from sources._common import canonical_url, clean, id_for, now_iso, to_iso, truncate
+from sources._tags import derive_tags
 
 OUTPUT = pathlib.Path(__file__).parent / "data" / "news.json"
 MAX_ITEMS = 400  # keep the JSON small enough to load instantly
@@ -37,6 +38,23 @@ def normalise(raw: dict, source: dict, stored: dict | None, seen_at: str) -> dic
 
     published = to_iso(raw.get("published_at"))
     first_seen = (stored or {}).get("firstSeenAt") or seen_at
+    summary = truncate(clean(raw.get("summary")), 240)
+    category = clean(raw.get("category"))
+
+    # The longer text shown in the Summary popup. Always the publisher's own
+    # words - we never write one - so the popup credits them for it.
+    full_summary = truncate(clean(raw.get("full_summary")), 450) or summary
+    if not full_summary and stored:
+        full_summary = stored.get("fullSummary", "")
+
+    # Publisher-assigned tags are only available on the run that fetched the
+    # article. On later runs the adapter returns the headline alone, so keep the
+    # richer tags we already worked out rather than re-deriving weaker ones.
+    raw_tags = raw.get("raw_tags") or []
+    if raw_tags or not (stored and stored.get("tags")):
+        tags = derive_tags(title=title, summary=summary, raw_tags=raw_tags, section=category)
+    else:
+        tags = stored["tags"]
 
     return {
         "id": id_for(url),
@@ -45,10 +63,12 @@ def normalise(raw: dict, source: dict, stored: dict | None, seen_at: str) -> dic
         "source": source["id"],
         "sourceName": source["name"],
         "accent": source.get("accent", "#8b8b8b"),
-        "summary": truncate(clean(raw.get("summary")), 240),
+        "summary": summary,
+        "fullSummary": full_summary,
+        "tags": tags,
         "image": raw.get("image") or None,
         "author": clean(raw.get("author")),
-        "category": clean(raw.get("category")),
+        "category": category,
         # Undated items sort by when we first saw them, which for a live feed is
         # a close enough stand-in and keeps the ordering sensible.
         "publishedAt": published or first_seen,

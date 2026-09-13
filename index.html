@@ -8,7 +8,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/styles.css">
+<link rel="stylesheet" href="assets/styles.css?v=3">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📰</text></svg>">
 </head>
 <body>
@@ -31,15 +31,19 @@
   <div class="wrap controls-inner">
     <div class="chips" id="chips" role="group" aria-label="Filter by source"></div>
     <div class="search">
-      <input id="search" type="search" placeholder="Search headlines&hellip;" aria-label="Search headlines" autocomplete="off">
+      <input id="search" type="search" placeholder="Search headlines and tags&hellip;" aria-label="Search headlines and tags" autocomplete="off">
     </div>
   </div>
 </nav>
 
+<div class="wrap tagbar-wrap">
+  <div class="tagbar" id="tagbar" role="group" aria-label="Filter by topic"></div>
+</div>
+
 <main class="wrap" id="main">
   <p class="count" id="count" aria-live="polite"></p>
   <div class="grid" id="grid"></div>
-  <p class="empty" id="empty" hidden>Nothing matches that. Try a different search or source.</p>
+  <p class="empty" id="empty" hidden>Nothing matches that. Try a different search, source or topic.</p>
 </main>
 
 <footer class="wrap site-footer">
@@ -48,6 +52,21 @@
   <p id="source-list" class="source-list"></p>
 </footer>
 
-<script src="assets/app.js"></script>
+<!-- Summary popup. Filled in by app.js when a Summary button is clicked. -->
+<div class="modal" id="modal" hidden>
+  <div class="modal-backdrop" data-close></div>
+  <div class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <button class="modal-close" type="button" data-close aria-label="Close summary">&times;</button>
+    <span class="badge" id="modal-source"></span>
+    <h2 id="modal-title"></h2>
+    <p class="modal-meta" id="modal-meta"></p>
+    <p class="modal-summary" id="modal-summary"></p>
+    <div class="modal-tags" id="modal-tags"></div>
+    <p class="modal-attrib" id="modal-attrib"></p>
+    <a class="modal-link" id="modal-link" target="_blank" rel="noopener noreferrer">Read the full article &rarr;</a>
+  </div>
+</div>
+
+<script src="assets/app.js?v=3"></script>
 </body>
 </html>

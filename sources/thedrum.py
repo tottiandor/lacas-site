@@ -20,7 +20,7 @@ from ._common import clean, fetch, truncate
 
 HOME = "https://www.thedrum.com/"
 CRAWL_DELAY = 5.0          # seconds, as requested by https://www.thedrum.com/robots.txt
-ENRICH_LIMIT = 20          # article pages fetched per run; the rest wait for the next run
+ENRICH_LIMIT = 45          # the whole front page in one nightly run
 LIST_LIMIT = 40            # headlines taken from the front page
 MAX_ATTEMPTS = 3           # give up enriching a stubborn page after this many runs
 
@@ -88,9 +88,16 @@ def _article_details(url: str) -> dict:
         details["author"] = clean(author or "")
         # These pages carry no description/og:description, so take a short
         # opening excerpt from articleBody - the same role an RSS summary plays.
-        details["summary"] = truncate(
-            clean(block.get("description") or block.get("articleBody") or ""), 200
-        )
+        body_text = clean(block.get("description") or block.get("articleBody") or "")
+        details["summary"] = truncate(body_text, 200)
+        details["full_summary"] = truncate(body_text, 450)
+
+        # The Drum tags its own articles; those are better than anything we infer.
+        keywords = block.get("keywords")
+        if isinstance(keywords, str):
+            keywords = [k.strip() for k in keywords.split(",")]
+        if isinstance(keywords, list):
+            details["raw_tags"] = [clean(k) for k in keywords if k]
         break
 
     if not details.get("summary"):

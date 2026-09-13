@@ -6,6 +6,7 @@ from __future__ import annotations
 
 import gzip
 import html
+import html.entities
 import json
 import re
 import time
@@ -68,7 +69,11 @@ def clean(text: str | None) -> str:
     text = re.sub(r"<(script|style)[\s\S]*?</\1>", " ", text, flags=re.I)
     text = re.sub(r"<[^>]+>", " ", text)
     text = text.replace("<![CDATA[", " ").replace("]]>", " ")
-    return re.sub(r"\s+", " ", html.unescape(text)).strip()
+    text = re.sub(r"\s+", " ", html.unescape(text)).strip()
+    # Stripping tags can weld two sentences together ("...a client.Nikos said").
+    # Only split where a lower-case letter precedes the stop, so initialisms
+    # like "U.S.A." are left alone.
+    return re.sub(r"([a-z][.!?])([A-Z])", r"\1 \2", text)
 
 
 def truncate(text: str, limit: int = 240) -> str:
@@ -154,13 +159,35 @@ def _text(node, path: str) -> str | None:
     return found.text if found is not None and found.text else None
 
 
+_NAMED_ENTITY = re.compile(r"&([A-Za-z][A-Za-z0-9]{1,31});")
+_XML_BUILTINS = {"amp", "lt", "gt", "quot", "apos"}
+
+
+def _defuse_entities(xml_text: str) -> str:
+    """Rewrite HTML entities that XML does not define.
+
+    Plenty of feeds contain `&nbsp;` or `&eacute;`. Those are HTML entities, not
+    XML ones, and a strict parser rejects the whole document over a single
+    occurrence - losing every story from that source. Converting them to numeric
+    references first keeps the feed readable.
+    """
+    def replace(match: "re.Match[str]") -> str:
+        name = match.group(1)
+        if name in _XML_BUILTINS:
+            return match.group(0)
+        codepoint = html.entities.name2codepoint.get(name)
+        return f"&#{codepoint};" if codepoint else ""
+
+    return _NAMED_ENTITY.sub(replace, xml_text)
+
+
 def parse_rss(xml_text: str) -> list[dict]:
     """Parse an RSS 2.0 or Atom feed into plain dicts.
 
     Covers the fields we actually render; unknown extras are ignored rather
     than raising, because feeds in the wild are inconsistent.
     """
-    root = ET.fromstring(xml_text.lstrip("\ufeff \n\r\t"))
+    root = ET.fromstring(_defuse_entities(xml_text.lstrip("\ufeff \n\r\t")))
     entries = root.findall(".//item") or root.findall(".//atom:entry", NS)
     parsed: list[dict] = []
 
@@ -182,14 +209,24 @@ def parse_rss(xml_text: str) -> list[dict]:
         if not image:
             image = first_image_in(body, link)
 
+        # Every <category> the feed supplies, plus media:category, becomes a
+        # candidate tag. Feeds often carry several.
+        raw_tags = [clean(node.text) for node in entry.findall("category") if node.text]
+        raw_tags += [clean(node.text) for node in entry.findall("media:category", NS) if node.text]
+
+        # Cards show a short summary; the "Summary" popup shows this longer one.
+        long_text = clean(_text(entry, "description")) or clean(body)
+
         parsed.append({
             "title": clean(_text(entry, "title") or _text(entry, "atom:title")),
             "url": link.strip(),
             # Some feeds put only a thumbnail link in <description>, which cleans
             # away to nothing - fall back to the full content in that case.
-            "summary": truncate(clean(_text(entry, "description")) or clean(body)),
+            "summary": truncate(long_text),
+            "full_summary": truncate(long_text, 450),
             "author": clean(_text(entry, "dc:creator") or _text(entry, "atom:author/atom:name")),
             "category": clean(_text(entry, "category")),
+            "raw_tags": raw_tags,
             "image": image,
             "published_at": to_iso(
                 _text(entry, "pubDate") or _text(entry, "atom:published") or _text(entry, "atom:updated")

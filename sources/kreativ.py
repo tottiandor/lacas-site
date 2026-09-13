@@ -14,7 +14,7 @@ decision by the site owner, not by oversight.
 Because of that, this adapter is written to be as light as it can be:
 
   * a 4 second gap between requests, slower than any named crawler is asked for;
-  * at most 10 article pages per run, and an article is never fetched twice;
+  * at most 30 article pages per run, and an article is never fetched twice;
   * an honest User-Agent, so Kreatív can identify and block us if they object.
 
 If Kreatív asks us to stop, remove this source's line from sources/__init__.py -
@@ -31,7 +31,7 @@ from ._common import clean, fetch, truncate
 
 HOME = "https://kreativ.hu/"
 CRAWL_DELAY = 4.0      # deliberately gentle; see the note above
-ENRICH_LIMIT = 10      # article pages per run
+ENRICH_LIMIT = 30      # the whole front page in one nightly run
 MAX_ATTEMPTS = 3       # stop retrying a page that never yields a date
 LIST_LIMIT = 40
 
@@ -117,6 +117,14 @@ def _article_details(url: str) -> dict:
     description = _meta(page, "og:description")
     if description:
         details["summary"] = truncate(clean(description), 200)
+        details["full_summary"] = truncate(clean(description), 450)
+
+    # Kreatív tags its own articles (/tag/<slug>) and files them in a section
+    # (/rovat/<slug>). Both beat anything we could infer. The site-wide
+    # <meta name="keywords"> is boilerplate and deliberately ignored.
+    slugs = re.findall(r'href="/(?:tag|rovat)/([^"/]+)', page)
+    if slugs:
+        details["raw_tags"] = list(dict.fromkeys(slugs))[:8]
 
     # og:title is prefixed with the publication name; the bare headline is better.
     title = _meta(page, "og:title")

@@ -2,14 +2,18 @@ name: Collect news
 
 on:
   schedule:
-    # Every 20 minutes. GitHub queues cron jobs on a best-effort basis, so the
-    # real gap is often a little longer at busy times - that is normal.
-    - cron: "*/20 * * * *"
+    # 03:10 UTC every night - about 5am in Budapest, so the overnight stories are
+    # in by breakfast. GitHub queues cron jobs on a best-effort basis, so the real
+    # start time drifts by a few minutes. Change the time here if you want.
+    - cron: "10 3 * * *"
+
   workflow_dispatch:        # lets you run it by hand from the Actions tab
+
   push:
     branches: [main]
     paths:
-      - "sources/**"        # re-collect immediately when a source is added or changed
+      - "sources/**"        # collect straight away when a source is added or changed
+      - "sites.json"
       - "scrape.py"
 
 # Never let two collection runs overlap and fight over the same commit.
@@ -23,7 +27,7 @@ permissions:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 25
 
     steps:
       - uses: actions/checkout@v4
