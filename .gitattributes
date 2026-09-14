@@ -1,0 +1,10 @@
+# Keep shell scripts and Python LF whatever platform they are checked out on.
+# A .sh file with Windows line endings fails on macOS with a confusing
+# "bad interpreter" error, so this is not cosmetic.
+*.sh   text eol=lf
+*.py   text eol=lf
+*.json text eol=lf
+*.yml  text eol=lf
+
+# PowerShell is the exception - it belongs to Windows.
+*.ps1  text eol=crlf
