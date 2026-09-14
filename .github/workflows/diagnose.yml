@@ -1,0 +1,35 @@
+name: Diagnose 403
+
+# Temporary: works out why The Drum and Creative Review return 403 from GitHub's
+# runners but not from a home connection. Delete this file once answered.
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Probe with different user agents
+        run: |
+          CHROME="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+          OURS="$CHROME LacasSiteBot/0.1"
+          FEED="Mozilla/5.0 (compatible; LacasSiteBot/0.1; +https://github.com/tottiandor/lacas-site)"
+
+          for url in "https://www.thedrum.com/" "https://www.creativereview.co.uk/feed/" "https://theinspiration.com/feed/"; do
+            echo "=============== $url"
+            for label in chrome ours feedlike none; do
+              case $label in
+                chrome) UA="$CHROME" ;;
+                ours)   UA="$OURS" ;;
+                feedlike) UA="$FEED" ;;
+                none)   UA="" ;;
+              esac
+              code=$(curl -s -o /dev/null -m 25 -w "%{http_code}" -A "$UA" "$url" || echo "ERR")
+              printf "  %-9s -> %s\n" "$label" "$code"
+            done
+          done
+
+          echo "=============== runner egress IP"
+          curl -s -m 15 https://api.ipify.org || true
+          echo
