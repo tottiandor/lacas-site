@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 .DS_Store
 Thumbs.db
+
+# Personal Claude Code permissions - machine-specific, not for the public repo
+.claude/settings.local.json
