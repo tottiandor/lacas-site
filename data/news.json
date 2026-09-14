@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-14T04:57:52Z",
-  "itemCount": 107,
+  "generatedAt": "2026-09-14T05:01:49Z",
+  "itemCount": 109,
   "sources": [
     {
       "id": "thedrum",
       "name": "The Drum",
       "site": "https://www.thedrum.com/",
       "accent": "#00d1b2",
-      "status": "error",
-      "error": "failed to fetch https://www.thedrum.com/: HTTP Error 403: Forbidden",
+      "status": "ok",
+      "error": null,
       "count": 40
     },
     {
@@ -25,8 +25,8 @@
       "name": "Creative Review",
       "site": "https://www.creativereview.co.uk/",
       "accent": "#ff4d4d",
-      "status": "error",
-      "error": "failed to fetch https://www.creativereview.co.uk/feed/: HTTP Error 403: Forbidden",
+      "status": "ok",
+      "error": null,
       "count": 12
     },
     {
@@ -49,6 +49,49 @@
     }
   ],
   "items": [
+    {
+      "id": "e363a95a",
+      "title": "Amsterdam’s Brandt gallery celebrates 10th anniversary with major rebrand",
+      "url": "https://www.creativereview.co.uk/amsterdam-brandt-gallery-rebrand/",
+      "source": "creativereview",
+      "sourceName": "Creative Review",
+      "accent": "#ff4d4d",
+      "summary": "Working with Bureau Brandt, the gallery has undergone a significant transformation, including a change of name and a new visual approach",
+      "fullSummary": "Working with Bureau Brandt, the gallery has undergone a significant transformation, including a change of name and a new visual approach",
+      "tags": [
+        "Branding"
+      ],
+      "rawTags": [],
+      "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/09/CS_Brandt_Gallery_30.png",
+      "author": "Daniel Milroy Maher",
+      "category": "",
+      "publishedAt": "2026-09-14T02:51:49Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-14T05:01:49Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "8478b8c4",
+      "title": "A new Nigerian design language",
+      "url": "https://www.creativereview.co.uk/a-new-nigerian-design-language/",
+      "source": "creativereview",
+      "sourceName": "Creative Review",
+      "accent": "#ff4d4d",
+      "summary": "Jordan Belonwu, founder of Lagos-based design studio Belonwus, explains how vernacular typography, cultural memory and everyday Nigerian rituals have become the foundation of its work",
+      "fullSummary": "Jordan Belonwu, founder of Lagos-based design studio Belonwus, explains how vernacular typography, cultural memory and everyday Nigerian rituals have become the foundation of its work",
+      "tags": [
+        "Design",
+        "Typography"
+      ],
+      "rawTags": [],
+      "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/09/BELONWUS_Owo_10.jpg",
+      "author": "Ugonna-Ora Owoh",
+      "category": "",
+      "publishedAt": "2026-09-14T02:04:53Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-14T05:01:49Z",
+      "enrichAttempts": 0
+    },
     {
       "id": "b8c6763b",
       "title": "Savage X Fenty casts giant lingerie shadows over New York",
@@ -83,7 +126,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "Luxid's strategy director and Drum B2B juror, on B2B's image problem, behavioral science and why insight alone doesn't help a client. Nikos Lemanis has no time for the idea that brand and performance…",
-      "fullSummary": "Luxid's strategy director and Drum B2B juror, on B2B's image problem, behavioral science and why insight alone doesn't help a client. Nikos Lemanis has no time for the idea that brand and performance compete for the same budget. \"They are the heart and lungs of growth,\" he said of the two, and he's judging the effectiveness jury for the B2B category at this year's Drum B2B Awards. Every campaign, customer interaction and commercial initiative…",
+      "fullSummary": "Luxid's strategy director and Drum B2B juror, on B2B's image problem, behavioral science and why insight alone doesn't help a client. Nikos Lemanis has no time for the idea that brand and performance…",
       "tags": [
         "Marketing",
         "The Drum Awards",
@@ -144,7 +187,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "Skyrim is one of the world’s most played games. But for 15 years, fans have experienced the same problem – the so-called ‘encumbrance mechanic’ that slows players down if they have too many items.…",
-      "fullSummary": "Skyrim is one of the world’s most played games. But for 15 years, fans have experienced the same problem – the so-called ‘encumbrance mechanic’ that slows players down if they have too many items. Ikea is addressing that frustration in the only way it knows how. A storage solution. In a campaign created by Mother, ‘Kallax Storageborn’ is a free downloadable Skyrim Creation for Bethesda Game Studios’ iconic The Elder Scrolls V: Skyrim that…",
+      "fullSummary": "Skyrim is one of the world’s most played games. But for 15 years, fans have experienced the same problem – the so-called ‘encumbrance mechanic’ that slows players down if they have too many items.…",
       "tags": [
         "Creative",
         "Creative Work",
@@ -242,7 +285,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "Oscar Quine surveys advertising’s current obsession with the ‘number two’ and asks whether all that toilet humor tells us something about the culture producing it. Recently, retailer Marks and…",
-      "fullSummary": "Oscar Quine surveys advertising’s current obsession with the ‘number two’ and asks whether all that toilet humor tells us something about the culture producing it. Recently, retailer Marks and Spencer asked the UK government to rethink rules that restrict brands from using terms like “fecal bulk” and “intestinal transit” when trying to sell the benefits of fiber. This feels strangely necessary because marketing seems obsessed with talking about…",
+      "fullSummary": "Oscar Quine surveys advertising’s current obsession with the ‘number two’ and asks whether all that toilet humor tells us something about the culture producing it. Recently, retailer Marks and…",
       "tags": [
         "Marketing",
         "Branding",
@@ -300,7 +343,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "The event’s inaugural chief creator officer has designed four days of programming intended to move marketers and influencers beyond panels and networking – and towards commercial partnerships.…",
-      "fullSummary": "The event’s inaugural chief creator officer has designed four days of programming intended to move marketers and influencers beyond panels and networking – and towards commercial partnerships. Advertising Week New York is putting a number on its creator-economy ambitions this year: $100m. The event has appointed creator and Dhar Mann Studios founder Dhar Mann as its first chief creator officer. Mann has curated a four-day program intended to…",
+      "fullSummary": "The event’s inaugural chief creator officer has designed four days of programming intended to move marketers and influencers beyond panels and networking – and towards commercial partnerships.…",
       "tags": [
         "Marketing",
         "Advertising Week",
@@ -355,7 +398,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "How do you convince a CFO to approve millions in long-term brand investment when you cannot yet prove exactly what the return will be? That is the question Lauren, a senior brand and marketing…",
-      "fullSummary": "How do you convince a CFO to approve millions in long-term brand investment when you cannot yet prove exactly what the return will be? That is the question Lauren, a senior brand and marketing manager at a global professional services company, puts to Mark Ritson in episode two of Ritson’s Remedies.“I think marketers get into a lot of trouble when they try to produce certainty in a world where there isn’t any certainty,” says Ritson.…",
+      "fullSummary": "How do you convince a CFO to approve millions in long-term brand investment when you cannot yet prove exactly what the return will be? That is the question Lauren, a senior brand and marketing…",
       "tags": [
         "Marketing",
         "Branding",
@@ -498,7 +541,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "As AI becomes more embedded in creative work, and the Zoom calls stack up, Dulcie Cowling argues the value of being around other people may only increase. Recently, I was on a work Zoom call when I…",
-      "fullSummary": "As AI becomes more embedded in creative work, and the Zoom calls stack up, Dulcie Cowling argues the value of being around other people may only increase. Recently, I was on a work Zoom call when I found myself absent-mindedly googling “rhinoplasty London cost” in another window. What the hell? Since when did spending several hours a day in meetings also mean spending so much time looking mainly at one’s own face? Advertisement I love working…",
+      "fullSummary": "As AI becomes more embedded in creative work, and the Zoom calls stack up, Dulcie Cowling argues the value of being around other people may only increase. Recently, I was on a work Zoom call when I…",
       "tags": [
         "Marketing",
         "Branding",
@@ -609,7 +652,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "HOURS' co-founder and chief creative officer and Drum Awards Festival juror on gameplay-driven design, authenticity over trend-chasing, and why Roblox demands a different kind of brand thinking.\"True…",
-      "fullSummary": "HOURS' co-founder and chief creative officer and Drum Awards Festival juror on gameplay-driven design, authenticity over trend-chasing, and why Roblox demands a different kind of brand thinking.\"True design is a strategic, problem-solving system tied directly to user behavior and brand goals,\" said Maryna Semioshyna, co-founder and chief creative officer of HOURS, the studio behind immersive brand experiences on Roblox for clients including…",
+      "fullSummary": "HOURS' co-founder and chief creative officer and Drum Awards Festival juror on gameplay-driven design, authenticity over trend-chasing, and why Roblox demands a different kind of brand thinking.\"True…",
       "tags": [
         "Marketing",
         "The Drum Awards",
@@ -673,7 +716,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "Our global ranking of the indies setting the pace across creativity, client satisfaction and industry recognition, now underpinned by a more rigorous methodology than ever before, is here. Find out…",
-      "fullSummary": "Our global ranking of the indies setting the pace across creativity, client satisfaction and industry recognition, now underpinned by a more rigorous methodology than ever before, is here. Find out who’s in and who’s out. Rethink Toronto has been ranked the world’s top independent agency in The Drum’s Indie 100, which returns for 2026 with a new methodology that combines creative performance, awards success and client satisfaction. The Romans…",
+      "fullSummary": "Our global ranking of the indies setting the pace across creativity, client satisfaction and industry recognition, now underpinned by a more rigorous methodology than ever before, is here. Find out…",
       "tags": [
         "Agencies",
         "Summer Of Agency Love",
@@ -759,7 +802,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "Snickers has spent 16 years building one of advertising’s most effective platforms. Paddy Gilmore asks why its latest AI execution feels so much weaker. Unless you’ve been living under a stone for…",
-      "fullSummary": "Snickers has spent 16 years building one of advertising’s most effective platforms. Paddy Gilmore asks why its latest AI execution feels so much weaker. Unless you’ve been living under a stone for the past few years, you’ll have heard a lot of chatter about the AI arms race, ironically, often from AI. Translated to adland, there are plenty of examples of brands trying to get the attention of their customers via some AI-led gimmick. This isn’t…",
+      "fullSummary": "Snickers has spent 16 years building one of advertising’s most effective platforms. Paddy Gilmore asks why its latest AI execution feels so much weaker. Unless you’ve been living under a stone for…",
       "tags": [
         "Marketing",
         "Branding",
@@ -825,7 +868,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "Notting Hill Carnival is a masterclass in what inclusive beauty really looks like. Here&Now 365’s Preet Khanna argues that brands need to go beyond diverse casting and prove their credentials through…",
-      "fullSummary": "Notting Hill Carnival is a masterclass in what inclusive beauty really looks like. Here&Now 365’s Preet Khanna argues that brands need to go beyond diverse casting and prove their credentials through product, presence and genuine participation in culture. Every August, Notting Hill Carnival showcases the same beauty truth: the haircare industry still hasn’t caught up with the people it serves. Locs, coils, braids, twists and afros filled the…",
+      "fullSummary": "Notting Hill Carnival is a masterclass in what inclusive beauty really looks like. Here&Now 365’s Preet Khanna argues that brands need to go beyond diverse casting and prove their credentials through…",
       "tags": [
         "Brand Purpose",
         "Other",
@@ -1089,7 +1132,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "“Make me feel uncomfortable!” That was Charlotte Lock’s first brief to WPP after taking over as Boots CMO in November 2025 – a surprising instruction, perhaps, from a brand that has spent more than…",
-      "fullSummary": "“Make me feel uncomfortable!” That was Charlotte Lock’s first brief to WPP after taking over as Boots CMO in November 2025 – a surprising instruction, perhaps, from a brand that has spent more than 170 years helping people look and feel better.“I don’t want to be pushing you,” she told the agency. “I want to go, ‘Oh gosh, we’ve got to dial that back a bit.’”It would be a mistake to think she simply wanted the ad noticed for its own sake. It…",
+      "fullSummary": "“Make me feel uncomfortable!” That was Charlotte Lock’s first brief to WPP after taking over as Boots CMO in November 2025 – a surprising instruction, perhaps, from a brand that has spent more than…",
       "tags": [
         "Creative",
         "Creative Work",
@@ -1155,7 +1198,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "Dara Treseder is four years into a mandate to overhaul Autodesk’s brand and modernize its marketing operation. When she first joined in 2022, her response to that brief was to double down on brand.…",
-      "fullSummary": "Dara Treseder is four years into a mandate to overhaul Autodesk’s brand and modernize its marketing operation. When she first joined in 2022, her response to that brief was to double down on brand. Unlike her B2B counterparts, she invested in the kind of activity that you would expect from a B2C company. Back then, AI was a footnote in the plan. Today, it’s the technology on which the entire company pivots, and Treseder has had to quickly figure…",
+      "fullSummary": "Dara Treseder is four years into a mandate to overhaul Autodesk’s brand and modernize its marketing operation. When she first joined in 2022, her response to that brief was to double down on brand.…",
       "tags": [
         "B2B",
         "Autodesk",
@@ -1184,7 +1227,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "He grew Merkle into a $2bn global powerhouse, retired for barely a year and is now back, chasing a second billion-dollar business built around the rise of the chief revenue officer. The Drum meets a…",
-      "fullSummary": "He grew Merkle into a $2bn global powerhouse, retired for barely a year and is now back, chasing a second billion-dollar business built around the rise of the chief revenue officer. The Drum meets a man constitutionally incapable of leaving the game alone. There is a particular type of entrepreneur who seems constitutionally incapable of staying retired. Craig Dempster is one of them. By the time most people have accumulated enough to justify…",
+      "fullSummary": "He grew Merkle into a $2bn global powerhouse, retired for barely a year and is now back, chasing a second billion-dollar business built around the rise of the chief revenue officer. The Drum meets a…",
       "tags": [
         "B2B",
         "Agencies",
@@ -1215,7 +1258,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "Buy a data platform these days and the neutrality statement all but writes itself. The catch is which question it bothers to answer. Erin Lutenski on the test that no amount of encryption can pass.…",
-      "fullSummary": "Buy a data platform these days and the neutrality statement all but writes itself. The catch is which question it bothers to answer. Erin Lutenski on the test that no amount of encryption can pass. Every time a holding company buys a data platform, the same ritual plays out: the trade press asks whether ‘neutral’ still applies, the platform issues reassurances, and within a year the story quietly closes until the next acquisition. What’s harder…",
+      "fullSummary": "Buy a data platform these days and the neutrality statement all but writes itself. The catch is which question it bothers to answer. Erin Lutenski on the test that no amount of encryption can pass.…",
       "tags": [
         "Marketing",
         "Branding",
@@ -1371,7 +1414,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "The Drum is giving one up-and-coming marketer from a brand or agency the chance to join us in Miami this November with a free ticket worth $2,995. Reuben Webb explains why attending your first event…",
-      "fullSummary": "The Drum is giving one up-and-coming marketer from a brand or agency the chance to join us in Miami this November with a free ticket worth $2,995. Reuben Webb explains why attending your first event matters. Do you remember your first major industry event? I do. I remember looking up at the people on that stage, talking about work I could only ever dream of doing and thinking that I wanted to be part of it. I wanted to do what they were doing…",
+      "fullSummary": "The Drum is giving one up-and-coming marketer from a brand or agency the chance to join us in Miami this November with a free ticket worth $2,995. Reuben Webb explains why attending your first event…",
       "tags": [
         "Branding",
         "B2B World Fest",
@@ -1399,7 +1442,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "Shopping used to happen in shops. Now it can happen on our sofas, in our social feeds, through creators and even on our TVs. Host Jenni Baker explores the impact with leaders from Dollar General,…",
-      "fullSummary": "Shopping used to happen in shops. Now it can happen on our sofas, in our social feeds, through creators and even on our TVs. Host Jenni Baker explores the impact with leaders from Dollar General, DoorDash, dentsu, Albertsons Media Collective, Roku, American Express, Roundel and more. If every media moment can influence a purchase, when did everywhere become somewhere you can buy something? And as retail media evolves into something much bigger,…",
+      "fullSummary": "Shopping used to happen in shops. Now it can happen on our sofas, in our social feeds, through creators and even on our TVs. Host Jenni Baker explores the impact with leaders from Dollar General,…",
       "tags": [
         "Retail"
       ],
@@ -1420,7 +1463,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "As consumers embrace more holistic health, brands are rethinking how tech supports wellbeing. Turning intelligence into meaningful guidance is a challenge set to be faced by every sector. Google’s…",
-      "fullSummary": "As consumers embrace more holistic health, brands are rethinking how tech supports wellbeing. Turning intelligence into meaningful guidance is a challenge set to be faced by every sector. Google’s new Health platform offers a glimpse of what comes next. For more than a decade, fitness technology has operated on a simple premise: more data equals better health. The result has been an explosion of wearables, trackers and apps promising deeper…",
+      "fullSummary": "As consumers embrace more holistic health, brands are rethinking how tech supports wellbeing. Turning intelligence into meaningful guidance is a challenge set to be faced by every sector. Google’s…",
       "tags": [
         "AI",
         "Partner Insights",
@@ -1447,7 +1490,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "Andrew Tindall compares human and AI testing across ten major ads and finds the machines are surprisingly good at spotting winners and losers, provided they’re allowed to admit uncertainty. As…",
-      "fullSummary": "Andrew Tindall compares human and AI testing across ten major ads and finds the machines are surprisingly good at spotting winners and losers, provided they’re allowed to admit uncertainty. As someone who had no interest in AI but had it thrust upon them because of a deep interest in marketing effectiveness, then accidentally developed a great interest in AI’s use in creative effectiveness... well, now it interests me greatly. [Editor’s note:…",
+      "fullSummary": "Andrew Tindall compares human and AI testing across ten major ads and finds the machines are surprisingly good at spotting winners and losers, provided they’re allowed to admit uncertainty. As…",
       "tags": [
         "Marketing",
         "Branding",
@@ -1477,7 +1520,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "The Drum’s commerce media columnist, Kiri Masters, learns that while there has never been more good technology available to a retail media network, the organizational appetite to install it is the…",
-      "fullSummary": "The Drum’s commerce media columnist, Kiri Masters, learns that while there has never been more good technology available to a retail media network, the organizational appetite to install it is the challenge. On a recent call, a retail media leader at a mid-sized US network told me how technology decisions actually get made. Let’s name them “Art Vandelay”.Vandelay joined the company and did what any competent operator would do: audited the…",
+      "fullSummary": "The Drum’s commerce media columnist, Kiri Masters, learns that while there has never been more good technology available to a retail media network, the organizational appetite to install it is the…",
       "tags": [
         "Commerce Media",
         "Retail",
@@ -1507,7 +1550,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "This year’s biggest ever Summer of sport reveals how modern fandom is changing – from the rise of more human, personality-led content to the growing importance of private sharing. What do these…",
-      "fullSummary": "This year’s biggest ever Summer of sport reveals how modern fandom is changing – from the rise of more human, personality-led content to the growing importance of private sharing. What do these shifts mean for marketers trying to score long-term brand love? After knocking out Brazil in this year’s World Cup, Erling Haaland posted a smug locker room selfie with the words ‘Well, well, well’.That’s just one of the ways in which the Norwegian…",
+      "fullSummary": "This year’s biggest ever Summer of sport reveals how modern fandom is changing – from the rise of more human, personality-led content to the growing importance of private sharing. What do these…",
       "tags": [
         "Marketing",
         "Sport",
@@ -1542,7 +1585,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "I watched a video on LinkedIn the likes of which I had never seen there. It took me back to the squirm comedy of Ricky Gervais’s The Office. Only this wasn’t edgy comedy made for TV, this was edgy…",
-      "fullSummary": "I watched a video on LinkedIn the likes of which I had never seen there. It took me back to the squirm comedy of Ricky Gervais’s The Office. Only this wasn’t edgy comedy made for TV, this was edgy comedy made for B2B marketing. Air has made a short mockumentary about hiring Eric Toda as its chief marketing officer, who then resigns six hours later due to a catalog of misunderstandings and inappropriate behavior. It’s possibly the most daring…",
+      "fullSummary": "I watched a video on LinkedIn the likes of which I had never seen there. It took me back to the squirm comedy of Ricky Gervais’s The Office. Only this wasn’t edgy comedy made for TV, this was edgy…",
       "tags": [
         "B2B",
         "Branding",
@@ -1599,7 +1642,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "Organizations have more data than ever, but it often needs to be channeled better. Analytic Partners’ Preeti Croke unpacks key lessons from this year’s industry events to reveal how to make data flow…",
-      "fullSummary": "Organizations have more data than ever, but it often needs to be channeled better. Analytic Partners’ Preeti Croke unpacks key lessons from this year’s industry events to reveal how to make data flow into decision-making. Brands have access to more data than ever before. Every transaction, every click gets recorded. Yet for many organizations, the challenge isn’t access to data but converting that data into better decisions. Allie Keith, CEO at…",
+      "fullSummary": "Organizations have more data than ever, but it often needs to be channeled better. Analytic Partners’ Preeti Croke unpacks key lessons from this year’s industry events to reveal how to make data flow…",
       "tags": [
         "Marketing",
         "AI",
@@ -1698,7 +1741,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "Come inside The Drum’s London newsroom later this month for two days of candid conversations with leaders from Unilever, Salesforce, Channel 4, Diageo, Mars, Berghaus and more. What does the CMO of…",
-      "fullSummary": "Come inside The Drum’s London newsroom later this month for two days of candid conversations with leaders from Unilever, Salesforce, Channel 4, Diageo, Mars, Berghaus and more. What does the CMO of 2030 look like? Can brands still make people care about social purpose? Should regulators keep their hands off AI? And which marketers actually won the World Cup? Those are among the questions The Drum will put to some of marketing’s biggest names…",
+      "fullSummary": "Come inside The Drum’s London newsroom later this month for two days of candid conversations with leaders from Unilever, Salesforce, Channel 4, Diageo, Mars, Berghaus and more. What does the CMO of…",
       "tags": [
         "Commerce Media",
         "Technology",
@@ -1729,7 +1772,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "Google’s AI Max migration takes another set of controls out of marketers’ hands. Mark Ritson thinks that could ultimately be good news. On September 1, Google started moving the digital furniture.…",
-      "fullSummary": "Google’s AI Max migration takes another set of controls out of marketers’ hands. Mark Ritson thinks that could ultimately be good news. On September 1, Google started moving the digital furniture. Every Search campaign still running campaign-level broad match or automatically created assets was upgraded to AI Max, whether the account owner read the email or not. The migration will run all month, and there is no opt-out. The only option to switch…",
+      "fullSummary": "Google’s AI Max migration takes another set of controls out of marketers’ hands. Mark Ritson thinks that could ultimately be good news. On September 1, Google started moving the digital furniture.…",
       "tags": [
         "Marketing",
         "Branding",
@@ -1760,7 +1803,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "On the same day in London and New York, we ran our shortlist shows and read the state of the industry from more than 500 entries to The Drum Awards for B2B. Congratulations to everyone who made the…",
-      "fullSummary": "On the same day in London and New York, we ran our shortlist shows and read the state of the industry from more than 500 entries to The Drum Awards for B2B. Congratulations to everyone who made the list. Here is what the work is telling us. On September 1, we opened the doors in two cities at once – an evening in London and an afternoon in New York – to reveal this year’s shortlist for The Drum Awards for B2B. If your name came up,…",
+      "fullSummary": "On the same day in London and New York, we ran our shortlist shows and read the state of the industry from more than 500 entries to The Drum Awards for B2B. Congratulations to everyone who made the…",
       "tags": [
         "B2B",
         "The Drum Awards",
@@ -1946,7 +1989,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "What would Alice in Wonderland look like if Lewis Carroll were writing it today? According to Toyota, the Mad Hatter would be a DJ, the White Rabbit a mysterious girl in a symbolic jacket and the…",
-      "fullSummary": "What would Alice in Wonderland look like if Lewis Carroll were writing it today? According to Toyota, the Mad Hatter would be a DJ, the White Rabbit a mysterious girl in a symbolic jacket and the Queen of Hearts a barbed nickname in Alice’s iPhone contacts. As for the eponymous hero, she becomes a confident fashionista, ready for anything when she’s behind the wheel of a Yaris hybrid. Beautifully shot by director Rodrigo Saavedra of Agosto, the…",
+      "fullSummary": "What would Alice in Wonderland look like if Lewis Carroll were writing it today? According to Toyota, the Mad Hatter would be a DJ, the White Rabbit a mysterious girl in a symbolic jacket and the…",
       "tags": [
         "Creative",
         "Advertising"
@@ -1971,7 +2014,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "For Cecily Strong, years of late nights spent recording the hit NBC entertainment show Saturday Night Live mean she’s grown to love her duvet in the morning – and very little will tempt her out…",
-      "fullSummary": "For Cecily Strong, years of late nights spent recording the hit NBC entertainment show Saturday Night Live mean she’s grown to love her duvet in the morning – and very little will tempt her out before she’s ready. However, Thomas’ Bakery believes its award winning buns and pastries can change that and turn her into someone who springs out of bed like a hot bagel popping up from a toaster. Strong fronts ‘Join the Morning People,’ a new campaign…",
+      "fullSummary": "For Cecily Strong, years of late nights spent recording the hit NBC entertainment show Saturday Night Live mean she’s grown to love her duvet in the morning – and very little will tempt her out…",
       "tags": [
         "Creative",
         "Creative Work",
@@ -1998,7 +2041,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "Most people have no idea what to say when a friend tells them they have Parkinson’s. Michael J Fox and Harrison Ford have some advice: don’t make it weird. That’s the deceptively simple premise…",
-      "fullSummary": "Most people have no idea what to say when a friend tells them they have Parkinson’s. Michael J Fox and Harrison Ford have some advice: don’t make it weird. That’s the deceptively simple premise behind ‘So Your Friend Tells You They Have Parkinson’s. Some Helpful Tips,’ a minute-long film from The Michael J Fox Foundation that turns an awkward, frightening conversation into something warm, funny and recognizably human. Fox and Ford sit opposite…",
+      "fullSummary": "Most people have no idea what to say when a friend tells them they have Parkinson’s. Michael J Fox and Harrison Ford have some advice: don’t make it weird. That’s the deceptively simple premise…",
       "tags": [
         "Creative",
         "Advertising"
@@ -2023,7 +2066,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "The design platform Canva is simple, accessible and enjoyable to use, so it’s fitting that its new ad is, too. Interestingly, however, it hasn’t used its own highly advanced AI capabilities to make…",
-      "fullSummary": "The design platform Canva is simple, accessible and enjoyable to use, so it’s fitting that its new ad is, too. Interestingly, however, it hasn’t used its own highly advanced AI capabilities to make the ad; instead, it goes to the other extreme, with painstakingly crafted stop-motion. The result is a charming and enterprising pigeon, Picci1, hand-made by an army of humans. An extensive team at UK animation studio A+C, including a character…",
+      "fullSummary": "The design platform Canva is simple, accessible and enjoyable to use, so it’s fitting that its new ad is, too. Interestingly, however, it hasn’t used its own highly advanced AI capabilities to make…",
       "tags": [
         "Creative",
         "Advertising",
@@ -2153,7 +2196,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "For The Drum’s regular feature Secret Sauce, Carley Faircloth-Kilmurray of Spiro says for experiential to work, its creative must answer the right question. There’s a moment every experiential agency…",
-      "fullSummary": "For The Drum’s regular feature Secret Sauce, Carley Faircloth-Kilmurray of Spiro says for experiential to work, its creative must answer the right question. There’s a moment every experiential agency knows. The big idea is on the wall. The room goes quiet. The team starts leaning in. Someone says: “This is it.”Sometimes that’s exactly the moment you need to keep going. Not because the idea isn’t good. But because everyone has fallen in love with…",
+      "fullSummary": "For The Drum’s regular feature Secret Sauce, Carley Faircloth-Kilmurray of Spiro says for experiential to work, its creative must answer the right question. There’s a moment every experiential agency…",
       "tags": [
         "Agencies",
         "Agency Performance",
@@ -2190,7 +2233,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "M&A advisor Tony Walford explains why timing the market matters less than making sure your agency is genuinely ready to sell. As the UK tumbles towards the first autumn statement under new prime…",
-      "fullSummary": "M&A advisor Tony Walford explains why timing the market matters less than making sure your agency is genuinely ready to sell. As the UK tumbles towards the first autumn statement under new prime minister Andy Burnham’s watch, the fears of a hike in capital gains tax are weighing on the minds of many agency founders and stakeholders. As a result, we’ve seen a significant uptick in enquiries for our M&A services, but the fact is many agencies…",
+      "fullSummary": "M&A advisor Tony Walford explains why timing the market matters less than making sure your agency is genuinely ready to sell. As the UK tumbles towards the first autumn statement under new prime…",
       "tags": [
         "Agencies",
         "Agency Models",
@@ -2221,7 +2264,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "For our Secret Sauce feature in which agencies tell us what sets them apart, Beatriz Porto and Maria Fernanda Vidal explain why MG Empower sees itself as a ‘living laboratory’.From the very…",
-      "fullSummary": "For our Secret Sauce feature in which agencies tell us what sets them apart, Beatriz Porto and Maria Fernanda Vidal explain why MG Empower sees itself as a ‘living laboratory’.From the very beginning, we’ve treated MG Empower as a brand in its own right: a living laboratory for our thinking. That means we don’t wait for client briefs to test ideas. We build our own community, create our own experiences, experiment with content formats and…",
+      "fullSummary": "For our Secret Sauce feature in which agencies tell us what sets them apart, Beatriz Porto and Maria Fernanda Vidal explain why MG Empower sees itself as a ‘living laboratory’.From the very…",
       "tags": [
         "Agencies",
         "Agency Culture",
@@ -2370,7 +2413,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "AI doesn't need to be brilliant to take your job. It just needs to be good enough - and it already is. Host Reuben confronts the unglamorous, workhorse creative work that's quietly paid the…",
-      "fullSummary": "AI doesn't need to be brilliant to take your job. It just needs to be good enough - and it already is. Host Reuben confronts the unglamorous, workhorse creative work that's quietly paid the industry's wages for decades - and is now exactly what the machine can do on its own. Featuring David Droga (CEO, Accenture Song), Rob Reilly (Global Chief Creative Officer, WPP), Richard Edelman (CEO, Edelman), Rachel Thornton (CMO, Adobe Enterprise),…",
+      "fullSummary": "AI doesn't need to be brilliant to take your job. It just needs to be good enough - and it already is. Host Reuben confronts the unglamorous, workhorse creative work that's quietly paid the…",
       "tags": [
         "AI"
       ],
@@ -2483,7 +2526,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "In the latest edition of The Brand Growth Drumbeat video series, Unilever’s Ryu Yokoi and Kantar’s Jeff Greenspoon explore why growth in the AI era belongs to brands turning intelligence, consistency…",
-      "fullSummary": "In the latest edition of The Brand Growth Drumbeat video series, Unilever’s Ryu Yokoi and Kantar’s Jeff Greenspoon explore why growth in the AI era belongs to brands turning intelligence, consistency and cultural relevance into long-term ‘meaningful difference’.",
+      "fullSummary": "In the latest edition of The Brand Growth Drumbeat video series, Unilever’s Ryu Yokoi and Kantar’s Jeff Greenspoon explore why growth in the AI era belongs to brands turning intelligence, consistency…",
       "tags": [
         "AI",
         "Branding",
@@ -2552,7 +2595,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "This session explores one of the largest global rollouts of agentic AI in marketing. David Billings (Empathy Lab by EPAM), Sameen Gul (Reckitt), and Matt Carter (AWS) share how AI agents are…",
-      "fullSummary": "This session explores one of the largest global rollouts of agentic AI in marketing. David Billings (Empathy Lab by EPAM), Sameen Gul (Reckitt), and Matt Carter (AWS) share how AI agents are reshaping workflows, optimizing innovation, and driving measurable impact across functions.",
+      "fullSummary": "This session explores one of the largest global rollouts of agentic AI in marketing. David Billings (Empathy Lab by EPAM), Sameen Gul (Reckitt), and Matt Carter (AWS) share how AI agents are…",
       "tags": [
         "AI"
       ],
@@ -2573,7 +2616,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "Basket Case is the podcast dedicated to having fun with and making fun of commerce media. Brought to you by The Drum and Qsic, the series explores the biggest trends, debates, and absurdities shaping…",
-      "fullSummary": "Basket Case is the podcast dedicated to having fun with and making fun of commerce media. Brought to you by The Drum and Qsic, the series explores the biggest trends, debates, and absurdities shaping the industry through candid conversations, sharp insights, and a healthy dose of self-awareness. In Episode 2, “Show Me the Brand Money,” we sit down with Jason O’Toole of Gildan to explore why retail media is still struggling to unlock brand…",
+      "fullSummary": "Basket Case is the podcast dedicated to having fun with and making fun of commerce media. Brought to you by The Drum and Qsic, the series explores the biggest trends, debates, and absurdities shaping…",
       "tags": [
         "Branding",
         "Media"
@@ -2922,7 +2965,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "‘Go BIG with BigQuery’ has won Gold in Creative Use of Budget at The Drum Awards for Marketing for proving that strategic, hyper-regional allocation can rival massive brand spends in the fiercely…",
-      "fullSummary": "‘Go BIG with BigQuery’ has won Gold in Creative Use of Budget at The Drum Awards for Marketing for proving that strategic, hyper-regional allocation can rival massive brand spends in the fiercely competitive data analytics market. Here is the award-winning case study. Context and objectiveData analytics is a critical growth engine for Google Cloud. At the core of this data analytics leadership is BigQuery, a unified data-to-AI platform. BigQuery…",
+      "fullSummary": "‘Go BIG with BigQuery’ has won Gold in Creative Use of Budget at The Drum Awards for Marketing for proving that strategic, hyper-regional allocation can rival massive brand spends in the fiercely…",
       "tags": [
         "Marketing",
         "The Drum Awards",
@@ -2954,7 +2997,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "‘The Most Wonderful Drive of the Year’ has won Bronze in Creative at The Drum Awards for Marketing for proving that radical humanity beats discounting in a crowded luxury market. Here is the…",
-      "fullSummary": "‘The Most Wonderful Drive of the Year’ has won Bronze in Creative at The Drum Awards for Marketing for proving that radical humanity beats discounting in a crowded luxury market. Here is the award-winning case study. PlanningThe holiday season, the most critical sales period for the luxury category, had become a perfect storm for Audi. Severe economic pressures and tariffs meant we couldn't offer the financial incentives our competitors were…",
+      "fullSummary": "‘The Most Wonderful Drive of the Year’ has won Bronze in Creative at The Drum Awards for Marketing for proving that radical humanity beats discounting in a crowded luxury market. Here is the…",
       "tags": [
         "Marketing",
         "The Drum Awards",
@@ -2986,7 +3029,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "Artlist won Gold in AI and Silver at The Drum Awards for Marketing by proving that artificial intelligence can replace million-dollar Big Game production workflows without sacrificing quality. The…",
-      "fullSummary": "Artlist won Gold in AI and Silver at The Drum Awards for Marketing by proving that artificial intelligence can replace million-dollar Big Game production workflows without sacrificing quality. The campaign created a broadcast-ready commercial in five days for around $5,000, compared with a typical $1.2m budget and months-long timeline. This is the award-winning case study. OverviewArtlist set out to demonstrate—at the highest possible industry…",
+      "fullSummary": "Artlist won Gold in AI and Silver at The Drum Awards for Marketing by proving that artificial intelligence can replace million-dollar Big Game production workflows without sacrificing quality. The…",
       "tags": [
         "Marketing",
         "The Drum Awards",
@@ -3018,7 +3061,7 @@
       "sourceName": "The Drum",
       "accent": "#00d1b2",
       "summary": "‘Army Marketing Cloud’ has won Silver in Data & Insight at The Drum Awards for Marketing for solving a crisis in military recruitment by transforming distrust into trust at scale. Facing a 78%…",
-      "fullSummary": "‘Army Marketing Cloud’ has won Silver in Data & Insight at The Drum Awards for Marketing for solving a crisis in military recruitment by transforming distrust into trust at scale. Facing a 78% abandonment rate and historic Gen Z disengagement, the US Army unified its entire technology stack into an AI-powered personalization system that listens first, then responds with verified, individually relevant proof – not advertising. Here is the…",
+      "fullSummary": "‘Army Marketing Cloud’ has won Silver in Data & Insight at The Drum Awards for Marketing for solving a crisis in military recruitment by transforming distrust into trust at scale. Facing a 78%…",
       "tags": [
         "Marketing",
         "The Drum Awards",

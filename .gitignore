@@ -5,3 +5,6 @@ Thumbs.db
 
 # Personal Claude Code permissions - machine-specific, not for the public repo
 .claude/settings.local.json
+
+# Local collector log
+tools/nightly-local.log
