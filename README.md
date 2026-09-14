@@ -34,6 +34,33 @@ page only ever reads a file. That is what keeps it free, fast and impossible to 
 — but it also means the freshest a story can be is "since last night's run". Run the
 workflow by hand any time you want it sooner.
 
+### Two sources cannot be collected from GitHub
+
+**The Drum and Creative Review return `403 Forbidden` to GitHub's servers.** They block
+datacenter IP ranges, which is what GitHub Actions runs on. From an ordinary home or
+office connection both work fine.
+
+This was diagnosed rather than guessed. On a GitHub runner, *every* User-Agent gets 403
+from those two — a plain Chrome string and no User-Agent at all included — while the
+other three sources return 200 from the same runner. So it is the IP range, not our bot
+identity, and no combination of headers fixes it. (Disguising the request to get around
+an IP block would be evasion, not engineering, so it is not attempted.)
+
+What this means in practice:
+
+- The nightly Action still runs and refreshes **Kreatív, The Inspiration and Famous
+  Campaigns**. The other two keep the stories they already have and are marked failed,
+  so their chips show struck through on the page. Nothing breaks.
+- To refresh all five, the collector has to run from a normal connection.
+  **`tools/nightly-local.ps1`** does exactly that and pushes the result — one `schtasks`
+  line schedules it nightly, and the comment at the top of the file spells it out.
+- The two approaches coexist safely: the local run pulls before it pushes, and the
+  collector never loses stories, so whichever runs is an improvement on neither running.
+
+If you would rather have everything in one place, the options are a self-hosted Actions
+runner on a normal connection, or asking those two publishers for access that does not
+depend on IP.
+
 ## What's on the page
 
 - **One main feed** with every source mixed together, newest first. Each card is
@@ -67,15 +94,21 @@ publisher for words they did not write.
 
 ---
 
-## Getting it online
+## Where it is
 
-1. Push this folder to a GitHub repository.
-2. **Settings → Pages →** set *Source* to **Deploy from a branch**, branch `main`, folder `/ (root)`.
-3. **Settings → Actions → General →** under *Workflow permissions*, select
-   **Read and write permissions**. Without this the collector cannot commit what it finds.
-4. **Actions → Collect news → Run workflow** to do the first collection by hand.
+- **Live site:** <https://tottiandor.github.io/lacas-site/>
+- **Repository:** <https://github.com/tottiandor/lacas-site>
 
-The site is then live at `https://<your-username>.github.io/<repo-name>/`.
+Already configured: Pages deploys from `main` at the repository root, Actions has write
+permission so the collector can commit, and the nightly workflow has run successfully.
+
+To set the same thing up again from scratch (a fork, or a second copy):
+
+1. Push the folder to a GitHub repository.
+2. **Settings → Pages →** *Source* → **Deploy from a branch**, branch `main`, folder `/ (root)`.
+3. **Settings → Actions → General → Workflow permissions** → **Read and write permissions**.
+   Without this the collector cannot commit what it finds.
+4. **Actions → Collect news → Run workflow** for the first collection.
 
 > On a public repo, GitHub **disables scheduled workflows after 60 days with no commits**.
 > The collector commits most nights, so it keeps itself alive — but if every source goes
@@ -195,9 +228,9 @@ item keeps the publisher's original tags in `rawTags` alongside the derived ones
 
 | Source | Method | Notes |
 |---|---|---|
-| [The Drum](https://www.thedrum.com/) | Front-page JSON-LD + per-article metadata | No RSS feed. Honours the site's 5-second crawl-delay and never re-reads an article. Supplies its own editorial tags. |
+| [The Drum](https://www.thedrum.com/) | Front-page JSON-LD + per-article metadata | No RSS feed. Honours the site's 5-second crawl-delay and never re-reads an article. Supplies its own editorial tags. **403s from GitHub — needs the local collector.** |
 | [Kreatív](https://kreativ.hu/) | Front-page HTML + Open Graph metadata | Hungarian trade press. No feed. **Collected against the site's robots.txt — see below.** |
-| [Creative Review](https://www.creativereview.co.uk/) | RSS | Clean feed: images, authors, dates. |
+| [Creative Review](https://www.creativereview.co.uk/) | RSS | Clean feed: images, authors, dates. **403s from GitHub — needs the local collector.** |
 | [The Inspiration](https://theinspiration.com/) | RSS | Image-led: cards show a picture and headline but no summary, because the feed carries none. |
 | [Famous Campaigns](https://www.famouscampaigns.com/) | RSS | Clean feed, with the publisher's own categories. |
 
@@ -283,6 +316,10 @@ An honest list for whoever takes this on.
 
 **Worth doing early**
 
+- **Decide how the two blocked sources get collected.** Right now they refresh only
+  when `tools/nightly-local.ps1` runs on a normal connection. Scheduling that, or
+  standing up a self-hosted runner, is the difference between five live sources and
+  three.
 - **Nobody is told when a source dies.** `sources[].status` is in the JSON and shows as a
   struck-through chip, but silent failure is the most likely thing to go wrong here. A
   weekly Action that opens an issue when a source fails twice running would cover it.
@@ -320,6 +357,8 @@ assets/styles.css           all styling (plain CSS, no build step)
 assets/app.js               feed loading, filtering, search, tags, summary popup
 scrape.py                   the collector - run this
 add_site.py                 >>> adds a new site for you: python add_site.py <url> <<<
+tools/nightly-local.ps1     collects from this machine and pushes; for the two
+                            sources GitHub's IP ranges cannot reach
 sites.json                  >>> feed-based sources live here; no Python needed <<<
 sources/__init__.py         the source registry (Python adapters + sites.json)
 sources/_common.py          HTTP, text cleanup, RSS parsing, the RSS adapter factory
