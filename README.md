@@ -351,7 +351,10 @@ An honest list for whoever takes this on.
 ## File map
 
 ```
-README.md                   this file
+START-HERE.txt              >>> the first thing a new owner opens <<<
+HANDOVER.md                 the onboarding walkthrough (written for Claude Code)
+ADDING-A-SITE.md            plain-language guide to adding a publication
+README.md                   this file - the technical reference
 index.html                  the page
 assets/styles.css           all styling (plain CSS, no build step)
 assets/app.js               feed loading, filtering, search, tags, summary popup

@@ -1,0 +1,56 @@
+LACA'S SITE - START HERE
+========================
+
+You have been handed a working news website. This file tells you how to
+pick it up. It takes about 45 minutes and you do not need to know how to code.
+
+You will not be reading documentation on your own. You are going to install a
+program called Claude Code, and it will walk you through every step, check your
+work, and fix things when they go wrong. Think of it as a patient colleague
+sitting next to you rather than a manual.
+
+
+STEP 1 - Install Claude Code
+----------------------------
+Go to:  https://claude.com/claude-code
+
+Follow the install instructions for Windows. If it asks you to sign in, create
+an account. This is the only thing you have to do by yourself.
+
+
+STEP 2 - Open this folder in it
+-------------------------------
+Unzip this folder somewhere you will find again - your Documents folder is
+fine. Then open Claude Code and point it at this folder.
+
+If you are not sure how, install it first and ask it: "how do I open a folder?"
+
+
+STEP 3 - Copy this message and send it
+---------------------------------------
+Copy everything between the lines below, paste it into Claude Code, and press
+enter. Then just follow along.
+
+-------------------------------------------------------------------
+I'm Laca. I've just taken over this project and I should say upfront:
+I don't code. I've never used Python, GitHub or a terminal, and I don't
+have any of it installed. I'm on Windows and I don't have a GitHub
+account yet.
+
+Please read HANDOVER.md and walk me through everything from the very
+beginning, one step at a time. Don't assume I know anything, and please
+check each step worked before moving on to the next one.
+-------------------------------------------------------------------
+
+
+THAT IS ALL YOU NEED TO DO
+--------------------------
+Everything else is explained to you as you go.
+
+If you get stuck at any point, tell Claude Code exactly what you see on your
+screen - including the error message, word for word. That is almost always
+enough for it to sort out.
+
+The other files in this folder are reference material. You do not need to read
+them now. HANDOVER.md is the walkthrough, ADDING-A-SITE.md is the one you will
+come back to later, and README.md is the technical reference for a developer.
