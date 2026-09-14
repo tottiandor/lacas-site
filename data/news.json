@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-14T05:01:49Z",
-  "itemCount": 109,
+  "generatedAt": "2026-09-14T09:52:42Z",
+  "itemCount": 119,
   "sources": [
     {
       "id": "thedrum",
@@ -49,6 +49,155 @@
     }
   ],
   "items": [
+    {
+      "id": "b79dc028",
+      "title": "Ne a csík húzza a repülőt! – Hogyan találjuk meg az AI valódi helyét a cégben?",
+      "url": "https://kreativ.hu/cikk/ne-a-csik-huzza-a-repulot-hogyan-talaljuk-meg-az-ai-valodi-helyet-a-cegben",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "„AI-ba kell fektetni, mert az mindent megold”; „a mesterséges intelligenciával minden gyorsabb és jobb lesz”; „az AI elveszi az emberek munkáját, de a profit nő” – számtalan ilyen gondolat…",
+      "fullSummary": "„AI-ba kell fektetni, mert az mindent megold”; „a mesterséges intelligenciával minden gyorsabb és jobb lesz”; „az AI elveszi az emberek munkáját, de a profit nő” – számtalan ilyen gondolat fogalmazódik meg manapság, de mennyi ezekben az igazság? Indokoltak a félelmek? Mi lesz a kreatíviparral? Ilyen kérdésekre keresi a választ Ignácz Péter, a KPMG szenior menedzsere, adat- és mesterséges intelligencia-szakértője és Hodován Lili, a KPMG marketing…",
+      "tags": [
+        "AI",
+        "Kpmg",
+        "Kreativipar",
+        "Advertising",
+        "Media",
+        "Business"
+      ],
+      "rawTags": [
+        "mesterseges-intelligencia",
+        "kpmg",
+        "kreativipar",
+        "ai",
+        "reklam",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/k/p/m/g/-/kpmg-online-cimlap-ai-modositas-png-20260914-920-690-90-zc.webp",
+      "author": "Ignácz Péter,Hodován Lili",
+      "category": "",
+      "publishedAt": "2026-09-14T09:11:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-14T09:52:42Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "cc69ad89",
+      "title": "Elhunyt Kardos Sándor",
+      "url": "https://kreativ.hu/cikk/elhunyt-kardos-sandor",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Kossuth-díjas operatőr 82 éves volt.",
+      "fullSummary": "A Kossuth-díjas operatőr 82 éves volt.",
+      "tags": [
+        "Film & TV",
+        "Halalhir",
+        "Kardos Sandor",
+        "Horusz Archivum",
+        "Popkult"
+      ],
+      "rawTags": [
+        "film",
+        "halalhir",
+        "kardos-sandor",
+        "horusz-archivum",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/k/a/r/d/o/kardos-sandor-png-20260914-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-09-14T08:49:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-14T09:52:42Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "b3e77289",
+      "title": "Duolingo turns mispronounced fashion names into a NYFW collection",
+      "url": "https://www.famouscampaigns.com/2026/09/duolingo-turns-mispronounced-fashion-names-into-a-nyfw-collection/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Duolingo brought its language-learning identity into New York Fashion Week with The Phonetic Collection, a seven-piece capsule created with New York designer Megan O’Cain that turns notoriously tricky fashion names into wearable…",
+      "fullSummary": "Duolingo brought its language-learning identity into New York Fashion Week with The Phonetic Collection, a seven-piece capsule created with New York designer Megan O’Cain that turns notoriously tricky fashion names into wearable pronunciation lessons. The SS27 collection takes names including Hermès, Givenchy, Jacquemus, Moschino, Loewe, Comme des Garçons and Issey Miyake and spells them out […]",
+      "tags": [
+        "Fashion",
+        "PR",
+        "Products",
+        "Design"
+      ],
+      "rawTags": [
+        "Fashion",
+        "PR",
+        "Products"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/Duolingo-SS27_-The-Phonetic-Collection.mp4",
+      "author": "James Herring",
+      "category": "Fashion",
+      "publishedAt": "2026-09-14T08:41:14Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-14T09:52:42Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "98b607dc",
+      "title": "Barbour gets lost in the countryside in latest campaign",
+      "url": "https://www.creativereview.co.uk/barbour-aw26-campaign-film/",
+      "source": "creativereview",
+      "sourceName": "Creative Review",
+      "accent": "#ff4d4d",
+      "summary": "Sienna Miller and Idris Elba take a cinematic detour across Scotland in the brand’s AW26 film created by The Sunshine Company",
+      "fullSummary": "Sienna Miller and Idris Elba take a cinematic detour across Scotland in the brand’s AW26 film created by The Sunshine Company",
+      "tags": [
+        "Branding",
+        "Campaigns",
+        "Film & TV"
+      ],
+      "rawTags": [],
+      "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/09/The-Barbour-Way-screenshot-3.png",
+      "author": "Rebecca Fulleylove",
+      "category": "",
+      "publishedAt": "2026-09-14T08:24:02Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-14T09:52:42Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "251ee8b4",
+      "title": "Your shopper strategy was distinctive. Then it hit social",
+      "url": "https://www.thedrum.com/opinion/your-shopper-strategy-was-distinctive-then-it-hit-social",
+      "source": "thedrum",
+      "sourceName": "The Drum",
+      "accent": "#00d1b2",
+      "summary": "Social algorithms favor formats that already work, explains Marcus Foley of Tommy. So how can shopper marketers maintain a distinct brand identity across platforms? Put 24 pieces of food content on…",
+      "fullSummary": "Social algorithms favor formats that already work, explains Marcus Foley of Tommy. So how can shopper marketers maintain a distinct brand identity across platforms? Put 24 pieces of food content on one slide and something strange happens. Different brands, creators and products, yet a familiarity: an influencer facing camera, homogenized white marble-effect kitchen behind them, similar framing, edit, pace and recipe reveal. Individually, every…",
+      "tags": [
+        "Marketing",
+        "Social Media",
+        "Branding",
+        "Digital Social Media",
+        "Strategy",
+        "Food & Drink"
+      ],
+      "rawTags": [
+        "Social Media",
+        "Brand",
+        "Brand identity",
+        "Digital / social media",
+        "Brand strategy",
+        "Marketing",
+        "Food & Drink"
+      ],
+      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/karsten-winegeart-1789047411.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format",
+      "author": "Marcus Foley",
+      "category": "Marketing",
+      "publishedAt": "2026-09-14T06:00:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-14T09:52:42Z",
+      "enrichAttempts": 1
+    },
     {
       "id": "e363a95a",
       "title": "Amsterdam’s Brandt gallery celebrates 10th anniversary with major rebrand",
@@ -525,7 +674,7 @@
         "visszalepes",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/s/z/a/b/o/szabo-gyorgy-fb-0-20260911-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/s/z/a/b/o/szabo-gyorgy-fb-0-20260911-690-920-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-11T08:14:00Z",
@@ -636,7 +785,7 @@
         "reklam",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/9/-/1/1/-/9-11-getty-png-0-20260911-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/9/-/1/1/-/9-11-getty-3-png-20260911-920-690-90-zc.webp",
       "author": "Lakos Boglárka",
       "category": "",
       "publishedAt": "2026-09-10T22:22:00Z",
@@ -700,7 +849,7 @@
         "reklam",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/e/m/o/t/y/emoty-nominees-20260910-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/e/m/o/t/y/emoty-nominees-20260910-549-75-733-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-10T12:50:00Z",
@@ -733,6 +882,35 @@
       "publishedAt": "2026-09-10T12:29:07Z",
       "datePrecise": true,
       "firstSeenAt": "2026-09-13T23:14:17Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "0961dd17",
+      "title": "Ad of the Day: Tubi matches movies to moods in biggest ever global campaign",
+      "url": "https://www.thedrum.com/news/tubi-matches-movies-to-moods-in-its-biggest-ever-global-campaign",
+      "source": "thedrum",
+      "sourceName": "The Drum",
+      "accent": "#00d1b2",
+      "summary": "Over 110 million people around the world tune in to Tubi every month, settling down on the sofa or passing the time on the subway, according to the Fox Corporation-owned free streaming service. Now,…",
+      "fullSummary": "Over 110 million people around the world tune in to Tubi every month, settling down on the sofa or passing the time on the subway, according to the Fox Corporation-owned free streaming service. Now, the ad-funded platform has launched its own blockbuster campaign, ‘Find Any Feeling For Free,’ breaking its own record for the number of creative assets it is putting out across the US and its growing international markets. A suite of nine 15-second…",
+      "tags": [
+        "Creative",
+        "Creative Work",
+        "Advertising",
+        "Campaigns",
+        "Film & TV"
+      ],
+      "rawTags": [
+        "Creative work",
+        "Ad of the Day",
+        "Creative"
+      ],
+      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/tubi.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
+      "author": "Mel Henson",
+      "category": "Creative",
+      "publishedAt": "2026-09-10T12:14:33Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-14T09:52:42Z",
       "enrichAttempts": 1
     },
     {
@@ -946,7 +1124,7 @@
         "promptmonsters",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/p/r/o/m/p/promptmonsters-reel-2026-00-0-20260910-549-75-733-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/p/r/o/m/p/promptmonsters-reel-2026-00-0-20260910-920-690-90-zc.webp",
       "author": "Schäffer Dániel",
       "category": "",
       "publishedAt": "2026-09-10T07:07:00Z",
@@ -975,7 +1153,7 @@
         "hungarian-art-business",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/h/a/b/-/s/hab-szinphonia4-20260910-549-75-733-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/h/a/b/-/s/hab-szinphonia4-20260910-920-690-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-10T03:52:00Z",
@@ -1091,6 +1269,32 @@
       "enrichAttempts": 1
     },
     {
+      "id": "dd3d341d",
+      "title": "Ad of the Day: Brad Pitt no match for 16 judgmental dogs in new De’Longhi spot",
+      "url": "https://www.thedrum.com/news/ad-of-the-day-brad-pitt-no-match-for-16-judgmental-dogs-in-new-de-longhi-spot",
+      "source": "thedrum",
+      "sourceName": "The Drum",
+      "accent": "#00d1b2",
+      "summary": "What do you do when your brand ambassador is one of the coolest actors in Hollywood? The answer, according to De’Longhi, is to zig when others would zag. Its latest commercial in the long-running…",
+      "fullSummary": "What do you do when your brand ambassador is one of the coolest actors in Hollywood? The answer, according to De’Longhi, is to zig when others would zag. Its latest commercial in the long-running ‘Perfetto’ series features Brad Pitt at his rumpled, bleary-eyed worst, with a series of vignettes showing how he looks first thing in the morning. It also brings back the gorgeous labrador that made an appearance at the end of the last iteration and…",
+      "tags": [
+        "Creative",
+        "Advertising",
+        "Branding"
+      ],
+      "rawTags": [
+        "Ad of the Day",
+        "Creative"
+      ],
+      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/28d6c109-dc13-4a06-8c18-aa53e86b8fd2.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
+      "author": "Mel Henson",
+      "category": "Creative",
+      "publishedAt": "2026-09-09T12:07:06Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-14T09:52:42Z",
+      "enrichAttempts": 1
+    },
+    {
       "id": "b6fca54f",
       "title": "AI hírbemondó olvassa majd a híreket? Új korszak kezdődhet a magyar online médiában",
       "url": "https://kreativ.hu/cikk/ai-ai-hirbemondo-mesterseges-intelligencia-videos-tartalmak-hirek-online-media",
@@ -1153,6 +1357,35 @@
       "publishedAt": "2026-09-09T11:10:52Z",
       "datePrecise": true,
       "firstSeenAt": "2026-09-13T23:14:17Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "65c40cb6",
+      "title": "Julie Seal: I think you are all too chicken to admit this AI ad is great",
+      "url": "https://www.thedrum.com/opinion/julie-seal-i-think-you-are-all-too-chicken-to-admit-ai-can-help",
+      "source": "thedrum",
+      "sourceName": "The Drum",
+      "accent": "#00d1b2",
+      "summary": "Julie Seal talks to filmmaker Nick Tasker about his AI-made unicycling chicken ad and asks why UK agencies still seem so reluctant to embrace the technologyOne of Republic of Imagination’s esteemed…",
+      "fullSummary": "Julie Seal talks to filmmaker Nick Tasker about his AI-made unicycling chicken ad and asks why UK agencies still seem so reluctant to embrace the technologyOne of Republic of Imagination’s esteemed creative director and filmmaker collaborators, the delightful Nick Tasker, last week made a spec commercial about a hen riding a unicycle. It was, frankly, glorious. The shots were well chosen and charming. The DOP did some lovely stuff. There were…",
+      "tags": [
+        "Technology",
+        "AI",
+        "Agencies"
+      ],
+      "rawTags": [
+        "Technology",
+        "Artificial Intelligence",
+        "Agency",
+        "Technology",
+        "Agencies"
+      ],
+      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/screenshot-2026-09-09-112325.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
+      "author": "Julie Seal",
+      "category": "Technology",
+      "publishedAt": "2026-09-09T10:38:20Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-14T09:52:42Z",
       "enrichAttempts": 1
     },
     {
@@ -1480,6 +1713,31 @@
       "publishedAt": "2026-09-08T14:51:36Z",
       "datePrecise": true,
       "firstSeenAt": "2026-09-13T23:14:17Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "24dcf627",
+      "title": "Ad of the Day: Stanley Tucci skips the shoot to enjoy Birra Moretti’s simple pleasures",
+      "url": "https://www.thedrum.com/news/stanley-tucci-skips-the-shoot-to-enjoy-birra-moretti-s-simple-pleasures",
+      "source": "thedrum",
+      "sourceName": "The Drum",
+      "accent": "#00d1b2",
+      "summary": "What works better? High production values, golden-hour light, lush landscapes and lingering product shots? Or celebs having a fantastic time with their friends, shot on a handheld phone and made for…",
+      "fullSummary": "What works better? High production values, golden-hour light, lush landscapes and lingering product shots? Or celebs having a fantastic time with their friends, shot on a handheld phone and made for shares and likes? Lucky Generals has found a smart way to combine the two with the latest commercial for Birra Moretti, part of its acclaimed ‘Enjoy Life’s Simple Pleasures’ brand platform. It opens on a rustic, sun-dappled table, bubbles rising in…",
+      "tags": [
+        "Creative",
+        "Advertising"
+      ],
+      "rawTags": [
+        "Ad of the Day",
+        "Creative"
+      ],
+      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/screenshot-2026-09-08-113412.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
+      "author": "Mel Henson",
+      "category": "Creative",
+      "publishedAt": "2026-09-08T10:56:41Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-14T09:52:42Z",
       "enrichAttempts": 1
     },
     {
@@ -2955,6 +3213,32 @@
       "publishedAt": "2026-06-24T10:44:33Z",
       "datePrecise": true,
       "firstSeenAt": "2026-09-13T23:14:17Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "1db46c5f",
+      "title": "Rexona — Armpit Sponsorship on 2026 World Cup Referee Shirts",
+      "url": "https://theinspiration.com/2026/06/rexona-armpit-sponsorship-on-2026-world-cup-referee-shirts/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "The execution of the campaign is a masterclass in subtlety that pays off with maximum impact. Throughout the standard flow of a football match, the Rexona branding remains completely invisible. The primary referees and the fourth officials…",
+      "fullSummary": "The execution of the campaign is a masterclass in subtlety that pays off with maximum impact. Throughout the standard flow of a football match, the Rexona branding remains completely invisible. The primary referees and the fourth officials wear their standard, strictly regulated kits, looking no different than they have in any other major tournament. The […]",
+      "tags": [
+        "Advertising",
+        "Branding",
+        "Campaigns",
+        "Sport"
+      ],
+      "rawTags": [
+        "Advertising"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/rexona-logo-arbitre-mondial-2.jpg-615x536.webp",
+      "author": "Daniel Ingvartsen",
+      "category": "Advertising",
+      "publishedAt": "2026-06-24T10:39:46Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-14T09:52:42Z",
       "enrichAttempts": 0
     },
     {
