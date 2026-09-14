@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T23:39:39Z",
+  "generatedAt": "2026-09-14T04:57:52Z",
   "itemCount": 107,
   "sources": [
     {
@@ -7,8 +7,8 @@
       "name": "The Drum",
       "site": "https://www.thedrum.com/",
       "accent": "#00d1b2",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "failed to fetch https://www.thedrum.com/: HTTP Error 403: Forbidden",
       "count": 40
     },
     {
@@ -25,8 +25,8 @@
       "name": "Creative Review",
       "site": "https://www.creativereview.co.uk/",
       "accent": "#ff4d4d",
-      "status": "ok",
-      "error": null,
+      "status": "error",
+      "error": "failed to fetch https://www.creativereview.co.uk/feed/: HTTP Error 403: Forbidden",
       "count": 12
     },
     {
@@ -116,7 +116,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "December 8-ig meghosszabbította Tarr Zoltán Grósz Judit közmédiáért felelős miniszteri biztosi megbízatását. A szeptember 10-én közzétett döntés nem tartalmaz indoklást a három hónapos…",
-      "fullSummary": "December 8-ig meghosszabbította Tarr Zoltán Grósz Judit közmédiáért felelős miniszteri biztosi megbízatását. A szeptember 10-én közzétett döntés nem tartalmaz indoklást a három hónapos hosszabbításról.",
+      "fullSummary": "December 8-ig meghosszabbította Tarr Zoltán Grósz Judit közmédiáért felelős miniszteri biztosi megbízatását. A szeptember 10-én közzétett döntés nem tartalmaz indoklást a három hónapos…",
       "tags": [
         "Kozmedia",
         "Grosz Judit",
@@ -176,7 +176,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Október 8-án kerül a hazai mozikba az Extázis Uncut, amely bongor Fonogram-díjas konceptalbumának dalait egy összefüggő filmes történet részeivé alakítja. A dokumentarista és fikciós elemeket vegyítő…",
-      "fullSummary": "Október 8-án kerül a hazai mozikba az Extázis Uncut, amely bongor Fonogram-díjas konceptalbumának dalait egy összefüggő filmes történet részeivé alakítja. A dokumentarista és fikciós elemeket vegyítő produkció az előadó saját történetén keresztül foglalkozik az alkoholfüggőséggel, a családi mintákkal és a felépülés lehetőségével.",
+      "fullSummary": "Október 8-án kerül a hazai mozikba az Extázis Uncut, amely bongor Fonogram-díjas konceptalbumának dalait egy összefüggő filmes történet részeivé alakítja. A dokumentarista és fikciós elemeket vegyítő…",
       "tags": [
         "Film & TV",
         "Premier",
@@ -209,7 +209,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A közmédia jövőjéről, a médiaszabályozásról, a kultúra finanszírozásáról és a tartalomgyártók felelősségéről is beszélgetnek a ma kezdődő DE!HOGYNEM Feszten. A DE! Akcióközösség balatonalmádi…",
-      "fullSummary": "A közmédia jövőjéről, a médiaszabályozásról, a kultúra finanszírozásáról és a tartalomgyártók felelősségéről is beszélgetnek a ma kezdődő DE!HOGYNEM Feszten. A DE! Akcióközösség balatonalmádi rendezvényén a közéleti programokat filmvetítések, színházi előadás és koncertek egészítik ki.",
+      "fullSummary": "A közmédia jövőjéről, a médiaszabályozásról, a kultúra finanszírozásáról és a tartalomgyártók felelősségéről is beszélgetnek a ma kezdődő DE!HOGYNEM Feszten. A DE! Akcióközösség balatonalmádi…",
       "tags": [
         "Ajanlo",
         "Fesztival",
@@ -412,7 +412,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A KDNP által jelölt médiaszakember azután lépett vissza, hogy az Országgyűlés Művelődési Bizottsága két alkalommal sem támogatta a megválasztását. Ezzel Martí Zoltán az első FKT-jelölt, aki maga…",
-      "fullSummary": "A KDNP által jelölt médiaszakember azután lépett vissza, hogy az Országgyűlés Művelődési Bizottsága két alkalommal sem támogatta a megválasztását. Ezzel Martí Zoltán az első FKT-jelölt, aki maga vonta vissza a jelöltségét.",
+      "fullSummary": "A KDNP által jelölt médiaszakember azután lépett vissza, hogy az Országgyűlés Művelődési Bizottsága két alkalommal sem támogatta a megválasztását. Ezzel Martí Zoltán az első FKT-jelölt, aki maga…",
       "tags": [
         "Jelolt",
         "Visszalepes",
@@ -466,7 +466,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A médiamenedzser azután vonta vissza pályázatát, hogy az Országgyűlés a Független Közmédia Testület tagjává választotta. Szabó György a második ismert jelentkező, aki kiszállt az NMHH és a…",
-      "fullSummary": "A médiamenedzser azután vonta vissza pályázatát, hogy az Országgyűlés a Független Közmédia Testület tagjává választotta. Szabó György a második ismert jelentkező, aki kiszállt az NMHH és a Médiatanács elnöki tisztségéért folyó kiválasztási eljárásból.",
+      "fullSummary": "A médiamenedzser azután vonta vissza pályázatát, hogy az Országgyűlés a Független Közmédia Testület tagjává választotta. Szabó György a második ismert jelentkező, aki kiszállt az NMHH és a…",
       "tags": [
         "Nmhh",
         "Mediatanacs",
@@ -574,7 +574,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A 2001. szeptember 11-i terrortámadás nemcsak a hírmédiát és a popkultúrát változtatta meg, hanem a reklámipart is új kérdések elé állította: megszólalhat-e egy márka egy közös tragédiáról, és ha…",
-      "fullSummary": "A 2001. szeptember 11-i terrortámadás nemcsak a hírmédiát és a popkultúrát változtatta meg, hanem a reklámipart is új kérdések elé állította: megszólalhat-e egy márka egy közös tragédiáról, és ha igen, milyen eszközökkel? Az elmúlt huszonöt év kampányai között visszafogott, mára kanonikussá vált megemlékezések, vitatott márkaüzenetek és látványosan elhibázott promóciók egyaránt akadnak.",
+      "fullSummary": "A 2001. szeptember 11-i terrortámadás nemcsak a hírmédiát és a popkultúrát változtatta meg, hanem a reklámipart is új kérdések elé állította: megszólalhat-e egy márka egy közös tragédiáról, és ha…",
       "tags": [
         "USA",
         "9 11",
@@ -642,7 +642,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Az MMSZ által felkért szakmai zsűri idén négy hazai marketingvezetőt jelölt a European Marketer of the Year – Nominee of Hungary díj shortlistjére: Balogh Barbarát, a VELUX globális márkaalelnökét,…",
-      "fullSummary": "Az MMSZ által felkért szakmai zsűri idén négy hazai marketingvezetőt jelölt a European Marketer of the Year – Nominee of Hungary díj shortlistjére: Balogh Barbarát, a VELUX globális márkaalelnökét, Repka Esztert, a Lidl Magyarország marketingvezetőjét, Szak Zsuzsannát, a Henkel európai innovációs és kommunikációs igazgatóját, valamint Tóth Szabolcs Attilát, a BioTechUSA marketing- és e-kereskedelmi igazgatóját.",
+      "fullSummary": "Az MMSZ által felkért szakmai zsűri idén négy hazai marketingvezetőt jelölt a European Marketer of the Year – Nominee of Hungary díj shortlistjére: Balogh Barbarát, a VELUX globális márkaalelnökét,…",
       "tags": [
         "Marketing",
         "European Marketer Of The Year",
@@ -791,7 +791,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Médiaunió Alapítvány 2025 őszén indította el a Függőség 7 jele című kezdeményezést, amely a tinédzserkori szerhasználat és a viselkedési függőségek kockázataira hívta fel a figyelmet. A kampány…",
-      "fullSummary": "A Médiaunió Alapítvány 2025 őszén indította el a Függőség 7 jele című kezdeményezést, amely a tinédzserkori szerhasználat és a viselkedési függőségek kockázataira hívta fel a figyelmet. A kampány most Kiszállókártyák néven folytatódik és konkrét kapaszodókat: elérhető intézményeket, szakembereket mutat meg.",
+      "fullSummary": "A Médiaunió Alapítvány 2025 őszén indította el a Függőség 7 jele című kezdeményezést, amely a tinédzserkori szerhasználat és a viselkedési függőségek kockázataira hívta fel a figyelmet. A kampány…",
       "tags": [
         "Fuggoseg",
         "Jatekfuggoseg",
@@ -884,7 +884,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A játék –, és dokumentumfilmnél még nagyban vitatkoznak róla, a reklám viszont már egyre otthonosabban kezeli az AI-eszközöket a gyártásban. Az biztosnak tűnik, hogy a filmiparban már nem csak…",
-      "fullSummary": "A játék –, és dokumentumfilmnél még nagyban vitatkoznak róla, a reklám viszont már egyre otthonosabban kezeli az AI-eszközöket a gyártásban. Az biztosnak tűnik, hogy a filmiparban már nem csak periférián kísérletező érdekességként kezelik az új típusú intelligenciát: végérvényesen beépülni látszik a filmkészítés technikai folyamataiba és fenekestül felforgatja a kreatív és produkciós munkafolyamatok szerkezetét is. Bizonytalanul, de az AI kezd…",
+      "fullSummary": "A játék –, és dokumentumfilmnél még nagyban vitatkoznak róla, a reklám viszont már egyre otthonosabban kezeli az AI-eszközöket a gyártásban. Az biztosnak tűnik, hogy a filmiparban már nem csak…",
       "tags": [
         "Film & TV",
         "Umbrella",
@@ -919,7 +919,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A SzínPhonia. A Pécsi Iskola. A Művészeti Kar 30 éve című tárlat a Pécshez és a Pécsi Tudományegyetem Művészeti Karának szellemi közegéhez kapcsolódó, több generáción átívelő alkotói kapcsolatokon…",
-      "fullSummary": "A SzínPhonia. A Pécsi Iskola. A Művészeti Kar 30 éve című tárlat a Pécshez és a Pécsi Tudományegyetem Művészeti Karának szellemi közegéhez kapcsolódó, több generáción átívelő alkotói kapcsolatokon keresztül vizsgálja azt a művészeti gondolkodásmódot, amely egyszerre épít a hagyományokra és reagál a jelen kihívásaira.",
+      "fullSummary": "A SzínPhonia. A Pécsi Iskola. A Művészeti Kar 30 éve című tárlat a Pécshez és a Pécsi Tudományegyetem Művészeti Karának szellemi közegéhez kapcsolódó, több generáción átívelő alkotói kapcsolatokon…",
       "tags": [
         "Pecs",
         "Kiallitas",
@@ -1055,7 +1055,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A mesterséges intelligencia segítségével automatizált szövegírás, képgenerálás és videókészítés után megjelenhet az AI hírbemondó is a hazai médiapiacon. A technológia egy online cikkből néhány perc…",
-      "fullSummary": "A mesterséges intelligencia segítségével automatizált szövegírás, képgenerálás és videókészítés után megjelenhet az AI hírbemondó is a hazai médiapiacon. A technológia egy online cikkből néhány perc alatt professzionális, magyar nyelvű hírvideót készít, ami jelentősen átalakíthatja a magyar online hírfogyasztási szokásokat.",
+      "fullSummary": "A mesterséges intelligencia segítségével automatizált szövegírás, képgenerálás és videókészítés után megjelenhet az AI hírbemondó is a hazai médiapiacon. A technológia egy online cikkből néhány perc…",
       "tags": [
         "AI",
         "Online Media",
@@ -1244,7 +1244,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Az AI-láthatóság körül rövid idő alatt meglepően sok biztos recept jelent meg. Elég egy llms.txt, száz AI-cikk, egy első hely a Google-ben vagy néhány látványos képernyőkép, és már kész is az új…",
-      "fullSummary": "Az AI-láthatóság körül rövid idő alatt meglepően sok biztos recept jelent meg. Elég egy llms.txt, száz AI-cikk, egy első hely a Google-ben vagy néhány látványos képernyőkép, és már kész is az új stratégia. A gond csak az, hogy ezek a tanácsok többnyire egy részletnyi igazságból próbálnak teljes rendszert építeni. Az AI szemével sorozat ötödik része.",
+      "fullSummary": "Az AI-láthatóság körül rövid idő alatt meglepően sok biztos recept jelent meg. Elég egy llms.txt, száz AI-cikk, egy első hely a Google-ben vagy néhány látványos képernyőkép, és már kész is az új…",
       "tags": [
         "Markak",
         "AI",
@@ -1791,7 +1791,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Napjaink AI-kutatásának és a vele kapcsolatos kollektív fantáziálásnak az egyik hot topikja, hogy a mesterséges intelligencia fejlődésével kialakul-e a gépekben valamiféle tudatosság. Esetleg…",
-      "fullSummary": "Napjaink AI-kutatásának és a vele kapcsolatos kollektív fantáziálásnak az egyik hot topikja, hogy a mesterséges intelligencia fejlődésével kialakul-e a gépekben valamiféle tudatosság. Esetleg öntudat? Netalán emberfeletti szupertudatra ébrednek? Vagy az emberihez hasonló, de éppen emiatt érző, szenvedő, nyomorúságos tudatra? Egyáltalán van különbség intelligencia és tudat között? És ha különbözőek, akkor mi a kapcsolat közöttük?…",
+      "fullSummary": "Napjaink AI-kutatásának és a vele kapcsolatos kollektív fantáziálásnak az egyik hot topikja, hogy a mesterséges intelligencia fejlődésével kialakul-e a gépekben valamiféle tudatosság. Esetleg…",
       "tags": [
         "AI",
         "Vita",
@@ -2051,7 +2051,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Az influenszermarketing mára a reklámpiac egyik mindennapos eszközévé vált. A jogi környezet és a Gazdasági Versenyhivatal gyakorlata is egyre kiforrottabb. A kampányban részt vevő hirdető,…",
-      "fullSummary": "Az influenszermarketing mára a reklámpiac egyik mindennapos eszközévé vált. A jogi környezet és a Gazdasági Versenyhivatal gyakorlata is egyre kiforrottabb. A kampányban részt vevő hirdető, influenszer és az ügynökség egyaránt felelőssé válhat a fogyasztók felé irányuló kereskedelmi kommunikációért. Egy médiaügynökség számára ezért a reklámjogi megfelelés már nem csak egy, a publikálást megelőző „jogi check”: annak a kampánytervezéstől a…",
+      "fullSummary": "Az influenszermarketing mára a reklámpiac egyik mindennapos eszközévé vált. A jogi környezet és a Gazdasági Versenyhivatal gyakorlata is egyre kiforrottabb. A kampányban részt vevő hirdető,…",
       "tags": [
         "Advertising",
         "Kockazat",
@@ -2084,7 +2084,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Elindult a nevezés a legjobb promóciós megoldásokat, márkamegjelenéseket, aktivációkat és eseményeket díjazó BTL reklámversenyünkre. Az első nevezési határidő október 19, de legkésőbb október 29-ig…",
-      "fullSummary": "Elindult a nevezés a legjobb promóciós megoldásokat, márkamegjelenéseket, aktivációkat és eseményeket díjazó BTL reklámversenyünkre. Az első nevezési határidő október 19, de legkésőbb október 29-ig küldhetitek kedvenc projektjeiteket.",
+      "fullSummary": "Elindult a nevezés a legjobb promóciós megoldásokat, márkamegjelenéseket, aktivációkat és eseményeket díjazó BTL reklámversenyünkre. Az első nevezési határidő október 19, de legkésőbb október 29-ig…",
       "tags": [
         "Btl",
         "Verseny",
@@ -2118,7 +2118,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Hogyan alakítják a magyarság nemzeti identitását a mohácsi csata körül kialakult narratívák, és milyen érdekek mentén születtek meg e különböző értelmezések? Miként jött létre ezekből a reformkor…",
-      "fullSummary": "Hogyan alakítják a magyarság nemzeti identitását a mohácsi csata körül kialakult narratívák, és milyen érdekek mentén születtek meg e különböző értelmezések? Miként jött létre ezekből a reformkor után az a vésztörténet, amely Mohácsot mint nemzeti sorstragédiát láttatja? Hogyan szabadulhatunk meg ettől a káros értelmezéstől? A mohácsi csata 500. évfordulója alkalmából Dr. Varga Szabolcs történésszel, az ELTE Humántudományi Kutatóközpont,…",
+      "fullSummary": "Hogyan alakítják a magyarság nemzeti identitását a mohácsi csata körül kialakult narratívák, és milyen érdekek mentén születtek meg e különböző értelmezések? Miként jött létre ezekből a reformkor…",
       "tags": [
         "Kommunikacio",
         "Interju",
@@ -2595,7 +2595,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "2026-ot sokáig fordulópontként emlegették a mesterséges intelligencia üzleti használatában: az volt a terv, hogy az Európai Unió AI Actjének szigorú, magas kockázatú rendszerekre vonatkozó szabályai…",
-      "fullSummary": "2026-ot sokáig fordulópontként emlegették a mesterséges intelligencia üzleti használatában: az volt a terv, hogy az Európai Unió AI Actjének szigorú, magas kockázatú rendszerekre vonatkozó szabályai ekkorra válnak valódi, számonkérhető kötelezettséggé. A helyzet azonban 2026 első felében jelentősen megváltozott: az EU a Digitális Omnibusz csomaggal 2027–2028-ra halasztotta a legszigorúbb kötelezettségek nagy részét. Ez viszont nem azt jelenti,…",
+      "fullSummary": "2026-ot sokáig fordulópontként emlegették a mesterséges intelligencia üzleti használatában: az volt a terv, hogy az Európai Unió AI Actjének szigorú, magas kockázatú rendszerekre vonatkozó szabályai…",
       "tags": [
         "Szabalyozas",
         "Europai Unio",
@@ -2662,7 +2662,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Eljött a pillanat, amikor szabad álmodozni. Sőt muszáj. Ki kell találnunk, közösen, a szakmának, a piaci szereplőknek, a közönségnek és a politikai döntéshozóknak, hogy milyen legyen Magyarország…",
-      "fullSummary": "Eljött a pillanat, amikor szabad álmodozni. Sőt muszáj. Ki kell találnunk, közösen, a szakmának, a piaci szereplőknek, a közönségnek és a politikai döntéshozóknak, hogy milyen legyen Magyarország poszt-orbáni médiarendszere. Természetesen a médiarendszer nem szűnt meg működni április 12-én, és mindazok a külső tényezők, amelyek világszerte alakítják a nyilvánosságot, nálunk is kijelölik az álmodozás határait.",
+      "fullSummary": "Eljött a pillanat, amikor szabad álmodozni. Sőt muszáj. Ki kell találnunk, közösen, a szakmának, a piaci szereplőknek, a közönségnek és a politikai döntéshozóknak, hogy milyen legyen Magyarország…",
       "tags": [
         "Mediatorveny",
         "Kozmedia",
@@ -2696,7 +2696,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Az új médiatörvény elfogadása után sem késő társadalmi vitát folytatni – állítja Zsolt Péter, szociológus, a Méltányosság Politikaelemző Központ kutatási igazgatója. Szerinte a mostani szabályozás a…",
-      "fullSummary": "Az új médiatörvény elfogadása után sem késő társadalmi vitát folytatni – állítja Zsolt Péter, szociológus, a Méltányosság Politikaelemző Központ kutatási igazgatója. Szerinte a mostani szabályozás a korábbi modellek politikai logikáját viszi tovább, miközben valódi megoldást nem kínál a közmédia függetlenségének problémáira. A Sajtóalap esetében hibrid működést látna jónak, amelyben szakmai, társadalmi és akár véletlenszerű elemek egyaránt…",
+      "fullSummary": "Az új médiatörvény elfogadása után sem késő társadalmi vitát folytatni – állítja Zsolt Péter, szociológus, a Méltányosság Politikaelemző Központ kutatási igazgatója. Szerinte a mostani szabályozás a…",
       "tags": [
         "Finanszirozas",
         "Zsolt Peter",
