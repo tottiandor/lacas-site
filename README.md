@@ -52,8 +52,10 @@ What this means in practice:
   Campaigns**. The other two keep the stories they already have and are marked failed,
   so their chips show struck through on the page. Nothing breaks.
 - To refresh all five, the collector has to run from a normal connection.
-  **`tools/nightly-local.ps1`** does exactly that and pushes the result — one `schtasks`
-  line schedules it nightly, and the comment at the top of the file spells it out.
+  **`tools/nightly-local.sh`** (macOS/Linux) or **`tools/nightly-local.ps1`** (Windows)
+  does exactly that and pushes the result. The shell version schedules itself with
+  `./tools/nightly-local.sh --install-schedule`; the comment at the top of each file
+  spells out the details.
 - The two approaches coexist safely: the local run pulls before it pushes, and the
   collector never loses stories, so whichever runs is an improvement on neither running.
 
@@ -119,8 +121,10 @@ To set the same thing up again from scratch (a fork, or a second copy):
 Needs Python 3.10+ and nothing else — no `pip install`, no `npm`.
 
 ```bash
-python scrape.py
+python3 scrape.py
 ```
+
+On macOS the command is `python3`; on Windows it is usually `python`.
 
 Then, to view the page (opening `index.html` directly will not work, because browsers
 block `fetch` on `file://` URLs):
@@ -360,8 +364,9 @@ assets/styles.css           all styling (plain CSS, no build step)
 assets/app.js               feed loading, filtering, search, tags, summary popup
 scrape.py                   the collector - run this
 add_site.py                 >>> adds a new site for you: python add_site.py <url> <<<
-tools/nightly-local.ps1     collects from this machine and pushes; for the two
-                            sources GitHub's IP ranges cannot reach
+tools/nightly-local.sh      collects from this machine and pushes, for the two
+                            sources GitHub's IP ranges cannot reach (macOS/Linux)
+tools/nightly-local.ps1     the same thing for Windows
 sites.json                  >>> feed-based sources live here; no Python needed <<<
 sources/__init__.py         the source registry (Python adapters + sites.json)
 sources/_common.py          HTTP, text cleanup, RSS parsing, the RSS adapter factory

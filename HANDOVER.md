@@ -7,7 +7,7 @@ onboarding him. Follow it in order.
 
 Laca has taken over this project. He works in the creative industries and is
 not a developer. He has never used Python, Git, GitHub or a terminal, and has
-none of them installed. He is on Windows. He does not have a GitHub account.
+none of them installed. **He is on a Mac.** He does not have a GitHub account.
 
 He is not stupid — he simply has not done this before. Explain things the way
 you would to a smart colleague from a different department.
@@ -28,6 +28,15 @@ you would to a smart colleague from a different department.
    what he sees. Do not make him feel he broke it.
 6. **Let him stop.** At the end of each stage, tell him what is done and what is
    next, so he can walk away and come back.
+
+### Two Mac specifics that will bite if you forget them
+
+- **The command is `python3`, not `python`.** A bare `python` usually does not
+  exist on macOS. Every command in this walkthrough uses `python3`. If you ever
+  see "command not found: python", that is why.
+- **Python from python.org cannot fetch HTTPS until you run its certificate
+  installer.** This is covered in Stage 3a and it is not optional — skip it and
+  the collector fails on every single source with a certificate error.
 
 Deliver the quoted text below in your own voice — it is the substance to cover,
 not a script to recite word for word. Adapt to what he says.
@@ -81,7 +90,7 @@ Keep this short. He needs the shape, not the detail.
 >
 > **2. The schedule.** GitHub — the free service where the project lives — runs
 > that collector automatically every night, around 5am. You don't start it.
-> Your computer doesn't need to be on. It just happens.
+> Your Mac doesn't need to be on. It just happens.
 >
 > **3. The page.** The website reads that one results file and draws the cards.
 > That's all it does.
@@ -108,57 +117,75 @@ Then, only once that has landed:
 > the stories they already have, and their buttons appear crossed out on the
 > page so you can see at a glance. Nothing breaks.
 >
-> There's an optional one-line fix that runs the collector from your own
-> computer instead, where all five work. We'll do it at the end if you want it.
-> The site is perfectly usable either way.
+> There's an optional fix that runs the collector from your own Mac instead,
+> where all five work. We'll do it at the end if you want it. The site is
+> perfectly usable either way.
 
 ---
 
-## Stage 3 — Installing the four things
+## Stage 3 — Installing the three things
 
 First tell him what's coming and why, then do them **one at a time**.
 
-> Four things to install. Here's what each is for, so they're not just names:
+> Three things to install, plus a free account. Here's what each is for, so
+> they're not just names:
 >
 > | What | What it's for |
 > |---|---|
 > | **Python** | The language the collector is written in. The engine. |
-> | **Git** | Moves files between your computer and GitHub. |
+> | **Git** | Moves files between your Mac and GitHub. |
 > | **A GitHub account** | Free. Where the project lives and where the site is hosted. |
 > | **GitHub CLI** | Lets me set GitHub up for you instead of you clicking through menus. |
 >
 > We'll do them in that order and check each one before moving on.
 
-### 3a. Python
+### 3a. Python — and the certificate step
 
-Send him to **https://www.python.org/downloads/** — the big yellow "Download
-Python" button.
+Send him to **https://www.python.org/downloads/macos/** and have him download
+the **macOS 64-bit universal2 installer** for the latest 3.x. It is a normal Mac
+installer — double-click, click through, done.
 
-> **The one thing that matters:** on the first screen of the installer there's a
-> checkbox at the bottom saying **"Add python.exe to PATH"**. Tick it before you
-> click Install. It's easy to miss and it's the single most common thing that
-> goes wrong here. If you miss it, we can fix it, it's just fiddly — so have a
-> look before clicking.
-
-Then verify yourself:
+Verify:
 
 ```bash
-python --version
+python3 --version
 ```
 
-Expect `Python 3.10` or higher. If it says "not found", he almost certainly
-missed the PATH checkbox — the fix is to re-run the installer, choose Modify,
-and tick it. He may need to close and reopen Claude Code afterwards.
+Expect 3.10 or higher.
+
+**Then the step everyone misses.** Tell him clearly:
+
+> One more thing before we move on, and it's the single most common thing that
+> goes wrong on a Mac. Python arrives without the security certificates it needs
+> to read websites. There's a file that installs them.
+>
+> Open **Finder → Applications → Python 3.x** and double-click
+> **Install Certificates.command**. A black window opens, scrolls, and says it's
+> done. Close it.
+
+Verify it actually worked — do not take his word for it:
+
+```bash
+python3 -c "import urllib.request; urllib.request.urlopen('https://www.creativereview.co.uk/feed/', timeout=20); print('certificates OK')"
+```
+
+If that raises `CERTIFICATE_VERIFY_FAILED`, the certificate command has not been
+run, or was run for a different Python version. Find it with
+`ls /Applications | grep Python` and run the one matching `python3 --version`.
 
 ### 3b. Git
 
-Send him to **https://git-scm.com/download/win**. The download starts on its
-own. The installer asks a lot of questions — tell him to accept every default
-and keep clicking Next.
+Ask him to run:
 
 ```bash
 git --version
 ```
+
+macOS will pop up a dialog offering to install the developer command line tools.
+Tell him to click **Install** and wait — it is a few minutes and a few hundred
+megabytes. If git is already there, it just prints a version and you move on.
+
+Re-run `git --version` afterwards to confirm.
 
 ### 3c. GitHub account
 
@@ -176,7 +203,8 @@ Ask him what username he chose and use it for the rest of the walkthrough.
 
 ### 3d. GitHub CLI
 
-Send him to **https://cli.github.com/** (or `winget install --id GitHub.cli`).
+Send him to **https://cli.github.com/** and have him download the macOS
+`.pkg` installer. Double-click, click through.
 
 ```bash
 gh --version
@@ -199,28 +227,31 @@ Confirm with `gh auth status`, and tell him which account it says he is.
 
 ---
 
-## Stage 4 — Run it on his own machine first
+## Stage 4 — Run it on his own Mac first
 
 Prove it works locally before involving GitHub. It's reassuring and it isolates
 problems.
 
 ```bash
-python scrape.py
+python3 scrape.py
 ```
 
 It takes 5–7 minutes the first time. Tell him that **before** you run it, or
 he'll think it has frozen. Explain what's scrolling past: each source being
 visited in turn.
 
+If this fails with a certificate error, go back to Stage 3a — that is the cause
+almost every time.
+
 Then show him the site running locally:
 
 ```bash
-python -m http.server 8765
+python3 -m http.server 8765
 ```
 
 and send him to **http://localhost:8765**.
 
-> That's the whole site, running on your own computer, built from the file the
+> That's the whole site, running on your own Mac, built from the file the
 > collector just wrote. Nobody else can see it — it's yours until we publish it.
 
 Explain why opening `index.html` directly doesn't work (browsers block pages
@@ -294,7 +325,7 @@ him do it himself rather than watching you.
 > Say you want to add Design Week:
 >
 > ```
-> python add_site.py https://www.designweek.co.uk
+> python3 add_site.py https://www.designweek.co.uk
 > ```
 >
 > That's it. It goes away and does all of this on its own:
@@ -312,13 +343,13 @@ Have him run it with `--dry-run` first, so he can see the report without
 anything changing:
 
 ```bash
-python add_site.py https://www.designweek.co.uk --dry-run
+python3 add_site.py https://www.designweek.co.uk --dry-run
 ```
 
 Read the output with him. Then let him run it for real, followed by:
 
 ```bash
-python scrape.py
+python3 scrape.py
 git add -A
 git commit -m "Add Design Week"
 git push
@@ -361,10 +392,23 @@ Cover briefly, then stop:
 - **A crossed-out button** means that source failed on the last run. Its old
   stories are still there. Usually it fixes itself; if it doesn't for a week,
   that source needs attention.
-- **The two blocked sources.** Offer the optional fix now: `tools/nightly-local.ps1`
-  runs the collection from his own computer, where all five work, and can be
-  scheduled nightly with one command — the instructions are in the top of that
-  file. His PC has to be awake. If it isn't, nothing breaks.
+- **The two blocked sources.** Offer the optional fix now. Run once by hand:
+
+  ```bash
+  bash tools/nightly-local.sh
+  ```
+
+  and if he likes it, schedule it every morning at 7am with:
+
+  ```bash
+  bash tools/nightly-local.sh --install-schedule
+  ```
+
+  (`--remove-schedule` undoes it.) Use the `bash ...` form rather than
+  `./tools/...` — unzipping on a Mac strips the file's permission to run
+  itself, and `bash` sidesteps that entirely. His Mac has to be awake —
+  macOS runs a missed job shortly after waking, so overnight sleep is usually
+  fine, and if it never runs nothing breaks.
 - **The Inspiration has stopped publishing.** Its last post is a farewell
   notice. Its back catalogue still shows. He may want to replace it — which, now
   he knows Stage 6, he can do himself.

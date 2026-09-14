@@ -13,7 +13,7 @@ need it.
 Open the project in Claude Code and type:
 
 ```bash
-python add_site.py https://www.designweek.co.uk
+python3 add_site.py https://www.designweek.co.uk
 ```
 
 Swap in whichever publication you want. Use the site's normal home page address
@@ -33,7 +33,7 @@ That single command:
 nothing:
 
 ```bash
-python add_site.py https://www.designweek.co.uk --dry-run
+python3 add_site.py https://www.designweek.co.uk --dry-run
 ```
 
 ---
@@ -78,7 +78,7 @@ can point at the right one.
 Once you're happy, run it for real (the same command without `--dry-run`), then:
 
 ```bash
-python scrape.py
+python3 scrape.py
 ```
 
 That collects from your new source for the first time. It can take a few
@@ -118,7 +118,7 @@ back to `true` whenever you like.
 
 **To remove it completely**, delete its block from `sites.json`.
 
-Either way, run `python scrape.py` afterwards and push, as above.
+Either way, run `python3 scrape.py` afterwards and push, as above.
 
 ---
 
@@ -182,15 +182,19 @@ word. That's almost always enough.
 
 Common ones:
 
-**"'python' is not recognized"** — Python isn't installed, or was installed
-without the "Add to PATH" box ticked. Re-run the Python installer, choose
-Modify, tick the box, then restart Claude Code.
+**"command not found: python"** — on a Mac the command is `python3`, with a
+three. Try again with `python3`.
+
+**"CERTIFICATE_VERIFY_FAILED"** — Python can't read websites yet. Open Finder →
+Applications → Python 3.x and double-click **Install Certificates.command**.
+Wait for it to finish, then try again. This is the most common Mac problem and
+it only has to be done once.
 
 **"already in sites.json"** — you've already added that one. Nothing to do.
 
-**The new source shows zero stories on the site** — run `python scrape.py`. The
+**The new source shows zero stories on the site** — run `python3 scrape.py`. The
 site only shows what the last collection found; adding a source doesn't collect
 from it by itself.
 
 **The site looks unchanged after pushing** — give it two minutes, then reload.
-If it's still stale, hold Ctrl and press F5 to force a fresh copy.
+If it's still stale, press Cmd+Shift+R to force a fresh copy.

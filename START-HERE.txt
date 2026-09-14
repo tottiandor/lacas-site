@@ -14,19 +14,24 @@ STEP 1 - Install Claude Code
 ----------------------------
 Go to:  https://claude.com/claude-code
 
-Follow the install instructions for Windows. If it asks you to sign in, create
-an account. This is the only thing you have to do by yourself.
+Follow the install instructions for Mac. If it asks you to sign in, create an
+account. This is the only thing you have to do by yourself.
 
 
-STEP 2 - Open this folder in it
--------------------------------
-Unzip this folder somewhere you will find again - your Documents folder is
-fine. Then open Claude Code and point it at this folder.
+STEP 2 - Put this folder somewhere sensible
+-------------------------------------------
+Double-click the zip file to unpack it, then drag the resulting folder
+somewhere you will find it again. Your Documents folder is fine.
+
+
+STEP 3 - Open the folder in Claude Code
+----------------------------------------
+Open Claude Code and point it at that folder.
 
 If you are not sure how, install it first and ask it: "how do I open a folder?"
 
 
-STEP 3 - Copy this message and send it
+STEP 4 - Copy this message and send it
 ---------------------------------------
 Copy everything between the lines below, paste it into Claude Code, and press
 enter. Then just follow along.
@@ -34,7 +39,7 @@ enter. Then just follow along.
 -------------------------------------------------------------------
 I'm Laca. I've just taken over this project and I should say upfront:
 I don't code. I've never used Python, GitHub or a terminal, and I don't
-have any of it installed. I'm on Windows and I don't have a GitHub
+have any of it installed. I'm on a Mac and I don't have a GitHub
 account yet.
 
 Please read HANDOVER.md and walk me through everything from the very
@@ -50,6 +55,11 @@ Everything else is explained to you as you go.
 If you get stuck at any point, tell Claude Code exactly what you see on your
 screen - including the error message, word for word. That is almost always
 enough for it to sort out.
+
+One thing worth knowing in advance, because it trips up nearly everyone on a
+Mac: after Python installs, there is a second small step that gives it
+permission to read websites. Claude Code will tell you when to do it. If you
+skip it, nothing works and the reason is not obvious.
 
 The other files in this folder are reference material. You do not need to read
 them now. HANDOVER.md is the walkthrough, ADDING-A-SITE.md is the one you will
