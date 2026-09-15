@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-14T09:52:42Z",
-  "itemCount": 119,
+  "generatedAt": "2026-09-15T03:24:26Z",
+  "itemCount": 126,
   "sources": [
     {
       "id": "thedrum",
       "name": "The Drum",
       "site": "https://www.thedrum.com/",
       "accent": "#00d1b2",
-      "status": "ok",
-      "error": null,
-      "count": 40
+      "status": "error",
+      "error": "failed to fetch https://www.thedrum.com/: HTTP Error 403: Forbidden",
+      "count": 45
     },
     {
       "id": "kreativ",
@@ -25,9 +25,9 @@
       "name": "Creative Review",
       "site": "https://www.creativereview.co.uk/",
       "accent": "#ff4d4d",
-      "status": "ok",
-      "error": null,
-      "count": 12
+      "status": "error",
+      "error": "failed to fetch https://www.creativereview.co.uk/feed/: HTTP Error 403: Forbidden",
+      "count": 15
     },
     {
       "id": "theinspiration",
@@ -50,6 +50,159 @@
   ],
   "items": [
     {
+      "id": "65cf2ef3",
+      "title": "A Csendes barát Magyarország hivatalos nevezése a 2027-es Oscar-versenyben",
+      "url": "https://kreativ.hu/cikk/a-csendes-barat-magyarorszag-hivatalos-nevezese-a-2027-es-oscar-versenyben",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Enyedi Ildikó Csendes barát című filmjét nevezi Magyarország a legjobb nemzetközi film kategóriájában a 99. Oscar-díjra. A velencei filmfesztiválon hat díjjal elismert alkotás 2026 januárjában került…",
+      "fullSummary": "Enyedi Ildikó Csendes barát című filmjét nevezi Magyarország a legjobb nemzetközi film kategóriájában a 99. Oscar-díjra. A velencei filmfesztiválon hat díjjal elismert alkotás 2026 januárjában került a magyar mozikba a Mozinet forgalmazásában.",
+      "tags": [
+        "Awards",
+        "Oscar Dij",
+        "Enyedi Ildiko",
+        "Csendes Barat",
+        "Popkult",
+        "Film & TV"
+      ],
+      "rawTags": [
+        "nevezes",
+        "oscar-dij",
+        "enyedi-ildiko",
+        "csendes-barat",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/c/s/e/n/d/csendesbarat-foto-mozinet-0-20260914-920-690-90-zc.webp",
+      "author": "L. B.",
+      "category": "",
+      "publishedAt": "2026-09-14T15:21:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-15T03:24:26Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "8d8e6804",
+      "title": "„Ne szexualizáljátok a női sportot!” – kiakadtak Sydney Sweeney meztelen reklámján az olimpikonok",
+      "url": "https://kreativ.hu/cikk/sydney-sweeney-meztelen-reklam-novig-sportfogadas-kritika",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Az ausztrál olimpiai bajnok Ariarne Titmus szerint a színésznő sportfogadási kampánya „pofon minden nőnek”, aki az életét a sportnak szentelte. Több élsportoló is azt kifogásolja, hogy a reklám…",
+      "fullSummary": "Az ausztrál olimpiai bajnok Ariarne Titmus szerint a színésznő sportfogadási kampánya „pofon minden nőnek”, aki az életét a sportnak szentelte. Több élsportoló is azt kifogásolja, hogy a reklám szexualizálja a női sportot.",
+      "tags": [
+        "Advertising",
+        "Sportfogadas",
+        "Kritika",
+        "Meztelen",
+        "Sydney Sweeney",
+        "Novig"
+      ],
+      "rawTags": [
+        "reklam",
+        "sportfogadas",
+        "kritika",
+        "meztelen",
+        "sydney-sweeney",
+        "novig"
+      ],
+      "image": "https://kreativ.hu/img-cache/s/y/d/n/e/sydney-sweeney-reklam-v2-0-20260914-638-478-5-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-09-14T13:12:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-15T03:24:26Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "6195dfca",
+      "title": "Átadták a 22. CineFest díjait",
+      "url": "https://kreativ.hu/cikk/atadtak-a-22-cinefest-dijait",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A francia Sarah Arnold első nagyjátékfilmje, a Túl sok vadállat nyerte a fesztivál fődíját, a Pressburger-díjat, míg Reisz Gábor negyedik filmje, a Földszint kapta a zsűri nagydíját, a Zukor-díjat,…",
+      "fullSummary": "A francia Sarah Arnold első nagyjátékfilmje, a Túl sok vadállat nyerte a fesztivál fődíját, a Pressburger-díjat, míg Reisz Gábor negyedik filmje, a Földszint kapta a zsűri nagydíját, a Zukor-díjat, valamint két elismerésben részesült a Vádemelés című német bűnügyi történet.",
+      "tags": [
+        "Dijak",
+        "Filmfesztival",
+        "Cinefest",
+        "Popkult",
+        "Awards"
+      ],
+      "rawTags": [
+        "dijak",
+        "filmfesztival",
+        "cinefest",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/f/o/l/d/s/foldszint-still-1-20260914-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-09-14T12:52:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-15T03:24:26Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "665e63ee",
+      "title": "OMHU — The Iconic Dupe",
+      "url": "https://theinspiration.com/2026/09/omhu-the-iconic-dupe/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "OMHU’s iconic TEDDY sofa has become one of the most copied sofas online. Instead of fighting the dupes, OMHU decided to beat them at their own game. They created TEDY – a limited-edition version of their own sofa with one “D” missing – and…",
+      "fullSummary": "OMHU’s iconic TEDDY sofa has become one of the most copied sofas online. Instead of fighting the dupes, OMHU decided to beat them at their own game. They created TEDY – a limited-edition version of their own sofa with one “D” missing – and launched 100 pieces on the very platforms where the copies are […]",
+      "tags": [
+        "Advertising",
+        "Design"
+      ],
+      "rawTags": [
+        "Advertising",
+        "Design"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/Iconic-Dupe-Label-Front-Final-750x536.webp",
+      "author": "René Kammersgaard",
+      "category": "Advertising",
+      "publishedAt": "2026-09-14T11:03:38Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-15T03:24:26Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "db5851db",
+      "title": "A Viasat Nature-rel bővül a Network4 és az Atmedia Csoport együttműködése",
+      "url": "https://kreativ.hu/cikk/a-viasat-nature-rel-bovul-a-network4-es-az-atmedia-csoport-egyuttmukodese",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Novembertől a kereskedőház értékesíti a prémium ismeretterjesztő csatorna reklámfelületeit.",
+      "fullSummary": "Novembertől a kereskedőház értékesíti a prémium ismeretterjesztő csatorna reklámfelületeit.",
+      "tags": [
+        "Egyuttmukodes",
+        "Atmedia",
+        "Viasat Nature",
+        "Network4",
+        "Advertising",
+        "Media"
+      ],
+      "rawTags": [
+        "egyuttmukodes",
+        "atmedia",
+        "viasat-nature",
+        "network4",
+        "reklam",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/i/k/e/-/mike-van-den-bos-7hkdb6i3afk-unsplash-0-20260914-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-09-14T10:57:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-15T03:24:26Z",
+      "enrichAttempts": 1
+    },
+    {
       "id": "b79dc028",
       "title": "Ne a csík húzza a repülőt! – Hogyan találjuk meg az AI valódi helyét a cégben?",
       "url": "https://kreativ.hu/cikk/ne-a-csik-huzza-a-repulot-hogyan-talaljuk-meg-az-ai-valodi-helyet-a-cegben",
@@ -57,7 +210,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "„AI-ba kell fektetni, mert az mindent megold”; „a mesterséges intelligenciával minden gyorsabb és jobb lesz”; „az AI elveszi az emberek munkáját, de a profit nő” – számtalan ilyen gondolat…",
-      "fullSummary": "„AI-ba kell fektetni, mert az mindent megold”; „a mesterséges intelligenciával minden gyorsabb és jobb lesz”; „az AI elveszi az emberek munkáját, de a profit nő” – számtalan ilyen gondolat fogalmazódik meg manapság, de mennyi ezekben az igazság? Indokoltak a félelmek? Mi lesz a kreatíviparral? Ilyen kérdésekre keresi a választ Ignácz Péter, a KPMG szenior menedzsere, adat- és mesterséges intelligencia-szakértője és Hodován Lili, a KPMG marketing…",
+      "fullSummary": "„AI-ba kell fektetni, mert az mindent megold”; „a mesterséges intelligenciával minden gyorsabb és jobb lesz”; „az AI elveszi az emberek munkáját, de a profit nő” – számtalan ilyen gondolat…",
       "tags": [
         "AI",
         "Kpmg",
@@ -105,7 +258,7 @@
         "horusz-archivum",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/k/a/r/d/o/kardos-sandor-png-20260914-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/k/a/r/d/o/kardos2-png-0-20260914-920-690-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-14T08:49:00Z",
@@ -165,6 +318,40 @@
       "enrichAttempts": 0
     },
     {
+      "id": "0c43fb95",
+      "title": "„Minden fotó egy olyan tragédiát közöl, ami már bevégeztetett”",
+      "url": "https://kreativ.hu/cikk/minden-foto-egy-olyan-tragediat-kozol-ami-mar-bevegeztetett",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Nagyjából egymillió fénykép szerepel Kardos Sándor Kossuth-díjas operatőr, filmrendező privátfotó-gyűjteményében, a Hórusz Archívumban, amelynek feldolgozását, digitalizálását a mai napig ő…",
+      "fullSummary": "Nagyjából egymillió fénykép szerepel Kardos Sándor Kossuth-díjas operatőr, filmrendező privátfotó-gyűjteményében, a Hórusz Archívumban, amelynek feldolgozását, digitalizálását a mai napig ő irányítja. Hogyan ejtették rabul az amatőr fényképek, és az évtizedek során mire tanította ez a hatalmas anyag? A sokat idézett gyűjteményről Kardos Sándorral beszélgettünk.",
+      "tags": [
+        "Photography",
+        "Archivum",
+        "Archiv Foto",
+        "Kardos Sandor",
+        "Horusz Archivum",
+        "Popkult"
+      ],
+      "rawTags": [
+        "foto",
+        "archivum",
+        "fotografia",
+        "archiv-foto",
+        "kardos-sandor",
+        "horusz-archivum",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/k/a/r/d/o/kardos-sandor-png-20260624-446-25-595-90-zc.webp",
+      "author": "Szerdahelyi Krisztina",
+      "category": "",
+      "publishedAt": "2026-09-14T06:44:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-15T03:24:26Z",
+      "enrichAttempts": 1
+    },
+    {
       "id": "251ee8b4",
       "title": "Your shopper strategy was distinctive. Then it hit social",
       "url": "https://www.thedrum.com/opinion/your-shopper-strategy-was-distinctive-then-it-hit-social",
@@ -196,6 +383,33 @@
       "publishedAt": "2026-09-14T06:00:00Z",
       "datePrecise": true,
       "firstSeenAt": "2026-09-14T09:52:42Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "90c6cb16",
+      "title": "A gyermekbarát internet kihívásairól szólt a Média- és Internetkonferencia",
+      "url": "https://kreativ.hu/cikk/a-gyermekbarat-internet-kihivasairol-szolt-a-xvi-media-es-internetkonferencia",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Nemzetközi Gyermekmentő Szolgálat, mint Magyarország Safer Internet Centere, 16. alkalommal rendezte meg Média- és Internetkonferenciáját szeptember 10-én és 11-én a Magyar Telekom Székházban.",
+      "fullSummary": "A Nemzetközi Gyermekmentő Szolgálat, mint Magyarország Safer Internet Centere, 16. alkalommal rendezte meg Média- és Internetkonferenciáját szeptember 10-én és 11-én a Magyar Telekom Székházban.",
+      "tags": [
+        "Internet",
+        "Konferencia",
+        "Media"
+      ],
+      "rawTags": [
+        "internet",
+        "konferencia",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/e/d/i/a/mediakonferencia-20260914-549-75-733-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-09-14T05:26:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-15T03:24:26Z",
       "enrichAttempts": 1
     },
     {
@@ -320,7 +534,7 @@
         "grosz-judit",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/g/r/o/s/z/grosz-judit-portre-0-20260911-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/g/r/o/s/z/grosz-judit-portre-0-20260911-690-920-90-zc.webp",
       "author": "L. B.",
       "category": "",
       "publishedAt": "2026-09-11T13:45:00Z",
@@ -385,7 +599,7 @@
         "albumfilm",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/e/x/t/a/z/extazis-uncut-plakat-0-20260911-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/e/x/t/a/z/extazis-uncut-plakat-0-20260911-609-812-90-zc.webp",
       "author": "L. B.",
       "category": "",
       "publishedAt": "2026-09-11T11:55:00Z",
@@ -418,7 +632,7 @@
         "media",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/d/e/-/h/o/de-hogynem-programok-png-0-20260911-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/d/e/-/h/o/de-hogynem-programok-png-0-20260911-609-812-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-11T10:41:00Z",
@@ -674,7 +888,7 @@
         "visszalepes",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/s/z/a/b/o/szabo-gyorgy-fb-0-20260911-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/s/z/a/b/o/szabo-gyorgy-fb-0-20260911-920-690-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-11T08:14:00Z",
@@ -849,7 +1063,7 @@
         "reklam",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/e/m/o/t/y/emoty-nominees-20260910-549-75-733-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/e/m/o/t/y/emoty-nominees-20260910-920-690-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-10T12:50:00Z",
@@ -936,7 +1150,7 @@
         "verseny",
         "medcom"
       ],
-      "image": "https://kreativ.hu/img-cache/m/e/d/c/o/medcom2-png-0-20260910-458-25-611-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/m/e/d/c/o/medcom2-png-0-20260910-813-609-75-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-10T10:46:00Z",
