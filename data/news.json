@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-15T03:24:26Z",
-  "itemCount": 126,
+  "generatedAt": "2026-09-16T03:22:31Z",
+  "itemCount": 139,
   "sources": [
     {
       "id": "thedrum",
@@ -50,6 +50,377 @@
   ],
   "items": [
     {
+      "id": "d60e54ac",
+      "title": "„Elfogadjuk az eredményt, de boldogok azért nem vagyunk” – a Mediaworks nyomtatja a ferencvárosi önkormányzati lapot",
+      "url": "https://kreativ.hu/cikk/mediaworks-kilences-magazin-kozbeszerzes",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Mediaworks Hungary Zrt. nyerte a ferencvárosi Kilences magazin nyomdai előállítására kiírt közbeszerzést, így a következő tizenkét lapszámot a KESMA-hoz tartozó médiavállalat készíti. A kiadó…",
+      "fullSummary": "A Mediaworks Hungary Zrt. nyerte a ferencvárosi Kilences magazin nyomdai előállítására kiírt közbeszerzést, így a következő tizenkét lapszámot a KESMA-hoz tartozó médiavállalat készíti. A kiadó szabályosnak és átláthatónak nevezte az eljárást, ugyanakkor arra figyelmeztetett, hogy a Mediaworks nyomdai kapacitása jelentős versenyelőnyt biztosít a vállalatnak.",
+      "tags": [
+        "Media"
+      ],
+      "rawTags": [
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/8/1/1/4/3/811437885-1773649647118716-7068040497363604784-n-20260915-920-690-90-zc.webp",
+      "author": "L. B.",
+      "category": "",
+      "publishedAt": "2026-09-15T15:55:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-16T03:22:31Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "6659ccf9",
+      "title": "KFC turns pickle obsession into high fashion with ‘Picklecore’",
+      "url": "https://www.famouscampaigns.com/2026/09/kfc-turns-pickle-obsession-into-high-fashion-with-picklecore/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "KFC Australia has swapped its famous red for pickle green in Picklecore, a fashion-inspired campaign by Special Australia that turns a limited-edition gherkin menu into an entire aesthetic. The campaign borrows the logic of fashion…",
+      "fullSummary": "KFC Australia has swapped its famous red for pickle green in Picklecore, a fashion-inspired campaign by Special Australia that turns a limited-edition gherkin menu into an entire aesthetic. The campaign borrows the logic of fashion micro-trends, treating pickle obsession less like a flavour preference and more like something people might wear. Teaser billboards feature imaginary […]",
+      "tags": [
+        "Advertising",
+        "Experiential",
+        "Fashion",
+        "Food & Drink",
+        "PR",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "Advertising",
+        "Experiential",
+        "Fashion",
+        "Food & Drink",
+        "PR"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/picklecore.mp4",
+      "author": "James Herring",
+      "category": "Advertising",
+      "publishedAt": "2026-09-15T15:10:05Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-16T03:22:31Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "213f701e",
+      "title": "Vállalati ügyektől – a médiafenntarthatóságig",
+      "url": "https://kreativ.hu/cikk/vallalati-ugyektol-a-mediafenntarthatosagig",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Öt kategóriában várjuk a társadalmi, környezeti és üzleti felelősségvállalás legjobb példáit – a Doing Good – CSR Award első nevezési határideje: 2026. november 2. Mutatjuk milyen projektekkel…",
+      "fullSummary": "Öt kategóriában várjuk a társadalmi, környezeti és üzleti felelősségvállalás legjobb példáit – a Doing Good – CSR Award első nevezési határideje: 2026. november 2. Mutatjuk milyen projektekkel lehet nevezni!",
+      "tags": [
+        "Verseny",
+        "Csr",
+        "Pph Media",
+        "Csr Award",
+        "Doing Good",
+        "Media"
+      ],
+      "rawTags": [
+        "verseny",
+        "csr",
+        "pph-media",
+        "csr-award",
+        "doing-good"
+      ],
+      "image": "https://kreativ.hu/img-cache/c/s/r/2/0/csr2026-1920x720-1-png-20260915-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-09-15T14:03:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-16T03:22:31Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "683b4586",
+      "title": "Vezetőváltás: Nagy Gábort választották a MaReSz Rendezvényhelyszín tagozatának élére",
+      "url": "https://kreativ.hu/cikk/nagy-gabor-vezeti-a-maresz-rendezvenyhelyszin-tagozatat",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Az Eventrend Group alapító társtulajdonosa két évre kapott megbízást. Nagy Gábor Pál Biankát váltja a tagozat vezetésében.",
+      "fullSummary": "Az Eventrend Group alapító társtulajdonosa két évre kapott megbízást. Nagy Gábor Pál Biankát váltja a tagozat vezetésében.",
+      "tags": [
+        "Maresz",
+        "Karrierhir",
+        "Vezetovalasztas",
+        "Advertising"
+      ],
+      "rawTags": [
+        "maresz",
+        "karrierhir",
+        "vezetovalasztas",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/n/a/g/y/-/nagy-gabor-eventrend-png-0-20260915-920-690-90-zc.webp",
+      "author": "L. B.",
+      "category": "",
+      "publishedAt": "2026-09-15T13:56:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-16T03:22:31Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "14397ee2",
+      "title": "Elhunyt Jürg Marquard, a magyar magazinpiac egykori meghatározó szereplője",
+      "url": "https://kreativ.hu/cikk/meghalt-jurg-marquard",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A svájci médiavállalkozó nyolcvanegy éves volt. Az általa alapított médiacsoport több évtizeden keresztül volt jelen Magyarországon: egykor a Magyar Hírlap és a Mai Nap, később pedig számos ismert…",
+      "fullSummary": "A svájci médiavállalkozó nyolcvanegy éves volt. Az általa alapított médiacsoport több évtizeden keresztül volt jelen Magyarországon: egykor a Magyar Hírlap és a Mai Nap, később pedig számos ismert életmódmagazin kiadójaként.",
+      "tags": [
+        "Marquard",
+        "Marquard Media",
+        "Gyaszhir",
+        "Media"
+      ],
+      "rawTags": [
+        "marquard",
+        "marquard-media",
+        "gyaszhir",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/k/e/y/s/t/keystone-marquard-1993-png-20260915-920-690-90-zc.webp",
+      "author": "L. B.",
+      "category": "",
+      "publishedAt": "2026-09-15T13:12:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-16T03:22:31Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "9bc5db0b",
+      "title": "„Krónikus online doomscroller” vagy? Téged keres a Szingapúri Nemzeti Galéria",
+      "url": "https://kreativ.hu/cikk/doomscroll-brainrot-tiktok-rezidencia-szingapuri-nemzeti-muzeum",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Négy hónapos, fizetett TikTok-rezidenciaprogramot indít a Szingapúri Nemzeti Galéria. A jelentkezőknek nem kell ismert tartalomkészítőnek vagy művészeti szakértőnek lenniük: az intézmény elsősorban…",
+      "fullSummary": "Négy hónapos, fizetett TikTok-rezidenciaprogramot indít a Szingapúri Nemzeti Galéria. A jelentkezőknek nem kell ismert tartalomkészítőnek vagy művészeti szakértőnek lenniük: az intézmény elsősorban kreativitást, játékosságot és jó történetmesélési képességet keres.",
+      "tags": [
+        "Muzeum",
+        "Kulturalis Marketing",
+        "Social Media",
+        "Popkult"
+      ],
+      "rawTags": [
+        "muzeum",
+        "kulturalis-marketing",
+        "tiktok",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-1238801064-jpeg-20260915-920-690-90-zc.webp",
+      "author": "L. B.",
+      "category": "",
+      "publishedAt": "2026-09-15T11:53:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-16T03:22:31Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "3147bdd8",
+      "title": "Uniós fellépést sürget az MLE az AI által használt sajtótartalmak díjazásáért",
+      "url": "https://kreativ.hu/cikk/mle-europai-bizottsag-brusszel-ai-strategia-licenc-dijazas",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Magyar Lapkiadók Egyesülete azt kéri az Európai Bizottságtól, hogy a készülő kulturális és kreatívipari AI-stratégia teremtsen átlátható felhasználási és működőképes licencelési feltételeket a…",
+      "fullSummary": "A Magyar Lapkiadók Egyesülete azt kéri az Európai Bizottságtól, hogy a készülő kulturális és kreatívipari AI-stratégia teremtsen átlátható felhasználási és működőképes licencelési feltételeket a sajtókiadók számára. Az érdekképviselet szerint lehetővé kell tenni, hogy a kiadók bevételhez jussanak szellemi tulajdonuk AI-célú hasznosításából.",
+      "tags": [
+        "Europai Bizottsag",
+        "AI",
+        "Mle",
+        "Magyar Lapkiadok Egyesulete",
+        "Media",
+        "Strategy"
+      ],
+      "rawTags": [
+        "europai-bizottsag",
+        "mesterseges-intelligencia",
+        "mle",
+        "magyar-lapkiadok-egyesulete",
+        "ai",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-68115641-jpeg-0-20260915-690-920-90-zc.webp",
+      "author": "L. B.",
+      "category": "",
+      "publishedAt": "2026-09-15T10:06:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-16T03:22:31Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "ffa9705c",
+      "title": "NOT A HOTEL — Pokémon Sleep",
+      "url": "https://theinspiration.com/2026/09/not-a-hotel-pokemon-sleep/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "",
+      "fullSummary": "",
+      "tags": [
+        "Advertising",
+        "Design"
+      ],
+      "rawTags": [
+        "Advertising",
+        "Design"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/pokemon1-750x536.webp",
+      "author": "René Kammersgaard",
+      "category": "Advertising",
+      "publishedAt": "2026-09-15T09:30:06Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-16T03:22:31Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "5a195254",
+      "title": "Savage X Fenty — Shadow",
+      "url": "https://theinspiration.com/2026/09/savage-x-fenty-shadow/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "",
+      "fullSummary": "",
+      "tags": [
+        "Advertising",
+        "Fashion"
+      ],
+      "rawTags": [
+        "Advertising",
+        "Fashion"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/savage-fenty4-750x536.webp",
+      "author": "René Kammersgaard",
+      "category": "Advertising",
+      "publishedAt": "2026-09-15T09:13:11Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-16T03:22:31Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "342178c9",
+      "title": "A Megasztár és a Házasság első látásra lettek a legnézettebb műsorok – 37. heti nézettségi adatok",
+      "url": "https://kreativ.hu/cikk/nezettsegi-adatok-37-het-rtl-tv2",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Már második hete, hogy az RTL és a TV2 elindította az őszi szezont, és bár múlt héten az RTL nézettsége több ponton lehagyta a TV2 nézettségét, a 37. héten már a Megasztár és a Házasság első látásra…",
+      "fullSummary": "Már második hete, hogy az RTL és a TV2 elindította az őszi szezont, és bár múlt héten az RTL nézettsége több ponton lehagyta a TV2 nézettségét, a 37. héten már a Megasztár és a Házasság első látásra érdekelte a legtöbb tévénézőt.",
+      "tags": [
+        "Reality",
+        "Tv2",
+        "Nezettseg",
+        "RTL",
+        "Media"
+      ],
+      "rawTags": [
+        "reality",
+        "tv2",
+        "nezettseg",
+        "rtl",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/d/s/c/-/5/dsc-5798-0-20260915-920-690-90-zc.webp",
+      "author": "Fuchs Viktória",
+      "category": "",
+      "publishedAt": "2026-09-15T08:54:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-16T03:22:31Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "fb8e5185",
+      "title": "Why Kahlúa have recruited raving grandparents",
+      "url": "https://www.famouscampaigns.com/2026/09/why-kahlua-have-recruited-raving-grandparents/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Kahlúa Coffee Cream is trying to drag cream liqueur out of the bedtime slot with Not A Nightcap, a new brand campaign from Wieden+Kennedy London that casts viral grandparents and turns a care home lounge into a rave. Directed by Ciesay,…",
+      "fullSummary": "Kahlúa Coffee Cream is trying to drag cream liqueur out of the bedtime slot with Not A Nightcap, a new brand campaign from Wieden+Kennedy London that casts viral grandparents and turns a care home lounge into a rave. Directed by Ciesay, the 30-second film stars Grimegran, Beau The Beard and Grandad Frank. Beau appears as […]",
+      "tags": [
+        "Advertising",
+        "Food & Drink",
+        "Branding",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "Advertising",
+        "Food & Drink"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/New-Kahlua-Coffee-Cream-_-Its-Not-a-Nightcap.mp4",
+      "author": "James Herring",
+      "category": "Advertising",
+      "publishedAt": "2026-09-15T08:53:11Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-16T03:22:31Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "c3cdf566",
+      "title": "The winners of the 2026 iPhone Photography Awards",
+      "url": "https://theinspiration.com/2026/09/the-winners-of-the-2026-iphone-photography-awards/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "",
+      "fullSummary": "",
+      "tags": [
+        "Photography",
+        "Awards"
+      ],
+      "rawTags": [
+        "Photography"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/863b5d724_Other-146152_21725-82472_1_1_5_IMG_0506-Andreas-Sohns-750x536.webp",
+      "author": "Daniel Ingvartsen",
+      "category": "Photography",
+      "publishedAt": "2026-09-15T07:16:28Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-16T03:22:31Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "7ead7680",
+      "title": "\"Megvárom, amíg elküldenek\" - Menesztették Schmidt Máriát, ideiglenesen bezár a Terror Háza",
+      "url": "https://kreativ.hu/cikk/menesztettek-schmidt-mariat-ideiglenesen-bezar-a-terror-haza",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A társadalmi kapcsolatokért és kultúráért felelős miniszter megszüntette Schmidt Mária főigazgatói megbízatását a Terror Háza Múzeumban. Az intézmény ideiglenesen bezár: a miniszteri közlés szerint…",
+      "fullSummary": "A társadalmi kapcsolatokért és kultúráért felelős miniszter megszüntette Schmidt Mária főigazgatói megbízatását a Terror Háza Múzeumban. Az intézmény ideiglenesen bezár: a miniszteri közlés szerint átvilágítják a kiállítás tartalmát, tisztázzák a kapcsolódó jogokat, és új működési kereteket alakítanak ki.",
+      "tags": [
+        "Bezaras",
+        "Terror Haza",
+        "Schmidt Maria",
+        "Menesztes",
+        "Popkult",
+        "Politics"
+      ],
+      "rawTags": [
+        "bezaras",
+        "terror-haza",
+        "schmidt-maria",
+        "menesztes",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/d/-/p/r/g/d-prg20251104002-scaled-resized-970-0-20260915-546-75-729-90-zc.webp",
+      "author": "L. B.",
+      "category": "",
+      "publishedAt": "2026-09-15T07:15:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-16T03:22:31Z",
+      "enrichAttempts": 1
+    },
+    {
       "id": "65cf2ef3",
       "title": "A Csendes barát Magyarország hivatalos nevezése a 2027-es Oscar-versenyben",
       "url": "https://kreativ.hu/cikk/a-csendes-barat-magyarorszag-hivatalos-nevezese-a-2027-es-oscar-versenyben",
@@ -57,7 +428,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Enyedi Ildikó Csendes barát című filmjét nevezi Magyarország a legjobb nemzetközi film kategóriájában a 99. Oscar-díjra. A velencei filmfesztiválon hat díjjal elismert alkotás 2026 januárjában került…",
-      "fullSummary": "Enyedi Ildikó Csendes barát című filmjét nevezi Magyarország a legjobb nemzetközi film kategóriájában a 99. Oscar-díjra. A velencei filmfesztiválon hat díjjal elismert alkotás 2026 januárjában került a magyar mozikba a Mozinet forgalmazásában.",
+      "fullSummary": "Enyedi Ildikó Csendes barát című filmjét nevezi Magyarország a legjobb nemzetközi film kategóriájában a 99. Oscar-díjra. A velencei filmfesztiválon hat díjjal elismert alkotás 2026 januárjában került…",
       "tags": [
         "Awards",
         "Oscar Dij",
@@ -73,7 +444,7 @@
         "csendes-barat",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/c/s/e/n/d/csendesbarat-foto-mozinet-0-20260914-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/c/s/e/n/d/csendesbarat-foto-mozinet-0-20260914-690-920-90-zc.webp",
       "author": "L. B.",
       "category": "",
       "publishedAt": "2026-09-14T15:21:00Z",
@@ -89,7 +460,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Az ausztrál olimpiai bajnok Ariarne Titmus szerint a színésznő sportfogadási kampánya „pofon minden nőnek”, aki az életét a sportnak szentelte. Több élsportoló is azt kifogásolja, hogy a reklám…",
-      "fullSummary": "Az ausztrál olimpiai bajnok Ariarne Titmus szerint a színésznő sportfogadási kampánya „pofon minden nőnek”, aki az életét a sportnak szentelte. Több élsportoló is azt kifogásolja, hogy a reklám szexualizálja a női sportot.",
+      "fullSummary": "Az ausztrál olimpiai bajnok Ariarne Titmus szerint a színésznő sportfogadási kampánya „pofon minden nőnek”, aki az életét a sportnak szentelte. Több élsportoló is azt kifogásolja, hogy a reklám…",
       "tags": [
         "Advertising",
         "Sportfogadas",
@@ -106,7 +477,7 @@
         "sydney-sweeney",
         "novig"
       ],
-      "image": "https://kreativ.hu/img-cache/s/y/d/n/e/sydney-sweeney-reklam-v2-0-20260914-638-478-5-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/s/y/d/n/e/sydney-sweeney-reklam-v2-0-20260914-360-480-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-09-14T13:12:00Z",
@@ -122,7 +493,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A francia Sarah Arnold első nagyjátékfilmje, a Túl sok vadállat nyerte a fesztivál fődíját, a Pressburger-díjat, míg Reisz Gábor negyedik filmje, a Földszint kapta a zsűri nagydíját, a Zukor-díjat,…",
-      "fullSummary": "A francia Sarah Arnold első nagyjátékfilmje, a Túl sok vadállat nyerte a fesztivál fődíját, a Pressburger-díjat, míg Reisz Gábor negyedik filmje, a Földszint kapta a zsűri nagydíját, a Zukor-díjat, valamint két elismerésben részesült a Vádemelés című német bűnügyi történet.",
+      "fullSummary": "A francia Sarah Arnold első nagyjátékfilmje, a Túl sok vadállat nyerte a fesztivál fődíját, a Pressburger-díjat, míg Reisz Gábor negyedik filmje, a Földszint kapta a zsűri nagydíját, a Zukor-díjat,…",
       "tags": [
         "Dijak",
         "Filmfesztival",
@@ -136,7 +507,7 @@
         "cinefest",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/f/o/l/d/s/foldszint-still-1-20260914-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/f/o/l/d/s/foldszint-still-1-20260914-549-75-733-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-14T12:52:00Z",
@@ -151,8 +522,8 @@
       "source": "theinspiration",
       "sourceName": "The Inspiration",
       "accent": "#f5b301",
-      "summary": "OMHU’s iconic TEDDY sofa has become one of the most copied sofas online. Instead of fighting the dupes, OMHU decided to beat them at their own game. They created TEDY – a limited-edition version of their own sofa with one “D” missing – and…",
-      "fullSummary": "OMHU’s iconic TEDDY sofa has become one of the most copied sofas online. Instead of fighting the dupes, OMHU decided to beat them at their own game. They created TEDY – a limited-edition version of their own sofa with one “D” missing – and launched 100 pieces on the very platforms where the copies are […]",
+      "summary": "OMHU’s iconic TEDDY sofa has become one of the most copied sofas online. Instead of fighting the dupes, OMHU decided to beat them at their own game. They created TEDY – a limited edition version of their own sofa with one “D” missing – and…",
+      "fullSummary": "OMHU’s iconic TEDDY sofa has become one of the most copied sofas online. Instead of fighting the dupes, OMHU decided to beat them at their own game. They created TEDY – a limited edition version of their own sofa with one “D” missing – and launched 100 pieces on the very platforms where the copies […]",
       "tags": [
         "Advertising",
         "Design"
@@ -325,7 +696,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Nagyjából egymillió fénykép szerepel Kardos Sándor Kossuth-díjas operatőr, filmrendező privátfotó-gyűjteményében, a Hórusz Archívumban, amelynek feldolgozását, digitalizálását a mai napig ő…",
-      "fullSummary": "Nagyjából egymillió fénykép szerepel Kardos Sándor Kossuth-díjas operatőr, filmrendező privátfotó-gyűjteményében, a Hórusz Archívumban, amelynek feldolgozását, digitalizálását a mai napig ő irányítja. Hogyan ejtették rabul az amatőr fényképek, és az évtizedek során mire tanította ez a hatalmas anyag? A sokat idézett gyűjteményről Kardos Sándorral beszélgettünk.",
+      "fullSummary": "Nagyjából egymillió fénykép szerepel Kardos Sándor Kossuth-díjas operatőr, filmrendező privátfotó-gyűjteményében, a Hórusz Archívumban, amelynek feldolgozását, digitalizálását a mai napig ő…",
       "tags": [
         "Photography",
         "Archivum",
@@ -343,7 +714,7 @@
         "horusz-archivum",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/k/a/r/d/o/kardos-sandor-png-20260624-446-25-595-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/k/a/r/d/o/kardos-sandor-png-20260624-792-594-90-zc.webp",
       "author": "Szerdahelyi Krisztina",
       "category": "",
       "publishedAt": "2026-09-14T06:44:00Z",
