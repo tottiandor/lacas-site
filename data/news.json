@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-16T03:22:31Z",
-  "itemCount": 139,
+  "generatedAt": "2026-09-17T03:22:36Z",
+  "itemCount": 151,
   "sources": [
     {
       "id": "thedrum",
@@ -50,21 +50,388 @@
   ],
   "items": [
     {
+      "id": "1a9c9e3a",
+      "title": "Felcsendült a Tavaszi szél vizet áraszt a Film Maratonon",
+      "url": "https://kreativ.hu/cikk/felcsendult-a-tavaszi-szel-vizet-araszt-a-film-maratonon",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Elindult a Budapesti Klasszikus Film Maraton (BKFM). A fesztivál nyitógáláját az Uránia Nemzeti Filmszínházban tartották, ahol teltházas vetítésen láthatta a közönség a világon először az 1986-os…",
+      "fullSummary": "Elindult a Budapesti Klasszikus Film Maraton (BKFM). A fesztivál nyitógáláját az Uránia Nemzeti Filmszínházban tartották, ahol teltházas vetítésen láthatta a közönség a világon először az 1986-os budapesti Queen-koncertfilm 4K-ban felújított változatát.",
+      "tags": [
+        "Budapesti Klasszikus Film Maraton",
+        "Bkfm",
+        "Popkult",
+        "Film & TV"
+      ],
+      "rawTags": [
+        "budapesti-klasszikus-film-maraton",
+        "bkfm",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/g/-/1/9/mg-1989-eredmeny-20260916-920-690-90-zc.webp",
+      "author": "S. D.",
+      "category": "",
+      "publishedAt": "2026-09-16T14:11:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-17T03:22:36Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "4b3567e5",
+      "title": "Insta-követőszerzésben és követőarányos engagementben a Telexet, a Blikket és a HVG-t is előzve lett első a REFRESHER",
+      "url": "https://kreativ.hu/cikk/insta-kovetoszerzesben-es-kovetoaranyos-engagementben-a-telexet-a-blikket-es-a-hvg-t-is-elozve-elso-lett-a-refresher",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "2026 augusztusában a REFRESHER szerezte a legtöbb új követőt, és a követőszámra vetített összes engagementben is első helyen végzett egy 37 hazai médiacsatornát összehasonlító Instagram-elemzésben. A…",
+      "fullSummary": "2026 augusztusában a REFRESHER szerezte a legtöbb új követőt, és a követőszámra vetített összes engagementben is első helyen végzett egy 37 hazai médiacsatornát összehasonlító Instagram-elemzésben. A Central Médiacsoport márkája több mint 1,14 millió engagementtel zárta a hónapot.",
+      "tags": [
+        "Social Media",
+        "Mediacsoport",
+        "Refresher",
+        "Central",
+        "Engagement",
+        "Kovetoszerzes"
+      ],
+      "rawTags": [
+        "instagram",
+        "mediacsoport",
+        "refresher",
+        "central",
+        "engagement",
+        "kovetoszerzes",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/r/e/f/r/e/refresher-logo-0-20260916-344-258-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-09-16T13:15:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-17T03:22:36Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "2da83a94",
+      "title": "Desigual casts Elon Musk’s daughter opposite a robot that won’t obey",
+      "url": "https://www.famouscampaigns.com/2026/09/desigual-casts-elon-musks-daughter-opposite-a-robot-that-wont-obey/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Desigual has cast Vivian Jenna Wilson, Elon Musk’s estranged daughter, alongside a malfunctioning humanoid robot for Born to Disobey, its FW26 brand campaign turning AI, automation and human unpredictability into a pointed gag. The robot,…",
+      "fullSummary": "Desigual has cast Vivian Jenna Wilson, Elon Musk’s estranged daughter, alongside a malfunctioning humanoid robot for Born to Disobey, its FW26 brand campaign turning AI, automation and human unpredictability into a pointed gag. The robot, DESI84, is supposedly built to help with everyday tasks. Wilson has other ideas. She walks it on a leash, uses […]",
+      "tags": [
+        "Fashion",
+        "AI",
+        "Branding",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "Fashion"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/Expectedto-obey.-BORN-TO-DISOBEY.-VivianWilson-x-Desigual.-DESIGUAL-BORNTODISOBEY.mp4",
+      "author": "Staff",
+      "category": "Fashion",
+      "publishedAt": "2026-09-16T13:13:21Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-17T03:22:36Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "404ed3da",
+      "title": "Köszönni ciki, mémre válaszolni kötelező? Így kommunikálunk a neten",
+      "url": "https://kreativ.hu/cikk/mem-memkutatas-internet-kommunikacio-kutatas-orszagos",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Menő vagy ciki az AI által generált mém? Kinek küldhetünk hangüzenetet, és ki az, aki biztosan nem fogja meghallgatni? Vezethet generációs konfliktushoz a köszönés…",
+      "fullSummary": "Menő vagy ciki az AI által generált mém? Kinek küldhetünk hangüzenetet, és ki az, aki biztosan nem fogja meghallgatni? Vezethet generációs konfliktushoz a köszönés elmaradása? Újabb eredmények az első nyilvánosan hozzáférhető országos, reprezentatív mémkutatásból, amely a magyarok internetes kommunikációs és mémhasználati szokásait tárta fel, az Alfától az érettebb generációkig.",
+      "tags": [
+        "Internet",
+        "Kutatas",
+        "Kommunikacio",
+        "Orszagos",
+        "Mem",
+        "Memkutatas"
+      ],
+      "rawTags": [
+        "internet",
+        "kutatas",
+        "kommunikacio",
+        "orszagos",
+        "mem",
+        "memkutatas",
+        "media",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/n/o/a/h/-/noah-naf-atnb7ebh86i-unsplash-0-20260916-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-09-16T12:24:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-17T03:22:36Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "57ddef5e",
+      "title": "Az Agence Najoua lett az Art Market Budapest PR-ügynöksége",
+      "url": "https://kreativ.hu/cikk/az-agence-najoua-lett-az-art-market-budapest-pr-ugynoksege",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Az Agence Najoua felel az Art Market Budapest kommunikációjának megújításáért, valamint a vásár hazai és nemzetközi sajtókapcsolatainak kezeléséért. Az együttműködés részeként öt ismert személyiség…",
+      "fullSummary": "Az Agence Najoua felel az Art Market Budapest kommunikációjának megújításáért, valamint a vásár hazai és nemzetközi sajtókapcsolatainak kezeléséért. Az együttműködés részeként öt ismert személyiség nagykövetként kapcsolódik be az esemény népszerűsítésébe.",
+      "tags": [
+        "PR",
+        "PR Ugynokseg",
+        "Art Market",
+        "Advertising",
+        "Agencies",
+        "Media"
+      ],
+      "rawTags": [
+        "pr",
+        "pr-ugynokseg",
+        "art-market",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/r/t/-/m/art-market-2025-10-18-116-scaled-0-20260916-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-09-16T10:43:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-17T03:22:36Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "fc1e6e5b",
+      "title": "A Mommy Blue nyerte a 22. CineFest közönségdíját",
+      "url": "https://kreativ.hu/cikk/a-mommy-blue-nyerte-a-22-cinefest-kozonsegdijat",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A 22. CineFest Miskolci Nemzetközi Filmfesztivál hivatalos versenyprogramjának egyik magyar filmje, Mayer Bernadette első rendezése, a Mommy Blue kapta a fesztivál közönségdíját.",
+      "fullSummary": "A 22. CineFest Miskolci Nemzetközi Filmfesztivál hivatalos versenyprogramjának egyik magyar filmje, Mayer Bernadette első rendezése, a Mommy Blue kapta a fesztivál közönségdíját.",
+      "tags": [
+        "Kozonsegdij",
+        "Cinefest",
+        "Mommy Blue",
+        "Popkult"
+      ],
+      "rawTags": [
+        "kozonsegdij",
+        "cinefest",
+        "mommy-blue",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/o/m/m/y/mommy-blue-kiemelt-still-kino-alfa-0-20260916-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-09-16T10:21:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-17T03:22:36Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "339ba923",
+      "title": "Elkezdődött a Médiatanács és az NMHH élére pályázók meghallgatása",
+      "url": "https://kreativ.hu/cikk/mediatanacs-nmhh-elnok-palyazo-meghallgatas",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Médiatanács elnöki posztjára pályázók közül hetet hallgatnak meg szerdán.",
+      "fullSummary": "A Médiatanács elnöki posztjára pályázók közül hetet hallgatnak meg szerdán.",
+      "tags": [
+        "Elnok",
+        "Nmhh",
+        "Mediatanacs",
+        "Meghallgatas",
+        "Palyazo",
+        "Media"
+      ],
+      "rawTags": [
+        "elnok",
+        "nmhh",
+        "mediatanacs",
+        "meghallgatas",
+        "palyazo",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/n/m/h/h/-/nmhh-elnok-jelolt-meghallgatas-v2-0-20260916-450-75-601-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-09-16T09:30:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-17T03:22:36Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "4648d978",
+      "title": "Újraindult a Reakció, a korai Mandiner örökségére építene",
+      "url": "https://kreativ.hu/cikk/ujraindult-a-reakcio-a-korai-mandiner-oroksegere-epitene",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Próbaüzemben tért vissza a Reakció, amely szorosan összefonódik a Mandiner történetével. A szerkesztőség teljesen saját tulajdonban, befektető és külső támogató nélkül vágott bele az újraindításba.…",
+      "fullSummary": "Próbaüzemben tért vissza a Reakció, amely szorosan összefonódik a Mandiner történetével. A szerkesztőség teljesen saját tulajdonban, befektető és külső támogató nélkül vágott bele az újraindításba. Balogh Ákos Gergely szerint a régi Reakció és a 2009-es Mandiner szellemiségéből is merítenek, de nem egy „Mandiner 2.0”-t akarnak létrehozni.",
+      "tags": [
+        "Reakcio",
+        "Balogh Akos Gergely",
+        "Mandiner",
+        "Ujrainditas",
+        "Media"
+      ],
+      "rawTags": [
+        "reakcio",
+        "balogh-akos-gergely",
+        "mandiner",
+        "ujrainditas",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/b/a/l/o/g/balogh-akos-gergely-0-20260916-192-256-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-09-16T09:03:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-17T03:22:36Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "ff0dd8f5",
+      "title": "Apple TV sends ‘definitely not cursed’ Widow’s Bay billboard around Cape Cod",
+      "url": "https://www.famouscampaigns.com/2026/09/apple-tv-sends-definitely-not-cursed-widows-bay-billboard-around-cape-cod/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Apple TV has celebrated Widow’s Bay winning a record 14 Emmys by sending a floating billboard into the waters around Cape Cod, extending the horror-comedy’s fictional tourism campaign into the real New England coastline. The stunt turns…",
+      "fullSummary": "Apple TV has celebrated Widow’s Bay winning a record 14 Emmys by sending a floating billboard into the waters around Cape Cod, extending the horror-comedy’s fictional tourism campaign into the real New England coastline. The stunt turns the central joke of the Matthew Rhys series into outdoor advertising. Widow’s Bay may be plagued by supernatural […]",
+      "tags": [
+        "COOH",
+        "Entertainment",
+        "Campaigns",
+        "Film & TV",
+        "OOH"
+      ],
+      "rawTags": [
+        "COOH",
+        "Entertainment"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/widows-bay.mp4",
+      "author": "James Herring",
+      "category": "COOH",
+      "publishedAt": "2026-09-16T08:03:15Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-17T03:22:36Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "9e718268",
+      "title": "Hogy lesz a márkából felismerhető, bizonyítható, ajánlható AI-válasz?",
+      "url": "https://kreativ.hu/cikk/hogy-lesz-a-markabol-felismerheto-bizonyithato-ajanlhato-ai-valasz",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Egy márka lehet technikailag jól felépített, mégsem ismert. Lehet ismert, mégsem következetes. Lehet következetes, de bizonyíték nélkül, és még a bizonyítható vállalat sem biztos, hogy jó választás…",
+      "fullSummary": "Egy márka lehet technikailag jól felépített, mégsem ismert. Lehet ismert, mégsem következetes. Lehet következetes, de bizonyíték nélkül, és még a bizonyítható vállalat sem biztos, hogy jó választás egy konkrét helyzetben. Az ANSWER Framework hat feltételen keresztül mutatja meg, hol szakad meg az út a webes jelenléttől az AI-ajánlásig. Az AI szemével sorozatunk befejező része.",
+      "tags": [
+        "Markak",
+        "AI",
+        "Lathatosag",
+        "Az AI Szemevel",
+        "Advertising",
+        "Branding"
+      ],
+      "rawTags": [
+        "markak",
+        "mesterseges-intelligencia",
+        "lathatosag",
+        "az-ai-szemevel",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/c/h/a/t/g/chatgpt-image-2026-szept-8-11-22-24-png-0-20260908-920-690-90-zc.webp",
+      "author": "Krankovics Béla",
+      "category": "",
+      "publishedAt": "2026-09-16T08:00:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-17T03:22:36Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "174850e1",
+      "title": "Nemzetközi fődíjat nyert a Planet Budapest kiállítás",
+      "url": "https://kreativ.hu/cikk/nemzetkozi-fodijat-nyert-a-planet-budapest-kiallitas",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Jelentős nemzetközi elismerésben részesült a Planet Budapest: a teljes egészében magyar fejlesztésű kiállítás és élményprogram nyerte el az idei Unicorn Awards főkategóriájának első helyét. A…",
+      "fullSummary": "Jelentős nemzetközi elismerésben részesült a Planet Budapest: a teljes egészében magyar fejlesztésű kiállítás és élményprogram nyerte el az idei Unicorn Awards főkategóriájának első helyét. A környezeti fenntarthatóság témájára épülő élménypark koncepciójáért, tartalomfejlesztéséért és megvalósításáért a budapesti központú márkaépítő ügynökség, az Unger&Partners felelt.",
+      "tags": [
+        "Awards",
+        "Nemzetkozi",
+        "Planet Budapest",
+        "Unicorn Awards",
+        "Advertising",
+        "Verseny"
+      ],
+      "rawTags": [
+        "dij",
+        "nemzetkozi",
+        "planet-budapest",
+        "unicorn-awards",
+        "reklam",
+        "verseny"
+      ],
+      "image": "https://kreativ.hu/img-cache/p/l/a/n/e/planet-budapest-unicorn-fodij-0-20260916-532-5-710-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-09-16T07:43:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-17T03:22:36Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "bd2873f0",
+      "title": "People Like Us takes aim at AI bias in automated hiring",
+      "url": "https://www.famouscampaigns.com/2026/09/people-like-us-takes-aim-at-ai-bias-in-automated-hiring/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Workplace equality non-profit People Like Us is challenging the hidden role of AI and automated hiring software with Reject the Rejections, a new campaign exposing how recruitment technology can screen out ethnic minority candidates before…",
+      "fullSummary": "Workplace equality non-profit People Like Us is challenging the hidden role of AI and automated hiring software with Reject the Rejections, a new campaign exposing how recruitment technology can screen out ethnic minority candidates before a human sees their application. Created with independent creative agency Worth Your While, the campaign follows research among 2,000 UK […]",
+      "tags": [
+        "Cause Related",
+        "AI",
+        "Campaigns",
+        "Careers",
+        "Business"
+      ],
+      "rawTags": [
+        "Cause Related"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/People-Like-Us-presents-DEAR-NAME.mp4",
+      "author": "James Herring",
+      "category": "Cause Related",
+      "publishedAt": "2026-09-16T06:00:41Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-17T03:22:36Z",
+      "enrichAttempts": 0
+    },
+    {
       "id": "d60e54ac",
-      "title": "„Elfogadjuk az eredményt, de boldogok azért nem vagyunk” – a Mediaworks nyomtatja a ferencvárosi önkormányzati lapot",
+      "title": "„Elfogadjuk az eredményt, de boldogok azért nem vagyunk” – a Mediaworks nyomtatja ezentúl a ferencvárosi önkormányzati lapot",
       "url": "https://kreativ.hu/cikk/mediaworks-kilences-magazin-kozbeszerzes",
       "source": "kreativ",
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Mediaworks Hungary Zrt. nyerte a ferencvárosi Kilences magazin nyomdai előállítására kiírt közbeszerzést, így a következő tizenkét lapszámot a KESMA-hoz tartozó médiavállalat készíti. A kiadó…",
-      "fullSummary": "A Mediaworks Hungary Zrt. nyerte a ferencvárosi Kilences magazin nyomdai előállítására kiírt közbeszerzést, így a következő tizenkét lapszámot a KESMA-hoz tartozó médiavállalat készíti. A kiadó szabályosnak és átláthatónak nevezte az eljárást, ugyanakkor arra figyelmeztetett, hogy a Mediaworks nyomdai kapacitása jelentős versenyelőnyt biztosít a vállalatnak.",
+      "fullSummary": "A Mediaworks Hungary Zrt. nyerte a ferencvárosi Kilences magazin nyomdai előállítására kiírt közbeszerzést, így a következő tizenkét lapszámot a KESMA-hoz tartozó médiavállalat készíti. A kiadó…",
       "tags": [
         "Media"
       ],
       "rawTags": [
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/8/1/1/4/3/811437885-1773649647118716-7068040497363604784-n-20260915-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/8/1/1/4/3/811437885-1773649647118716-7068040497363604784-n-20260915-690-920-90-zc.webp",
       "author": "L. B.",
       "category": "",
       "publishedAt": "2026-09-15T15:55:00Z",
@@ -112,7 +479,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Öt kategóriában várjuk a társadalmi, környezeti és üzleti felelősségvállalás legjobb példáit – a Doing Good – CSR Award első nevezési határideje: 2026. november 2. Mutatjuk milyen projektekkel…",
-      "fullSummary": "Öt kategóriában várjuk a társadalmi, környezeti és üzleti felelősségvállalás legjobb példáit – a Doing Good – CSR Award első nevezési határideje: 2026. november 2. Mutatjuk milyen projektekkel lehet nevezni!",
+      "fullSummary": "Öt kategóriában várjuk a társadalmi, környezeti és üzleti felelősségvállalás legjobb példáit – a Doing Good – CSR Award első nevezési határideje: 2026. november 2. Mutatjuk milyen projektekkel…",
       "tags": [
         "Verseny",
         "Csr",
@@ -138,7 +505,7 @@
     },
     {
       "id": "683b4586",
-      "title": "Vezetőváltás: Nagy Gábort választották a MaReSz Rendezvényhelyszín tagozatának élére",
+      "title": "Nagy Gábor vezeti a MaReSz Rendezvényhelyszín tagozatát",
       "url": "https://kreativ.hu/cikk/nagy-gabor-vezeti-a-maresz-rendezvenyhelyszin-tagozatat",
       "source": "kreativ",
       "sourceName": "Kreatív",
@@ -157,7 +524,7 @@
         "vezetovalasztas",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/n/a/g/y/-/nagy-gabor-eventrend-png-0-20260915-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/n/a/g/y/-/nagy-gabor-eventrend-png-0-20260915-601-5-802-90-zc.webp",
       "author": "L. B.",
       "category": "",
       "publishedAt": "2026-09-15T13:56:00Z",
@@ -173,7 +540,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A svájci médiavállalkozó nyolcvanegy éves volt. Az általa alapított médiacsoport több évtizeden keresztül volt jelen Magyarországon: egykor a Magyar Hírlap és a Mai Nap, később pedig számos ismert…",
-      "fullSummary": "A svájci médiavállalkozó nyolcvanegy éves volt. Az általa alapított médiacsoport több évtizeden keresztül volt jelen Magyarországon: egykor a Magyar Hírlap és a Mai Nap, később pedig számos ismert életmódmagazin kiadójaként.",
+      "fullSummary": "A svájci médiavállalkozó nyolcvanegy éves volt. Az általa alapított médiacsoport több évtizeden keresztül volt jelen Magyarországon: egykor a Magyar Hírlap és a Mai Nap, később pedig számos ismert…",
       "tags": [
         "Marquard",
         "Marquard Media",
@@ -202,7 +569,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Négy hónapos, fizetett TikTok-rezidenciaprogramot indít a Szingapúri Nemzeti Galéria. A jelentkezőknek nem kell ismert tartalomkészítőnek vagy művészeti szakértőnek lenniük: az intézmény elsősorban…",
-      "fullSummary": "Négy hónapos, fizetett TikTok-rezidenciaprogramot indít a Szingapúri Nemzeti Galéria. A jelentkezőknek nem kell ismert tartalomkészítőnek vagy művészeti szakértőnek lenniük: az intézmény elsősorban kreativitást, játékosságot és jó történetmesélési képességet keres.",
+      "fullSummary": "Négy hónapos, fizetett TikTok-rezidenciaprogramot indít a Szingapúri Nemzeti Galéria. A jelentkezőknek nem kell ismert tartalomkészítőnek vagy művészeti szakértőnek lenniük: az intézmény elsősorban…",
       "tags": [
         "Muzeum",
         "Kulturalis Marketing",
@@ -225,13 +592,13 @@
     },
     {
       "id": "3147bdd8",
-      "title": "Uniós fellépést sürget az MLE az AI által használt sajtótartalmak díjazásáért",
+      "title": "Díjazást kért az MLE Brüsszelben az AI által használt tartalmakért",
       "url": "https://kreativ.hu/cikk/mle-europai-bizottsag-brusszel-ai-strategia-licenc-dijazas",
       "source": "kreativ",
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Magyar Lapkiadók Egyesülete azt kéri az Európai Bizottságtól, hogy a készülő kulturális és kreatívipari AI-stratégia teremtsen átlátható felhasználási és működőképes licencelési feltételeket a…",
-      "fullSummary": "A Magyar Lapkiadók Egyesülete azt kéri az Európai Bizottságtól, hogy a készülő kulturális és kreatívipari AI-stratégia teremtsen átlátható felhasználási és működőképes licencelési feltételeket a sajtókiadók számára. Az érdekképviselet szerint lehetővé kell tenni, hogy a kiadók bevételhez jussanak szellemi tulajdonuk AI-célú hasznosításából.",
+      "fullSummary": "A Magyar Lapkiadók Egyesülete azt kéri az Európai Bizottságtól, hogy a készülő kulturális és kreatívipari AI-stratégia teremtsen átlátható felhasználási és működőképes licencelési feltételeket a…",
       "tags": [
         "Europai Bizottsag",
         "AI",
@@ -248,7 +615,7 @@
         "ai",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-68115641-jpeg-0-20260915-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-68115641-jpeg-0-20260915-920-690-90-zc.webp",
       "author": "L. B.",
       "category": "",
       "publishedAt": "2026-09-15T10:06:00Z",
@@ -314,7 +681,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Már második hete, hogy az RTL és a TV2 elindította az őszi szezont, és bár múlt héten az RTL nézettsége több ponton lehagyta a TV2 nézettségét, a 37. héten már a Megasztár és a Házasság első látásra…",
-      "fullSummary": "Már második hete, hogy az RTL és a TV2 elindította az őszi szezont, és bár múlt héten az RTL nézettsége több ponton lehagyta a TV2 nézettségét, a 37. héten már a Megasztár és a Házasság első látásra érdekelte a legtöbb tévénézőt.",
+      "fullSummary": "Már második hete, hogy az RTL és a TV2 elindította az őszi szezont, és bár múlt héten az RTL nézettsége több ponton lehagyta a TV2 nézettségét, a 37. héten már a Megasztár és a Házasság első látásra…",
       "tags": [
         "Reality",
         "Tv2",
@@ -2690,7 +3057,7 @@
         "tudatossag",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/c/h/a/t/g/chatgpt-image-2026-szept-7-10-40-35-png-0-20260907-920-690-90-zc.webp",
+      "image": null,
       "author": "Moldvay Tamás",
       "category": "",
       "publishedAt": "2026-09-07T08:50:00Z",
