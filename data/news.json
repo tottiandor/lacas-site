@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-17T03:22:36Z",
-  "itemCount": 151,
+  "generatedAt": "2026-09-18T03:21:39Z",
+  "itemCount": 161,
   "sources": [
     {
       "id": "thedrum",
@@ -50,6 +50,287 @@
   ],
   "items": [
     {
+      "id": "31b26be1",
+      "title": "People Like Us — Reject The Rejections",
+      "url": "https://theinspiration.com/2026/09/people-like-us-reject-the-rejections/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "People Like Us transformed real rejection emails into a powerful spoken-word film that exposes the hidden bias ethnic minority professionals can face in recruitment. By turning cold, automated messages into human stories, the campaign…",
+      "fullSummary": "People Like Us transformed real rejection emails into a powerful spoken-word film that exposes the hidden bias ethnic minority professionals can face in recruitment. By turning cold, automated messages into human stories, the campaign challenges the growing use of AI in hiring and calls on employers to be transparent when applications are screened by AI […]",
+      "tags": [
+        "Advertising",
+        "Goodvertising",
+        "Campaigns",
+        "Film & TV"
+      ],
+      "rawTags": [
+        "Advertising",
+        "Goodvertising"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/dear_name-750x536.webp",
+      "author": "René Kammersgaard",
+      "category": "Advertising",
+      "publishedAt": "2026-09-17T13:38:14Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-18T03:21:39Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "9231b295",
+      "title": "Párbeszéd indult a Filmreform és a közmédia miniszteri biztosa között",
+      "url": "https://kreativ.hu/cikk/filmreform-grosz-judit-film-kozmedia",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Filmreform 2026 képviselői szakmai kerekasztal-beszélgetésen találkoztak Grósz Judittal, a közmédia átalakításáért felelős miniszteri biztossal.",
+      "fullSummary": "A Filmreform 2026 képviselői szakmai kerekasztal-beszélgetésen találkoztak Grósz Judittal, a közmédia átalakításáért felelős miniszteri biztossal.",
+      "tags": [
+        "Kozmedia",
+        "Grosz Judit",
+        "Filmreform 2026",
+        "Media",
+        "Popkult",
+        "Politics"
+      ],
+      "rawTags": [
+        "kozmedia",
+        "grosz-judit",
+        "filmreform-2026",
+        "media",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/f/i/l/m/r/filmreform-260806-140329-20260917-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-09-17T13:03:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-18T03:21:39Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "dd876f3b",
+      "title": "Norway’s Enshittificator has a new partner: Death",
+      "url": "https://www.famouscampaigns.com/2026/09/norways-enshittificator-has-a-new-partner-death/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "The Enshittificator is back, and this time the Norwegian Consumer Council has paired him with Death to tackle another familiar consumer frustration: products that seem to die long before they should. The darkly comic film, The Life of…",
+      "fullSummary": "The Enshittificator is back, and this time the Norwegian Consumer Council has paired him with Death to tackle another familiar consumer frustration: products that seem to die long before they should. The darkly comic film, The Life of Death and the Ensh*ttificator, accompanies the Council’s new report on circular consumption and the systems that encourage […]",
+      "tags": [
+        "Advertising",
+        "Environmental",
+        "Film & TV"
+      ],
+      "rawTags": [
+        "Advertising",
+        "Environmental"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/The-Life-of-Death-and-the-Ensh_ttificator-1.mp4",
+      "author": "James Herring",
+      "category": "Advertising",
+      "publishedAt": "2026-09-17T12:09:58Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-18T03:21:39Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "e9ba9af5",
+      "title": "Új Chief Creative Officer az ACG-nél",
+      "url": "https://kreativ.hu/cikk/uj-chief-creative-officer-az-acg-nel",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Giovanni Pintaude több mint húsz év nemzetközi tapasztalattal, a VML prágai irodájából érkezett. A brazil származású kreatív vezető feladata az ACG kreatív munkájának erősítése és a nemzetközi…",
+      "fullSummary": "Giovanni Pintaude több mint húsz év nemzetközi tapasztalattal, a VML prágai irodájából érkezett. A brazil származású kreatív vezető feladata az ACG kreatív munkájának erősítése és a nemzetközi terjeszkedés erősítése.",
+      "tags": [
+        "Szemelyi Hir",
+        "Acg",
+        "Advertising",
+        "Media"
+      ],
+      "rawTags": [
+        "szemelyi-hir",
+        "acg",
+        "reklam",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/g/i/o/v/a/giovanni-pintaude-20260917-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-09-17T10:43:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-18T03:21:39Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "ee4cc6b0",
+      "title": "AI-károsultak, long form és megfigyelői státusz - rendezők reklámtrendekről I. rész",
+      "url": "https://kreativ.hu/cikk/reklam-reklamtrendek-dokumentumfilm-rendezok-dokumentarista",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Reels, reakciókultúra, AI és vizuális dömping: mindez alapjaiban változtatja meg és teszi még gyorsabban fogyaszthatóvá a reklámfilmeket. Ellentrendként viszont nagy márkák az eddig megszokottnál is…",
+      "fullSummary": "Reels, reakciókultúra, AI és vizuális dömping: mindez alapjaiban változtatja meg és teszi még gyorsabban fogyaszthatóvá a reklámfilmeket. Ellentrendként viszont nagy márkák az eddig megszokottnál is hosszabb formátummal, dokumentaristább megközelítéssel próbálkoznak. Kik azok az AI-károsultak? Tud-e integrálódni a megfigyelői státusz a reklámfilmbe? Lehet-e ötvözni egy dokumentumfilmet TikTok formátummal? Legyen-e adó az AI termékeken? Rendezők…",
+      "tags": [
+        "Advertising",
+        "Film & TV",
+        "Filmrendezo",
+        "Reklamtrend",
+        "AI",
+        "Branding"
+      ],
+      "rawTags": [
+        "reklam",
+        "dokumentumfilm",
+        "filmrendezo",
+        "reklamtrend"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-2160630560-jpeg-20260917-920-690-90-zc.webp",
+      "author": "Schäffer Dániel",
+      "category": "",
+      "publishedAt": "2026-09-17T10:40:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-18T03:21:39Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "a9801f99",
+      "title": "Pécsre érkezik a „One-Day Choir” pop-up projekt",
+      "url": "https://kreativ.hu/cikk/pecsre-erkezik-a-one-day-choir-pop-up-projekt",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Különleges közösségi zenei élménnyel egészül ki a BAFTA-díjas és háromszoros GRAMMY-jelölt izlandi multiinstrumentalista-zeneszerző, Ólafur Arnalds őszi világturnéja - Pécsett.",
+      "fullSummary": "Különleges közösségi zenei élménnyel egészül ki a BAFTA-díjas és háromszoros GRAMMY-jelölt izlandi multiinstrumentalista-zeneszerző, Ólafur Arnalds őszi világturnéja - Pécsett.",
+      "tags": [
+        "Pecs",
+        "Grammy",
+        "Olafur Arnalds",
+        "Popkult"
+      ],
+      "rawTags": [
+        "pecs",
+        "grammy",
+        "olafur-arnalds",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/o/l/a/f/u/olafur-arnalds1-20260917-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-09-17T10:15:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-18T03:21:39Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "b14e6b51",
+      "title": "Antistigma projekt és virtuális valóság - hogyan segít a design a mentális jóllétben?",
+      "url": "https://kreativ.hu/cikk/amikor-a-design-a-mentalis-jolletet-szolgalja",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Hogyan segíthet egy virtuális természetélmény a tartósan ápolt betegeknek? Lehet-e egy társasjáték a mélyebb kapcsolódás eszköze? VR, pszichológiai társasjáték, antistigma kampány és személyes…",
+      "fullSummary": "Hogyan segíthet egy virtuális természetélmény a tartósan ápolt betegeknek? Lehet-e egy társasjáték a mélyebb kapcsolódás eszköze? VR, pszichológiai társasjáték, antistigma kampány és személyes történetek a MOME és a Semmelweis Egyetem együttműködésében megvalósuló programján.",
+      "tags": [
+        "Design",
+        "Mome",
+        "Mentalis Jollet",
+        "Advertising",
+        "Media",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "design",
+        "mome",
+        "mentalis-jollet",
+        "reklam",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/c/a/n/-/y/can-you-eat-all-3-1-20260917-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-09-17T08:38:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-18T03:21:39Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "b31a9503",
+      "title": "Angela Hartnett serves diners a school lunch reality check",
+      "url": "https://www.famouscampaigns.com/2026/09/angela-hartnett-serves-diners-a-school-lunch-reality-check/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "The School Food Project and BBH London have recruited chef Angela Hartnett to front a fake restaurant serving unsuspecting diners real school meals, turning the state of school food into an experiential marketing campaign aimed squarely at…",
+      "fullSummary": "The School Food Project and BBH London have recruited chef Angela Hartnett to front a fake restaurant serving unsuspecting diners real school meals, turning the state of school food into an experiential marketing campaign aimed squarely at parents. The pop-up, called Centena, an anagram of “canteen”, was presented as Hartnett’s latest dining venture. But neither […]",
+      "tags": [
+        "Food & Drink",
+        "PR",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "Food & Drink",
+        "PR"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/school-food-project.mp4",
+      "author": "Staff",
+      "category": "Food & Drink",
+      "publishedAt": "2026-09-17T08:07:16Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-18T03:21:39Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "6bc9113d",
+      "title": "IKEA — KALLAX STORAGEBORN",
+      "url": "https://theinspiration.com/2026/09/ikea-kallax-storageborn/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "IKEA turned Skyrim’s infamous inventory problem into a product opportunity, introducing KALLAX as a companion that stores players’ loot. Instead of advertising storage, IKEA made KALLAX the actual solution to a problem inside the game.",
+      "fullSummary": "IKEA turned Skyrim’s infamous inventory problem into a product opportunity, introducing KALLAX as a companion that stores players’ loot. Instead of advertising storage, IKEA made KALLAX the actual solution to a problem inside the game.",
+      "tags": [
+        "Advertising"
+      ],
+      "rawTags": [
+        "Advertising"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/kallax-750x536.webp",
+      "author": "René Kammersgaard",
+      "category": "Advertising",
+      "publishedAt": "2026-09-17T07:47:56Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-18T03:21:39Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "4c24d1e0",
+      "title": "KCF — PickleCore",
+      "url": "https://theinspiration.com/2026/09/kcf-picklecore/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "KFC turned its pickle-flavoured limited-time menu into a full-blown fashion subculture — creating “Picklecore” through exaggerated pickle-inspired fashion, beauty and accessories. Instead of just selling a new product, the campaign turned…",
+      "fullSummary": "KFC turned its pickle-flavoured limited-time menu into a full-blown fashion subculture — creating “Picklecore” through exaggerated pickle-inspired fashion, beauty and accessories. Instead of just selling a new product, the campaign turned pickle obsession into a playful cultural identity.",
+      "tags": [
+        "Advertising",
+        "Fashion",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "Advertising",
+        "Fashion"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/kfc-pickle-750x536.webp",
+      "author": "René Kammersgaard",
+      "category": "Advertising",
+      "publishedAt": "2026-09-17T07:15:06Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-18T03:21:39Z",
+      "enrichAttempts": 0
+    },
+    {
       "id": "1a9c9e3a",
       "title": "Felcsendült a Tavaszi szél vizet áraszt a Film Maratonon",
       "url": "https://kreativ.hu/cikk/felcsendult-a-tavaszi-szel-vizet-araszt-a-film-maratonon",
@@ -57,7 +338,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Elindult a Budapesti Klasszikus Film Maraton (BKFM). A fesztivál nyitógáláját az Uránia Nemzeti Filmszínházban tartották, ahol teltházas vetítésen láthatta a közönség a világon először az 1986-os…",
-      "fullSummary": "Elindult a Budapesti Klasszikus Film Maraton (BKFM). A fesztivál nyitógáláját az Uránia Nemzeti Filmszínházban tartották, ahol teltházas vetítésen láthatta a közönség a világon először az 1986-os budapesti Queen-koncertfilm 4K-ban felújított változatát.",
+      "fullSummary": "Elindult a Budapesti Klasszikus Film Maraton (BKFM). A fesztivál nyitógáláját az Uránia Nemzeti Filmszínházban tartották, ahol teltházas vetítésen láthatta a közönség a világon először az 1986-os…",
       "tags": [
         "Budapesti Klasszikus Film Maraton",
         "Bkfm",
@@ -85,7 +366,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "2026 augusztusában a REFRESHER szerezte a legtöbb új követőt, és a követőszámra vetített összes engagementben is első helyen végzett egy 37 hazai médiacsatornát összehasonlító Instagram-elemzésben. A…",
-      "fullSummary": "2026 augusztusában a REFRESHER szerezte a legtöbb új követőt, és a követőszámra vetített összes engagementben is első helyen végzett egy 37 hazai médiacsatornát összehasonlító Instagram-elemzésben. A Central Médiacsoport márkája több mint 1,14 millió engagementtel zárta a hónapot.",
+      "fullSummary": "2026 augusztusában a REFRESHER szerezte a legtöbb új követőt, és a követőszámra vetített összes engagementben is első helyen végzett egy 37 hazai médiacsatornát összehasonlító Instagram-elemzésben. A…",
       "tags": [
         "Social Media",
         "Mediacsoport",
@@ -103,7 +384,7 @@
         "kovetoszerzes",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/r/e/f/r/e/refresher-logo-0-20260916-344-258-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/r/e/f/r/e/refresher-logo-0-20260916-194-25-259-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-09-16T13:15:00Z",
@@ -145,7 +426,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Menő vagy ciki az AI által generált mém? Kinek küldhetünk hangüzenetet, és ki az, aki biztosan nem fogja meghallgatni? Vezethet generációs konfliktushoz a köszönés…",
-      "fullSummary": "Menő vagy ciki az AI által generált mém? Kinek küldhetünk hangüzenetet, és ki az, aki biztosan nem fogja meghallgatni? Vezethet generációs konfliktushoz a köszönés elmaradása? Újabb eredmények az első nyilvánosan hozzáférhető országos, reprezentatív mémkutatásból, amely a magyarok internetes kommunikációs és mémhasználati szokásait tárta fel, az Alfától az érettebb generációkig.",
+      "fullSummary": "Menő vagy ciki az AI által generált mém? Kinek küldhetünk hangüzenetet, és ki az, aki biztosan nem fogja meghallgatni? Vezethet generációs konfliktushoz a köszönés…",
       "tags": [
         "Internet",
         "Kutatas",
@@ -164,7 +445,7 @@
         "media",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/n/o/a/h/-/noah-naf-atnb7ebh86i-unsplash-0-20260916-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/n/o/a/h/-/noah-naf-atnb7ebh86i-unsplash-0-20260916-690-920-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-09-16T12:24:00Z",
@@ -180,7 +461,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Az Agence Najoua felel az Art Market Budapest kommunikációjának megújításáért, valamint a vásár hazai és nemzetközi sajtókapcsolatainak kezeléséért. Az együttműködés részeként öt ismert személyiség…",
-      "fullSummary": "Az Agence Najoua felel az Art Market Budapest kommunikációjának megújításáért, valamint a vásár hazai és nemzetközi sajtókapcsolatainak kezeléséért. Az együttműködés részeként öt ismert személyiség nagykövetként kapcsolódik be az esemény népszerűsítésébe.",
+      "fullSummary": "Az Agence Najoua felel az Art Market Budapest kommunikációjának megújításáért, valamint a vásár hazai és nemzetközi sajtókapcsolatainak kezeléséért. Az együttműködés részeként öt ismert személyiség…",
       "tags": [
         "PR",
         "PR Ugynokseg",
@@ -195,7 +476,7 @@
         "art-market",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/a/r/t/-/m/art-market-2025-10-18-116-scaled-0-20260916-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/r/t/-/m/art-market-2025-10-18-116-scaled-0-20260916-690-920-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-16T10:43:00Z",
@@ -224,7 +505,7 @@
         "mommy-blue",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/m/o/m/m/y/mommy-blue-kiemelt-still-kino-alfa-0-20260916-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/m/o/m/m/y/mommy-blue-kiemelt-still-kino-alfa-0-20260916-690-920-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-09-16T10:21:00Z",
@@ -273,7 +554,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Próbaüzemben tért vissza a Reakció, amely szorosan összefonódik a Mandiner történetével. A szerkesztőség teljesen saját tulajdonban, befektető és külső támogató nélkül vágott bele az újraindításba.…",
-      "fullSummary": "Próbaüzemben tért vissza a Reakció, amely szorosan összefonódik a Mandiner történetével. A szerkesztőség teljesen saját tulajdonban, befektető és külső támogató nélkül vágott bele az újraindításba. Balogh Ákos Gergely szerint a régi Reakció és a 2009-es Mandiner szellemiségéből is merítenek, de nem egy „Mandiner 2.0”-t akarnak létrehozni.",
+      "fullSummary": "Próbaüzemben tért vissza a Reakció, amely szorosan összefonódik a Mandiner történetével. A szerkesztőség teljesen saját tulajdonban, befektető és külső támogató nélkül vágott bele az újraindításba.…",
       "tags": [
         "Reakcio",
         "Balogh Akos Gergely",
@@ -288,7 +569,7 @@
         "ujrainditas",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/b/a/l/o/g/balogh-akos-gergely-0-20260916-192-256-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/b/a/l/o/g/balogh-akos-gergely-0-20260916-340-255-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-09-16T09:03:00Z",
@@ -332,7 +613,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Egy márka lehet technikailag jól felépített, mégsem ismert. Lehet ismert, mégsem következetes. Lehet következetes, de bizonyíték nélkül, és még a bizonyítható vállalat sem biztos, hogy jó választás…",
-      "fullSummary": "Egy márka lehet technikailag jól felépített, mégsem ismert. Lehet ismert, mégsem következetes. Lehet következetes, de bizonyíték nélkül, és még a bizonyítható vállalat sem biztos, hogy jó választás egy konkrét helyzetben. Az ANSWER Framework hat feltételen keresztül mutatja meg, hol szakad meg az út a webes jelenléttől az AI-ajánlásig. Az AI szemével sorozatunk befejező része.",
+      "fullSummary": "Egy márka lehet technikailag jól felépített, mégsem ismert. Lehet ismert, mégsem következetes. Lehet következetes, de bizonyíték nélkül, és még a bizonyítható vállalat sem biztos, hogy jó választás…",
       "tags": [
         "Markak",
         "AI",
@@ -364,7 +645,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Jelentős nemzetközi elismerésben részesült a Planet Budapest: a teljes egészében magyar fejlesztésű kiállítás és élményprogram nyerte el az idei Unicorn Awards főkategóriájának első helyét. A…",
-      "fullSummary": "Jelentős nemzetközi elismerésben részesült a Planet Budapest: a teljes egészében magyar fejlesztésű kiállítás és élményprogram nyerte el az idei Unicorn Awards főkategóriájának első helyét. A környezeti fenntarthatóság témájára épülő élménypark koncepciójáért, tartalomfejlesztéséért és megvalósításáért a budapesti központú márkaépítő ügynökség, az Unger&Partners felelt.",
+      "fullSummary": "Jelentős nemzetközi elismerésben részesült a Planet Budapest: a teljes egészében magyar fejlesztésű kiállítás és élményprogram nyerte el az idei Unicorn Awards főkategóriájának első helyét. A…",
       "tags": [
         "Awards",
         "Nemzetkozi",
@@ -381,7 +662,7 @@
         "reklam",
         "verseny"
       ],
-      "image": "https://kreativ.hu/img-cache/p/l/a/n/e/planet-budapest-unicorn-fodij-0-20260916-532-5-710-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/p/l/a/n/e/planet-budapest-unicorn-fodij-0-20260916-920-690-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-09-16T07:43:00Z",
@@ -431,7 +712,7 @@
       "rawTags": [
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/8/1/1/4/3/811437885-1773649647118716-7068040497363604784-n-20260915-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/8/1/1/4/3/811437885-1773649647118716-7068040497363604784-n-20260915-920-690-90-zc.webp",
       "author": "L. B.",
       "category": "",
       "publishedAt": "2026-09-15T15:55:00Z",
