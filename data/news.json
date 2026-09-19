@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-18T03:21:39Z",
-  "itemCount": 161,
+  "generatedAt": "2026-09-19T03:21:20Z",
+  "itemCount": 175,
   "sources": [
     {
       "id": "thedrum",
@@ -49,6 +49,397 @@
     }
   ],
   "items": [
+    {
+      "id": "36e64188",
+      "title": "Fake Meta’s Smart Glass Posters",
+      "url": "https://theinspiration.com/2026/09/fake-metas-smart-glass-posters/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "",
+      "fullSummary": "",
+      "tags": [
+        "Advertising"
+      ],
+      "rawTags": [
+        "Advertising"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/lunettes-meta-metro-londres-affiches-3.jpg-750x536.webp",
+      "author": "Daniel Ingvartsen",
+      "category": "Advertising",
+      "publishedAt": "2026-09-18T20:16:08Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-19T03:21:20Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "9c42a68d",
+      "title": "Megnyílt a 26. ARC közérzeti kiállítás",
+      "url": "https://kreativ.hu/cikk/megnyilt-a-26-arc-kozerzeti-kiallitas",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A 26. ARC kiállítás idén is egy bárki számára nyitott, jeligés pályázat eredménye. A tárlat egy hónapon keresztül, szeptember 18-tól október 18-ig Újbudán, a 1111 Goldmann György tér 3. címen, a…",
+      "fullSummary": "A 26. ARC kiállítás idén is egy bárki számára nyitott, jeligés pályázat eredménye. A tárlat egy hónapon keresztül, szeptember 18-tól október 18-ig Újbudán, a 1111 Goldmann György tér 3. címen, a Petőfi híd budai hídfőjénél lesz megtekinthető éjjel-nappal.",
+      "tags": [
+        "Arc",
+        "Kozerzeti Kiallitas",
+        "Popkult",
+        "Awards"
+      ],
+      "rawTags": [
+        "arc",
+        "kozerzeti-kiallitas",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/r/c/-/2/arc-26-kv-kiallitas-2-0-20260918-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-09-18T15:23:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-19T03:21:20Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "e4b84919",
+      "title": "A MEME teljes tagsága alakítja ki a szervezet álláspontját a Médiatanács elnökjelöltjeiről",
+      "url": "https://kreativ.hu/cikk/magyar-elektornikus-musorszolgaltatok-egyesulete-mediatanacs-elnokjelolt",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Magyar Elektronikus Műsorszolgáltatók Egyesülete (MEME) a Médiatanács elnökének kiválasztásában való szakmai részvétel átláthatósága érdekében nyilvánosságra hozza a pályázók értékelésére és a MEME…",
+      "fullSummary": "A Magyar Elektronikus Műsorszolgáltatók Egyesülete (MEME) a Médiatanács elnökének kiválasztásában való szakmai részvétel átláthatósága érdekében nyilvánosságra hozza a pályázók értékelésére és a MEME által delegált szakmai tag mandátumának kialakítására vonatkozó belső eljárásrendjét.",
+      "tags": [
+        "Mediatanacs",
+        "Meme",
+        "Elnokjeloltek",
+        "Media"
+      ],
+      "rawTags": [
+        "mediatanacs",
+        "meme",
+        "elnokjeloltek",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/j/r/y/d/e/jrydertr-chair-9905356-1920-0-20260918-920-690-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-09-18T14:45:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-19T03:21:20Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "ee7c5a07",
+      "title": "Közös közleményben bírálja a Media1-et a MEME, az MLE, az MTE és az ÖRT",
+      "url": "https://kreativ.hu/cikk/media1-meme-mle-tme-ort-kozlemeny-felszolitas-lejaratas",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Magyar Elektronikus Műsorszolgáltatók Egyesülete (MEME), a Magyar Lapkiadók Egyesülete (MLE), a Magyarországi Tartalomszolgáltatók Egyesülete (MTE) és az Önszabályozó Reklám Testület (ÖRT) közös…",
+      "fullSummary": "A Magyar Elektronikus Műsorszolgáltatók Egyesülete (MEME), a Magyar Lapkiadók Egyesülete (MLE), a Magyarországi Tartalomszolgáltatók Egyesülete (MTE) és az Önszabályozó Reklám Testület (ÖRT) közös közleményt adott ki, amelyben tiltakoznak a Media1-en évek óta tartó, a magyar médiaszakma egyes szervezeteit, vállalkozásait és szakembereit célzó, megítélésünk szerint lejárató jellegű közlések és publikációs gyakorlat ellen.",
+      "tags": [
+        "Meme",
+        "Mte",
+        "Mle",
+        "Ort",
+        "Media1",
+        "Media"
+      ],
+      "rawTags": [
+        "meme",
+        "mte",
+        "mle",
+        "ort",
+        "media1",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/7/7/4/9/7/774972030-27814809824837144-66156674060246803-n-png-0-20260918-920-690-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-09-18T14:18:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-19T03:21:20Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "d25fec78",
+      "title": "A MaReSz kizárta tagjai közül a Lounge Event Kft.-t",
+      "url": "https://kreativ.hu/cikk/maresz-lounge-kft-kizaras-etikai-kodex",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Magyarországi Rendezvényszervezők és -szolgáltatók Szövetségének (MaReSz) Elnöksége 2026. szeptember 17-i határozatával kizárta tagjai közül a Lounge Event Kft.-t. Az Elnökség megállapítása szerint…",
+      "fullSummary": "A Magyarországi Rendezvényszervezők és -szolgáltatók Szövetségének (MaReSz) Elnöksége 2026. szeptember 17-i határozatával kizárta tagjai közül a Lounge Event Kft.-t. Az Elnökség megállapítása szerint a társaság magatartása több ponton sértette a MaReSz Alapszabályában és Etikai Kódexében meghatározott kötelezettségeket.",
+      "tags": [
+        "Maresz",
+        "Lounge Event Kft",
+        "Advertising"
+      ],
+      "rawTags": [
+        "maresz",
+        "lounge-event-kft",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/d/o/w/n/l/download-jfif-0-20260918-920-690-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-09-18T12:30:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-19T03:21:20Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "a6b4c1f7",
+      "title": "Andel — Climate Coverage",
+      "url": "https://theinspiration.com/2026/09/andel-climate-coverage/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "Andel turned its own advertising space into a platform for climate journalism. As climate coverage continues to decline, Denmark’s largest green energy provider donated ad space in the country’s biggest newspapers to independent climate…",
+      "fullSummary": "Andel turned its own advertising space into a platform for climate journalism. As climate coverage continues to decline, Denmark’s largest green energy provider donated ad space in the country’s biggest newspapers to independent climate journalists — with no editorial influence. A simple shift from buying attention to giving attention turned media space itself into the […]",
+      "tags": [
+        "Advertising",
+        "Media",
+        "Sustainability"
+      ],
+      "rawTags": [
+        "Advertising"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/OOH_001-750x536.webp",
+      "author": "René Kammersgaard",
+      "category": "Advertising",
+      "publishedAt": "2026-09-18T11:57:25Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-19T03:21:20Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "af46225b",
+      "title": "Társadalmi egyeztetés indult az új plakátszabályokról",
+      "url": "https://kreativ.hu/cikk/tarsadalmi-egyeztetes-indult-az-uj-plakatszabalyokrol",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A kormány a reklámzaj csökkentését és a reklámeszközök számának visszaszorítását célozza azzal a rendelettervezettel, amely több ponton szigorítaná a közterületi reklámok elhelyezésének szabályait. A…",
+      "fullSummary": "A kormány a reklámzaj csökkentését és a reklámeszközök számának visszaszorítását célozza azzal a rendelettervezettel, amely több ponton szigorítaná a közterületi reklámok elhelyezésének szabályait. A tervezet részletesen meghatározza az eddig külön nem szabályozott „egyéb reklámeszközök” körét is, és azt is, hogy ezek hol jelenhetnek meg.",
+      "tags": [
+        "Advertising",
+        "Onkormanyzat",
+        "Torveny",
+        "Szigoritas",
+        "OOH",
+        "Hirdetesi Piac"
+      ],
+      "rawTags": [
+        "reklam",
+        "onkormanyzat",
+        "torveny",
+        "szigoritas",
+        "oriasplakat",
+        "hirdetesi-piac",
+        "tarsadalmi-egyeztetes",
+        "plakattorveny"
+      ],
+      "image": "https://kreativ.hu/img-cache/c/i/t/y/l/citylight-kezdo-2-0-20260918-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-09-18T10:45:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-19T03:21:20Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "854ad2fd",
+      "title": "95 százalékkal estek vissza az állami reklámköltések a kormányváltás után",
+      "url": "https://kreativ.hu/cikk/95-szazalekkal-estek-vissza-az-allami-reklamkoltesek-a-kormanyvaltas-utan",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A választás utáni három hónapban az állami cégek és intézmények 95 százalékkal kevesebbet költöttek hirdetésekre, mint az első negyedévben, de a magánhirdetőknél is komolyabb átrendeződés látszik,…",
+      "fullSummary": "A választás utáni három hónapban az állami cégek és intézmények 95 százalékkal kevesebbet költöttek hirdetésekre, mint az első negyedévben, de a magánhirdetőknél is komolyabb átrendeződés látszik, amelynek nem a Fidesz-közeli cégek a nyertesei.",
+      "tags": [
+        "Advertising",
+        "Politics"
+      ],
+      "rawTags": [
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/p/e/x/e/l/pexels-peter-dyllong-2158803154-36519146-0-20260918-690-920-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-09-18T10:11:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-19T03:21:20Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "cf9fb706",
+      "title": "Mélyebben a socialről: szakmai vodcastot indított a DEEP",
+      "url": "https://kreativ.hu/cikk/one-deeper-uj-vodcast-deep-creative-collective-hadacs-balint-interju",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Új szakmai videópodcastot indított a The Deep Creative Collective: a ONE DEEPER kreativitásról, kultúráról és kommunikációról szóló beszélgetésekkel ígér betekintést az iparág formálóinak…",
+      "fullSummary": "Új szakmai videópodcastot indított a The Deep Creative Collective: a ONE DEEPER kreativitásról, kultúráról és kommunikációról szóló beszélgetésekkel ígér betekintést az iparág formálóinak gondolkodásába. A szeptember 17-én debütált műsor koncepciójáról és terveiről Hadacs Bálinttal, a DEEP operatív és stratégiai igazgatójával beszélgettünk.",
+      "tags": [
+        "Uj Musor",
+        "Podcast",
+        "Deep Cc",
+        "Advertising"
+      ],
+      "rawTags": [
+        "uj-musor",
+        "podcast",
+        "deep-cc",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/o/n/e/-/d/one-deeper-cover-png-0-20260918-690-920-90-zc.webp",
+      "author": "Lakos Boglárka",
+      "category": "",
+      "publishedAt": "2026-09-18T08:45:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-19T03:21:20Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "1d2634f5",
+      "title": "Elkészült a Lenny Kravitzről mintázott Ken baba",
+      "url": "https://kreativ.hu/cikk/barbie-baba-ken-mattel-lenny-kravitz",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A gyűjtői Lenny Kravitz Ken figura a „Blue Electric Light Tour” koncertturné; valamint a többszörösen díjazott énekes, dalszerző, zenész, lemezproducer, színész és designer páratlan pályafutása előtt…",
+      "fullSummary": "A gyűjtői Lenny Kravitz Ken figura a „Blue Electric Light Tour” koncertturné; valamint a többszörösen díjazott énekes, dalszerző, zenész, lemezproducer, színész és designer páratlan pályafutása előtt tiszteleg.",
+      "tags": [
+        "Lenny Kravitz",
+        "Mattel",
+        "Barbie Baba",
+        "Popkult",
+        "Design"
+      ],
+      "rawTags": [
+        "lenny-kravitz",
+        "mattel",
+        "barbie-baba",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/l/e/n/n/y/lenny-2-0-20260918-690-920-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-09-18T08:43:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-19T03:21:20Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "24f89b5f",
+      "title": "Mire ez a nagy felhAItás?",
+      "url": "https://kreativ.hu/cikk/mesterseges-intelligencia-somogyi-marton-dobos-gabor",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Mondják, vannak ügynökségek, ahol az AI kitúrta a munkatársakat. Legfeljebb nehezen ismerik el, hogy ez történt. Bár van olyan is, aki ezt sem tagadja. Bölcs döntés ez? Dobos Gábor és Somogyi Márton…",
+      "fullSummary": "Mondják, vannak ügynökségek, ahol az AI kitúrta a munkatársakat. Legfeljebb nehezen ismerik el, hogy ez történt. Bár van olyan is, aki ezt sem tagadja. Bölcs döntés ez? Dobos Gábor és Somogyi Márton (mindketten: Dot Creative) lépésről lépésre vezette le a lehetséges forgatókönyvet, amelynek végén (spoiler!) kiderül, hogy szerintük nincs kitúrás, inkább erősödés. Nem tagadták meg magukat: őszinte, laza, kíméletlen helyzetkép következik.",
+      "tags": [
+        "AI",
+        "Agencies",
+        "Advertising"
+      ],
+      "rawTags": [
+        "mesterseges-intelligencia",
+        "ugynokseg",
+        "ai",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/s/o/m/i/-/somi-cikk-v3-dot-creative-szemmelroth-barbara-0-20260918-920-690-90-zc.webp",
+      "author": "Somogyi Márton,Dobos Gábor",
+      "category": "",
+      "publishedAt": "2026-09-18T08:26:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-19T03:21:20Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "0a994fcf",
+      "title": "QuikTrip — Home Bun",
+      "url": "https://theinspiration.com/2026/09/quiktrip-home-bun/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "QuikTrip turned the stadium crowd into one giant hot dog-making team. During the game, fans had to work together to bounce a giant inflatable sausage and bun through the stands and bring them together before time ran out. If they…",
+      "fullSummary": "QuikTrip turned the stadium crowd into one giant hot dog-making team. During the game, fans had to work together to bounce a giant inflatable sausage and bun through the stands and bring them together before time ran out. If they succeeded, everyone in the stadium got a free hot dog — turning a simple product […]",
+      "tags": [
+        "Advertising"
+      ],
+      "rawTags": [
+        "Advertising"
+      ],
+      "image": "https://video.adsoftheworld.com/g61tm0kvbi0cvew3zy8rbdz3gvuz.mp4",
+      "author": "René Kammersgaard",
+      "category": "Advertising",
+      "publishedAt": "2026-09-18T07:40:28Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-19T03:21:20Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "f689181f",
+      "title": "A követőszám kiment a divatból? Az Oatly, a Klarna és a Waterdrop a márkaépítés új korszakáról beszél Budapesten",
+      "url": "https://kreativ.hu/cikk/oatly-klarna-waterdrop-markaepites-toldi-mozi",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Szeptember 24-én a Toldi Moziban debütál a The Good Persona Community Culture konferenciája. Az esemény központi témája egy nagy változás: hogyan mozdul el a márkaépítés a figyelem megszerzésétől a…",
+      "fullSummary": "Szeptember 24-én a Toldi Moziban debütál a The Good Persona Community Culture konferenciája. Az esemény központi témája egy nagy változás: hogyan mozdul el a márkaépítés a figyelem megszerzésétől a valódi kapcsolatok felé.",
+      "tags": [
+        "Branding",
+        "Waterdrop",
+        "Klarna",
+        "Oatly",
+        "Advertising",
+        "Fashion"
+      ],
+      "rawTags": [
+        "markaepites",
+        "waterdrop",
+        "klarna",
+        "oatly",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/y/o/u/b/e/youbelonghere100-png-0-20260918-690-920-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-09-18T07:29:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-19T03:21:20Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "c19eee0e",
+      "title": "Norwegian Consumer Council — The Life of Death and the Enshittificator",
+      "url": "https://theinspiration.com/2026/09/norwegian-consumer-council-the-life-of-death-and-the-enshittificator/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "Norway’s Consumer Council brings Death together with the Enshittificator to expose how products are designed to become obsolete faster. In a darkly comic film, the unlikely duo show how planned obsolescence and disappearing software…",
+      "fullSummary": "Norway’s Consumer Council brings Death together with the Enshittificator to expose how products are designed to become obsolete faster. In a darkly comic film, the unlikely duo show how planned obsolescence and disappearing software support push consumers towards replacing products instead of repairing them — turning a serious sustainability issue into an entertaining cultural idea.",
+      "tags": [
+        "Advertising",
+        "Design",
+        "Film & TV"
+      ],
+      "rawTags": [
+        "Advertising"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/d3-1-750x536.webp",
+      "author": "René Kammersgaard",
+      "category": "Advertising",
+      "publishedAt": "2026-09-18T07:18:45Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-19T03:21:20Z",
+      "enrichAttempts": 0
+    },
     {
       "id": "31b26be1",
       "title": "People Like Us — Reject The Rejections",
@@ -100,7 +491,7 @@
         "media",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/f/i/l/m/r/filmreform-260806-140329-20260917-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/f/i/l/m/r/filmreform-260806-140329-20260917-549-75-733-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-17T13:03:00Z",
@@ -142,7 +533,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Giovanni Pintaude több mint húsz év nemzetközi tapasztalattal, a VML prágai irodájából érkezett. A brazil származású kreatív vezető feladata az ACG kreatív munkájának erősítése és a nemzetközi…",
-      "fullSummary": "Giovanni Pintaude több mint húsz év nemzetközi tapasztalattal, a VML prágai irodájából érkezett. A brazil származású kreatív vezető feladata az ACG kreatív munkájának erősítése és a nemzetközi terjeszkedés erősítése.",
+      "fullSummary": "Giovanni Pintaude több mint húsz év nemzetközi tapasztalattal, a VML prágai irodájából érkezett. A brazil származású kreatív vezető feladata az ACG kreatív munkájának erősítése és a nemzetközi…",
       "tags": [
         "Szemelyi Hir",
         "Acg",
@@ -171,7 +562,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Reels, reakciókultúra, AI és vizuális dömping: mindez alapjaiban változtatja meg és teszi még gyorsabban fogyaszthatóvá a reklámfilmeket. Ellentrendként viszont nagy márkák az eddig megszokottnál is…",
-      "fullSummary": "Reels, reakciókultúra, AI és vizuális dömping: mindez alapjaiban változtatja meg és teszi még gyorsabban fogyaszthatóvá a reklámfilmeket. Ellentrendként viszont nagy márkák az eddig megszokottnál is hosszabb formátummal, dokumentaristább megközelítéssel próbálkoznak. Kik azok az AI-károsultak? Tud-e integrálódni a megfigyelői státusz a reklámfilmbe? Lehet-e ötvözni egy dokumentumfilmet TikTok formátummal? Legyen-e adó az AI termékeken? Rendezők…",
+      "fullSummary": "Reels, reakciókultúra, AI és vizuális dömping: mindez alapjaiban változtatja meg és teszi még gyorsabban fogyaszthatóvá a reklámfilmeket. Ellentrendként viszont nagy márkák az eddig megszokottnál is…",
       "tags": [
         "Advertising",
         "Film & TV",
@@ -231,7 +622,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Hogyan segíthet egy virtuális természetélmény a tartósan ápolt betegeknek? Lehet-e egy társasjáték a mélyebb kapcsolódás eszköze? VR, pszichológiai társasjáték, antistigma kampány és személyes…",
-      "fullSummary": "Hogyan segíthet egy virtuális természetélmény a tartósan ápolt betegeknek? Lehet-e egy társasjáték a mélyebb kapcsolódás eszköze? VR, pszichológiai társasjáték, antistigma kampány és személyes történetek a MOME és a Semmelweis Egyetem együttműködésében megvalósuló programján.",
+      "fullSummary": "Hogyan segíthet egy virtuális természetélmény a tartósan ápolt betegeknek? Lehet-e egy társasjáték a mélyebb kapcsolódás eszköze? VR, pszichológiai társasjáték, antistigma kampány és személyes…",
       "tags": [
         "Design",
         "Mome",
