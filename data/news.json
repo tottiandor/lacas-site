@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-19T03:21:20Z",
-  "itemCount": 175,
+  "generatedAt": "2026-09-20T03:21:48Z",
+  "itemCount": 176,
   "sources": [
     {
       "id": "thedrum",
@@ -50,6 +50,32 @@
   ],
   "items": [
     {
+      "id": "0d94c4fd",
+      "title": "IKEA turns FRAKTA into a portrait of everyday Italy",
+      "url": "https://www.famouscampaigns.com/2026/09/ikea-turns-frakta-into-a-portrait-of-everyday-italy/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "IKEA Italy is celebrating 30 years of its blue FRAKTA bag by documenting what happens to it after checkout, turning real consumer behaviour into a ten-image campaign by Ogilvy Italy. Called “Belli organizzati”, a play on the beauty of…",
+      "fullSummary": "IKEA Italy is celebrating 30 years of its blue FRAKTA bag by documenting what happens to it after checkout, turning real consumer behaviour into a ten-image campaign by Ogilvy Italy. Called “Belli organizzati”, a play on the beauty of being organised, the photographic series is based on IKEA research into how Italians reuse the bag. […]",
+      "tags": [
+        "Advertising",
+        "Retail",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "Advertising",
+        "Retail"
+      ],
+      "image": null,
+      "author": "James Herring",
+      "category": "Advertising",
+      "publishedAt": "2026-09-19T12:20:42Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-20T03:21:48Z",
+      "enrichAttempts": 0
+    },
+    {
       "id": "36e64188",
       "title": "Fake Meta’s Smart Glass Posters",
       "url": "https://theinspiration.com/2026/09/fake-metas-smart-glass-posters/",
@@ -80,7 +106,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A 26. ARC kiállítás idén is egy bárki számára nyitott, jeligés pályázat eredménye. A tárlat egy hónapon keresztül, szeptember 18-tól október 18-ig Újbudán, a 1111 Goldmann György tér 3. címen, a…",
-      "fullSummary": "A 26. ARC kiállítás idén is egy bárki számára nyitott, jeligés pályázat eredménye. A tárlat egy hónapon keresztül, szeptember 18-tól október 18-ig Újbudán, a 1111 Goldmann György tér 3. címen, a Petőfi híd budai hídfőjénél lesz megtekinthető éjjel-nappal.",
+      "fullSummary": "A 26. ARC kiállítás idén is egy bárki számára nyitott, jeligés pályázat eredménye. A tárlat egy hónapon keresztül, szeptember 18-tól október 18-ig Újbudán, a 1111 Goldmann György tér 3. címen, a…",
       "tags": [
         "Arc",
         "Kozerzeti Kiallitas",
@@ -108,7 +134,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Magyar Elektronikus Műsorszolgáltatók Egyesülete (MEME) a Médiatanács elnökének kiválasztásában való szakmai részvétel átláthatósága érdekében nyilvánosságra hozza a pályázók értékelésére és a MEME…",
-      "fullSummary": "A Magyar Elektronikus Műsorszolgáltatók Egyesülete (MEME) a Médiatanács elnökének kiválasztásában való szakmai részvétel átláthatósága érdekében nyilvánosságra hozza a pályázók értékelésére és a MEME által delegált szakmai tag mandátumának kialakítására vonatkozó belső eljárásrendjét.",
+      "fullSummary": "A Magyar Elektronikus Műsorszolgáltatók Egyesülete (MEME) a Médiatanács elnökének kiválasztásában való szakmai részvétel átláthatósága érdekében nyilvánosságra hozza a pályázók értékelésére és a MEME…",
       "tags": [
         "Mediatanacs",
         "Meme",
@@ -137,7 +163,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Magyar Elektronikus Műsorszolgáltatók Egyesülete (MEME), a Magyar Lapkiadók Egyesülete (MLE), a Magyarországi Tartalomszolgáltatók Egyesülete (MTE) és az Önszabályozó Reklám Testület (ÖRT) közös…",
-      "fullSummary": "A Magyar Elektronikus Műsorszolgáltatók Egyesülete (MEME), a Magyar Lapkiadók Egyesülete (MLE), a Magyarországi Tartalomszolgáltatók Egyesülete (MTE) és az Önszabályozó Reklám Testület (ÖRT) közös közleményt adott ki, amelyben tiltakoznak a Media1-en évek óta tartó, a magyar médiaszakma egyes szervezeteit, vállalkozásait és szakembereit célzó, megítélésünk szerint lejárató jellegű közlések és publikációs gyakorlat ellen.",
+      "fullSummary": "A Magyar Elektronikus Műsorszolgáltatók Egyesülete (MEME), a Magyar Lapkiadók Egyesülete (MLE), a Magyarországi Tartalomszolgáltatók Egyesülete (MTE) és az Önszabályozó Reklám Testület (ÖRT) közös…",
       "tags": [
         "Meme",
         "Mte",
@@ -170,7 +196,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Magyarországi Rendezvényszervezők és -szolgáltatók Szövetségének (MaReSz) Elnöksége 2026. szeptember 17-i határozatával kizárta tagjai közül a Lounge Event Kft.-t. Az Elnökség megállapítása szerint…",
-      "fullSummary": "A Magyarországi Rendezvényszervezők és -szolgáltatók Szövetségének (MaReSz) Elnöksége 2026. szeptember 17-i határozatával kizárta tagjai közül a Lounge Event Kft.-t. Az Elnökség megállapítása szerint a társaság magatartása több ponton sértette a MaReSz Alapszabályában és Etikai Kódexében meghatározott kötelezettségeket.",
+      "fullSummary": "A Magyarországi Rendezvényszervezők és -szolgáltatók Szövetségének (MaReSz) Elnöksége 2026. szeptember 17-i határozatával kizárta tagjai közül a Lounge Event Kft.-t. Az Elnökség megállapítása szerint…",
       "tags": [
         "Maresz",
         "Lounge Event Kft",
@@ -222,7 +248,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A kormány a reklámzaj csökkentését és a reklámeszközök számának visszaszorítását célozza azzal a rendelettervezettel, amely több ponton szigorítaná a közterületi reklámok elhelyezésének szabályait. A…",
-      "fullSummary": "A kormány a reklámzaj csökkentését és a reklámeszközök számának visszaszorítását célozza azzal a rendelettervezettel, amely több ponton szigorítaná a közterületi reklámok elhelyezésének szabályait. A tervezet részletesen meghatározza az eddig külön nem szabályozott „egyéb reklámeszközök” körét is, és azt is, hogy ezek hol jelenhetnek meg.",
+      "fullSummary": "A kormány a reklámzaj csökkentését és a reklámeszközök számának visszaszorítását célozza azzal a rendelettervezettel, amely több ponton szigorítaná a közterületi reklámok elhelyezésének szabályait. A…",
       "tags": [
         "Advertising",
         "Onkormanyzat",
@@ -257,7 +283,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A választás utáni három hónapban az állami cégek és intézmények 95 százalékkal kevesebbet költöttek hirdetésekre, mint az első negyedévben, de a magánhirdetőknél is komolyabb átrendeződés látszik,…",
-      "fullSummary": "A választás utáni három hónapban az állami cégek és intézmények 95 százalékkal kevesebbet költöttek hirdetésekre, mint az első negyedévben, de a magánhirdetőknél is komolyabb átrendeződés látszik, amelynek nem a Fidesz-közeli cégek a nyertesei.",
+      "fullSummary": "A választás utáni három hónapban az állami cégek és intézmények 95 százalékkal kevesebbet költöttek hirdetésekre, mint az első negyedévben, de a magánhirdetőknél is komolyabb átrendeződés látszik,…",
       "tags": [
         "Advertising",
         "Politics"
@@ -281,7 +307,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Új szakmai videópodcastot indított a The Deep Creative Collective: a ONE DEEPER kreativitásról, kultúráról és kommunikációról szóló beszélgetésekkel ígér betekintést az iparág formálóinak…",
-      "fullSummary": "Új szakmai videópodcastot indított a The Deep Creative Collective: a ONE DEEPER kreativitásról, kultúráról és kommunikációról szóló beszélgetésekkel ígér betekintést az iparág formálóinak gondolkodásába. A szeptember 17-én debütált műsor koncepciójáról és terveiről Hadacs Bálinttal, a DEEP operatív és stratégiai igazgatójával beszélgettünk.",
+      "fullSummary": "Új szakmai videópodcastot indított a The Deep Creative Collective: a ONE DEEPER kreativitásról, kultúráról és kommunikációról szóló beszélgetésekkel ígér betekintést az iparág formálóinak…",
       "tags": [
         "Uj Musor",
         "Podcast",
@@ -310,7 +336,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A gyűjtői Lenny Kravitz Ken figura a „Blue Electric Light Tour” koncertturné; valamint a többszörösen díjazott énekes, dalszerző, zenész, lemezproducer, színész és designer páratlan pályafutása előtt…",
-      "fullSummary": "A gyűjtői Lenny Kravitz Ken figura a „Blue Electric Light Tour” koncertturné; valamint a többszörösen díjazott énekes, dalszerző, zenész, lemezproducer, színész és designer páratlan pályafutása előtt tiszteleg.",
+      "fullSummary": "A gyűjtői Lenny Kravitz Ken figura a „Blue Electric Light Tour” koncertturné; valamint a többszörösen díjazott énekes, dalszerző, zenész, lemezproducer, színész és designer páratlan pályafutása előtt…",
       "tags": [
         "Lenny Kravitz",
         "Mattel",
@@ -340,7 +366,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Mondják, vannak ügynökségek, ahol az AI kitúrta a munkatársakat. Legfeljebb nehezen ismerik el, hogy ez történt. Bár van olyan is, aki ezt sem tagadja. Bölcs döntés ez? Dobos Gábor és Somogyi Márton…",
-      "fullSummary": "Mondják, vannak ügynökségek, ahol az AI kitúrta a munkatársakat. Legfeljebb nehezen ismerik el, hogy ez történt. Bár van olyan is, aki ezt sem tagadja. Bölcs döntés ez? Dobos Gábor és Somogyi Márton (mindketten: Dot Creative) lépésről lépésre vezette le a lehetséges forgatókönyvet, amelynek végén (spoiler!) kiderül, hogy szerintük nincs kitúrás, inkább erősödés. Nem tagadták meg magukat: őszinte, laza, kíméletlen helyzetkép következik.",
+      "fullSummary": "Mondják, vannak ügynökségek, ahol az AI kitúrta a munkatársakat. Legfeljebb nehezen ismerik el, hogy ez történt. Bár van olyan is, aki ezt sem tagadja. Bölcs döntés ez? Dobos Gábor és Somogyi Márton…",
       "tags": [
         "AI",
         "Agencies",
@@ -391,7 +417,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Szeptember 24-én a Toldi Moziban debütál a The Good Persona Community Culture konferenciája. Az esemény központi témája egy nagy változás: hogyan mozdul el a márkaépítés a figyelem megszerzésétől a…",
-      "fullSummary": "Szeptember 24-én a Toldi Moziban debütál a The Good Persona Community Culture konferenciája. Az esemény központi témája egy nagy változás: hogyan mozdul el a márkaépítés a figyelem megszerzésétől a valódi kapcsolatok felé.",
+      "fullSummary": "Szeptember 24-én a Toldi Moziban debütál a The Good Persona Community Culture konferenciája. Az esemény központi témája egy nagy változás: hogyan mozdul el a márkaépítés a figyelem megszerzésétől a…",
       "tags": [
         "Branding",
         "Waterdrop",
@@ -506,12 +532,13 @@
       "source": "famouscampaigns",
       "sourceName": "Famous Campaigns",
       "accent": "#7c5cff",
-      "summary": "The Enshittificator is back, and this time the Norwegian Consumer Council has paired him with Death to tackle another familiar consumer frustration: products that seem to die long before they should. The darkly comic film, The Life of…",
-      "fullSummary": "The Enshittificator is back, and this time the Norwegian Consumer Council has paired him with Death to tackle another familiar consumer frustration: products that seem to die long before they should. The darkly comic film, The Life of Death and the Ensh*ttificator, accompanies the Council’s new report on circular consumption and the systems that encourage […]",
+      "summary": "Humour is proven to work better than almost anything else in advertising, and most brands would still rather bore you into compliance. Norway’s Consumer Council isn’t. They’ve again landed a serious sustainability message without a…",
+      "fullSummary": "Humour is proven to work better than almost anything else in advertising, and most brands would still rather bore you into compliance. Norway’s Consumer Council isn’t. They’ve again landed a serious sustainability message without a lecture, without a melting glacier clip, sombre voiceover or emotional piano soundtrack — and kudos to them. The Enshittificator is […]",
       "tags": [
         "Advertising",
         "Environmental",
-        "Film & TV"
+        "Branding",
+        "Sustainability"
       ],
       "rawTags": [
         "Advertising",
@@ -1872,11 +1899,12 @@
       "source": "famouscampaigns",
       "sourceName": "Famous Campaigns",
       "accent": "#7c5cff",
-      "summary": "Savage X Fenty has taken over New York Fashion Week with an outdoor campaign that suspends giant lingerie above Manhattan streets, using sunlight to cast oversized bra and underwear shadows across the road below. Spotted around Seventh…",
-      "fullSummary": "Savage X Fenty has taken over New York Fashion Week with an outdoor campaign that suspends giant lingerie above Manhattan streets, using sunlight to cast oversized bra and underwear shadows across the road below. Spotted around Seventh Avenue and Fashion Avenue, the installation turns the city itself into the media. Instead of simply showing lingerie […]",
+      "summary": "Savage X Fenty has taken over New York Fashion Week with a CGI outdoor campaign that suspends giant lingerie above Manhattan streets, using sunlight to cast oversized bra and underwear shadows across the road below. The brand has enlarged…",
+      "fullSummary": "Savage X Fenty has taken over New York Fashion Week with a CGI outdoor campaign that suspends giant lingerie above Manhattan streets, using sunlight to cast oversized bra and underwear shadows across the road below. The brand has enlarged the product into street-scale structures whose shadows become the advertising. The sun casts Savage X […]",
       "tags": [
         "Fashion",
         "OOH",
+        "Branding",
         "Campaigns"
       ],
       "rawTags": [
@@ -1884,7 +1912,7 @@
         "OOH"
       ],
       "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/fenty-shadows.mp4",
-      "author": "James Herring",
+      "author": "Staff",
       "category": "Fashion",
       "publishedAt": "2026-09-13T13:07:42Z",
       "datePrecise": true,
