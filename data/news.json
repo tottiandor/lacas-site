@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-20T03:21:48Z",
-  "itemCount": 176,
+  "generatedAt": "2026-09-21T03:22:53Z",
+  "itemCount": 178,
   "sources": [
     {
       "id": "thedrum",
@@ -49,6 +49,60 @@
     }
   ],
   "items": [
+    {
+      "id": "bff0b4e4",
+      "title": "E.ON hires Bob the Builder, sends him back to school",
+      "url": "https://www.famouscampaigns.com/2026/09/e-on-hires-bob-the-builder-sends-him-back-to-school/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Bob the Builder is back in his original stop-motion form for an E.ON Next campaign that sends the much-loved tradesman to green skills training, with Neil Morrissey returning as his voice for the first time since 2011. The 90-second film…",
+      "fullSummary": "Bob the Builder is back in his original stop-motion form for an E.ON Next campaign that sends the much-loved tradesman to green skills training, with Neil Morrissey returning as his voice for the first time since 2011. The 90-second film catches up with Bob after 15 years away. Following a spell of yoga, birdwatching and […]",
+      "tags": [
+        "Environmental",
+        "PR",
+        "Campaigns",
+        "Film & TV"
+      ],
+      "rawTags": [
+        "Environmental",
+        "PR"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/bob-the-builder-eon.mp4",
+      "author": "James Herring",
+      "category": "Environmental",
+      "publishedAt": "2026-09-20T09:19:25Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-21T03:22:53Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "e5ebc1d2",
+      "title": "McDonald’s takes over butcher with three-ingredient message",
+      "url": "https://www.famouscampaigns.com/2026/09/mcdonalds-takes-over-butcher-with-three-ingredient-message/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "McDonald’s took over a Shoreditch butcher shop last week to show exactly what goes into its British and Irish beef patties and introduce the people behind its supply chain. The Counter, an experiential marketing activation, allowed…",
+      "fullSummary": "McDonald’s took over a Shoreditch butcher shop last week to show exactly what goes into its British and Irish beef patties and introduce the people behind its supply chain. The Counter, an experiential marketing activation, allowed visitors could meet farmers and suppliers see how patties are produced and, in bookable masterclasses, press their own. The […]",
+      "tags": [
+        "Experiential",
+        "Food & Drink",
+        "PR"
+      ],
+      "rawTags": [
+        "Experiential",
+        "Food & Drink",
+        "PR"
+      ],
+      "image": null,
+      "author": "James Herring",
+      "category": "Experiential",
+      "publishedAt": "2026-09-20T09:05:51Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-21T03:22:53Z",
+      "enrichAttempts": 0
+    },
     {
       "id": "0d94c4fd",
       "title": "IKEA turns FRAKTA into a portrait of everyday Italy",
