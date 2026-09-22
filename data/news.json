@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-21T03:22:53Z",
-  "itemCount": 178,
+  "generatedAt": "2026-09-22T03:22:14Z",
+  "itemCount": 186,
   "sources": [
     {
       "id": "thedrum",
@@ -49,6 +49,251 @@
     }
   ],
   "items": [
+    {
+      "id": "cf56dc38",
+      "title": "Pert indítanak a Fehér Házból kitiltott amerikai lapok a Trump-kormány ellen",
+      "url": "https://kreativ.hu/cikk/feher-haz-cnn-ms-now-politico-trump-akkreditacio-megvont-engedely-kitiltas-pert-indit",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A CNN, az MS NOW és a Politico bírósághoz fordult, miután a Trump-adminisztráció megvonta tudósítóik Fehér Ház-i akkreditációját. A három médium szerint a döntés sérti az amerikai alkotmány első…",
+      "fullSummary": "A CNN, az MS NOW és a Politico bírósághoz fordult, miután a Trump-adminisztráció megvonta tudósítóik Fehér Ház-i akkreditációját. A három médium szerint a döntés sérti az amerikai alkotmány első kiegészítésében rögzített sajtószabadságot, és sürgősségi kérelmükben az újságírók hozzáférésének azonnali helyreállítását kérik.",
+      "tags": [
+        "Akkreditacio",
+        "Cnn",
+        "Kitiltas",
+        "Feher Haz",
+        "Trump",
+        "Politico"
+      ],
+      "rawTags": [
+        "akkreditacio",
+        "cnn",
+        "kitiltas",
+        "feher-haz",
+        "trump",
+        "politico",
+        "pert-indit",
+        "megvont-engedely"
+      ],
+      "image": "https://kreativ.hu/img-cache/p/c/r/m/-/pcrm-dorego-lwxgxxdmu38-unsplash-0-20260921-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-09-21T14:56:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-22T03:22:14Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "ee6e427d",
+      "title": "Berobbant a híroldalak AI-forgalma – ez sem pótolja a Google-ből elveszített látogatókat",
+      "url": "https://kreativ.hu/cikk/berobbant-a-hiroldalak-ai-forgalma",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Kevesebb mint két év alatt legalább százszorosára nőtt a mesterségesintelligencia-alapú felületekről a vizsgált magyar weboldalakra érkező forgalom. A JabJab Online Marketing elemzése szerint azonban…",
+      "fullSummary": "Kevesebb mint két év alatt legalább százszorosára nőtt a mesterségesintelligencia-alapú felületekről a vizsgált magyar weboldalakra érkező forgalom. A JabJab Online Marketing elemzése szerint azonban az AI még mindig csak töredékét pótolja a hagyományos Google-keresésekből kieső látogatottságnak.",
+      "tags": [
+        "Google",
+        "Traffic",
+        "AI",
+        "AI Agent 1",
+        "Advertising"
+      ],
+      "rawTags": [
+        "google",
+        "traffic",
+        "ai",
+        "ai-agent-1",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-1546995731-jpeg-0-20260921-920-690-90-zc.webp",
+      "author": "L. B.",
+      "category": "",
+      "publishedAt": "2026-09-21T14:34:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-22T03:22:14Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "39539f65",
+      "title": "Tesco drops the weekly shop straight into Uber Eats’ bag",
+      "url": "https://www.famouscampaigns.com/2026/09/tesco-drops-the-weekly-shop-straight-into-uber-eats-bag/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Tesco and Uber Eats have launched a nationwide grocery delivery campaign built around a striking piece of outdoor advertising: a Tesco billboard appears to have slipped from its frame, dropping the weekly shop directly into an oversized…",
+      "fullSummary": "Tesco and Uber Eats have launched a nationwide grocery delivery campaign built around a striking piece of outdoor advertising: a Tesco billboard appears to have slipped from its frame, dropping the weekly shop directly into an oversized Uber Eats delivery bag. Created by Mother, with PHD handling media and Grand Visual delivering the special-build execution, […]",
+      "tags": [
+        "COOH",
+        "Food & Drink",
+        "Advertising",
+        "Campaigns",
+        "OOH"
+      ],
+      "rawTags": [
+        "COOH",
+        "Food & Drink"
+      ],
+      "image": null,
+      "author": "James Herring",
+      "category": "COOH",
+      "publishedAt": "2026-09-21T11:25:35Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-22T03:22:14Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "9895dc77",
+      "title": "Polyák Gábort javasolta a Médiatanács elnökének az Országgyűlés szakbizottsága",
+      "url": "https://kreativ.hu/cikk/polyak-gabort-javasolta-a-mediatanacs-elnokenek-az-orszaggyules-szakbizottsaga",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A szakmai tagok által támogatott jelölteket pontozással értékelte a bizottság: Polyák Gábor 130 pontot, Tóth Csaba 127 pontot, Kajzinger Ervin 99 pontot, Schönleber Zoltán pedig 98 pontot kapott…",
+      "fullSummary": "A szakmai tagok által támogatott jelölteket pontozással értékelte a bizottság: Polyák Gábor 130 pontot, Tóth Csaba 127 pontot, Kajzinger Ervin 99 pontot, Schönleber Zoltán pedig 98 pontot kapott pályázatára.",
+      "tags": [
+        "Mediatanacs",
+        "Polyak Gabor",
+        "Media"
+      ],
+      "rawTags": [
+        "mediatanacs",
+        "polyak-gabor",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/p/o/l/y/a/polyak-gabor-mediatanacs-v2-0-20260921-799-599-25-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-09-21T11:23:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-22T03:22:14Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "a86d9d94",
+      "title": "Új néven folytatja tovább a Reklámtörténet blog",
+      "url": "https://kreativ.hu/cikk/uj-neven-folytatja-tovabb-a-reklamtortenet-blog",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Beyond Taglines néven folytatja tovább a Reklámtörténet.",
+      "fullSummary": "Beyond Taglines néven folytatja tovább a Reklámtörténet.",
+      "tags": [
+        "White Rabbit",
+        "Reklamtortenet",
+        "Kovacs Levente",
+        "Advertising",
+        "Media"
+      ],
+      "rawTags": [
+        "white-rabbit",
+        "reklamtortenet",
+        "kovacs-levente",
+        "reklam",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-180757110-jpeg-20260921-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-09-21T09:26:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-22T03:22:14Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "b00de7d2",
+      "title": "Idegrendszerváltás óriásplakátokon – galériánk a 26. ARC kiállításról",
+      "url": "https://kreativ.hu/cikk/idegrendszervaltas-oriasplakatokon-galeriank-a-26-arc-kiallitasrol",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Most először a Petőfi híd budai hídfőjénél nyílt meg az idei ARC közérzeti kiállítás. Fotósunk is bejárta a tárlatot: galériánkban megmutatjuk, milyen pillanatokat és plakátokat kapott el a…",
+      "fullSummary": "Most először a Petőfi híd budai hídfőjénél nyílt meg az idei ARC közérzeti kiállítás. Fotósunk is bejárta a tárlatot: galériánkban megmutatjuk, milyen pillanatokat és plakátokat kapott el a helyszínen.",
+      "tags": [
+        "Arc",
+        "Galeria",
+        "Arc Kiallitas",
+        "Advertising",
+        "Photography",
+        "OOH"
+      ],
+      "rawTags": [
+        "arc",
+        "galeria",
+        "arc-kiallitas",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/s/z/r/0/6/szr0616-0-20260921-920-690-90-zc.webp",
+      "author": "L. B.",
+      "category": "",
+      "publishedAt": "2026-09-21T08:46:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-22T03:22:14Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "3a66e282",
+      "title": "Munkahelyeket és adóbevételt vinne el a kormány reklámrendelete az MRSZ szerint",
+      "url": "https://kreativ.hu/cikk/munkahelyeket-es-adobevetelt-vinne-el-a-kormany-reklamrendelete-az-mrsz-szerint",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Magyar Reklámszövetség Közterületi (OOH) Tagozata szerint a reklámeszközök elhelyezését szigorító kormányzati tervezet 1140 munkahely megszűnésével és 3,4 milliárd forintos adóbevétel-kieséssel…",
+      "fullSummary": "A Magyar Reklámszövetség Közterületi (OOH) Tagozata szerint a reklámeszközök elhelyezését szigorító kormányzati tervezet 1140 munkahely megszűnésével és 3,4 milliárd forintos adóbevétel-kieséssel járhat. A szervezet érdemi szakmai egyeztetést, a véleményezési határidő meghosszabbítását és alternatív szabályozási megoldásokat is vizsgáló hatásvizsgálatot kér.",
+      "tags": [
+        "Advertising",
+        "Torveny",
+        "Mrsz",
+        "Szigoritas",
+        "OOH",
+        "Hirdetesi Piac"
+      ],
+      "rawTags": [
+        "reklam",
+        "torveny",
+        "mrsz",
+        "szigoritas",
+        "oriasplakat",
+        "hirdetesi-piac",
+        "tarsadalmi-egyeztetes",
+        "ooh"
+      ],
+      "image": "https://kreativ.hu/img-cache/e/g/y/e/d/egyedulallo-citylight-0-20260921-716-537-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-09-21T08:15:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-22T03:22:14Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "74d25bf9",
+      "title": "Visszautasítja a Media1 a szakmai szervezetek kritikáját",
+      "url": "https://kreativ.hu/cikk/visszautasitja-a-media1-a-szakmai-szervezetek-kritikajat",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A MEME, az MLE, az MTE és az ÖRT szeptember 18-án pénteken közös közleményben bírálta a Media1 szerkesztési gyakorlatát. A Media1 időközben reagált a kritikára: az általuk elkövetett hibáért…",
+      "fullSummary": "A MEME, az MLE, az MTE és az ÖRT szeptember 18-án pénteken közös közleményben bírálta a Media1 szerkesztési gyakorlatát. A Media1 időközben reagált a kritikára: az általuk elkövetett hibáért vállalják a felelősséget, azonban visszautasítják a szervezetek több, a Media1 szerkesztési gyakorlatára vonatkozó állítását.",
+      "tags": [
+        "Kritika",
+        "Media1",
+        "Media"
+      ],
+      "rawTags": [
+        "kritika",
+        "media1",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/e/d/i/a/media1-fb-cover-0-20260921-690-920-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-09-21T06:49:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-22T03:22:14Z",
+      "enrichAttempts": 1
+    },
     {
       "id": "bff0b4e4",
       "title": "E.ON hires Bob the Builder, sends him back to school",
@@ -172,7 +417,7 @@
         "kozerzeti-kiallitas",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/a/r/c/-/2/arc-26-kv-kiallitas-2-0-20260918-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/r/c/-/2/arc-26-kv-kiallitas-2-0-20260918-690-920-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-18T15:23:00Z",
@@ -201,7 +446,7 @@
         "elnokjeloltek",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/j/r/y/d/e/jrydertr-chair-9905356-1920-0-20260918-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/j/r/y/d/e/jrydertr-chair-9905356-1920-0-20260918-690-920-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-09-18T14:45:00Z",
@@ -234,7 +479,7 @@
         "media1",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/7/7/4/9/7/774972030-27814809824837144-66156674060246803-n-png-0-20260918-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/7/7/4/9/7/774972030-27814809824837144-66156674060246803-n-png-0-20260918-690-920-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-09-18T14:18:00Z",
@@ -261,7 +506,7 @@
         "lounge-event-kft",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/d/o/w/n/l/download-jfif-0-20260918-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/d/o/w/n/l/download-jfif-0-20260918-676-5-902-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-09-18T12:30:00Z",
@@ -345,7 +590,7 @@
       "rawTags": [
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/p/e/x/e/l/pexels-peter-dyllong-2158803154-36519146-0-20260918-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/p/e/x/e/l/pexels-peter-dyllong-2158803154-36519146-0-20260918-920-690-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-09-18T10:11:00Z",
@@ -374,7 +619,7 @@
         "deep-cc",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/o/n/e/-/d/one-deeper-cover-png-0-20260918-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/o/n/e/-/d/one-deeper-cover-png-0-20260918-920-690-90-zc.webp",
       "author": "Lakos Boglárka",
       "category": "",
       "publishedAt": "2026-09-18T08:45:00Z",
