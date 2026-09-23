@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-22T03:22:14Z",
-  "itemCount": 186,
+  "generatedAt": "2026-09-23T03:22:41Z",
+  "itemCount": 198,
   "sources": [
     {
       "id": "thedrum",
@@ -50,6 +50,337 @@
   ],
   "items": [
     {
+      "id": "335a64b0",
+      "title": "Aldi unveils jacket that transforms into a shopping bag",
+      "url": "https://www.famouscampaigns.com/2026/09/aldi-turns-a-jacket-into-the-shopping-bag/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Aldi has created a jacket that transforms into a reusable shopping bag in 10 seconds, turning one of Britain’s most common supermarket mistakes into a piece of wearable brand merch. The idea comes from a familiar bit of consumer behaviour.…",
+      "fullSummary": "Aldi has created a jacket that transforms into a reusable shopping bag in 10 seconds, turning one of Britain’s most common supermarket mistakes into a piece of wearable brand merch. The idea comes from a familiar bit of consumer behaviour. New Aldi research found 46% of Brits regularly forget their shopping bags, while 85% have […]",
+      "tags": [
+        "Food & Drink",
+        "PR",
+        "Retail",
+        "Branding"
+      ],
+      "rawTags": [
+        "Food & Drink",
+        "PR",
+        "Retail"
+      ],
+      "image": null,
+      "author": "Staff",
+      "category": "Food & Drink",
+      "publishedAt": "2026-09-22T23:01:52Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-23T03:22:41Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "cab1b357",
+      "title": "Apple — Dimensional Drawings of Products",
+      "url": "https://theinspiration.com/2026/09/apple-dimensional-drawings-of-products/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "Please visit developer.apple.com",
+      "fullSummary": "Please visit developer.apple.com",
+      "tags": [
+        "Design"
+      ],
+      "rawTags": [
+        "Design"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/editor-1790066927-10abca28-750x536.avif",
+      "author": "Daniel Ingvartsen",
+      "category": "Design",
+      "publishedAt": "2026-09-22T20:53:14Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-23T03:22:41Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "c99b6f35",
+      "title": "Meghalt Krecz Tibor médiaszakember",
+      "url": "https://kreativ.hu/cikk/meghalt-krecz-tibor-mediaszakember",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Életének 63. évében, szeptember 19-én elhunyt Krecz Tibor, Debrecen közismert és elismert média- és kommunikációs szakembere. Halálhírét lánya osztotta meg a közösségi médiában, erről a Hajdupress…",
+      "fullSummary": "Életének 63. évében, szeptember 19-én elhunyt Krecz Tibor, Debrecen közismert és elismert média- és kommunikációs szakembere. Halálhírét lánya osztotta meg a közösségi médiában, erről a Hajdupress számolt be.",
+      "tags": [
+        "Debrecen",
+        "Media",
+        "Ujsagiras",
+        "Figyelo",
+        "Social Media"
+      ],
+      "rawTags": [
+        "debrecen",
+        "media",
+        "ujsagiras",
+        "figyelo"
+      ],
+      "image": "https://kreativ.hu/img-cache/k/r/e/c/z/krecz-20260922-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-09-22T18:22:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-23T03:22:41Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "b35e1272",
+      "title": "Szerényi Szabolcs a Kreatív új főszerkesztője",
+      "url": "https://kreativ.hu/cikk/kreativ-foszerkeszto-valtozas-szerenyi-szabolcs",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Szeptember 21-től Szerényi Szabolcs tölti be a Kreatív főszerkesztői pozícióját. Az új főszerkesztő számára sem a lap, sem a kommunikációs iparág nem ismeretlen terület, 2010 és 2020 között ugyanis…",
+      "fullSummary": "Szeptember 21-től Szerényi Szabolcs tölti be a Kreatív főszerkesztői pozícióját. Az új főszerkesztő számára sem a lap, sem a kommunikációs iparág nem ismeretlen terület, 2010 és 2020 között ugyanis már tagja volt a Kreatív csapatának.",
+      "tags": [
+        "Foszerkeszto",
+        "Media"
+      ],
+      "rawTags": [
+        "kreativ",
+        "foszerkeszto",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/2/0/2/3/-/2023-09-05-kreativ-szolgalati-kozlemeny-cover-doboz-0-20260922-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-09-22T14:38:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-23T03:22:41Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "ae53e4ca",
+      "title": "Átadták az első Signature Brands díjait",
+      "url": "https://kreativ.hu/cikk/campaign-signature-brands-marketing-summit-signature-dijatado",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Első alkalommal díjazták a márkák mögött működő marketingcsapatok teljes éves teljesítményét a Campaign Signature Brands keretében a szeptember 17-ei Marketing Summit Signature díjátadóján. A 42…",
+      "fullSummary": "Első alkalommal díjazták a márkák mögött működő marketingcsapatok teljes éves teljesítményét a Campaign Signature Brands keretében a szeptember 17-ei Marketing Summit Signature díjátadóján. A 42 pályázatból álló mezőnyben hat arany-, öt ezüst- és öt bronzelismerés született, a Grand Prix-t pedig még, eltérő marketingkihívásra adott válasz érdemelte ki. Mutatjuk a győztesek listáját.",
+      "tags": [
+        "Marketing",
+        "Verseny",
+        "Advertising",
+        "Branding",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "marketing",
+        "verseny",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/i/m/g/-/2/img-2209-0-20260922-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-09-22T13:36:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-23T03:22:41Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "e59559b3",
+      "title": "Egy pillanat is dönthet az utakon: a magyarok többsége nem tudja, mekkora távolság számít biztonságosnak",
+      "url": "https://kreativ.hu/cikk/egy-pillanat-is-donthet-az-utakon-a-magyarok-tobbsege-nem-tudja-mekkora-tavolsag-szamit-biztonsagosnak",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Vajon elegendő követési távolságot tartunk? Tudjuk, mekkora oldaltávolság szükséges egy kerékpáros előzésekor, vagy milyen hosszú a féktáv autópálya-tempónál? A Magyar Suzuki és az Ipsos országosan…",
+      "fullSummary": "Vajon elegendő követési távolságot tartunk? Tudjuk, mekkora oldaltávolság szükséges egy kerékpáros előzésekor, vagy milyen hosszú a féktáv autópálya-tempónál? A Magyar Suzuki és az Ipsos országosan reprezentatív kutatása szerint a magyar közlekedők többsége ugyan fontosnak tartja a biztonságos távolságtartást, de sok esetben nincs tisztában azzal, hogy valójában mekkora az a biztonsági zóna, mellyel a veszélyes helyzetek elkerülhetőek. A…",
+      "tags": [
+        "PR",
+        "Biztonsag",
+        "Suzuki",
+        "Advertising"
+      ],
+      "rawTags": [
+        "pr",
+        "biztonsag",
+        "suzuki",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/s/u/z/u/k/suzuki-egyutt-az-utakon-infografika-223-png-20260922-800-600-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-09-22T12:40:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-23T03:22:41Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "22638202",
+      "title": "Polyák Gábort választották a Médiatanács új elnökének",
+      "url": "https://kreativ.hu/cikk/mediatanacs-elnok-polyak-gabor",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Megválasztotta Polyák Gábort a Nemzeti Média és Hírközlési Hatóság (NMHH) Médiatanácsának elnökévé kedden az Országgyűlés öt évre. A parlament megválasztotta a testület négy, a Tisza-frakció és a Mi…",
+      "fullSummary": "Megválasztotta Polyák Gábort a Nemzeti Média és Hírközlési Hatóság (NMHH) Médiatanácsának elnökévé kedden az Országgyűlés öt évre. A parlament megválasztotta a testület négy, a Tisza-frakció és a Mi Hazánk által jelölt tagját négy évre, de elutasította a Fidesz és a KDNP jelöltjeit.",
+      "tags": [
+        "Mediatanacs",
+        "Polyak Gabor",
+        "Media"
+      ],
+      "rawTags": [
+        "mediatanacs",
+        "polyak-gabor",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/e/l/t/e/b/eltebtk-0-20260922-920-690-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-09-22T10:23:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-23T03:22:41Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "3db74d30",
+      "title": "McDonald’s lets fans pick the targets for biggest menu heist yet",
+      "url": "https://www.famouscampaigns.com/2026/09/mcdonalds-lets-fans-pick-the-targets-for-biggest-menu-heist-yet/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "McDonald’s and Leo UK are bringing back World Menu Heist, using fan demand to steal nine menu items from eight countries and bring them to the UK and Ireland. The haul includes Germany’s Big Rösti, Canada’s Maple & Cheddar Chicken and…",
+      "fullSummary": "McDonald’s and Leo UK are bringing back World Menu Heist, using fan demand to steal nine menu items from eight countries and bring them to the UK and Ireland. The haul includes Germany’s Big Rösti, Canada’s Maple & Cheddar Chicken and China’s Szechuan Sauce. Leo UK used social listening to identify the international products people […]",
+      "tags": [
+        "Advertising",
+        "Food & Drink",
+        "OOH"
+      ],
+      "rawTags": [
+        "Advertising",
+        "Food & Drink",
+        "OOH"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/1_Most-Wanted_30Sec-Film-1.mp4",
+      "author": "Staff",
+      "category": "Advertising",
+      "publishedAt": "2026-09-22T09:52:54Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-23T03:22:41Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "97cb0ce4",
+      "title": "Elhárult az utolsó nagy akadály: a Paramount felvásárolhatja a Warner Bros-t",
+      "url": "https://kreativ.hu/cikk/paramount-warner-megallapodas-felvasarlas",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Paramount Skydance hétfőn győztesen került ki a Warner Bros Discovery megvásárlása körüli jogi csatából, miután peren kívül megegyezett több amerikai tagállammal és a hollywoodi forgatókönyvírók…",
+      "fullSummary": "A Paramount Skydance hétfőn győztesen került ki a Warner Bros Discovery megvásárlása körüli jogi csatából, miután peren kívül megegyezett több amerikai tagállammal és a hollywoodi forgatókönyvírók szakszervezetével. Ezzel úgy tűnik, elhárult az utolsó komoly akadály a médiatörténet egyik legnagyobb, 110 milliárd dolláros cégegyesülése elől.",
+      "tags": [
+        "Paramount",
+        "Warner",
+        "Media"
+      ],
+      "rawTags": [
+        "paramount",
+        "warner",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/p/e/x/e/l/pexels-mark-direen-622749-36148684-0-20260922-920-690-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-09-22T09:15:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-23T03:22:41Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "15170b88",
+      "title": "Tech- és emberfókusz egyszerre – szakmai irányvonalak a 2026-os Marketing Summitról",
+      "url": "https://kreativ.hu/cikk/tech-es-emberfokusz-egyszerre-szakmai-iranyvonalak-a-2026-os-marketing-summitrol",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Az idei Marketing Summit előadásai alapján a marketing legfontosabb kérdése már nem az, hogy mire képes a mesterséges intelligencia, hanem az, hogy mit kezd vele az ember. A Müpa termeiben egyszerre…",
+      "fullSummary": "Az idei Marketing Summit előadásai alapján a marketing legfontosabb kérdése már nem az, hogy mire képes a mesterséges intelligencia, hanem az, hogy mit kezd vele az ember. A Müpa termeiben egyszerre rajzolódott ki az adatvezérelt, automatizált marketing jövője és az a határozott szakmai igény, hogy a technológiai gyorsulás közepette se veszítsük el a hitelességet, az ítélőképességet és a valódi emberi kapcsolatokat. Beszámolónk az idei…",
+      "tags": [
+        "Marketing",
+        "Marketing Summit",
+        "Advertising",
+        "Media",
+        "AI"
+      ],
+      "rawTags": [
+        "marketing",
+        "marketing-summit",
+        "reklam",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/i/m/g/-/9/img-9145-0-20260922-920-690-90-zc.webp",
+      "author": "Lakos Boglárka",
+      "category": "",
+      "publishedAt": "2026-09-22T08:30:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-23T03:22:41Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "914cd259",
+      "title": "A tote bag that turns into a life jacket in 15 seconds",
+      "url": "https://www.famouscampaigns.com/2026/09/a-tote-bag-that-turns-into-a-life-jacket-in-15-seconds/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Lifeline is a conceptual tote bag that transforms into a self-inflating life jacket in around 15 seconds. Launched for New York Climate Week, the project was prompted by images of flooding on the city’s subway and asks an uncomfortable…",
+      "fullSummary": "Lifeline is a conceptual tote bag that transforms into a self-inflating life jacket in around 15 seconds. Launched for New York Climate Week, the project was prompted by images of flooding on the city’s subway and asks an uncomfortable question: what happens when emergency equipment starts to look like an everyday essential? The bag was […]",
+      "tags": [
+        "Environmental",
+        "Products",
+        "Sustainability"
+      ],
+      "rawTags": [
+        "Environmental",
+        "Products"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/lifeline.mp4",
+      "author": "Staff",
+      "category": "Environmental",
+      "publishedAt": "2026-09-22T08:13:16Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-23T03:22:41Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "58b6446f",
+      "title": "A Házasság első látásra és a Sztárban Sztár húzta be a legtöbb nézőt – 38. heti nézettségi adatok",
+      "url": "https://kreativ.hu/cikk/nezettseg-38-het-rtl-tv2-sztarban-sztar-hazassag-elso-latasra",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Múlt vasárnap elindult a TV2-n a Sztárban Sztár, és kapásból a második legnézettebb műsor lett. A Házasság első látásra népszerűsége egyelőre töretlen, a Megasztár azonban ugyanezt nem mondhatja el…",
+      "fullSummary": "Múlt vasárnap elindult a TV2-n a Sztárban Sztár, és kapásból a második legnézettebb műsor lett. A Házasság első látásra népszerűsége egyelőre töretlen, a Megasztár azonban ugyanezt nem mondhatja el magáról. A Farm VIP, valamint a Celeb vagyok, ments ki innen! nem került be a top 5-be.",
+      "tags": [
+        "Tv2",
+        "Nezettseg",
+        "RTL",
+        "Media"
+      ],
+      "rawTags": [
+        "tv2",
+        "nezettseg",
+        "rtl",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/s/z/s/z/1/szsz1201-4-of-133-0-20260922-690-920-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-09-22T07:41:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-23T03:22:41Z",
+      "enrichAttempts": 1
+    },
+    {
       "id": "cf56dc38",
       "title": "Pert indítanak a Fehér Házból kitiltott amerikai lapok a Trump-kormány ellen",
       "url": "https://kreativ.hu/cikk/feher-haz-cnn-ms-now-politico-trump-akkreditacio-megvont-engedely-kitiltas-pert-indit",
@@ -57,7 +388,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A CNN, az MS NOW és a Politico bírósághoz fordult, miután a Trump-adminisztráció megvonta tudósítóik Fehér Ház-i akkreditációját. A három médium szerint a döntés sérti az amerikai alkotmány első…",
-      "fullSummary": "A CNN, az MS NOW és a Politico bírósághoz fordult, miután a Trump-adminisztráció megvonta tudósítóik Fehér Ház-i akkreditációját. A három médium szerint a döntés sérti az amerikai alkotmány első kiegészítésében rögzített sajtószabadságot, és sürgősségi kérelmükben az újságírók hozzáférésének azonnali helyreállítását kérik.",
+      "fullSummary": "A CNN, az MS NOW és a Politico bírósághoz fordult, miután a Trump-adminisztráció megvonta tudósítóik Fehér Ház-i akkreditációját. A három médium szerint a döntés sérti az amerikai alkotmány első…",
       "tags": [
         "Akkreditacio",
         "Cnn",
@@ -76,7 +407,7 @@
         "pert-indit",
         "megvont-engedely"
       ],
-      "image": "https://kreativ.hu/img-cache/p/c/r/m/-/pcrm-dorego-lwxgxxdmu38-unsplash-0-20260921-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/p/c/r/m/-/pcrm-dorego-lwxgxxdmu38-unsplash-0-20260921-690-920-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-09-21T14:56:00Z",
@@ -92,7 +423,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Kevesebb mint két év alatt legalább százszorosára nőtt a mesterségesintelligencia-alapú felületekről a vizsgált magyar weboldalakra érkező forgalom. A JabJab Online Marketing elemzése szerint azonban…",
-      "fullSummary": "Kevesebb mint két év alatt legalább százszorosára nőtt a mesterségesintelligencia-alapú felületekről a vizsgált magyar weboldalakra érkező forgalom. A JabJab Online Marketing elemzése szerint azonban az AI még mindig csak töredékét pótolja a hagyományos Google-keresésekből kieső látogatottságnak.",
+      "fullSummary": "Kevesebb mint két év alatt legalább százszorosára nőtt a mesterségesintelligencia-alapú felületekről a vizsgált magyar weboldalakra érkező forgalom. A JabJab Online Marketing elemzése szerint azonban…",
       "tags": [
         "Google",
         "Traffic",
@@ -107,7 +438,7 @@
         "ai-agent-1",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-1546995731-jpeg-0-20260921-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-1546995731-jpeg-0-20260921-690-920-90-zc.webp",
       "author": "L. B.",
       "category": "",
       "publishedAt": "2026-09-21T14:34:00Z",
@@ -151,7 +482,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A szakmai tagok által támogatott jelölteket pontozással értékelte a bizottság: Polyák Gábor 130 pontot, Tóth Csaba 127 pontot, Kajzinger Ervin 99 pontot, Schönleber Zoltán pedig 98 pontot kapott…",
-      "fullSummary": "A szakmai tagok által támogatott jelölteket pontozással értékelte a bizottság: Polyák Gábor 130 pontot, Tóth Csaba 127 pontot, Kajzinger Ervin 99 pontot, Schönleber Zoltán pedig 98 pontot kapott pályázatára.",
+      "fullSummary": "A szakmai tagok által támogatott jelölteket pontozással értékelte a bizottság: Polyák Gábor 130 pontot, Tóth Csaba 127 pontot, Kajzinger Ervin 99 pontot, Schönleber Zoltán pedig 98 pontot kapott…",
       "tags": [
         "Mediatanacs",
         "Polyak Gabor",
@@ -162,7 +493,7 @@
         "polyak-gabor",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/p/o/l/y/a/polyak-gabor-mediatanacs-v2-0-20260921-799-599-25-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/p/o/l/y/a/polyak-gabor-mediatanacs-v2-0-20260921-450-75-601-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-09-21T11:23:00Z",
@@ -193,7 +524,7 @@
         "reklam",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-180757110-jpeg-20260921-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-180757110-jpeg-20260921-690-920-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-21T09:26:00Z",
@@ -209,7 +540,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Most először a Petőfi híd budai hídfőjénél nyílt meg az idei ARC közérzeti kiállítás. Fotósunk is bejárta a tárlatot: galériánkban megmutatjuk, milyen pillanatokat és plakátokat kapott el a…",
-      "fullSummary": "Most először a Petőfi híd budai hídfőjénél nyílt meg az idei ARC közérzeti kiállítás. Fotósunk is bejárta a tárlatot: galériánkban megmutatjuk, milyen pillanatokat és plakátokat kapott el a helyszínen.",
+      "fullSummary": "Most először a Petőfi híd budai hídfőjénél nyílt meg az idei ARC közérzeti kiállítás. Fotósunk is bejárta a tárlatot: galériánkban megmutatjuk, milyen pillanatokat és plakátokat kapott el a…",
       "tags": [
         "Arc",
         "Galeria",
@@ -240,7 +571,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Magyar Reklámszövetség Közterületi (OOH) Tagozata szerint a reklámeszközök elhelyezését szigorító kormányzati tervezet 1140 munkahely megszűnésével és 3,4 milliárd forintos adóbevétel-kieséssel…",
-      "fullSummary": "A Magyar Reklámszövetség Közterületi (OOH) Tagozata szerint a reklámeszközök elhelyezését szigorító kormányzati tervezet 1140 munkahely megszűnésével és 3,4 milliárd forintos adóbevétel-kieséssel járhat. A szervezet érdemi szakmai egyeztetést, a véleményezési határidő meghosszabbítását és alternatív szabályozási megoldásokat is vizsgáló hatásvizsgálatot kér.",
+      "fullSummary": "A Magyar Reklámszövetség Közterületi (OOH) Tagozata szerint a reklámeszközök elhelyezését szigorító kormányzati tervezet 1140 munkahely megszűnésével és 3,4 milliárd forintos adóbevétel-kieséssel…",
       "tags": [
         "Advertising",
         "Torveny",
@@ -275,7 +606,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A MEME, az MLE, az MTE és az ÖRT szeptember 18-án pénteken közös közleményben bírálta a Media1 szerkesztési gyakorlatát. A Media1 időközben reagált a kritikára: az általuk elkövetett hibáért…",
-      "fullSummary": "A MEME, az MLE, az MTE és az ÖRT szeptember 18-án pénteken közös közleményben bírálta a Media1 szerkesztési gyakorlatát. A Media1 időközben reagált a kritikára: az általuk elkövetett hibáért vállalják a felelősséget, azonban visszautasítják a szervezetek több, a Media1 szerkesztési gyakorlatára vonatkozó állítását.",
+      "fullSummary": "A MEME, az MLE, az MTE és az ÖRT szeptember 18-án pénteken közös közleményben bírálta a Media1 szerkesztési gyakorlatát. A Media1 időközben reagált a kritikára: az általuk elkövetett hibáért…",
       "tags": [
         "Kritika",
         "Media1",
@@ -286,7 +617,7 @@
         "media1",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/m/e/d/i/a/media1-fb-cover-0-20260921-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/m/e/d/i/a/media1-fb-cover-0-20260921-920-690-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-21T06:49:00Z",
