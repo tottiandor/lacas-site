@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-23T03:22:41Z",
-  "itemCount": 198,
+  "generatedAt": "2026-09-24T03:22:17Z",
+  "itemCount": 207,
   "sources": [
     {
       "id": "thedrum",
@@ -49,6 +49,280 @@
     }
   ],
   "items": [
+    {
+      "id": "0974e1fd",
+      "title": "Gulyás János visszatért a Publicishez, a növekedésért felel a magyarországi csoportnál",
+      "url": "https://kreativ.hu/cikk/gulyas-janos-visszatert-a-publicishez-a-novekedesert-felel-a-magyarorszagi-csoportnal",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Chief Growth & Business Transformation Officerként csatlakozott a Publicis Groupe Hungary vezetéséhez Gulyás János. A korábban a Wavemaker Hungary-t vezető szakember feladata az ügynökség üzleti…",
+      "fullSummary": "Chief Growth & Business Transformation Officerként csatlakozott a Publicis Groupe Hungary vezetéséhez Gulyás János. A korábban a Wavemaker Hungary-t vezető szakember feladata az ügynökség üzleti megoldásainak fejlesztése és a szakterületei közötti együttműködés erősítése lesz.",
+      "tags": [
+        "Agencies",
+        "Gulyas Janos",
+        "Karrierhir",
+        "Advertising"
+      ],
+      "rawTags": [
+        "publicis",
+        "gulyas-janos",
+        "karrierhir",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/1/7/9/0/0/1790076686288-0-20260923-400-300-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-09-23T15:07:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-24T03:22:17Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "2d8e6ddd",
+      "title": "1956 forint: szimbolikus jegyárral szervez forradalomra emlékező filmszemlét a Corvin mozi",
+      "url": "https://kreativ.hu/cikk/1956-forint-szimbolikus-jegyarral-szervez-forradalomra-emlekezo-filmszemlet-a-corvin-mozi",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Október 16. és 18. között rendezik meg az 56/70: 1956 filmre írva című filmszemlét a budapesti Corvin moziban. Az 1956-os forradalom és szabadságharc 70. évfordulójához kapcsolódó programban…",
+      "fullSummary": "Október 16. és 18. között rendezik meg az 56/70: 1956 filmre írva című filmszemlét a budapesti Corvin moziban. Az 1956-os forradalom és szabadságharc 70. évfordulójához kapcsolódó programban játékfilmek, dokumentumfilmek és vetítés utáni beszélgetések szerepelnek.",
+      "tags": [
+        "Filmfesztival",
+        "1956 Os Forradalom",
+        "Corvin Mozi",
+        "Popkult",
+        "Film & TV"
+      ],
+      "rawTags": [
+        "filmfesztival",
+        "1956-os-forradalom",
+        "corvin-mozi",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/5/6/-/7/0/56-70-filmfeszt-plakat-a4-1-20260923-920-690-90-zc.webp",
+      "author": "L. B.",
+      "category": "",
+      "publishedAt": "2026-09-23T14:23:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-24T03:22:17Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "cd1a3954",
+      "title": "Vezetőváltás az Indamediánál: távozik Ziegler Gábor, Vaszily Miklós veszi át a vezérigazgatói posztot",
+      "url": "https://kreativ.hu/cikk/vezetovaltas-az-indamedianal-tavozik-ziegler-gabor-vaszily-miklos-veszi-at-a-vezerigazgatoi-posztot",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Szeptember 30-ával távozik az Indamedia Csoporttól Ziegler Gábor társtulajdonos és vezérigazgató. A cégcsoportot ezt követően Vaszily Miklós tulajdonosként és vezérigazgatóként irányítja tovább –…",
+      "fullSummary": "Szeptember 30-ával távozik az Indamedia Csoporttól Ziegler Gábor társtulajdonos és vezérigazgató. A cégcsoportot ezt követően Vaszily Miklós tulajdonosként és vezérigazgatóként irányítja tovább – közölte az Indamedia.",
+      "tags": [
+        "Vaszily Miklos",
+        "Vezetovaltas",
+        "Ziegler Gabor",
+        "Indamedia",
+        "Media",
+        "Careers"
+      ],
+      "rawTags": [
+        "vaszily-miklos",
+        "vezetovaltas",
+        "ziegler-gabor",
+        "indamedia",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/4/8/9/8/2/489828616-1232072712259047-5223721497638770270-n-20260923-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-09-23T13:18:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-24T03:22:17Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "8c7bdda5",
+      "title": "WhisperTon figyelmeztetést, a Coca-Cola ötmilliós bírságot kapott a GVH-tól",
+      "url": "https://kreativ.hu/cikk/whisper-ton-figyelmeztetest-a-coca-cola-otmillios-birsagot-kapott-a-gvh-tol",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "WhisperTon vizsgált Instagram- és TikTok-posztjainak közel háromnegyedében nem volt megfelelő a reklámjelölés a GVH szerint. A hatóság az influenszert és vállalkozását figyelmeztette, az egyik…",
+      "fullSummary": "WhisperTon vizsgált Instagram- és TikTok-posztjainak közel háromnegyedében nem volt megfelelő a reklámjelölés a GVH szerint. A hatóság az influenszert és vállalkozását figyelmeztette, az egyik hirdetőre, a Coca-Cola Szolgáltató Kft.-re pedig ötmillió forintos bírságot szabott ki.",
+      "tags": [
+        "Advertising",
+        "Popkult",
+        "Social Media"
+      ],
+      "rawTags": [
+        "reklam",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/3/4/9/0/9/349093014-1588008545018906-7064659390790761484-n-0-20260923-920-690-90-zc.webp",
+      "author": "L. B.",
+      "category": "",
+      "publishedAt": "2026-09-23T12:10:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-24T03:22:17Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "87ff4a3c",
+      "title": "A médiafenntarthatóság nem pusztán technológiai vagy környezetvédelmi ügy",
+      "url": "https://kreativ.hu/cikk/a-mediafenntarthatosag-nem-pusztan-technologiai-vagy-kornyezetvedelmi-ugy",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A médiafenntarthatóság kettős kihívás: fenntarthatóbbá tenni magát a médiaipart, és felhasználni a média rendkívüli kulturális hatását. November 2. az első nevezési határidő Doing Good CSR Award…",
+      "fullSummary": "A médiafenntarthatóság kettős kihívás: fenntarthatóbbá tenni magát a médiaipart, és felhasználni a média rendkívüli kulturális hatását. November 2. az első nevezési határidő Doing Good CSR Award versenyünkre.",
+      "tags": [
+        "Media",
+        "Csr Award",
+        "Doing Good",
+        "Verseny",
+        "Awards"
+      ],
+      "rawTags": [
+        "media",
+        "csr-award",
+        "doing-good",
+        "verseny"
+      ],
+      "image": "https://kreativ.hu/img-cache/c/s/r/2/0/csr2026-640x480-lista-png-20260923-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-09-23T11:23:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-24T03:22:17Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "812867d3",
+      "title": "Éles szemek, tapasztalt szakemberek: bemutatkozik a Lollipop 2026 zsűrije",
+      "url": "https://kreativ.hu/cikk/btl-verseny-pr-lollipop-zsuri-nevezes-2026",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Összeállt a Kreatív nagymúltú BTL- és márkaaktivizációs versenyének zsűrije. Az idei Lollipopon ügyfél és ügynökségi oldalról is a BTL-szektort kiválóan ismerő szakemberek kaptak helyet, hogy…",
+      "fullSummary": "Összeállt a Kreatív nagymúltú BTL- és márkaaktivizációs versenyének zsűrije. Az idei Lollipopon ügyfél és ügynökségi oldalról is a BTL-szektort kiválóan ismerő szakemberek kaptak helyet, hogy eldöntsék, melyek voltak az elmúlt év legötletesebb és legjobban megvalósított rendezvényei és márkaaktivitásai. Bemutatjuk az idei zsűritagokat.",
+      "tags": [
+        "Btl",
+        "Verseny",
+        "PR",
+        "Lollipop",
+        "Awards",
+        "2026"
+      ],
+      "rawTags": [
+        "btl",
+        "verseny",
+        "pr",
+        "lollipop",
+        "zsuri",
+        "nevezes",
+        "2026"
+      ],
+      "image": "https://kreativ.hu/img-cache/l/o/l/l/i/lolli2026-v3-png-20260923-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-09-23T11:09:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-24T03:22:17Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "17c8eb8f",
+      "title": "Minőségi Újságírás Díj: a Debreciner Akkuváros című filmje kapta a fődíjat",
+      "url": "https://kreativ.hu/cikk/minosegi-ujsagiras-dij-a-debreciner-akkuvaros-cimu-filmje-kapta-a-fodijat",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A debreceni akkumulátoripari beruházásokról készült riportfilmet ismerték el a 2026 második negyedévében megjelent újságírói munkák közül. A Médiafórum Egyesület négy különdíjat is kiosztott: a 444,…",
+      "fullSummary": "A debreceni akkumulátoripari beruházásokról készült riportfilmet ismerték el a 2026 második negyedévében megjelent újságírói munkák közül. A Médiafórum Egyesület négy különdíjat is kiosztott: a 444, a Telex, a 24.hu és a Direkt36 munkái kaptak elismerést.",
+      "tags": [
+        "Minosegi Ujsagiras Dij",
+        "Fodij",
+        "Debreciner",
+        "Media",
+        "Awards",
+        "Business"
+      ],
+      "rawTags": [
+        "minosegi-ujsagiras-dij",
+        "fodij",
+        "debreciner",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/i/n/o/s/minosegi-ujsagiras-dij-2026-0-20260923-676-5-902-90-zc.webp",
+      "author": "L. B.",
+      "category": "",
+      "publishedAt": "2026-09-23T09:11:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-24T03:22:17Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "27f7d727",
+      "title": "Betongyár mint love brand, omotenashi és hidegburkoló influenszerek",
+      "url": "https://kreativ.hu/cikk/az-omotenashi-szemlelettol-a-hidegburkolo-influenszerekig",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A digitális figyelemgazdaságban már nem feltétlenül a legjobb cég nyer, hanem az, amelyikről beszélnek is. Az ipari vállalatok sikertörténetei csak részben születnek a gyártócsarnokokban; a siker…",
+      "fullSummary": "A digitális figyelemgazdaságban már nem feltétlenül a legjobb cég nyer, hanem az, amelyikről beszélnek is. Az ipari vállalatok sikertörténetei csak részben születnek a gyártócsarnokokban; a siker egyre inkább a kommunikációban, a vállalati reputációban és a nyilvánosság előtt is formálódik - így szólt a TechComm 2026 konferencia krédója.",
+      "tags": [
+        "Konferencia",
+        "Techcomm 2026",
+        "Advertising",
+        "Media",
+        "Branding"
+      ],
+      "rawTags": [
+        "konferencia",
+        "kreativ",
+        "techcomm-2026",
+        "reklam",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-2004795089-jpeg-0-20260923-920-690-90-zc.webp",
+      "author": "S. D.",
+      "category": "",
+      "publishedAt": "2026-09-23T08:07:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-24T03:22:17Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "45f5d4a1",
+      "title": "Nem fogadja el a LOUPE a közmédia meghívását – egyelőre",
+      "url": "https://kreativ.hu/cikk/nem-fogadja-el-a-loupe-a-kozmedia-meghivasat-veiszer-alinda-reakcio",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Lovas Rozi és Horváth János Antal is felkérést kapott, hogy vendégként szerepeljen a közmédia egyik műsorában. A LOUPE Színházi Társulás most nemet mondott a meghívásokra: értékeli az elindult…",
+      "fullSummary": "Lovas Rozi és Horváth János Antal is felkérést kapott, hogy vendégként szerepeljen a közmédia egyik műsorában. A LOUPE Színházi Társulás most nemet mondott a meghívásokra: értékeli az elindult változásokat, de úgy látja, az átalakulás még nem tart ott, hogy jó szívvel vállaljon szereplést. Veiszer Alinda is reagált a LOUPE nyilatkozatára.",
+      "tags": [
+        "Kozmedia",
+        "Veiszer Alinda",
+        "Loupe Szinhazi Tarsulas",
+        "Loupe",
+        "Media"
+      ],
+      "rawTags": [
+        "kozmedia",
+        "veiszer-alinda",
+        "loupe-szinhazi-tarsulas",
+        "loupe",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/l/o/u/p/e/loupe-0-20260923-690-920-90-zc.webp",
+      "author": "Lakos Boglárka",
+      "category": "",
+      "publishedAt": "2026-09-23T08:05:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-24T03:22:17Z",
+      "enrichAttempts": 1
+    },
     {
       "id": "335a64b0",
       "title": "Aldi unveils jacket that transforms into a shopping bag",
@@ -108,7 +382,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Életének 63. évében, szeptember 19-én elhunyt Krecz Tibor, Debrecen közismert és elismert média- és kommunikációs szakembere. Halálhírét lánya osztotta meg a közösségi médiában, erről a Hajdupress…",
-      "fullSummary": "Életének 63. évében, szeptember 19-én elhunyt Krecz Tibor, Debrecen közismert és elismert média- és kommunikációs szakembere. Halálhírét lánya osztotta meg a közösségi médiában, erről a Hajdupress számolt be.",
+      "fullSummary": "Életének 63. évében, szeptember 19-én elhunyt Krecz Tibor, Debrecen közismert és elismert média- és kommunikációs szakembere. Halálhírét lánya osztotta meg a közösségi médiában, erről a Hajdupress…",
       "tags": [
         "Debrecen",
         "Media",
@@ -122,7 +396,7 @@
         "ujsagiras",
         "figyelo"
       ],
-      "image": "https://kreativ.hu/img-cache/k/r/e/c/z/krecz-20260922-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/k/r/e/c/z/krecz-20260922-549-75-733-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-22T18:22:00Z",
@@ -138,7 +412,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Szeptember 21-től Szerényi Szabolcs tölti be a Kreatív főszerkesztői pozícióját. Az új főszerkesztő számára sem a lap, sem a kommunikációs iparág nem ismeretlen terület, 2010 és 2020 között ugyanis…",
-      "fullSummary": "Szeptember 21-től Szerényi Szabolcs tölti be a Kreatív főszerkesztői pozícióját. Az új főszerkesztő számára sem a lap, sem a kommunikációs iparág nem ismeretlen terület, 2010 és 2020 között ugyanis már tagja volt a Kreatív csapatának.",
+      "fullSummary": "Szeptember 21-től Szerényi Szabolcs tölti be a Kreatív főszerkesztői pozícióját. Az új főszerkesztő számára sem a lap, sem a kommunikációs iparág nem ismeretlen terület, 2010 és 2020 között ugyanis…",
       "tags": [
         "Foszerkeszto",
         "Media"
@@ -164,7 +438,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Első alkalommal díjazták a márkák mögött működő marketingcsapatok teljes éves teljesítményét a Campaign Signature Brands keretében a szeptember 17-ei Marketing Summit Signature díjátadóján. A 42…",
-      "fullSummary": "Első alkalommal díjazták a márkák mögött működő marketingcsapatok teljes éves teljesítményét a Campaign Signature Brands keretében a szeptember 17-ei Marketing Summit Signature díjátadóján. A 42 pályázatból álló mezőnyben hat arany-, öt ezüst- és öt bronzelismerés született, a Grand Prix-t pedig még, eltérő marketingkihívásra adott válasz érdemelte ki. Mutatjuk a győztesek listáját.",
+      "fullSummary": "Első alkalommal díjazták a márkák mögött működő marketingcsapatok teljes éves teljesítményét a Campaign Signature Brands keretében a szeptember 17-ei Marketing Summit Signature díjátadóján. A 42…",
       "tags": [
         "Marketing",
         "Verseny",
@@ -177,7 +451,7 @@
         "verseny",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/i/m/g/-/2/img-2209-0-20260922-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/i/m/g/-/2/img-2209-0-20260922-690-920-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-22T13:36:00Z",
@@ -222,7 +496,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Megválasztotta Polyák Gábort a Nemzeti Média és Hírközlési Hatóság (NMHH) Médiatanácsának elnökévé kedden az Országgyűlés öt évre. A parlament megválasztotta a testület négy, a Tisza-frakció és a Mi…",
-      "fullSummary": "Megválasztotta Polyák Gábort a Nemzeti Média és Hírközlési Hatóság (NMHH) Médiatanácsának elnökévé kedden az Országgyűlés öt évre. A parlament megválasztotta a testület négy, a Tisza-frakció és a Mi Hazánk által jelölt tagját négy évre, de elutasította a Fidesz és a KDNP jelöltjeit.",
+      "fullSummary": "Megválasztotta Polyák Gábort a Nemzeti Média és Hírközlési Hatóság (NMHH) Médiatanácsának elnökévé kedden az Országgyűlés öt évre. A parlament megválasztotta a testület négy, a Tisza-frakció és a Mi…",
       "tags": [
         "Mediatanacs",
         "Polyak Gabor",
@@ -233,7 +507,7 @@
         "polyak-gabor",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/e/l/t/e/b/eltebtk-0-20260922-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/e/l/t/e/b/eltebtk-0-20260922-690-920-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-09-22T10:23:00Z",
@@ -276,7 +550,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Paramount Skydance hétfőn győztesen került ki a Warner Bros Discovery megvásárlása körüli jogi csatából, miután peren kívül megegyezett több amerikai tagállammal és a hollywoodi forgatókönyvírók…",
-      "fullSummary": "A Paramount Skydance hétfőn győztesen került ki a Warner Bros Discovery megvásárlása körüli jogi csatából, miután peren kívül megegyezett több amerikai tagállammal és a hollywoodi forgatókönyvírók szakszervezetével. Ezzel úgy tűnik, elhárult az utolsó komoly akadály a médiatörténet egyik legnagyobb, 110 milliárd dolláros cégegyesülése elől.",
+      "fullSummary": "A Paramount Skydance hétfőn győztesen került ki a Warner Bros Discovery megvásárlása körüli jogi csatából, miután peren kívül megegyezett több amerikai tagállammal és a hollywoodi forgatókönyvírók…",
       "tags": [
         "Paramount",
         "Warner",
@@ -303,7 +577,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Az idei Marketing Summit előadásai alapján a marketing legfontosabb kérdése már nem az, hogy mire képes a mesterséges intelligencia, hanem az, hogy mit kezd vele az ember. A Müpa termeiben egyszerre…",
-      "fullSummary": "Az idei Marketing Summit előadásai alapján a marketing legfontosabb kérdése már nem az, hogy mire képes a mesterséges intelligencia, hanem az, hogy mit kezd vele az ember. A Müpa termeiben egyszerre rajzolódott ki az adatvezérelt, automatizált marketing jövője és az a határozott szakmai igény, hogy a technológiai gyorsulás közepette se veszítsük el a hitelességet, az ítélőképességet és a valódi emberi kapcsolatokat. Beszámolónk az idei…",
+      "fullSummary": "Az idei Marketing Summit előadásai alapján a marketing legfontosabb kérdése már nem az, hogy mire képes a mesterséges intelligencia, hanem az, hogy mit kezd vele az ember. A Müpa termeiben egyszerre…",
       "tags": [
         "Marketing",
         "Marketing Summit",
@@ -359,7 +633,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Múlt vasárnap elindult a TV2-n a Sztárban Sztár, és kapásból a második legnézettebb műsor lett. A Házasság első látásra népszerűsége egyelőre töretlen, a Megasztár azonban ugyanezt nem mondhatja el…",
-      "fullSummary": "Múlt vasárnap elindult a TV2-n a Sztárban Sztár, és kapásból a második legnézettebb műsor lett. A Házasság első látásra népszerűsége egyelőre töretlen, a Megasztár azonban ugyanezt nem mondhatja el magáról. A Farm VIP, valamint a Celeb vagyok, ments ki innen! nem került be a top 5-be.",
+      "fullSummary": "Múlt vasárnap elindult a TV2-n a Sztárban Sztár, és kapásból a második legnézettebb műsor lett. A Házasság első látásra népszerűsége egyelőre töretlen, a Megasztár azonban ugyanezt nem mondhatja el…",
       "tags": [
         "Tv2",
         "Nezettseg",
@@ -372,7 +646,7 @@
         "rtl",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/s/z/s/z/1/szsz1201-4-of-133-0-20260922-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/s/z/s/z/1/szsz1201-4-of-133-0-20260922-920-690-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-09-22T07:41:00Z",
@@ -407,7 +681,7 @@
         "pert-indit",
         "megvont-engedely"
       ],
-      "image": "https://kreativ.hu/img-cache/p/c/r/m/-/pcrm-dorego-lwxgxxdmu38-unsplash-0-20260921-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/p/c/r/m/-/pcrm-dorego-lwxgxxdmu38-unsplash-0-20260921-920-690-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-09-21T14:56:00Z",
