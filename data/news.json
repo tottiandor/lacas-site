@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-24T03:22:17Z",
-  "itemCount": 207,
+  "generatedAt": "2026-09-25T03:21:13Z",
+  "itemCount": 220,
   "sources": [
     {
       "id": "thedrum",
@@ -50,6 +50,400 @@
   ],
   "items": [
     {
+      "id": "cd6b829d",
+      "title": "Mit tehet a design a társadalomért? – Háromnapos nemzetközi szimpózium a MOME-n",
+      "url": "https://kreativ.hu/cikk/mit-tehet-a-design-a-tarsadalomert-haromnapos-nemzetkozi-szimpozium-a-mome-n",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Október 6–8. között a társadalmi felelősségvállalás, a befogadás és a fenntartható közösségek kérdései kerülnek fókuszba a Moholy-Nagy Művészeti Egyetemen (MOME). A Social Dialogues in Art and…",
+      "fullSummary": "Október 6–8. között a társadalmi felelősségvállalás, a befogadás és a fenntartható közösségek kérdései kerülnek fókuszba a Moholy-Nagy Művészeti Egyetemen (MOME). A Social Dialogues in Art and Design (SODA) című háromnapos szimpózium azt vizsgálja, hogyan reagálhat a kortárs művészet és a design a társadalmi kihívásokra, valamint arra is keresi a választ, miképpen válhat az alkotás a párbeszéd, a részvételiség és a közös…",
+      "tags": [
+        "Szimpozium",
+        "Mome",
+        "Soda",
+        "Social Dialogues In Art And Design",
+        "Popkult",
+        "Design"
+      ],
+      "rawTags": [
+        "szimpozium",
+        "mome",
+        "soda",
+        "social-dialogues-in-art-and-design",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/d/a/n/u/b/danube-dance-alliance-velenje-1-photo-peter-z-agar-small-20260924-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-09-24T15:17:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-25T03:21:13Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "b016eb09",
+      "title": "Merre tartanak a kreatív szakmák? – kibeszélő",
+      "url": "https://kreativ.hu/cikk/merre-tartanak-a-kreativ-szakmak-kreativ-jovokep-forum",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A mesterséges intelligencia, a social media és a gyorsan változó technológia alapjaiban alakítja át a kreatív iparágat. A Kreatív Jövőkép Fórum alkotókkal és szakemberekkel keresi a választ arra,…",
+      "fullSummary": "A mesterséges intelligencia, a social media és a gyorsan változó technológia alapjaiban alakítja át a kreatív iparágat. A Kreatív Jövőkép Fórum alkotókkal és szakemberekkel keresi a választ arra, milyen új munkakörök és készségek jelennek meg, hogyan változik az AI hatására a kreatív munka, és milyen szerep jut az embernek a technológia által egyre inkább meghatározott szakmákban.",
+      "tags": [
+        "Esemeny",
+        "Beszelgetes",
+        "Kreativ Jovokep Forum",
+        "Advertising",
+        "AI",
+        "Social Media"
+      ],
+      "rawTags": [
+        "esemeny",
+        "beszelgetes",
+        "kreativ-jovokep-forum",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/k/r/e/a/t/kreativ-jovokep-forum-1-1-png-0-20260924-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-09-24T14:40:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-25T03:21:13Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "3c6dc494",
+      "title": "This campaign wants Brits to rethink their ‘digital diet’",
+      "url": "https://www.famouscampaigns.com/2026/09/this-campaign-wants-brits-to-rethink-their-digital-diet/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "The Online Responsibility Network has unveiled a giant London billboard comparing online content to food, launching what it calls the first online safety trust mark for consumers as part of the inaugural Online Responsibility Day on…",
+      "fullSummary": "The Online Responsibility Network has unveiled a giant London billboard comparing online content to food, launching what it calls the first online safety trust mark for consumers as part of the inaugural Online Responsibility Day on Thursday 24 September. The idea turns the familiar language of nutrition labels and product safety ratings into a test […]",
+      "tags": [
+        "Advertising",
+        "OOH",
+        "Technology",
+        "Campaigns",
+        "Food & Drink"
+      ],
+      "rawTags": [
+        "Advertising",
+        "OOH",
+        "Technology"
+      ],
+      "image": null,
+      "author": "Staff",
+      "category": "Advertising",
+      "publishedAt": "2026-09-24T13:59:24Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-25T03:21:13Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "8d7ea2c8",
+      "title": "Németh Csenge és Dani Melinda nyerte a Creative Express válogatóját, ők képviselhetik hazánkat az ADCE barcelonai döntőjében",
+      "url": "https://kreativ.hu/cikk/nemeth-csenge-es-dani-melinda-nyerte-a-creative-express-u28-as-valogatojat",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Németh Csenge, a feat. Content Creative-ja és Dani Melinda, a White Rabbit Account Executive-ja alkotta páros végzett az első helyen a Creative Express Budapest U28-as tehetségválogatóján. A hazai…",
+      "fullSummary": "Németh Csenge, a feat. Content Creative-ja és Dani Melinda, a White Rabbit Account Executive-ja alkotta páros végzett az első helyen a Creative Express Budapest U28-as tehetségválogatóján. A hazai forduló győzteseként a páros képviselheti Magyarországot az Art Directors Club of Europe novemberi, barcelonai nemzetközi döntőjében, amelyet az ADCE Creative Week keretében rendeznek meg.",
+      "tags": [
+        "White Rabbit",
+        "Feat",
+        "Creative Express",
+        "U28",
+        "Art Directors Club Of Europe",
+        "Advertising"
+      ],
+      "rawTags": [
+        "white-rabbit",
+        "feat",
+        "creative-express",
+        "u28",
+        "art-directors-club-of-europe",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/1/7/8/8/2/1788248052280-20260903-1620-0-90-cr-0-20260924-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-09-24T13:22:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-25T03:21:13Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "4b2089f0",
+      "title": "Hawkstone turns ‘Wild Thing’ into a farmers’ anthem",
+      "url": "https://www.famouscampaigns.com/2026/09/hawkstone-turns-wild-thing-into-a-farmers-anthem/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Jeremy Clarkson’s Hawkstone has reunited its Farmers’ Choir with Wildfarmed co-founder and Groove Armada musician Andy Cato for a charity cover of ‘Wild Thing’, launching alongside new regenerative lager Wildthing and raising money for…",
+      "fullSummary": "Jeremy Clarkson’s Hawkstone has reunited its Farmers’ Choir with Wildfarmed co-founder and Groove Armada musician Andy Cato for a charity cover of ‘Wild Thing’, launching alongside new regenerative lager Wildthing and raising money for farming and mental health charities. Here’s a taster… Created by T&P, the brand campaign gives Hawkstone’s unlikely choir another life after […]",
+      "tags": [
+        "Advertising",
+        "Food & Drink",
+        "Music",
+        "Health"
+      ],
+      "rawTags": [
+        "Advertising",
+        "Food & Drink"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/wild-thing.mp4",
+      "author": "James Herring",
+      "category": "Advertising",
+      "publishedAt": "2026-09-24T12:28:18Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-25T03:21:13Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "0218d19f",
+      "title": "40 éves a Macskafogó: október 2-án országos rajzfilmnézés!",
+      "url": "https://kreativ.hu/cikk/40-eves-a-macskafogo-oktober-2-an-orszagos-rajzfilmnezes",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "2026. október 2-án 19.00-kor országos és online közös filmnézéssel ünnepeljük a Macskafogó 40. születésnapját. A Nemzeti Filmintézet jóvoltából a film online ingyenesen elérhető lesz, miközben…",
+      "fullSummary": "2026. október 2-án 19.00-kor országos és online közös filmnézéssel ünnepeljük a Macskafogó 40. születésnapját. A Nemzeti Filmintézet jóvoltából a film online ingyenesen elérhető lesz, miközben országszerte mozik, művelődési házak, kulturális központok, klubok és más helyszínek csatlakoznak vetítésekkel.",
+      "tags": [
+        "Popkult",
+        "Film & TV"
+      ],
+      "rawTags": [
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/a/c/s/k/macskafogo-40-0-20260924-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-09-24T12:27:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-25T03:21:13Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "9502432d",
+      "title": "Újraindul a Népszabadság!",
+      "url": "https://kreativ.hu/cikk/ujraindul-a-nepszabadsag",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "2026. október 8-án, pontosan tíz évvel azután, hogy megszüntették, újraindul a Népszabadság. Az új lap online újságként és nyomtatott hetilapként működik tovább. Kiadója a Liberty Press Kft., amely a…",
+      "fullSummary": "2026. október 8-án, pontosan tíz évvel azután, hogy megszüntették, újraindul a Népszabadság. Az új lap online újságként és nyomtatott hetilapként működik tovább. Kiadója a Liberty Press Kft., amely a Jelen és a Népszava kiadói jogaival is rendelkezik.",
+      "tags": [
+        "Nepszava",
+        "Nepszabadsag",
+        "Ujraindul",
+        "Napilap",
+        "Jelen",
+        "Liberty Press Kft"
+      ],
+      "rawTags": [
+        "nepszava",
+        "nepszabadsag",
+        "ujraindul",
+        "napilap",
+        "jelen",
+        "liberty-press-kft",
+        "4sight-media-group-zrt",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/n/s/z/-/l/nsz-logo-v4-20260924-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-09-24T11:19:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-25T03:21:13Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "a090cf66",
+      "title": "Jön a negyedik Budapest Contemporary kiállítás és vásár a Bálnában",
+      "url": "https://kreativ.hu/cikk/jon-a-negyedik-budapest-contemporary-kiallitast-es-vasar-a-balnaban",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Közel 70 kiállító, több ezer műalkotás és izgalmas kísérőprogramok várják a látogatókat az idén.",
+      "fullSummary": "Közel 70 kiállító, több ezer műalkotás és izgalmas kísérőprogramok várják a látogatókat az idén.",
+      "tags": [
+        "Vasar",
+        "Kiallitas",
+        "Kepzomuveszet",
+        "Gyujto",
+        "Mualkotas",
+        "Iparmuveszet"
+      ],
+      "rawTags": [
+        "vasar",
+        "kiallitas",
+        "kepzomuveszet",
+        "gyujto",
+        "mualkotas",
+        "iparmuveszet",
+        "budapest-contemporary",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/n/e/m/e/s/nemes-galeria-siskov-ludmil-20260924-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-09-24T10:47:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-25T03:21:13Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "1a667514",
+      "title": "Tesco + Uber Eats — The Weekly Shop",
+      "url": "https://theinspiration.com/2026/09/tesco-uber-eats-the-weekly-shop/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "Tesco turned its new Uber Eats partnership into a brilliantly simple piece of outdoor advertising: a giant Tesco weekly shop appears to have fallen straight from the billboard into an oversized Uber Eats bag. The physical stunt makes the…",
+      "fullSummary": "Tesco turned its new Uber Eats partnership into a brilliantly simple piece of outdoor advertising: a giant Tesco weekly shop appears to have fallen straight from the billboard into an oversized Uber Eats bag. The physical stunt makes the message instantly clear — your weekly shop can now come to you — while cleverly turning […]",
+      "tags": [
+        "Advertising",
+        "OOH"
+      ],
+      "rawTags": [
+        "Advertising"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/1790089350786-750x536.webp",
+      "author": "René Kammersgaard",
+      "category": "Advertising",
+      "publishedAt": "2026-09-24T09:38:45Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-25T03:21:13Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "54f5ca11",
+      "title": "AI helyett eMberI – így marad emberi az alkotás",
+      "url": "https://kreativ.hu/cikk/kulturalis-kommunikacio-zene-plakat-kreativ-boritoterv-reklam",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Miközben néhány kattintással egyre tökéletesebb vizuális anyagok és komplett kampányok születhetnek, lassan éppen az válik különlegessé, amin látszik, hogy ember készítette. Szebényi Dániel énekes,…",
+      "fullSummary": "Miközben néhány kattintással egyre tökéletesebb vizuális anyagok és komplett kampányok születhetnek, lassan éppen az válik különlegessé, amin látszik, hogy ember készítette. Szebényi Dániel énekes, dalszerző az október 28-i A38-as koncertje köré egy analóg világot épít: a koncert plakátját saját kezűleg készítette, a zenekar pedig egy 360 fokos, a közönség közepére helyezett színpadon játszik majd. A hozzá kapcsolódó Live @ BluesBaltica lemezen…",
+      "tags": [
+        "Music",
+        "Kommunikacio",
+        "Advertising",
+        "OOH",
+        "Kulturalis",
+        "Boritoterv"
+      ],
+      "rawTags": [
+        "zene",
+        "kommunikacio",
+        "reklam",
+        "kreativ",
+        "plakat",
+        "kulturalis",
+        "boritoterv",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/s/z/e/b/e/szebenyi-daniel-2-20260924-480-640-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-09-24T08:59:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-25T03:21:13Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "6b019d82",
+      "title": "Nem csak üzenetküldő: szuperappá épül tovább a Viber",
+      "url": "https://kreativ.hu/cikk/viber-alkalmazas-app-kommunikacio-rakuten-uzleti",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Miért kellene tíz különböző alkalmazás, ha egyben is el lehetne intézni mindent? A Viber erre építi jövőjét: egyetlen digitális ökoszisztémába tereli a kommunikációt, az üzleti ügyintézést, a…",
+      "fullSummary": "Miért kellene tíz különböző alkalmazás, ha egyben is el lehetne intézni mindent? A Viber erre építi jövőjét: egyetlen digitális ökoszisztémába tereli a kommunikációt, az üzleti ügyintézést, a fizetést, az eSIM és az AI-alapú szolgáltatásokat. A kérdés, hogy a felhasználók is akarnak-e egy „mindent egyben” alkalmazást. Konstantin Kostadinovval, a Rakuten Viber globális stratégiai partnerségekért felelős szenior igazgatójával beszélgettünk.",
+      "tags": [
+        "Kommunikacio",
+        "Alkalmazas",
+        "Uzleti",
+        "App",
+        "Viber",
+        "Rakuten"
+      ],
+      "rawTags": [
+        "kommunikacio",
+        "alkalmazas",
+        "uzleti",
+        "app",
+        "viber",
+        "rakuten",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/k/o/n/s/t/konstantin-kostadinov-profile-photo-jpeg-20260921-800-600-90-zc.webp",
+      "author": "Tiszóczi Roland",
+      "category": "",
+      "publishedAt": "2026-09-24T08:00:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-25T03:21:13Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "49d3b15d",
+      "title": "Hat díjat hoztak haza a magyar kampányok a Cresta Awardsról",
+      "url": "https://kreativ.hu/cikk/hat-dijat-hoztak-haza-a-magyar-kampanyok-a-cresta-awardsrol",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Két magyar kampány is bekerült a 2026-os Cresta Awards díjazottjai közé: a Publicis Groupe Hungary és a Transparency International Hungary Korrupt tér projektje öt, míg a Mediator és az Affidea…",
+      "fullSummary": "Két magyar kampány is bekerült a 2026-os Cresta Awards díjazottjai közé: a Publicis Groupe Hungary és a Transparency International Hungary Korrupt tér projektje öt, míg a Mediator és az Affidea Magyarország X-hale Record kampánya egy díjat nyert. Emellett további négy magyar munka jutott döntőbe a nemzetközi kreatívversenyen.",
+      "tags": [
+        "Cresta",
+        "Awards",
+        "Advertising",
+        "Verseny",
+        "Agencies",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "cresta",
+        "awards",
+        "reklam",
+        "verseny"
+      ],
+      "image": "https://kreativ.hu/img-cache/d/e/s/k/t/desktop-homepage-banner-20260924-690-920-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-09-24T07:40:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-25T03:21:13Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "b144bbe8",
+      "title": "IKEA — Belli organizzati",
+      "url": "https://theinspiration.com/2026/09/ikea-belli-organizzati/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "IKEA turned its iconic FRAKTA bag into a portrait of everyday Italian life. For its 30th anniversary, the brand documented the creative ways Italians already reuse the bag — from laundry and groceries to records and moving house — and…",
+      "fullSummary": "IKEA turned its iconic FRAKTA bag into a portrait of everyday Italian life. For its 30th anniversary, the brand documented the creative ways Italians already reuse the bag — from laundry and groceries to records and moving house — and turned these real behaviours into a colourful, fashion-inspired photo series. Rather than inventing new uses […]",
+      "tags": [
+        "Advertising",
+        "Branding"
+      ],
+      "rawTags": [
+        "Advertising"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/YwGPu2VScuCqQsasAkvRFm-750x536.webp",
+      "author": "René Kammersgaard",
+      "category": "Advertising",
+      "publishedAt": "2026-09-24T06:38:11Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-25T03:21:13Z",
+      "enrichAttempts": 0
+    },
+    {
       "id": "0974e1fd",
       "title": "Gulyás János visszatért a Publicishez, a növekedésért felel a magyarországi csoportnál",
       "url": "https://kreativ.hu/cikk/gulyas-janos-visszatert-a-publicishez-a-novekedesert-felel-a-magyarorszagi-csoportnal",
@@ -57,7 +451,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Chief Growth & Business Transformation Officerként csatlakozott a Publicis Groupe Hungary vezetéséhez Gulyás János. A korábban a Wavemaker Hungary-t vezető szakember feladata az ügynökség üzleti…",
-      "fullSummary": "Chief Growth & Business Transformation Officerként csatlakozott a Publicis Groupe Hungary vezetéséhez Gulyás János. A korábban a Wavemaker Hungary-t vezető szakember feladata az ügynökség üzleti megoldásainak fejlesztése és a szakterületei közötti együttműködés erősítése lesz.",
+      "fullSummary": "Chief Growth & Business Transformation Officerként csatlakozott a Publicis Groupe Hungary vezetéséhez Gulyás János. A korábban a Wavemaker Hungary-t vezető szakember feladata az ügynökség üzleti…",
       "tags": [
         "Agencies",
         "Gulyas Janos",
@@ -70,7 +464,7 @@
         "karrierhir",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/1/7/9/0/0/1790076686288-0-20260923-400-300-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/1/7/9/0/0/1790076686288-0-20260923-225-75-301-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-23T15:07:00Z",
@@ -86,7 +480,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Október 16. és 18. között rendezik meg az 56/70: 1956 filmre írva című filmszemlét a budapesti Corvin moziban. Az 1956-os forradalom és szabadságharc 70. évfordulójához kapcsolódó programban…",
-      "fullSummary": "Október 16. és 18. között rendezik meg az 56/70: 1956 filmre írva című filmszemlét a budapesti Corvin moziban. Az 1956-os forradalom és szabadságharc 70. évfordulójához kapcsolódó programban játékfilmek, dokumentumfilmek és vetítés utáni beszélgetések szerepelnek.",
+      "fullSummary": "Október 16. és 18. között rendezik meg az 56/70: 1956 filmre írva című filmszemlét a budapesti Corvin moziban. Az 1956-os forradalom és szabadságharc 70. évfordulójához kapcsolódó programban…",
       "tags": [
         "Filmfesztival",
         "1956 Os Forradalom",
@@ -100,7 +494,7 @@
         "corvin-mozi",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/5/6/-/7/0/56-70-filmfeszt-plakat-a4-1-20260923-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/5/6/-/7/0/56-70-filmfeszt-plakat-a4-1-20260923-549-75-733-90-zc.webp",
       "author": "L. B.",
       "category": "",
       "publishedAt": "2026-09-23T14:23:00Z",
@@ -116,7 +510,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Szeptember 30-ával távozik az Indamedia Csoporttól Ziegler Gábor társtulajdonos és vezérigazgató. A cégcsoportot ezt követően Vaszily Miklós tulajdonosként és vezérigazgatóként irányítja tovább –…",
-      "fullSummary": "Szeptember 30-ával távozik az Indamedia Csoporttól Ziegler Gábor társtulajdonos és vezérigazgató. A cégcsoportot ezt követően Vaszily Miklós tulajdonosként és vezérigazgatóként irányítja tovább – közölte az Indamedia.",
+      "fullSummary": "Szeptember 30-ával távozik az Indamedia Csoporttól Ziegler Gábor társtulajdonos és vezérigazgató. A cégcsoportot ezt követően Vaszily Miklós tulajdonosként és vezérigazgatóként irányítja tovább –…",
       "tags": [
         "Vaszily Miklos",
         "Vezetovaltas",
@@ -132,7 +526,7 @@
         "indamedia",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/4/8/9/8/2/489828616-1232072712259047-5223721497638770270-n-20260923-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/4/8/9/8/2/489828616-1232072712259047-5223721497638770270-n-20260923-549-75-733-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-23T13:18:00Z",
@@ -148,7 +542,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "WhisperTon vizsgált Instagram- és TikTok-posztjainak közel háromnegyedében nem volt megfelelő a reklámjelölés a GVH szerint. A hatóság az influenszert és vállalkozását figyelmeztette, az egyik…",
-      "fullSummary": "WhisperTon vizsgált Instagram- és TikTok-posztjainak közel háromnegyedében nem volt megfelelő a reklámjelölés a GVH szerint. A hatóság az influenszert és vállalkozását figyelmeztette, az egyik hirdetőre, a Coca-Cola Szolgáltató Kft.-re pedig ötmillió forintos bírságot szabott ki.",
+      "fullSummary": "WhisperTon vizsgált Instagram- és TikTok-posztjainak közel háromnegyedében nem volt megfelelő a reklámjelölés a GVH szerint. A hatóság az influenszert és vállalkozását figyelmeztette, az egyik…",
       "tags": [
         "Advertising",
         "Popkult",
@@ -174,7 +568,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A médiafenntarthatóság kettős kihívás: fenntarthatóbbá tenni magát a médiaipart, és felhasználni a média rendkívüli kulturális hatását. November 2. az első nevezési határidő Doing Good CSR Award…",
-      "fullSummary": "A médiafenntarthatóság kettős kihívás: fenntarthatóbbá tenni magát a médiaipart, és felhasználni a média rendkívüli kulturális hatását. November 2. az első nevezési határidő Doing Good CSR Award versenyünkre.",
+      "fullSummary": "A médiafenntarthatóság kettős kihívás: fenntarthatóbbá tenni magát a médiaipart, és felhasználni a média rendkívüli kulturális hatását. November 2. az első nevezési határidő Doing Good CSR Award…",
       "tags": [
         "Media",
         "Csr Award",
@@ -204,7 +598,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Összeállt a Kreatív nagymúltú BTL- és márkaaktivizációs versenyének zsűrije. Az idei Lollipopon ügyfél és ügynökségi oldalról is a BTL-szektort kiválóan ismerő szakemberek kaptak helyet, hogy…",
-      "fullSummary": "Összeállt a Kreatív nagymúltú BTL- és márkaaktivizációs versenyének zsűrije. Az idei Lollipopon ügyfél és ügynökségi oldalról is a BTL-szektort kiválóan ismerő szakemberek kaptak helyet, hogy eldöntsék, melyek voltak az elmúlt év legötletesebb és legjobban megvalósított rendezvényei és márkaaktivitásai. Bemutatjuk az idei zsűritagokat.",
+      "fullSummary": "Összeállt a Kreatív nagymúltú BTL- és márkaaktivizációs versenyének zsűrije. Az idei Lollipopon ügyfél és ügynökségi oldalról is a BTL-szektort kiválóan ismerő szakemberek kaptak helyet, hogy…",
       "tags": [
         "Btl",
         "Verseny",
@@ -238,7 +632,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A debreceni akkumulátoripari beruházásokról készült riportfilmet ismerték el a 2026 második negyedévében megjelent újságírói munkák közül. A Médiafórum Egyesület négy különdíjat is kiosztott: a 444,…",
-      "fullSummary": "A debreceni akkumulátoripari beruházásokról készült riportfilmet ismerték el a 2026 második negyedévében megjelent újságírói munkák közül. A Médiafórum Egyesület négy különdíjat is kiosztott: a 444, a Telex, a 24.hu és a Direkt36 munkái kaptak elismerést.",
+      "fullSummary": "A debreceni akkumulátoripari beruházásokról készült riportfilmet ismerték el a 2026 második negyedévében megjelent újságírói munkák közül. A Médiafórum Egyesület négy különdíjat is kiosztott: a 444,…",
       "tags": [
         "Minosegi Ujsagiras Dij",
         "Fodij",
@@ -253,7 +647,7 @@
         "debreciner",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/m/i/n/o/s/minosegi-ujsagiras-dij-2026-0-20260923-676-5-902-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/m/i/n/o/s/minosegi-ujsagiras-dij-2026-0-20260923-920-690-90-zc.webp",
       "author": "L. B.",
       "category": "",
       "publishedAt": "2026-09-23T09:11:00Z",
@@ -269,7 +663,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A digitális figyelemgazdaságban már nem feltétlenül a legjobb cég nyer, hanem az, amelyikről beszélnek is. Az ipari vállalatok sikertörténetei csak részben születnek a gyártócsarnokokban; a siker…",
-      "fullSummary": "A digitális figyelemgazdaságban már nem feltétlenül a legjobb cég nyer, hanem az, amelyikről beszélnek is. Az ipari vállalatok sikertörténetei csak részben születnek a gyártócsarnokokban; a siker egyre inkább a kommunikációban, a vállalati reputációban és a nyilvánosság előtt is formálódik - így szólt a TechComm 2026 konferencia krédója.",
+      "fullSummary": "A digitális figyelemgazdaságban már nem feltétlenül a legjobb cég nyer, hanem az, amelyikről beszélnek is. Az ipari vállalatok sikertörténetei csak részben születnek a gyártócsarnokokban; a siker…",
       "tags": [
         "Konferencia",
         "Techcomm 2026",
