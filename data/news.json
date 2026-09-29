@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-27T03:22:32Z",
-  "itemCount": 229,
+  "generatedAt": "2026-09-29T03:24:19Z",
+  "itemCount": 239,
   "sources": [
     {
       "id": "thedrum",
@@ -50,6 +50,312 @@
   ],
   "items": [
     {
+      "id": "abc0b809",
+      "title": "The Laughing Cow has stopped laughing. The brand won’t say why",
+      "url": "https://www.famouscampaigns.com/2026/09/the-laughing-cow-has-stopped-laughing-the-brand-wont-say-why/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "The Laughing Cow has removed its famous smile for the first time in more than 100 years, turning one of food’s most recognisable mascots into the centre of a mystery campaign playing out across packaging, social media and the real world.…",
+      "fullSummary": "The Laughing Cow has removed its famous smile for the first time in more than 100 years, turning one of food’s most recognisable mascots into the centre of a mystery campaign playing out across packaging, social media and the real world. Called ‘The Not Laughing Cow’, the campaign sees select packs of Creamy Original cheese […]",
+      "tags": [
+        "Food & Drink",
+        "PR",
+        "Branding",
+        "Campaigns",
+        "Packaging",
+        "Social Media"
+      ],
+      "rawTags": [
+        "Food & Drink",
+        "PR"
+      ],
+      "image": null,
+      "author": "Staff",
+      "category": "Food & Drink",
+      "publishedAt": "2026-09-28T14:20:12Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-29T03:24:19Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "29026dca",
+      "title": "Globális házhozszállítási márkaportfólió médiaügynöksége lett a WPP",
+      "url": "https://kreativ.hu/cikk/globalis-hazhozszallitasi-markaportfolio-mediaugynoksege-lett-a-wpp",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A DoorDash a WPP Mediát választotta első globális médiaügynökségi partnerének teljes házhozszállítási márkaportfóliója – a DoorDash, a Deliveroo és a Wolt – számára.",
+      "fullSummary": "A DoorDash a WPP Mediát választotta első globális médiaügynökségi partnerének teljes házhozszállítási márkaportfóliója – a DoorDash, a Deliveroo és a Wolt – számára.",
+      "tags": [
+        "Agencies",
+        "Deliveroo",
+        "Wolt",
+        "Wpp Media",
+        "Advertising",
+        "Media"
+      ],
+      "rawTags": [
+        "wpp",
+        "deliveroo",
+        "wolt",
+        "wpp-media",
+        "reklam",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-1840613849-editorial-use-only-jpeg-20260928-920-690-90-zc.webp",
+      "author": "S. D.",
+      "category": "",
+      "publishedAt": "2026-09-28T14:20:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-29T03:24:19Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "ee37f27f",
+      "title": "EA Sports makes its biggest names disappear from Times Square",
+      "url": "https://www.famouscampaigns.com/2026/09/ea-sports-makes-its-biggest-names-disappear-from-times-square/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "EA SPORTS FC marked the global launch of FC 27 with a Times Square takeover that made its celebrity cast disappear from their usual billboards, only to reveal where they had gone: playing the game together. Created by Uncommon, ‘Everyone’s…",
+      "fullSummary": "EA SPORTS FC marked the global launch of FC 27 with a Times Square takeover that made its celebrity cast disappear from their usual billboards, only to reveal where they had gone: playing the game together. Created by Uncommon, ‘Everyone’s Missing’ brought Jude Bellingham, Kylian Mbappé, Lewis Hamilton, Ted Lasso, Alyssa Thompson and Lewis Capaldi […]",
+      "tags": [
+        "Celebrity",
+        "COOH",
+        "Entertainment",
+        "Gaming",
+        "Sport",
+        "OOH"
+      ],
+      "rawTags": [
+        "Celebrity",
+        "COOH",
+        "Entertainment",
+        "Gaming"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/FC27-LF-16x9-1-1.mp4",
+      "author": "Staff",
+      "category": "Celebrity",
+      "publishedAt": "2026-09-28T13:59:24Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-29T03:24:19Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "a2b90d0e",
+      "title": "Holló Márta váltja Beke Zsuzsát az Employer Branding Award zsűrijének élén",
+      "url": "https://kreativ.hu/cikk/hollo-marta-valtotta-beke-zsuzsat-az-employer-branding-award-zsurijenek-elen",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Összeállt a Magyar PR Szövetség Employer Branding Award-jának zsűrije, a grémium elnöke Holló Márta, a Telekom Corporate Communications Directora.",
+      "fullSummary": "Összeállt a Magyar PR Szövetség Employer Branding Award-jának zsűrije, a grémium elnöke Holló Márta, a Telekom Corporate Communications Directora.",
+      "tags": [
+        "Mprsz",
+        "Awards",
+        "Employer Branding",
+        "Employer Branding Award",
+        "Advertising",
+        "Media"
+      ],
+      "rawTags": [
+        "mprsz",
+        "zsuri",
+        "employer-branding",
+        "employer-branding-award",
+        "reklam",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/e/b/a/-/f/eba-fozsuri-montazs-2026-20260928-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-09-28T13:36:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-29T03:24:19Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "1cc4f25a",
+      "title": "A Sztárban Sztár érdekelte a legtöbb nézőt – 39. heti nézettségi adatok",
+      "url": "https://kreativ.hu/cikk/nezettseg-39-het-rtl-tv2-sztarban-sztar",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Az elmúlt héten mindkét vizsgált korcsoportban a Sztárban Sztár volt a legnézettebb műsor, a Celeb vagyok, ments ki innen! és a Farm VIP a top 10-be sem került be.",
+      "fullSummary": "Az elmúlt héten mindkét vizsgált korcsoportban a Sztárban Sztár volt a legnézettebb műsor, a Celeb vagyok, ments ki innen! és a Farm VIP a top 10-be sem került be.",
+      "tags": [
+        "Tv2",
+        "Nezettseg",
+        "RTL",
+        "Media"
+      ],
+      "rawTags": [
+        "tv2",
+        "nezettseg",
+        "rtl",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/7/7/8/9/8/778984982-1605744394915219-5632191412665658015-n-0-20260928-920-690-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-09-28T13:28:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-29T03:24:19Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "ff2a5213",
+      "title": "Új kreatívigazgatót igazolt a BO agency",
+      "url": "https://kreativ.hu/cikk/megujult-a-bo-agency-kreativ-csapata",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Petz Anna Creative Directorként, Balassa Tünde Event Creative-ként, Simon-Takács Kata pedig Senior Art Directorként csatlakozott a több mint húsz éve működő live communication és…",
+      "fullSummary": "Petz Anna Creative Directorként, Balassa Tünde Event Creative-ként, Simon-Takács Kata pedig Senior Art Directorként csatlakozott a több mint húsz éve működő live communication és márkaélmény-ügynökséghez.",
+      "tags": [
+        "Kreativigazgato",
+        "Bo Agency",
+        "Advertising",
+        "Media",
+        "Agencies"
+      ],
+      "rawTags": [
+        "kreativ",
+        "kreativigazgato",
+        "bo-agency",
+        "reklam",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/p/e/t/z/-/petz-a-20260928-715-536-25-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-09-28T12:35:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-29T03:24:19Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "74edd3c7",
+      "title": "GENER8ION + Yung Lean — 2026 VMAs",
+      "url": "https://theinspiration.com/2026/09/gener8ion-yung-lean-2026-vmas/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "",
+      "fullSummary": "",
+      "tags": [
+        "Art",
+        "Music"
+      ],
+      "rawTags": [
+        "Art",
+        "Music"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/Skaermbillede-2026-09-28-kl.-13.26.03-750x536.webp",
+      "author": "René Kammersgaard",
+      "category": "Art",
+      "publishedAt": "2026-09-28T11:29:38Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-29T03:24:19Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "214289f5",
+      "title": "„Értsd meg, ami számít” – szeptember 28. a Hírek Világnapja",
+      "url": "https://kreativ.hu/cikk/ertsd-meg-ami-szamit-ma-van-a-hirek-vilagnapja",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Több mint 100 ország, több mint 1000 szerkesztősége és támogató szervezete csatlakozott az idei globális kampányhoz a Hírek Világnapja alkalmából (World News Day) és fogott össze a hiteles…",
+      "fullSummary": "Több mint 100 ország, több mint 1000 szerkesztősége és támogató szervezete csatlakozott az idei globális kampányhoz a Hírek Világnapja alkalmából (World News Day) és fogott össze a hiteles újságírásért. A világnap egybeesik az ENSZ Információhoz való Egyetemes Hozzáférés Nemzetközi Napjával. A szervezők a szerkesztőségek szűkülő költségvetésére, a bezárásokra és az AI által teremtett versenyre hivatkoznak elsősorban.",
+      "tags": [
+        "Campaigns",
+        "Vilagnap",
+        "Hirek",
+        "Media"
+      ],
+      "rawTags": [
+        "kampany",
+        "vilagnap",
+        "hirek",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/w/o/r/l/d/worldnewsday-cartoon-fin-2000px-1-20260928-920-690-90-zc.webp",
+      "author": "S. D.",
+      "category": "",
+      "publishedAt": "2026-09-28T08:04:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-29T03:24:19Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "89c4c668",
+      "title": "A magyar fejlesztésű QRGATE kapta a „Best Event Operations SaaS Platform 2026 - Europe” elismerést",
+      "url": "https://kreativ.hu/cikk/qrgate-best-event-2026",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A rendezvényregisztrációtól és a vendéglistától a digitális jegyeken át a helyszíni beléptetésig és valós idejű eseményoperációig egyetlen platform fogja össze a teljes vendégkezelési folyamatot.",
+      "fullSummary": "A rendezvényregisztrációtól és a vendéglistától a digitális jegyeken át a helyszíni beléptetésig és valós idejű eseményoperációig egyetlen platform fogja össze a teljes vendégkezelési folyamatot.",
+      "tags": [
+        "Btl",
+        "Rendezveny",
+        "Event",
+        "Awards",
+        "Qr",
+        "Qrgate"
+      ],
+      "rawTags": [
+        "btl",
+        "rendezveny",
+        "event",
+        "award",
+        "qr",
+        "qrgate",
+        "tamogatott-tartalom"
+      ],
+      "image": "https://kreativ.hu/img-cache/q/r/g/a/t/qrgate-wallet-post-png-20260925-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-09-28T07:56:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-29T03:24:19Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "0dba9de9",
+      "title": "Saját fejlesztésű, AI-alapú applikációval újít a talent management területén a PFR Group",
+      "url": "https://kreativ.hu/cikk/sajat-fejlesztesu-ai-alapu-applikacioval-ujit-a-talent-management-teruleten-a-pfr-group-1",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A PFR Group 10 éve fejleszt marketing- és médiaszoftver-infrastruktúrát az influencer marketing piacon. Ennek legújabb eredménye a cégcsoport negyedik saját fejlesztésű terméke, a PFR Talent App,…",
+      "fullSummary": "A PFR Group 10 éve fejleszt marketing- és médiaszoftver-infrastruktúrát az influencer marketing piacon. Ennek legújabb eredménye a cégcsoport negyedik saját fejlesztésű terméke, a PFR Talent App, amely egyetlen platformon egyesíti a kampányokat, briefeket, tartalmakat, pénzügyi információkat és teljesítményadatokat.",
+      "tags": [
+        "Applikacio",
+        "AI",
+        "Pfr Group",
+        "Advertising",
+        "Media",
+        "Social Media"
+      ],
+      "rawTags": [
+        "applikacio",
+        "ai",
+        "pfr-group",
+        "reklam",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/p/f/r/-/m/pfr-miskolczimilan-hu-0151-20260928-549-75-733-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-09-28T07:42:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-29T03:24:19Z",
+      "enrichAttempts": 1
+    },
+    {
       "id": "c528cc25",
       "title": "A Csend anatómiája – párbeszédet kezdeményező fotókiállítás",
       "url": "https://kreativ.hu/cikk/a-csend-anatomiaja-fotokiallitas-a-petefeszekrakrol",
@@ -72,7 +378,7 @@
         "reklam",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/c/s/e/n/d/csend-anatomiaja-5-0-20260925-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/c/s/e/n/d/csend-anatomiaja-5-0-20260925-690-920-90-zc.webp",
       "author": "S. D.",
       "category": "",
       "publishedAt": "2026-09-25T15:00:00Z",
@@ -99,7 +405,7 @@
         "szerencsejatek-zrt",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/l/o/t/t/o/lotto-0-20260925-340-255-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/l/o/t/t/o/lotto-0-20260925-192-256-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-25T13:16:00Z",
@@ -186,7 +492,7 @@
         "reklam",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-252154999-jpeg-20260925-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-252154999-jpeg-20260925-549-75-733-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-25T09:32:00Z",
@@ -236,7 +542,7 @@
         "katona-jozsef-szinhaz",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/k/a/t/o/n/katona-2026-domolky-daniel-print-004-1-20260925-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/k/a/t/o/n/katona-2026-domolky-daniel-print-004-1-20260925-549-75-733-90-zc.webp",
       "author": "S. D.",
       "category": "",
       "publishedAt": "2026-09-25T07:42:00Z",
@@ -323,7 +629,7 @@
         "social-dialogues-in-art-and-design",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/d/a/n/u/b/danube-dance-alliance-velenje-1-photo-peter-z-agar-small-20260924-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/d/a/n/u/b/danube-dance-alliance-velenje-1-photo-peter-z-agar-small-20260924-920-690-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-09-24T15:17:00Z",
@@ -354,7 +660,7 @@
         "kreativ-jovokep-forum",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/k/r/e/a/t/kreativ-jovokep-forum-1-1-png-0-20260924-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/k/r/e/a/t/kreativ-jovokep-forum-1-1-png-0-20260924-920-690-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-09-24T14:40:00Z",
