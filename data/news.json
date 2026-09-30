@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T03:24:19Z",
-  "itemCount": 239,
+  "generatedAt": "2026-09-30T03:24:53Z",
+  "itemCount": 245,
   "sources": [
     {
       "id": "thedrum",
@@ -49,6 +49,195 @@
     }
   ],
   "items": [
+    {
+      "id": "7a8761f0",
+      "title": "Ma van az élelmiszer-pazarlás elleni világnap: hogy kommunikáltak erről hazai márkák?",
+      "url": "https://kreativ.hu/cikk/elelmiszerpazarlas-elleni-vilagnap-markakommunikacio-nebih-munch-aldi-tesco-auchan-wolt-elelmiszerbank",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Az Aldi, az Auchan és a Tesco a Nébih útmutatóját juttatja el az online vásárlókhoz, a Munch a világnaphoz időzítve nyitott boltot Szegeden. A Lidl az Élelmiszerbankkal közös menzai ételmentő…",
+      "fullSummary": "Az Aldi, az Auchan és a Tesco a Nébih útmutatóját juttatja el az online vásárlókhoz, a Munch a világnaphoz időzítve nyitott boltot Szegeden. A Lidl az Élelmiszerbankkal közös menzai ételmentő programjáról is kommunikált. Az Egyesület közben a Wolt Drive-val közös együttműködésük eredményeiről számolt be: közlésük szerint már több mint 125 ezer adag ételt mentettek meg.",
+      "tags": [
+        "Vilagnap",
+        "Elelmiszerbank Egyesulet",
+        "Nebih",
+        "Elelmiszermentes",
+        "Advertising",
+        "Branding"
+      ],
+      "rawTags": [
+        "vilagnap",
+        "elelmiszerbank-egyesulet",
+        "nebih",
+        "elelmiszermentes",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/c/h/a/t/g/chatgpt-kep-2026-szept-29-16-45-47-png-0-20260929-920-690-90-zc.webp",
+      "author": "L. B.",
+      "category": "",
+      "publishedAt": "2026-09-29T14:29:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-30T03:24:53Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "36e20a01",
+      "title": "Golden Drum: öt magyar nevezés a shortlisten!",
+      "url": "https://kreativ.hu/cikk/golden-drum-2026-shortlist-transparency-international-zewa-publicis-groupe-hungary",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Két, magyarországi ügynökség által készített kampány jutott a Golden Drum idei döntőjébe: a Publicis Groupe Hungary Korrupt tér című munkája négy, a The Spill című Zewa-kampány egy kategóriában…",
+      "fullSummary": "Két, magyarországi ügynökség által készített kampány jutott a Golden Drum idei döntőjébe: a Publicis Groupe Hungary Korrupt tér című munkája négy, a The Spill című Zewa-kampány egy kategóriában szerepel a shortlistjén. A szervezők összesen 187 döntős nevezést jelentettek be a fő versenyben; a Young Drummers versenynek további 15 finalistája van.",
+      "tags": [
+        "Golden Drum",
+        "Awards",
+        "Transparency International",
+        "Zewa",
+        "Publicis Groupe Hungary",
+        "Advertising"
+      ],
+      "rawTags": [
+        "golden-drum",
+        "shortlist",
+        "transparency-international",
+        "zewa",
+        "publicis-groupe-hungary",
+        "reklam",
+        "verseny"
+      ],
+      "image": "https://kreativ.hu/img-cache/c/h/a/t/g/chatgpt-kep-2026-szept-29-14-53-06-png-20260929-920-690-90-zc.webp",
+      "author": "L. B.",
+      "category": "",
+      "publishedAt": "2026-09-29T12:32:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-30T03:24:53Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "64dc2566",
+      "title": "Új „zöld\" kommunikációs szabályok: a régi csomagolást és kampányanyagot is érdemes átnézni",
+      "url": "https://kreativ.hu/cikk/greenwashing-zold-allitasok-kornyezetbarat-uj-szabalyok-fogyasztovedelem",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Szeptember 27-től új fogyasztóvédelmi rendelkezések érintik a környezeti állításokat, a fenntarthatósági címkéket és a termékek tartósságáról szóló kommunikációt. A változások a márkák mellett a…",
+      "fullSummary": "Szeptember 27-től új fogyasztóvédelmi rendelkezések érintik a környezeti állításokat, a fenntarthatósági címkéket és a termékek tartósságáról szóló kommunikációt. A változások a márkák mellett a fogyasztóknak szóló reklámokat készítő ügynökségek munkájában is megjelenhetnek.",
+      "tags": [
+        "Sustainability",
+        "Fogyasztovedelem",
+        "Zold Cimke",
+        "Advertising",
+        "Branding",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "kornyezetvedelem",
+        "fogyasztovedelem",
+        "greenwashing",
+        "zold-cimke",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-513035721-jpeg-0-20260929-920-690-90-zc.webp",
+      "author": "L. B.",
+      "category": "",
+      "publishedAt": "2026-09-29T10:56:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-30T03:24:53Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "0d2a7281",
+      "title": "Kun Miklós csatlakozik a MOME Open oktatóihoz",
+      "url": "https://kreativ.hu/cikk/kun-miklos-csatlakozik-a-mome-open-oktatoihoz",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A márka- és kommunikációs stratéga a Brandmarketing képzésen tanít 2026 őszétől. A MOME Open programja az AI-alapú márkafejlesztés és a marketingautomatizáció témájával is bővül.",
+      "fullSummary": "A márka- és kommunikációs stratéga a Brandmarketing képzésen tanít 2026 őszétől. A MOME Open programja az AI-alapú márkafejlesztés és a marketingautomatizáció témájával is bővül.",
+      "tags": [
+        "Mome",
+        "Karrierhir",
+        "Mome Open",
+        "Advertising",
+        "AI",
+        "Branding"
+      ],
+      "rawTags": [
+        "mome",
+        "karrierhir",
+        "mome-open",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/k/u/n/m/i/kunmiklos-png-0-20260929-920-690-90-zc.webp",
+      "author": "L. B.",
+      "category": "",
+      "publishedAt": "2026-09-29T10:00:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-30T03:24:53Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "0d42fe65",
+      "title": "iPhone Duo gets a virtual Walkman",
+      "url": "https://www.famouscampaigns.com/2026/09/iphone-duo-gets-a-virtual-walkman/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Apple’s iPhone Duo has already inspired one of the more inventive uses of its foldable design: an app that turns the device into a virtual Walkman, complete with cassette tapes, mechanical button clicks and tape hiss. Called Duo-Man, the…",
+      "fullSummary": "Apple’s iPhone Duo has already inspired one of the more inventive uses of its foldable design: an app that turns the device into a virtual Walkman, complete with cassette tapes, mechanical button clicks and tape hiss. Called Duo-Man, the app was created by indie developer Vidit Bhargava for the Bitrig hackathon, where it took second […]",
+      "tags": [
+        "Design",
+        "Technology"
+      ],
+      "rawTags": [
+        "Design",
+        "Technology"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/walkman.mp4",
+      "author": "Staff",
+      "category": "Design",
+      "publishedAt": "2026-09-29T07:55:50Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-30T03:24:53Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "40d1ec43",
+      "title": "Eltűnt a művészeti újságírás, megjelent az AI-slop – Mi történt az Artportallal?",
+      "url": "https://kreativ.hu/cikk/artportal-ai-slop-kortars-muveszet-ujsagiras-artportal-hu-domain-algoritmus-ai-mesterseges-intelligencia-tartalom",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Egykor a magyar és régiós kortárs művészet fontos online műhelye és adatbázisa volt, ma pedig ugyanazon a néven egy egészen más világ fogadja a látogatót. Az Artportal megszűnése után az artportal.hu…",
+      "fullSummary": "Egykor a magyar és régiós kortárs művészet fontos online műhelye és adatbázisa volt, ma pedig ugyanazon a néven egy egészen más világ fogadja a látogatót. Az Artportal megszűnése után az artportal.hu domain alatt most láthatóan automatizált, generikus tartalmak jelennek meg. Ezeknek kevés közük van ahhoz a művészeti újságíráshoz, amelyet a portál két évtizeden keresztül képviselt. A jelenség nem egyedi: világszerte épülnek olyan, hirdetési…",
+      "tags": [
+        "Muveszet",
+        "AI",
+        "Ujsagiras",
+        "Tartalom",
+        "Domain",
+        "Algoritmus"
+      ],
+      "rawTags": [
+        "muveszet",
+        "mesterseges-intelligencia",
+        "ujsagiras",
+        "tartalom",
+        "domain",
+        "algoritmus",
+        "artportal",
+        "kortars"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/r/t/p/o/artportal-ai-slop-cimlap-20260928-547-410-25-90-zc.webp",
+      "author": "Tiszóczi Roland",
+      "category": "",
+      "publishedAt": "2026-09-29T07:30:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-09-30T03:24:53Z",
+      "enrichAttempts": 1
+    },
     {
       "id": "abc0b809",
       "title": "The Laughing Cow has stopped laughing. The brand won’t say why",
@@ -103,7 +292,7 @@
         "reklam",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-1840613849-editorial-use-only-jpeg-20260928-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-1840613849-editorial-use-only-jpeg-20260928-549-75-733-90-zc.webp",
       "author": "S. D.",
       "category": "",
       "publishedAt": "2026-09-28T14:20:00Z",
@@ -144,7 +333,7 @@
     },
     {
       "id": "a2b90d0e",
-      "title": "Holló Márta váltja Beke Zsuzsát az Employer Branding Award zsűrijének élén",
+      "title": "Holló Márta váltotta Beke Zsuzsát az Employer Branding Award zsűrijének élén",
       "url": "https://kreativ.hu/cikk/hollo-marta-valtotta-beke-zsuzsat-az-employer-branding-award-zsurijenek-elen",
       "source": "kreativ",
       "sourceName": "Kreatív",
@@ -167,7 +356,7 @@
         "reklam",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/e/b/a/-/f/eba-fozsuri-montazs-2026-20260928-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/e/b/a/-/f/eba-fozsuri-montazs-2026-20260928-549-75-733-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-28T13:36:00Z",
@@ -196,7 +385,7 @@
         "rtl",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/7/7/8/9/8/778984982-1605744394915219-5632191412665658015-n-0-20260928-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/7/7/8/9/8/778984982-1605744394915219-5632191412665658015-n-0-20260928-609-812-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-09-28T13:28:00Z",
@@ -212,7 +401,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Petz Anna Creative Directorként, Balassa Tünde Event Creative-ként, Simon-Takács Kata pedig Senior Art Directorként csatlakozott a több mint húsz éve működő live communication és…",
-      "fullSummary": "Petz Anna Creative Directorként, Balassa Tünde Event Creative-ként, Simon-Takács Kata pedig Senior Art Directorként csatlakozott a több mint húsz éve működő live communication és márkaélmény-ügynökséghez.",
+      "fullSummary": "Petz Anna Creative Directorként, Balassa Tünde Event Creative-ként, Simon-Takács Kata pedig Senior Art Directorként csatlakozott a több mint húsz éve működő live communication és…",
       "tags": [
         "Kreativigazgato",
         "Bo Agency",
@@ -227,7 +416,7 @@
         "reklam",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/p/e/t/z/-/petz-a-20260928-715-536-25-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/p/e/t/z/-/petz-a-20260928-403-5-538-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-28T12:35:00Z",
@@ -268,7 +457,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Több mint 100 ország, több mint 1000 szerkesztősége és támogató szervezete csatlakozott az idei globális kampányhoz a Hírek Világnapja alkalmából (World News Day) és fogott össze a hiteles…",
-      "fullSummary": "Több mint 100 ország, több mint 1000 szerkesztősége és támogató szervezete csatlakozott az idei globális kampányhoz a Hírek Világnapja alkalmából (World News Day) és fogott össze a hiteles újságírásért. A világnap egybeesik az ENSZ Információhoz való Egyetemes Hozzáférés Nemzetközi Napjával. A szervezők a szerkesztőségek szűkülő költségvetésére, a bezárásokra és az AI által teremtett versenyre hivatkoznak elsősorban.",
+      "fullSummary": "Több mint 100 ország, több mint 1000 szerkesztősége és támogató szervezete csatlakozott az idei globális kampányhoz a Hírek Világnapja alkalmából (World News Day) és fogott össze a hiteles…",
       "tags": [
         "Campaigns",
         "Vilagnap",
@@ -281,7 +470,7 @@
         "hirek",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/w/o/r/l/d/worldnewsday-cartoon-fin-2000px-1-20260928-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/w/o/r/l/d/worldnewsday-cartoon-fin-2000px-1-20260928-690-920-90-zc.webp",
       "author": "S. D.",
       "category": "",
       "publishedAt": "2026-09-28T08:04:00Z",
@@ -331,7 +520,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A PFR Group 10 éve fejleszt marketing- és médiaszoftver-infrastruktúrát az influencer marketing piacon. Ennek legújabb eredménye a cégcsoport negyedik saját fejlesztésű terméke, a PFR Talent App,…",
-      "fullSummary": "A PFR Group 10 éve fejleszt marketing- és médiaszoftver-infrastruktúrát az influencer marketing piacon. Ennek legújabb eredménye a cégcsoport negyedik saját fejlesztésű terméke, a PFR Talent App, amely egyetlen platformon egyesíti a kampányokat, briefeket, tartalmakat, pénzügyi információkat és teljesítményadatokat.",
+      "fullSummary": "A PFR Group 10 éve fejleszt marketing- és médiaszoftver-infrastruktúrát az influencer marketing piacon. Ennek legújabb eredménye a cégcsoport negyedik saját fejlesztésű terméke, a PFR Talent App,…",
       "tags": [
         "Applikacio",
         "AI",
@@ -347,7 +536,7 @@
         "reklam",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/p/f/r/-/m/pfr-miskolczimilan-hu-0151-20260928-549-75-733-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/p/f/r/-/m/pfr-miskolczimilan-hu-0151-20260928-920-690-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-28T07:42:00Z",
@@ -378,7 +567,7 @@
         "reklam",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/c/s/e/n/d/csend-anatomiaja-5-0-20260925-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/c/s/e/n/d/csend-anatomiaja-5-0-20260925-920-690-90-zc.webp",
       "author": "S. D.",
       "category": "",
       "publishedAt": "2026-09-25T15:00:00Z",
@@ -405,7 +594,7 @@
         "szerencsejatek-zrt",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/l/o/t/t/o/lotto-0-20260925-192-256-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/l/o/t/t/o/lotto-0-20260925-340-255-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-25T13:16:00Z",
@@ -1417,7 +1606,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Vajon elegendő követési távolságot tartunk? Tudjuk, mekkora oldaltávolság szükséges egy kerékpáros előzésekor, vagy milyen hosszú a féktáv autópálya-tempónál? A Magyar Suzuki és az Ipsos országosan…",
-      "fullSummary": "Vajon elegendő követési távolságot tartunk? Tudjuk, mekkora oldaltávolság szükséges egy kerékpáros előzésekor, vagy milyen hosszú a féktáv autópálya-tempónál? A Magyar Suzuki és az Ipsos országosan reprezentatív kutatása szerint a magyar közlekedők többsége ugyan fontosnak tartja a biztonságos távolságtartást, de sok esetben nincs tisztában azzal, hogy valójában mekkora az a biztonsági zóna, mellyel a veszélyes helyzetek elkerülhetőek. A…",
+      "fullSummary": "Vajon elegendő követési távolságot tartunk? Tudjuk, mekkora oldaltávolság szükséges egy kerékpáros előzésekor, vagy milyen hosszú a féktáv autópálya-tempónál? A Magyar Suzuki és az Ipsos országosan…",
       "tags": [
         "PR",
         "Biztonsag",
@@ -1430,7 +1619,7 @@
         "suzuki",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/s/u/z/u/k/suzuki-egyutt-az-utakon-infografika-223-png-20260922-800-600-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/s/u/z/i/-/suzi-dob-20260928-640-480-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-22T12:40:00Z",
