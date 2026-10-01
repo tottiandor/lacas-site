@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-30T03:24:53Z",
-  "itemCount": 245,
+  "generatedAt": "2026-10-01T03:25:09Z",
+  "itemCount": 257,
   "sources": [
     {
       "id": "thedrum",
@@ -50,6 +50,344 @@
   ],
   "items": [
     {
+      "id": "108cd246",
+      "title": "7000 éve rágjuk – de hogyan lett a rágógumiból globális ikon?",
+      "url": "https://kreativ.hu/cikk/7000-eve-ragjuk-de-hogyan-lett-a-ragogumibol-globalis-ikon",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A nyírfagyantától a világűrig, James Deantől a Doublemint ikrekig hosszú utat tett meg a rágógumi, mire a mindennapok egyik kedvelt apróságából popkulturális ikonná vált. Szeptember 30-án, a rágógumi…",
+      "fullSummary": "A nyírfagyantától a világűrig, James Deantől a Doublemint ikrekig hosszú utat tett meg a rágógumi, mire a mindennapok egyik kedvelt apróságából popkulturális ikonná vált. Szeptember 30-án, a rágógumi világnapján felidézzük a több ezer éves történetet, és azt is megnézzük, hogyan tették emlékezetessé a rágókat olyan legendás reklámkampányok, mint a Doublemint Twins vagy az Orbit „Dirty Mouth” sorozata.",
+      "tags": [
+        "Vilagnap",
+        "Ragogumi",
+        "Wrigley",
+        "Szeptember 30",
+        "Advertising"
+      ],
+      "rawTags": [
+        "vilagnap",
+        "ragogumi",
+        "wrigley",
+        "szeptember-30",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/c/h/e/w/i/chewing-gum-day-1-0-20260930-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-09-30T14:30:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-01T03:25:09Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "807e91c4",
+      "title": "KOKO marks 125 years by making the kebab shop the main event",
+      "url": "https://www.famouscampaigns.com/2026/09/koko-marks-125-years-by-making-the-kebab-shop-the-main-event/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "London music venue KOKO is marking its 125th anniversary with a new brand campaign that turns one of nightlife’s most familiar rituals into the star: the post-club kebab shop. Directed by Eoin Glaister and produced by Stink Films, the film…",
+      "fullSummary": "London music venue KOKO is marking its 125th anniversary with a new brand campaign that turns one of nightlife’s most familiar rituals into the star: the post-club kebab shop. Directed by Eoin Glaister and produced by Stink Films, the film launches the venue’s autumn 2026 season. Set inside a fictional takeaway, the film follows its […]",
+      "tags": [
+        "Advertising",
+        "Entertainment",
+        "Branding",
+        "Campaigns",
+        "Film & TV",
+        "Music"
+      ],
+      "rawTags": [
+        "Advertising",
+        "Entertainment"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/koko.mp4",
+      "author": "James Herring",
+      "category": "Advertising",
+      "publishedAt": "2026-09-30T13:16:49Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-01T03:25:09Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "cc91fce6",
+      "title": "ASICS puts human movement on the endangered list",
+      "url": "https://www.famouscampaigns.com/2026/09/asics-puts-human-movement-on-the-endangered-list/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "ASICS has turned the nature documentary on humans for Human Nature, a global brand campaign narrated by Sigourney Weaver that warns modern life is slowly stripping movement from our days. The campaign goes live ahead of World Mental Health…",
+      "fullSummary": "ASICS has turned the nature documentary on humans for Human Nature, a global brand campaign narrated by Sigourney Weaver that warns modern life is slowly stripping movement from our days. The campaign goes live ahead of World Mental Health Day. Created by Golin Ketchum, the 10-minute film borrows the language and visual codes of wildlife […]",
+      "tags": [
+        "Health & Beauty",
+        "PR",
+        "Branding",
+        "Campaigns",
+        "Film & TV",
+        "Health"
+      ],
+      "rawTags": [
+        "Health & Beauty",
+        "PR"
+      ],
+      "image": null,
+      "author": "James Herring",
+      "category": "Health & Beauty",
+      "publishedAt": "2026-09-30T12:01:01Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-01T03:25:09Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "32b83db9",
+      "title": "Kihirdette nyílt marketingtendereit a Szerencsejáték Zrt.",
+      "url": "https://kreativ.hu/cikk/kihirdette-nyilt-marketingtendereit-a-szerencsejatek-zrt",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Közzétette 2027-re és opcionálisan 2028-ra szóló nyílt marketingtenderét kreatívügynökségek számára a Szerencsejáték Zrt.",
+      "fullSummary": "Közzétette 2027-re és opcionálisan 2028-ra szóló nyílt marketingtenderét kreatívügynökségek számára a Szerencsejáték Zrt.",
+      "tags": [
+        "Marketing",
+        "Tender",
+        "Szerencsejatek Zrt",
+        "Nyilt",
+        "Advertising"
+      ],
+      "rawTags": [
+        "marketing",
+        "tender",
+        "szerencsejatek-zrt",
+        "nyilt",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/s/z/e/r/e/szerencsejatek-zrt2-20260930-740-555-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-09-30T10:35:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-01T03:25:09Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "450ffccd",
+      "title": "Reklám-hatás-média: megjelent az új Kreatív!",
+      "url": "https://kreativ.hu/cikk/reklam-hatas-media-megjelent-az-uj-kreativ",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Megjelent a Kreatív magazin legújabb lapszáma. Nehéz volna találni olyan marketingkommunikációs topicot, amely ne kapna helyet valamilyen formában az újságban, ami kiemelten igaz azokra a…",
+      "fullSummary": "Megjelent a Kreatív magazin legújabb lapszáma. Nehéz volna találni olyan marketingkommunikációs topicot, amely ne kapna helyet valamilyen formában az újságban, ami kiemelten igaz azokra a területekre, amelyek érzékenyek a legújabb technológiákra. Elemezzük a mesterséges intelligencia térnyerését, a megváltozott médiafogyasztási szokásokat, valamint a vizuális és nyelvi kommunikáció aktuális trendjeit is, miközben az éppen átalakuló közmédiára is…",
+      "tags": [
+        "Advertising",
+        "Media",
+        "Kozmedia",
+        "Magazin",
+        "Print",
+        "AI"
+      ],
+      "rawTags": [
+        "reklam",
+        "kreativ",
+        "media",
+        "kozmedia",
+        "magazin",
+        "print",
+        "ai"
+      ],
+      "image": "https://kreativ.hu/img-cache/c/h/a/t/g/chatgpt-kep-2026-szept-30-12-17-21-1-png-0-20260930-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-09-30T10:30:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-01T03:25:09Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "089f83a9",
+      "title": "Dolly Parton’s Cup of Ambition turns a ‘9 to 5’ lyric into a coffee brand",
+      "url": "https://www.famouscampaigns.com/2026/09/dolly-partons-cup-of-ambition-turns-a-9-to-5-lyric-into-a-coffee-brand/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Dolly Parton’s ‘Cup of Ambition’ coffee has launched nationwide with one of the final commercials filmed by the singer before her death, turning a famous lyric from “9 to 5” into a brand idea more than 40 years in the making. Parton filmed…",
+      "fullSummary": "Dolly Parton’s ‘Cup of Ambition’ coffee has launched nationwide with one of the final commercials filmed by the singer before her death, turning a famous lyric from “9 to 5” into a brand idea more than 40 years in the making. Parton filmed three commercials for the coffee line in July, a month before her […]",
+      "tags": [
+        "Celebrity",
+        "Food & Drink",
+        "Advertising",
+        "Branding"
+      ],
+      "rawTags": [
+        "Celebrity",
+        "Food & Drink"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/Dollys-Cup-of-Ambition-Available-Online-Today-In-Celebration-of-National-Coffee-Day.mp4",
+      "author": "Staff",
+      "category": "Celebrity",
+      "publishedAt": "2026-09-30T09:56:38Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-01T03:25:09Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "1b928765",
+      "title": "November végén megszűnik a One fizetős földfelszíni tévéje – egyre többen keresnek online alternatívát",
+      "url": "https://kreativ.hu/cikk/november-vegen-megszunik-a-one-fizetos-foldfelszini-teveje",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "November 30-án megszűnik a One Magyarország fizetős földfelszíni televíziós szolgáltatása, a korábbi mindigTV Prémium. Az ingyenes mindigTV-t nem érinti a változás. Az NMHH szerint 2025 közepén még…",
+      "fullSummary": "November 30-án megszűnik a One Magyarország fizetős földfelszíni televíziós szolgáltatása, a korábbi mindigTV Prémium. Az ingyenes mindigTV-t nem érinti a változás. Az NMHH szerint 2025 közepén még mintegy 51 ezer fizetős DVB-T2-előfizetés volt Magyarországon, miközben a TARR tapasztalatai szerint az online tévézés iránt meglepően nagy az érdeklődés a 45 év felettiek körében, azonban e szolgáltatásforma így is csak a háztartások négy…",
+      "tags": [
+        "Online",
+        "Film & TV",
+        "Nmhh",
+        "One",
+        "Tarr",
+        "Mindigtv Premium"
+      ],
+      "rawTags": [
+        "online",
+        "tv",
+        "nmhh",
+        "streaming",
+        "one",
+        "tarr",
+        "mindigtv-premium",
+        "mindigtv"
+      ],
+      "image": "https://kreativ.hu/img-cache/g/l/e/n/n/glenn-carstens-peters-eoqhsffbhrk-unsplash-0-20260930-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-09-30T09:37:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-01T03:25:09Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "9ff3f790",
+      "title": "MarCom Executive Club néven újul meg az MMSZ marketingvezetői közössége",
+      "url": "https://kreativ.hu/cikk/marcom-executive-club-neven-ujul-meg-az-mmsz-marketingvezetoi-kozossege",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Magyar Marketing Szövetség (MMSZ) tíz éve működő Marketing Döntéshozók Klubja új néven és megújult koncepcióval folytatja működését. A MarCom Executive Club évente hat zártkörű eseménnyel várja a…",
+      "fullSummary": "A Magyar Marketing Szövetség (MMSZ) tíz éve működő Marketing Döntéshozók Klubja új néven és megújult koncepcióval folytatja működését. A MarCom Executive Club évente hat zártkörű eseménnyel várja a tagvállalatok marketing- és kommunikációs vezetőit.",
+      "tags": [
+        "Mmsz",
+        "Magyar Marketing Szovetseg",
+        "Marketing Donteshozok Klubja",
+        "Marcom Executive Club",
+        "Advertising"
+      ],
+      "rawTags": [
+        "mmsz",
+        "magyar-marketing-szovetseg",
+        "marketing-donteshozok-klubja",
+        "marcom-executive-club",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/s/m/a/l/l/small-laaktos-norbert-217-web-1753439100988-0-20260930-700-525-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-09-30T08:11:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-01T03:25:09Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "b0c6f7cd",
+      "title": "Aritzia turns its cult puffer jacket into a giant New York installation",
+      "url": "https://www.famouscampaigns.com/2026/09/aritzia-turns-its-cult-puffer-jacket-into-a-giant-new-york-installation/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Canadian fashion retailer Aritzia has turned one of its best-known products, the Super Puff winter jacket, into a street-scale installation on New York’s Lower East Side. The XL jacket has taken over 159 Ludlow Street to promote a…",
+      "fullSummary": "Canadian fashion retailer Aritzia has turned one of its best-known products, the Super Puff winter jacket, into a street-scale installation on New York’s Lower East Side. The XL jacket has taken over 159 Ludlow Street to promote a technical upgrade to the brand’s signature down coat. Open through October 1, the experiential marketing stunt celebrates […]",
+      "tags": [
+        "COOH",
+        "Fashion",
+        "Retail"
+      ],
+      "rawTags": [
+        "COOH",
+        "Fashion"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/super-puff-new-york.mp4",
+      "author": "Staff",
+      "category": "COOH",
+      "publishedAt": "2026-09-30T07:51:58Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-01T03:25:09Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "45a52611",
+      "title": "Kiválik az IAB a Magyar Reklámszövetségből",
+      "url": "https://kreativ.hu/cikk/kivalik-az-iab-a-magyar-reklamszovetsegbol",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Magyar Reklámszövetség (MRSZ) tájékoztatása szerint a digitális hirdetési piacot képviselő IAB Hungary tagsága úgy döntött, hogy a szervezet a jövőben önálló, az MRSZ-től jogilag elkülönült szakmai…",
+      "fullSummary": "A Magyar Reklámszövetség (MRSZ) tájékoztatása szerint a digitális hirdetési piacot képviselő IAB Hungary tagsága úgy döntött, hogy a szervezet a jövőben önálló, az MRSZ-től jogilag elkülönült szakmai szervezetként folytatja működését.",
+      "tags": [
+        "Advertising",
+        "Media",
+        "Interaktiv",
+        "Digitalis",
+        "Mrsz",
+        "Iab"
+      ],
+      "rawTags": [
+        "reklam",
+        "media",
+        "interaktiv",
+        "digitalis",
+        "mrsz",
+        "iab"
+      ],
+      "image": "https://kreativ.hu/img-cache/c/h/a/t/g/chatgpt-image-2026-szept-29-22-54-04-png-20260929-549-75-733-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-09-30T07:09:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-01T03:25:09Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "9ab50463",
+      "title": "Nívós külföldi verseny zsűrielnöke lesz Csirke Dániel",
+      "url": "https://kreativ.hu/cikk/nivos-kulfoldi-verseny-zsurielnoke-lesz-csirke-daniel",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Csirke Dánielt kérték fel a legnagyobb romániai digitális verseny, az Internetics zsűrielnöki posztjára. A Mediator kreatívigazgatója már számos nemzetközi reklámversenyen vett részt zsűritagként, a…",
+      "fullSummary": "Csirke Dánielt kérték fel a legnagyobb romániai digitális verseny, az Internetics zsűrielnöki posztjára. A Mediator kreatívigazgatója már számos nemzetközi reklámversenyen vett részt zsűritagként, a romániai versenyen ez az első szakmai fellépése.",
+      "tags": [
+        "Advertising",
+        "Verseny",
+        "Agencies",
+        "Mediator",
+        "Csirke Daniel",
+        "Media"
+      ],
+      "rawTags": [
+        "reklam",
+        "verseny",
+        "ugynokseg",
+        "mediator",
+        "csirke-daniel"
+      ],
+      "image": "https://kreativ.hu/img-cache/i/n/t/x/2/intx26-site3-20260929-549-75-733-90-zc.webp",
+      "author": "Sz. Sz.",
+      "category": "",
+      "publishedAt": "2026-09-30T06:55:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-01T03:25:09Z",
+      "enrichAttempts": 1
+    },
+    {
       "id": "7a8761f0",
       "title": "Ma van az élelmiszer-pazarlás elleni világnap: hogy kommunikáltak erről hazai márkák?",
       "url": "https://kreativ.hu/cikk/elelmiszerpazarlas-elleni-vilagnap-markakommunikacio-nebih-munch-aldi-tesco-auchan-wolt-elelmiszerbank",
@@ -57,7 +395,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Az Aldi, az Auchan és a Tesco a Nébih útmutatóját juttatja el az online vásárlókhoz, a Munch a világnaphoz időzítve nyitott boltot Szegeden. A Lidl az Élelmiszerbankkal közös menzai ételmentő…",
-      "fullSummary": "Az Aldi, az Auchan és a Tesco a Nébih útmutatóját juttatja el az online vásárlókhoz, a Munch a világnaphoz időzítve nyitott boltot Szegeden. A Lidl az Élelmiszerbankkal közös menzai ételmentő programjáról is kommunikált. Az Egyesület közben a Wolt Drive-val közös együttműködésük eredményeiről számolt be: közlésük szerint már több mint 125 ezer adag ételt mentettek meg.",
+      "fullSummary": "Az Aldi, az Auchan és a Tesco a Nébih útmutatóját juttatja el az online vásárlókhoz, a Munch a világnaphoz időzítve nyitott boltot Szegeden. A Lidl az Élelmiszerbankkal közös menzai ételmentő…",
       "tags": [
         "Vilagnap",
         "Elelmiszerbank Egyesulet",
@@ -73,7 +411,7 @@
         "elelmiszermentes",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/c/h/a/t/g/chatgpt-kep-2026-szept-29-16-45-47-png-0-20260929-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/c/h/a/t/g/chatgpt-kep-2026-szept-29-16-45-47-png-0-20260929-690-920-90-zc.webp",
       "author": "L. B.",
       "category": "",
       "publishedAt": "2026-09-29T14:29:00Z",
@@ -89,7 +427,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Két, magyarországi ügynökség által készített kampány jutott a Golden Drum idei döntőjébe: a Publicis Groupe Hungary Korrupt tér című munkája négy, a The Spill című Zewa-kampány egy kategóriában…",
-      "fullSummary": "Két, magyarországi ügynökség által készített kampány jutott a Golden Drum idei döntőjébe: a Publicis Groupe Hungary Korrupt tér című munkája négy, a The Spill című Zewa-kampány egy kategóriában szerepel a shortlistjén. A szervezők összesen 187 döntős nevezést jelentettek be a fő versenyben; a Young Drummers versenynek további 15 finalistája van.",
+      "fullSummary": "Két, magyarországi ügynökség által készített kampány jutott a Golden Drum idei döntőjébe: a Publicis Groupe Hungary Korrupt tér című munkája négy, a The Spill című Zewa-kampány egy kategóriában…",
       "tags": [
         "Golden Drum",
         "Awards",
@@ -107,12 +445,42 @@
         "reklam",
         "verseny"
       ],
-      "image": "https://kreativ.hu/img-cache/c/h/a/t/g/chatgpt-kep-2026-szept-29-14-53-06-png-20260929-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/c/h/a/t/g/chatgpt-kep-2026-szept-29-14-53-06-png-20260929-549-75-733-90-zc.webp",
       "author": "L. B.",
       "category": "",
       "publishedAt": "2026-09-29T12:32:00Z",
       "datePrecise": true,
       "firstSeenAt": "2026-09-30T03:24:53Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "e69f24a9",
+      "title": "Új kommunikációs vezetővel erősít a Network4",
+      "url": "https://kreativ.hu/cikk/network4-media-group-kommunikacios-vezeto-solymosi-eszter",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "2026. szeptember elsejétől Solymosi Eszter tölti be a Head of PR & Internal Communication pozíciót a Network4 Media Groupnál. A több mint húszéves televíziós tapasztalattal rendelkező szakember a…",
+      "fullSummary": "2026. szeptember elsejétől Solymosi Eszter tölti be a Head of PR & Internal Communication pozíciót a Network4 Media Groupnál. A több mint húszéves televíziós tapasztalattal rendelkező szakember a médiavállalat PR- és belső kommunikációjának stratégiai irányításáért, valamint a vállalati és márkaimázs további erősítéséért felel.",
+      "tags": [
+        "Kommunikacios Vezeto",
+        "Network4",
+        "Network4 Media Group",
+        "Media",
+        "Film & TV"
+      ],
+      "rawTags": [
+        "kommunikacios-vezeto",
+        "network4",
+        "network4-media-group",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/b/r/a/n/d/brandujulas-logok-0-20260929-690-920-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-09-29T11:59:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-01T03:25:09Z",
       "enrichAttempts": 1
     },
     {
@@ -123,7 +491,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Szeptember 27-től új fogyasztóvédelmi rendelkezések érintik a környezeti állításokat, a fenntarthatósági címkéket és a termékek tartósságáról szóló kommunikációt. A változások a márkák mellett a…",
-      "fullSummary": "Szeptember 27-től új fogyasztóvédelmi rendelkezések érintik a környezeti állításokat, a fenntarthatósági címkéket és a termékek tartósságáról szóló kommunikációt. A változások a márkák mellett a fogyasztóknak szóló reklámokat készítő ügynökségek munkájában is megjelenhetnek.",
+      "fullSummary": "Szeptember 27-től új fogyasztóvédelmi rendelkezések érintik a környezeti állításokat, a fenntarthatósági címkéket és a termékek tartósságáról szóló kommunikációt. A változások a márkák mellett a…",
       "tags": [
         "Sustainability",
         "Fogyasztovedelem",
@@ -211,7 +579,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Egykor a magyar és régiós kortárs művészet fontos online műhelye és adatbázisa volt, ma pedig ugyanazon a néven egy egészen más világ fogadja a látogatót. Az Artportal megszűnése után az artportal.hu…",
-      "fullSummary": "Egykor a magyar és régiós kortárs művészet fontos online műhelye és adatbázisa volt, ma pedig ugyanazon a néven egy egészen más világ fogadja a látogatót. Az Artportal megszűnése után az artportal.hu domain alatt most láthatóan automatizált, generikus tartalmak jelennek meg. Ezeknek kevés közük van ahhoz a művészeti újságíráshoz, amelyet a portál két évtizeden keresztül képviselt. A jelenség nem egyedi: világszerte épülnek olyan, hirdetési…",
+      "fullSummary": "Egykor a magyar és régiós kortárs művészet fontos online műhelye és adatbázisa volt, ma pedig ugyanazon a néven egy egészen más világ fogadja a látogatót. Az Artportal megszűnése után az artportal.hu…",
       "tags": [
         "Muveszet",
         "AI",
@@ -292,7 +660,7 @@
         "reklam",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-1840613849-editorial-use-only-jpeg-20260928-549-75-733-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-1840613849-editorial-use-only-jpeg-20260928-920-690-90-zc.webp",
       "author": "S. D.",
       "category": "",
       "publishedAt": "2026-09-28T14:20:00Z",
