@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-01T03:25:09Z",
-  "itemCount": 257,
+  "generatedAt": "2026-10-02T03:24:37Z",
+  "itemCount": 266,
   "sources": [
     {
       "id": "thedrum",
@@ -18,7 +18,7 @@
       "accent": "#e8453c",
       "status": "ok",
       "error": null,
-      "count": 25
+      "count": 22
     },
     {
       "id": "creativereview",
@@ -50,6 +50,261 @@
   ],
   "items": [
     {
+      "id": "c0fe8651",
+      "title": "Absolut x KAWS – Artist Edition",
+      "url": "https://theinspiration.com/2026/10/absolut-x-kaws-artist-edition/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "Absolut turned its iconic bottle into a collectible canvas, teaming up with artist KAWS for a limited-edition design featuring his signature XX motif and CHUM character. Inspired by a specially commissioned painting, the collaboration…",
+      "fullSummary": "Absolut turned its iconic bottle into a collectible canvas, teaming up with artist KAWS for a limited-edition design featuring his signature XX motif and CHUM character. Inspired by a specially commissioned painting, the collaboration continues Absolut’s long history of bringing art out of galleries and into people’s hands — this time making the bottle itself […]",
+      "tags": [
+        "Advertising",
+        "Art",
+        "Design"
+      ],
+      "rawTags": [
+        "Advertising",
+        "Art",
+        "Design"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/Absolut_KAWS-_-Painting-750x536.webp",
+      "author": "René Kammersgaard",
+      "category": "Advertising",
+      "publishedAt": "2026-10-01T19:51:40Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-02T03:24:37Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "2463341d",
+      "title": "On x Zendaya",
+      "url": "https://theinspiration.com/2026/10/on-x-zendaya/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "On turned its partnership with Zendaya and Law Roach into a cinematic martial-arts action film. Set in a dreamlike urban world, Zendaya fights her way through a gang of women in a striking python-print sportswear look, blending kung fu…",
+      "fullSummary": "On turned its partnership with Zendaya and Law Roach into a cinematic martial-arts action film. Set in a dreamlike urban world, Zendaya fights her way through a gang of women in a striking python-print sportswear look, blending kung fu choreography, fashion and blockbuster storytelling. The result makes On’s technical sportswear feel less like traditional advertising […]",
+      "tags": [
+        "Advertising",
+        "Movies",
+        "Film & TV",
+        "Sport"
+      ],
+      "rawTags": [
+        "Advertising",
+        "Movies"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/Skaermbillede-2026-10-01-kl.-21.46.31-750x536.webp",
+      "author": "René Kammersgaard",
+      "category": "Advertising",
+      "publishedAt": "2026-10-01T19:49:50Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-02T03:24:37Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "3e739970",
+      "title": "KAWS turns Absolut’s bottle into a collector’s canvas",
+      "url": "https://www.famouscampaigns.com/2026/10/kaws-turns-absoluts-bottle-into-a-collectors-canvas/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Absolut Vodka has turned its bottle into an artwork again, teaming up with KAWS for a limited-edition Artist Edition featuring his signature XX motif, CHUM character and a specially commissioned painting. The collaboration has a neat piece…",
+      "fullSummary": "Absolut Vodka has turned its bottle into an artwork again, teaming up with KAWS for a limited-edition Artist Edition featuring his signature XX motif, CHUM character and a specially commissioned painting. The collaboration has a neat piece of history behind it. In the 1990s, before the museum shows and global collectables, KAWS painted over an […]",
+      "tags": [
+        "Design",
+        "Food & Drink"
+      ],
+      "rawTags": [
+        "Design",
+        "Food & Drink"
+      ],
+      "image": null,
+      "author": "James Herring",
+      "category": "Design",
+      "publishedAt": "2026-10-01T15:01:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-02T03:24:37Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "b5e92e80",
+      "title": "Varga Márton veszi át Herczeg Lilla feladatait a Decathlonnál",
+      "url": "https://kreativ.hu/cikk/decathlon-varga-marton-herczeg-lilla-marketing-es-brand-igazgato",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Október 1-jétől Varga Márton veszi át a Decathlon marketing és brand igazgatói feladatait Herczeg Lilla szülési szabadsága idejére. Márton 2025 májusa óta dolgozik a vállalatnál Digital Experience…",
+      "fullSummary": "Október 1-jétől Varga Márton veszi át a Decathlon marketing és brand igazgatói feladatait Herczeg Lilla szülési szabadsága idejére. Márton 2025 májusa óta dolgozik a vállalatnál Digital Experience Leader pozícióban, októbertől pedig megbízott marketingigazgatói szerepkörben folytatja munkáját.",
+      "tags": [
+        "Decathlon Magyarorszag",
+        "Advertising",
+        "Branding"
+      ],
+      "rawTags": [
+        "decathlon-magyarorszag",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/v/a/r/g/a/varga-marton-jpeg-0-20261001-920-690-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-10-01T14:04:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-02T03:24:37Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "df57f63f",
+      "title": "Visszavásárolta a Media Dynamics-t a céget alapító ügyvezető, Kapitány (Tóth) Orsolya",
+      "url": "https://kreativ.hu/cikk/media-dynamics-tulajdonosvaltas-kapitany-orsolya",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Menedzsment-kivásárlással és szolgáltatásbővítéssel folytatja működését a Media Dynamics. A tranzakció eredményeként a társaság eddigi vezetése vette át a vállalat tulajdonjogát.",
+      "fullSummary": "Menedzsment-kivásárlással és szolgáltatásbővítéssel folytatja működését a Media Dynamics. A tranzakció eredményeként a társaság eddigi vezetése vette át a vállalat tulajdonjogát.",
+      "tags": [
+        "Tulajdonosvaltas",
+        "Media Dynamics",
+        "Advertising",
+        "Media"
+      ],
+      "rawTags": [
+        "tulajdonosvaltas",
+        "media-dynamics",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/t/o/t/h/o/tothorsolya-9-20261001-920-690-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-10-01T12:39:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-02T03:24:37Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "a3411db8",
+      "title": "Magyarországon terjeszkedik a Mediaboard: új szereplő a hazai médiafigyelési piacon",
+      "url": "https://kreativ.hu/cikk/mediaboard-magyarorszag-mediafigyeles-mediaelemzes",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Magyarországon is elindította szolgáltatásait a Mediaboard. A cseh és szlovák médiafigyelési és -elemzési piac vezetője a digitális, a nyomtatott, az elektronikus és a közösségi média valós idejű…",
+      "fullSummary": "Magyarországon is elindította szolgáltatásait a Mediaboard. A cseh és szlovák médiafigyelési és -elemzési piac vezetője a digitális, a nyomtatott, az elektronikus és a közösségi média valós idejű monitorozását teszi elérhetővé a hazai kommunikációs és marketingcsapatok számára. A cég jelenleg 25 regionális ügyfél – köztük az IKEA és az HBO – megbízásából figyeli a hazai sajtót.",
+      "tags": [
+        "Mediafigyeles",
+        "Mediaelemzes",
+        "Media",
+        "Social Media"
+      ],
+      "rawTags": [
+        "mediafigyeles",
+        "mediaelemzes",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/a/j/o/r/major-horvatheszti-png-0-20261001-690-920-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-10-01T12:03:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-02T03:24:37Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "fdacdf84",
+      "title": "„Fontosabb az irány, mint a sebesség” – így épít nemzetközi márkát az OTP Bank",
+      "url": "https://kreativ.hu/cikk/otp-kampany-juhasz-peter-reklam",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Október elején indult az OTP Bank nagyszabású, nemzetközi márkapozicionálási kampánya. A tíz országot és 17,5 millió ügyfelet érintő projekt során a régió meghatározó pénzintézete a világ egyik…",
+      "fullSummary": "Október elején indult az OTP Bank nagyszabású, nemzetközi márkapozicionálási kampánya. A tíz országot és 17,5 millió ügyfelet érintő projekt során a régió meghatározó pénzintézete a világ egyik legelismertebb kreatívügynökségével, a Droga5-val dolgozott együtt, miközben a helyi kiterjesztéseket a Café Communications készítette. A bank ezzel egységes nemzetközi pozicionálást, kommunikációs platformot és megújult márkaarculatot épít. Juhász Péter…",
+      "tags": [
+        "Marketing",
+        "Advertising",
+        "Cafe",
+        "Bank",
+        "Campaigns",
+        "Otp"
+      ],
+      "rawTags": [
+        "marketing",
+        "reklam",
+        "cafe",
+        "bank",
+        "kampany",
+        "otp"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/8/a/2/7/a8a2786-20261001-920-690-90-zc.webp",
+      "author": "Szerényi Szabolcs",
+      "category": "",
+      "publishedAt": "2026-10-01T09:41:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-02T03:24:37Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "20f33802",
+      "title": "Együttműködést kötött az AD MAX és az IndaNext",
+      "url": "https://kreativ.hu/cikk/indanext-ad-max-egyuttmukodes",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Az AD MAX stratégiai együttműködést kötött az IndaNext Hungary Kft.-vel, amelynek eredményeként az IndaNext több digitális médiamárkája is bekerül a vállalat prémium natív hirdetési portfóliójába.",
+      "fullSummary": "Az AD MAX stratégiai együttműködést kötött az IndaNext Hungary Kft.-vel, amelynek eredményeként az IndaNext több digitális médiamárkája is bekerül a vállalat prémium natív hirdetési portfóliójába.",
+      "tags": [
+        "Egyuttmukodes",
+        "Nativ",
+        "Indanext",
+        "Advertising",
+        "Media",
+        "Strategy"
+      ],
+      "rawTags": [
+        "egyuttmukodes",
+        "nativ",
+        "indanext",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/3/3/0/7/9/330798276-493265016353637-2516709773000215432-n-20261001-451-5-602-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-10-01T07:52:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-02T03:24:37Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "44c7811e",
+      "title": "„Láthatatlan”, akár egy folt? – A Loupe-pal vitt színpadra társadalmi ügyet a Persil",
+      "url": "https://kreativ.hu/cikk/persil-loupe-a-kezdet-vege-szinhazi-kampany-lathatatlan-munka-molnar-aron-horvath-janos-antal",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A foltot észrevesszük a ruhán – de észrevesszük-e a munkát, ami az eltüntetésével jár? Egyszeri, márkajelzés nélküli jelenettel egészítette ki a Loupe A kezdet/vége című előadását szeptember 29-én: a…",
+      "fullSummary": "A foltot észrevesszük a ruhán – de észrevesszük-e a munkát, ami az eltüntetésével jár? Egyszeri, márkajelzés nélküli jelenettel egészítette ki a Loupe A kezdet/vége című előadását szeptember 29-én: a Persillel közös együttműködés a szórakoztatást edukációval ötvözve a házimunka közös felelősségére irányította a figyelmet. Az előadásra a Kreatív is meghívást kapott; a kampány alkotói mellett az egyik főszereplőt, Molnár Áront és a darab…",
+      "tags": [
+        "Persil",
+        "Lathatatlan Munka",
+        "Loupe Szinhazi Tarsulas",
+        "Advertising",
+        "Branding"
+      ],
+      "rawTags": [
+        "persil",
+        "lathatatlan-munka",
+        "loupe-szinhazi-tarsulas",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/c/s/o/p/o/csoportkep-es-portre-egymas-mellett-png-20261001-920-690-90-zc.webp",
+      "author": "Lakos Boglárka",
+      "category": "",
+      "publishedAt": "2026-10-01T07:35:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-02T03:24:37Z",
+      "enrichAttempts": 1
+    },
+    {
       "id": "108cd246",
       "title": "7000 éve rágjuk – de hogyan lett a rágógumiból globális ikon?",
       "url": "https://kreativ.hu/cikk/7000-eve-ragjuk-de-hogyan-lett-a-ragogumibol-globalis-ikon",
@@ -57,7 +312,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A nyírfagyantától a világűrig, James Deantől a Doublemint ikrekig hosszú utat tett meg a rágógumi, mire a mindennapok egyik kedvelt apróságából popkulturális ikonná vált. Szeptember 30-án, a rágógumi…",
-      "fullSummary": "A nyírfagyantától a világűrig, James Deantől a Doublemint ikrekig hosszú utat tett meg a rágógumi, mire a mindennapok egyik kedvelt apróságából popkulturális ikonná vált. Szeptember 30-án, a rágógumi világnapján felidézzük a több ezer éves történetet, és azt is megnézzük, hogyan tették emlékezetessé a rágókat olyan legendás reklámkampányok, mint a Doublemint Twins vagy az Orbit „Dirty Mouth” sorozata.",
+      "fullSummary": "A nyírfagyantától a világűrig, James Deantől a Doublemint ikrekig hosszú utat tett meg a rágógumi, mire a mindennapok egyik kedvelt apróságából popkulturális ikonná vált. Szeptember 30-án, a rágógumi…",
       "tags": [
         "Vilagnap",
         "Ragogumi",
@@ -72,7 +327,7 @@
         "szeptember-30",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/c/h/e/w/i/chewing-gum-day-1-0-20260930-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/c/h/e/w/i/chewing-gum-day-1-0-20260930-690-920-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-09-30T14:30:00Z",
@@ -161,7 +416,7 @@
         "nyilt",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/s/z/e/r/e/szerencsejatek-zrt2-20260930-740-555-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/s/z/e/r/e/szerencsejatek-zrt2-20260930-417-556-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-09-30T10:35:00Z",
@@ -177,7 +432,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Megjelent a Kreatív magazin legújabb lapszáma. Nehéz volna találni olyan marketingkommunikációs topicot, amely ne kapna helyet valamilyen formában az újságban, ami kiemelten igaz azokra a…",
-      "fullSummary": "Megjelent a Kreatív magazin legújabb lapszáma. Nehéz volna találni olyan marketingkommunikációs topicot, amely ne kapna helyet valamilyen formában az újságban, ami kiemelten igaz azokra a területekre, amelyek érzékenyek a legújabb technológiákra. Elemezzük a mesterséges intelligencia térnyerését, a megváltozott médiafogyasztási szokásokat, valamint a vizuális és nyelvi kommunikáció aktuális trendjeit is, miközben az éppen átalakuló közmédiára is…",
+      "fullSummary": "Megjelent a Kreatív magazin legújabb lapszáma. Nehéz volna találni olyan marketingkommunikációs topicot, amely ne kapna helyet valamilyen formában az újságban, ami kiemelten igaz azokra a…",
       "tags": [
         "Advertising",
         "Media",
@@ -195,7 +450,7 @@
         "print",
         "ai"
       ],
-      "image": "https://kreativ.hu/img-cache/c/h/a/t/g/chatgpt-kep-2026-szept-30-12-17-21-1-png-0-20260930-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/c/h/a/t/g/chatgpt-kep-2026-szept-30-12-17-21-1-png-0-20260930-612-75-817-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-30T10:30:00Z",
@@ -238,7 +493,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "November 30-án megszűnik a One Magyarország fizetős földfelszíni televíziós szolgáltatása, a korábbi mindigTV Prémium. Az ingyenes mindigTV-t nem érinti a változás. Az NMHH szerint 2025 közepén még…",
-      "fullSummary": "November 30-án megszűnik a One Magyarország fizetős földfelszíni televíziós szolgáltatása, a korábbi mindigTV Prémium. Az ingyenes mindigTV-t nem érinti a változás. Az NMHH szerint 2025 közepén még mintegy 51 ezer fizetős DVB-T2-előfizetés volt Magyarországon, miközben a TARR tapasztalatai szerint az online tévézés iránt meglepően nagy az érdeklődés a 45 év felettiek körében, azonban e szolgáltatásforma így is csak a háztartások négy…",
+      "fullSummary": "November 30-án megszűnik a One Magyarország fizetős földfelszíni televíziós szolgáltatása, a korábbi mindigTV Prémium. Az ingyenes mindigTV-t nem érinti a változás. Az NMHH szerint 2025 közepén még…",
       "tags": [
         "Online",
         "Film & TV",
@@ -273,7 +528,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Magyar Marketing Szövetség (MMSZ) tíz éve működő Marketing Döntéshozók Klubja új néven és megújult koncepcióval folytatja működését. A MarCom Executive Club évente hat zártkörű eseménnyel várja a…",
-      "fullSummary": "A Magyar Marketing Szövetség (MMSZ) tíz éve működő Marketing Döntéshozók Klubja új néven és megújult koncepcióval folytatja működését. A MarCom Executive Club évente hat zártkörű eseménnyel várja a tagvállalatok marketing- és kommunikációs vezetőit.",
+      "fullSummary": "A Magyar Marketing Szövetség (MMSZ) tíz éve működő Marketing Döntéshozók Klubja új néven és megújult koncepcióval folytatja működését. A MarCom Executive Club évente hat zártkörű eseménnyel várja a…",
       "tags": [
         "Mmsz",
         "Magyar Marketing Szovetseg",
@@ -330,7 +585,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Magyar Reklámszövetség (MRSZ) tájékoztatása szerint a digitális hirdetési piacot képviselő IAB Hungary tagsága úgy döntött, hogy a szervezet a jövőben önálló, az MRSZ-től jogilag elkülönült szakmai…",
-      "fullSummary": "A Magyar Reklámszövetség (MRSZ) tájékoztatása szerint a digitális hirdetési piacot képviselő IAB Hungary tagsága úgy döntött, hogy a szervezet a jövőben önálló, az MRSZ-től jogilag elkülönült szakmai szervezetként folytatja működését.",
+      "fullSummary": "A Magyar Reklámszövetség (MRSZ) tájékoztatása szerint a digitális hirdetési piacot képviselő IAB Hungary tagsága úgy döntött, hogy a szervezet a jövőben önálló, az MRSZ-től jogilag elkülönült szakmai…",
       "tags": [
         "Advertising",
         "Media",
@@ -347,7 +602,7 @@
         "mrsz",
         "iab"
       ],
-      "image": "https://kreativ.hu/img-cache/c/h/a/t/g/chatgpt-image-2026-szept-29-22-54-04-png-20260929-549-75-733-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/c/h/a/t/g/chatgpt-image-2026-szept-29-22-54-04-png-20260929-920-690-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-30T07:09:00Z",
@@ -1018,7 +1273,7 @@
       "rawTags": [
         "Advertising"
       ],
-      "image": "https://theinspiration.com/wp-content/uploads/2l9nlaqofkmtri4vaaet5kfv5d9p-476x536.webp",
+      "image": "https://theinspiration.com/wp-content/uploads/2l9nlaqofkmtri4vaaet5kfv5d9p-750x536.webp",
       "author": "René Kammersgaard",
       "category": "Advertising",
       "publishedAt": "2026-09-25T09:44:00Z",
