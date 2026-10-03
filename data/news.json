@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-02T03:24:37Z",
-  "itemCount": 266,
+  "generatedAt": "2026-10-03T03:28:21Z",
+  "itemCount": 272,
   "sources": [
     {
       "id": "thedrum",
@@ -18,7 +18,7 @@
       "accent": "#e8453c",
       "status": "ok",
       "error": null,
-      "count": 22
+      "count": 25
     },
     {
       "id": "creativereview",
@@ -36,7 +36,7 @@
       "accent": "#f5b301",
       "status": "ok",
       "error": null,
-      "count": 20
+      "count": 19
     },
     {
       "id": "famouscampaigns",
@@ -49,6 +49,191 @@
     }
   ],
   "items": [
+    {
+      "id": "77a6c2a0",
+      "title": "Merre tovább, közmédia? 125 szakmai javaslat érkezett",
+      "url": "https://kreativ.hu/cikk/merre-tovabb-kozmedia-125-szakmai-javaslat-erkezett",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A szakmai egyeztetés 500 oldalnyi beadvány után zárult, a javaslatokat az új vezetés is felhasználhatja.",
+      "fullSummary": "A szakmai egyeztetés 500 oldalnyi beadvány után zárult, a javaslatokat az új vezetés is felhasználhatja.",
+      "tags": [
+        "Kozmedia",
+        "Szakmai",
+        "Parbeszed",
+        "Fuggetlen Kozmedia Testulet",
+        "Media"
+      ],
+      "rawTags": [
+        "kozmedia",
+        "szakmai",
+        "parbeszed",
+        "fuggetlen-kozmedia-testulet",
+        "magyar-radio-es-televizio-nonprofit-zrt",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/j/e/e/t/ajeet-mestry-ubhpoihnazm-unsplash-0-20261002-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-10-02T14:40:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-03T03:28:21Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "d0a22e6e",
+      "title": "Data & AI igazgatót nevezett ki a Yettel",
+      "url": "https://kreativ.hu/cikk/data-ai-igazgatot-nevezett-ki-a-yettel",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Október 1-től Saranyik Csaba tölti be a Yettel Magyarország Data & AI igazgatói pozícióját.",
+      "fullSummary": "Október 1-től Saranyik Csaba tölti be a Yettel Magyarország Data & AI igazgatói pozícióját.",
+      "tags": [
+        "Mobil",
+        "Data",
+        "AI",
+        "Tech",
+        "Yettel",
+        "Media"
+      ],
+      "rawTags": [
+        "mobil",
+        "data",
+        "ai",
+        "tech",
+        "yettel",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/s/a/r/a/n/saranyik-csaba-yettel-jpeg-20261002-920-690-90-zc.webp",
+      "author": "Sz. Sz.",
+      "category": "",
+      "publishedAt": "2026-10-02T12:21:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-03T03:28:21Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "29d03e19",
+      "title": "Kell-e magyar nyelvre magyar modell?",
+      "url": "https://kreativ.hu/cikk/hungpt-magyar-nagy-nyelvi-modell-llm",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Kell-e HunGPT? – Avagy szükség van-e kifejezetten magyar nyelvű nagy nyelvi modellekre? A válasz nem olyan egyértelmű, mint elsőre gondolnánk. Bár a legismertebb nyelvi modellek már kiválóan kezelik…",
+      "fullSummary": "Kell-e HunGPT? – Avagy szükség van-e kifejezetten magyar nyelvű nagy nyelvi modellekre? A válasz nem olyan egyértelmű, mint elsőre gondolnánk. Bár a legismertebb nyelvi modellek már kiválóan kezelik a magyar nyelvet, bizonyos feladatoknál továbbra is komoly előnyt jelenthetnek a magyarra optimalizált modellek. De vajon megéri-e saját LLM-et fejleszteni, vagy a jövő inkább a nyílt modellek finomhangolásában rejlik? Vélemény.",
+      "tags": [
+        "Magyar",
+        "AI",
+        "Hungpt",
+        "Nagy Nyelvi Modell",
+        "Media"
+      ],
+      "rawTags": [
+        "magyar",
+        "llm",
+        "hungpt",
+        "nagy-nyelvi-modell",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/n/y/e/l/v/nyelv-chatgpt-image-2026-szept-30-08-18-41-v2-png-20260930-920-690-90-zc.webp",
+      "author": "Szakács Benedek",
+      "category": "",
+      "publishedAt": "2026-10-02T12:00:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-03T03:28:21Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "120c0a2a",
+      "title": "Csoportos létszámleépítés jöhet a közmédiánál",
+      "url": "https://kreativ.hu/cikk/csoportos-letszamleepites-johet-a-kozmedianal",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Több hírportál – Telex, 24.hu – is arról értesült, hogy a közmédia átmeneti vezetősége csoportos létszámleépítést jelentett be a dolgozóknak, a Duna Médiaszolgáltató már értesítette a szakszervezetet…",
+      "fullSummary": "Több hírportál – Telex, 24.hu – is arról értesült, hogy a közmédia átmeneti vezetősége csoportos létszámleépítést jelentett be a dolgozóknak, a Duna Médiaszolgáltató már értesítette a szakszervezetet és az üzemi tanácsot.",
+      "tags": [
+        "Leepites",
+        "Media",
+        "Kozmedia",
+        "Mtva"
+      ],
+      "rawTags": [
+        "leepites",
+        "media",
+        "kozmedia",
+        "mtva"
+      ],
+      "image": "https://kreativ.hu/img-cache/k/o/s/z/t/koszticsak-szilard-mti-mtva-jpeg-20260728-1620-0-90-cr-webp-20261002-920-690-90-zc.webp",
+      "author": "Sz. Sz.",
+      "category": "",
+      "publishedAt": "2026-10-02T11:59:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-03T03:28:21Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "4b586339",
+      "title": "Pachert Balázs is mentor lesz az OTP Junior Piacralépőkben",
+      "url": "https://kreativ.hu/cikk/pachert-balazs-is-mentor-lesz-az-otp-junior-piacralepokben",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Az OTP Bank idén októberben folytatja a fiataloknak szóló üzleti reality műsorát. Az OTP Junior Piacralépők második évadában a versenyzők saját vállalkozásukat mutatják be, miközben szakmai mentorok…",
+      "fullSummary": "Az OTP Bank idén októberben folytatja a fiataloknak szóló üzleti reality műsorát. Az OTP Junior Piacralépők második évadában a versenyzők saját vállalkozásukat mutatják be, miközben szakmai mentorok segítik őket a vállalkozásfejlesztésben.",
+      "tags": [
+        "Otp",
+        "Viasat",
+        "Balazskicks",
+        "Media"
+      ],
+      "rawTags": [
+        "otp",
+        "viasat",
+        "balazskicks",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/n/e/o/n/z/neonzold-fenyekkel-korulolelt-uzleti-trio-png-20261002-920-690-90-zc.webp",
+      "author": "Sz. Sz.",
+      "category": "",
+      "publishedAt": "2026-10-02T09:28:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-03T03:28:21Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "be73f4cd",
+      "title": "Oknyomozó újságírók számára hasznos eszközt hozott ki az Opten",
+      "url": "https://kreativ.hu/cikk/oknyomozo-ujsagirok-szamara-hasznos-eszkozt-hozott-ki-az-opten",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Az Opten bemutatta új fejlesztését, az Opten AI-t, amelynek segítségével ígéretük szerint akár több száz céget összekötő kapcsolati hálót is pillanatok alatt lehet elemezni. A szolgáltatás a cég…",
+      "fullSummary": "Az Opten bemutatta új fejlesztését, az Opten AI-t, amelynek segítségével ígéretük szerint akár több száz céget összekötő kapcsolati hálót is pillanatok alatt lehet elemezni. A szolgáltatás a cég közleménye szerint üzleti és oknyomozó újságírók számára is hasznos lehet.",
+      "tags": [
+        "Uzlet",
+        "Opten",
+        "Ujsagiras",
+        "AI",
+        "Media"
+      ],
+      "rawTags": [
+        "uzlet",
+        "opten",
+        "ujsagiras",
+        "ai",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/h/a/l/f/-/half-vertical-2-v1790670404-png-20261002-549-75-733-90-zc.webp",
+      "author": "Sz. Sz.",
+      "category": "",
+      "publishedAt": "2026-10-02T08:08:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-03T03:28:21Z",
+      "enrichAttempts": 1
+    },
     {
       "id": "c0fe8651",
       "title": "Absolut x KAWS – Artist Edition",
@@ -136,7 +321,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Október 1-jétől Varga Márton veszi át a Decathlon marketing és brand igazgatói feladatait Herczeg Lilla szülési szabadsága idejére. Márton 2025 májusa óta dolgozik a vállalatnál Digital Experience…",
-      "fullSummary": "Október 1-jétől Varga Márton veszi át a Decathlon marketing és brand igazgatói feladatait Herczeg Lilla szülési szabadsága idejére. Márton 2025 májusa óta dolgozik a vállalatnál Digital Experience Leader pozícióban, októbertől pedig megbízott marketingigazgatói szerepkörben folytatja munkáját.",
+      "fullSummary": "Október 1-jétől Varga Márton veszi át a Decathlon marketing és brand igazgatói feladatait Herczeg Lilla szülési szabadsága idejére. Márton 2025 májusa óta dolgozik a vállalatnál Digital Experience…",
       "tags": [
         "Decathlon Magyarorszag",
         "Advertising",
@@ -146,7 +331,7 @@
         "decathlon-magyarorszag",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/v/a/r/g/a/varga-marton-jpeg-0-20261001-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/v/a/r/g/a/varga-marton-jpeg-0-20261001-690-920-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-10-01T14:04:00Z",
@@ -156,7 +341,7 @@
     },
     {
       "id": "df57f63f",
-      "title": "Visszavásárolta a Media Dynamics-t a céget alapító ügyvezető, Kapitány (Tóth) Orsolya",
+      "title": "Visszavásárolta a Media Dynamics Kft.-t a céget alapító ügyvezető, Kapitány Orsolya",
       "url": "https://kreativ.hu/cikk/media-dynamics-tulajdonosvaltas-kapitany-orsolya",
       "source": "kreativ",
       "sourceName": "Kreatív",
@@ -174,7 +359,7 @@
         "media-dynamics",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/t/o/t/h/o/tothorsolya-9-20261001-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/t/o/t/h/o/tothorsolya-9-20261001-690-920-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-10-01T12:39:00Z",
@@ -190,7 +375,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Magyarországon is elindította szolgáltatásait a Mediaboard. A cseh és szlovák médiafigyelési és -elemzési piac vezetője a digitális, a nyomtatott, az elektronikus és a közösségi média valós idejű…",
-      "fullSummary": "Magyarországon is elindította szolgáltatásait a Mediaboard. A cseh és szlovák médiafigyelési és -elemzési piac vezetője a digitális, a nyomtatott, az elektronikus és a közösségi média valós idejű monitorozását teszi elérhetővé a hazai kommunikációs és marketingcsapatok számára. A cég jelenleg 25 regionális ügyfél – köztük az IKEA és az HBO – megbízásából figyeli a hazai sajtót.",
+      "fullSummary": "Magyarországon is elindította szolgáltatásait a Mediaboard. A cseh és szlovák médiafigyelési és -elemzési piac vezetője a digitális, a nyomtatott, az elektronikus és a közösségi média valós idejű…",
       "tags": [
         "Mediafigyeles",
         "Mediaelemzes",
@@ -218,7 +403,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Október elején indult az OTP Bank nagyszabású, nemzetközi márkapozicionálási kampánya. A tíz országot és 17,5 millió ügyfelet érintő projekt során a régió meghatározó pénzintézete a világ egyik…",
-      "fullSummary": "Október elején indult az OTP Bank nagyszabású, nemzetközi márkapozicionálási kampánya. A tíz országot és 17,5 millió ügyfelet érintő projekt során a régió meghatározó pénzintézete a világ egyik legelismertebb kreatívügynökségével, a Droga5-val dolgozott együtt, miközben a helyi kiterjesztéseket a Café Communications készítette. A bank ezzel egységes nemzetközi pozicionálást, kommunikációs platformot és megújult márkaarculatot épít. Juhász Péter…",
+      "fullSummary": "Október elején indult az OTP Bank nagyszabású, nemzetközi márkapozicionálási kampánya. A tíz országot és 17,5 millió ügyfelet érintő projekt során a régió meghatározó pénzintézete a világ egyik…",
       "tags": [
         "Marketing",
         "Advertising",
@@ -235,7 +420,7 @@
         "kampany",
         "otp"
       ],
-      "image": "https://kreativ.hu/img-cache/a/8/a/2/7/a8a2786-20261001-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/8/a/2/7/a8a2786-20261001-549-75-733-90-zc.webp",
       "author": "Szerényi Szabolcs",
       "category": "",
       "publishedAt": "2026-10-01T09:41:00Z",
@@ -266,7 +451,7 @@
         "indanext",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/3/3/0/7/9/330798276-493265016353637-2516709773000215432-n-20261001-451-5-602-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/3/3/0/7/9/330798276-493265016353637-2516709773000215432-n-20261001-800-600-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-10-01T07:52:00Z",
@@ -282,7 +467,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A foltot észrevesszük a ruhán – de észrevesszük-e a munkát, ami az eltüntetésével jár? Egyszeri, márkajelzés nélküli jelenettel egészítette ki a Loupe A kezdet/vége című előadását szeptember 29-én: a…",
-      "fullSummary": "A foltot észrevesszük a ruhán – de észrevesszük-e a munkát, ami az eltüntetésével jár? Egyszeri, márkajelzés nélküli jelenettel egészítette ki a Loupe A kezdet/vége című előadását szeptember 29-én: a Persillel közös együttműködés a szórakoztatást edukációval ötvözve a házimunka közös felelősségére irányította a figyelmet. Az előadásra a Kreatív is meghívást kapott; a kampány alkotói mellett az egyik főszereplőt, Molnár Áront és a darab…",
+      "fullSummary": "A foltot észrevesszük a ruhán – de észrevesszük-e a munkát, ami az eltüntetésével jár? Egyszeri, márkajelzés nélküli jelenettel egészítette ki a Loupe A kezdet/vége című előadását szeptember 29-én: a…",
       "tags": [
         "Persil",
         "Lathatatlan Munka",
@@ -327,7 +512,7 @@
         "szeptember-30",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/c/h/e/w/i/chewing-gum-day-1-0-20260930-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/c/h/e/w/i/chewing-gum-day-1-0-20260930-920-690-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-09-30T14:30:00Z",
