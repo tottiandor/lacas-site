@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-05T03:27:06Z",
-  "itemCount": 272,
+  "generatedAt": "2026-10-06T03:24:13Z",
+  "itemCount": 282,
   "sources": [
     {
       "id": "thedrum",
@@ -36,7 +36,7 @@
       "accent": "#f5b301",
       "status": "ok",
       "error": null,
-      "count": 19
+      "count": 20
     },
     {
       "id": "famouscampaigns",
@@ -49,6 +49,258 @@
     }
   ],
   "items": [
+    {
+      "id": "02f40033",
+      "title": "A nevető tehén nem nevet többé – országos mozgalom indult a mosolyáért",
+      "url": "https://kreativ.hu/cikk/the-laughing-cow-neveto-tehen-kampany",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Több mint száz év után először tűnt el a híres mosoly a Laughing Cow (Nevető Tehén) arcáról. Az élelmiszeripar egyik legismertebb figurája különös kampány középpontjába került, amely egyszerre zajlik…",
+      "fullSummary": "Több mint száz év után először tűnt el a híres mosoly a Laughing Cow (Nevető Tehén) arcáról. Az élelmiszeripar egyik legismertebb figurája különös kampány középpontjába került, amely egyszerre zajlik a termék csomagolásán, a közösségi médiában és a való világban.",
+      "tags": [
+        "Sajt",
+        "Campaigns",
+        "Tehen",
+        "Advertising"
+      ],
+      "rawTags": [
+        "sajt",
+        "kampany",
+        "tehen",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/3/5/2/4/0/352400487-642098277789160-7833287852098454123-n-jfif-20261005-628-471-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-10-05T14:18:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-06T03:24:13Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "0f276d01",
+      "title": "CALM gives men 14 lines to say what they can’t",
+      "url": "https://www.famouscampaigns.com/2026/10/calm-gives-men-14-lines-to-say-what-they-cant/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Suicide prevention charity CALM marked National Poetry Day with Life Lines, a poetry anthology made with Ogilvy Health UK. It gives men poems about difficult feelings to read, then leaves space for them to write their own. Every poem runs…",
+      "fullSummary": "Suicide prevention charity CALM marked National Poetry Day with Life Lines, a poetry anthology made with Ogilvy Health UK. It gives men poems about difficult feelings to read, then leaves space for them to write their own. Every poem runs to exactly 14 lines, one for each of the 14 men the campaign estimates die […]",
+      "tags": [
+        "Cause Related",
+        "OOH",
+        "Health"
+      ],
+      "rawTags": [
+        "Cause Related",
+        "OOH"
+      ],
+      "image": null,
+      "author": "Staff",
+      "category": "Cause Related",
+      "publishedAt": "2026-10-05T13:54:43Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-06T03:24:13Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "b7c9befa",
+      "title": "Oat Cult gives tiramisu the medieval horror treatment",
+      "url": "https://www.famouscampaigns.com/2026/10/oat-cult-gives-tiramisu-the-medieval-horror-treatment/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Probiotic breakfast brand Oat Cult has turned tiramisu into overnight oats, and is launching the limited-edition flavour with a black-and-white brand film set in 15th-century Italy. In it, a hole in the ground swallows the villagers’ most…",
+      "fullSummary": "Probiotic breakfast brand Oat Cult has turned tiramisu into overnight oats, and is launching the limited-edition flavour with a black-and-white brand film set in 15th-century Italy. In it, a hole in the ground swallows the villagers’ most prized possessions and pays them back by spraying coffee-and-chocolate oats into their faces. Independent agency Thingy & Thingy […]",
+      "tags": [
+        "Advertising",
+        "Food & Drink",
+        "Branding",
+        "Film & TV"
+      ],
+      "rawTags": [
+        "Advertising",
+        "Food & Drink"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/10/oat-cult-2.mp4",
+      "author": "Staff",
+      "category": "Advertising",
+      "publishedAt": "2026-10-05T13:19:19Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-06T03:24:13Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "8d5a7c54",
+      "title": "A szabályozási bizonytalanság már most károkat okoz a közterületi reklámpiacon – az MRSZ OHH Tagozata továbbra is érdemi egyeztetést kezdeményez",
+      "url": "https://kreativ.hu/cikk/mrsz-ohh-kozteruleti-reklampiac",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Az MRSZ OOH Tagozata nyilvánosságra hozza szakmai javaslatait, és továbbra is érdemi egyeztetést kezdeményez. A Kreatívnak elküldött közleményben azt írják, hogy az október 1-jei szabályozási…",
+      "fullSummary": "Az MRSZ OOH Tagozata nyilvánosságra hozza szakmai javaslatait, és továbbra is érdemi egyeztetést kezdeményez. A Kreatívnak elküldött közleményben azt írják, hogy az október 1-jei szabályozási fordulópont elmúlt, a közterületi reklámpiac jövőjét meghatározó végleges részletszabályok azonban továbbra sem jelentek meg.",
+      "tags": [
+        "Mrsz",
+        "Kozteruleti Reklam",
+        "Mrsz Ohh",
+        "Advertising",
+        "OOH"
+      ],
+      "rawTags": [
+        "mrsz",
+        "kozteruleti-reklam",
+        "mrsz-ohh",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/p/e/x/e/l/pexels-timothy-huliselan-205951426-27467330-1-0-20261005-920-690-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-10-05T11:28:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-06T03:24:13Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "775f3b02",
+      "title": "San Jose Sharks turn their ice rink into a shark tank",
+      "url": "https://www.famouscampaigns.com/2026/10/san-jose-sharks-turn-their-ice-rink-into-a-shark-tank/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "The San Jose Sharks have taken their name literally, creating the illusion of sharks swimming beneath the ice as players enter the rink at SAP Center in California. The pregame display transforms the playing surface into rippling water,…",
+      "fullSummary": "The San Jose Sharks have taken their name literally, creating the illusion of sharks swimming beneath the ice as players enter the rink at SAP Center in California. The pregame display transforms the playing surface into rippling water, with sharks moving beneath it. As the hockey team skates out, the rink appears to have become […]",
+      "tags": [
+        "COOH",
+        "Sport"
+      ],
+      "rawTags": [
+        "COOH",
+        "Sport"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/10/AQNXc2l4Hagx4pxfgm4LqAdpL3ZKVO3bVyckN7HMrEmtkC3haLdHVASh6goQpKjmNGmBgTAv1VVuP16TcVTatWzDJNO-Z_bVSoVhPNo.mp4",
+      "author": "Staff",
+      "category": "COOH",
+      "publishedAt": "2026-10-05T09:27:40Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-06T03:24:13Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "19cb39f8",
+      "title": "Sundance nagydíjas filmtől a revizionista westernig – hamarosan jön a BIFF",
+      "url": "https://kreativ.hu/cikk/sundance-nagydijas-filmtol-a-revizionista-westernig",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Október 24. és november 1. között újra a legnagyobb fesztiválsikereket begyűjtő nemzetközi filmeké lesz a főszerep Budapesten, a Corvin moziban. A fesztivált idén harmadik alkalommal rendezik meg, a…",
+      "fullSummary": "Október 24. és november 1. között újra a legnagyobb fesztiválsikereket begyűjtő nemzetközi filmeké lesz a főszerep Budapesten, a Corvin moziban. A fesztivált idén harmadik alkalommal rendezik meg, a BIFF – Budapest International Film Festival idén már 45 filmet mutat be 9 napon keresztül – Martin McDonagh-tól Taika Waititin át Mike Leigh és Anton Corbijn új filmjeiig teljes a BIFF filmes programja.",
+      "tags": [
+        "Biff",
+        "Popkult"
+      ],
+      "rawTags": [
+        "budapest-international-film-festival",
+        "biff",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/b/i/f/f/2/biff2026-logo-png-20261005-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-10-05T09:21:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-06T03:24:13Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "bc13465b",
+      "title": "„Minél jobban dolgozom, annál előbb szűnik meg a pozícióm”",
+      "url": "https://kreativ.hu/cikk/grosz-judit-interju-kozmedia-atalakitas-mtva-mti-duna-fuggetlen-kozmedia-testulet-kozszolgalati-tanacs",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A közmédia átalakítása történelmi projekt, amelynek végén egy független, átlátható és propagandamentes intézménynek kell létrejönnie – mondta a Kreatívnak Grósz Judit, a közmédia…",
+      "fullSummary": "A közmédia átalakítása történelmi projekt, amelynek végén egy független, átlátható és propagandamentes intézménynek kell létrejönnie – mondta a Kreatívnak Grósz Judit, a közmédia megújításáért felelős miniszteri biztos. Szerinte a bizalom visszaépítése akár másfél évig is eltarthat, miközben az auditnak azt is fel kell tárnia, kik és milyen mértékben felelősek az elmúlt 16 év működéséért.",
+      "tags": [
+        "Interju",
+        "Duna",
+        "Mti",
+        "Atalakitas",
+        "Kozmedia",
+        "Mtva"
+      ],
+      "rawTags": [
+        "interju",
+        "duna",
+        "mti",
+        "atalakitas",
+        "kozmedia",
+        "mtva",
+        "grosz-judit",
+        "fuggetlen-kozmedia-testulet"
+      ],
+      "image": "https://kreativ.hu/img-cache/s/z/r/4/5/szr4564-0-20261005-920-690-90-zc.webp",
+      "author": "Tiszóczi Roland",
+      "category": "",
+      "publishedAt": "2026-10-05T08:25:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-06T03:24:13Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "70eb913b",
+      "title": "Urban Pixel By Scoobafish",
+      "url": "https://theinspiration.com/2026/10/urban-pixel-by-scoobafish/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "Italian artist Maurizio Sergiusti, aka Scoobafish, turns decommissioned road signs collected in Sardinia into monumental artworks that only reveal themselves from the sky. Called Urban Pixel, the project uses each dented, scratched or…",
+      "fullSummary": "Italian artist Maurizio Sergiusti, aka Scoobafish, turns decommissioned road signs collected in Sardinia into monumental artworks that only reveal themselves from the sky. Called Urban Pixel, the project uses each dented, scratched or rusted sign as a physical pixel – never painted, cut or cleaned of its past life. Concerto 0 brought together 127 signs […]",
+      "tags": [
+        "Art"
+      ],
+      "rawTags": [
+        "Art"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/urban-pixel-scoobafish-1-750x536.jpg",
+      "author": "Daniel Ingvartsen",
+      "category": "Art",
+      "publishedAt": "2026-10-05T08:14:44Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-06T03:24:13Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "1625bed7",
+      "title": "Mészáros Lőrinc cégbirodalma állhatott a Megafon bevételeinek harmada mögött",
+      "url": "https://kreativ.hu/cikk/megafon-meszaros-lorinc-bevetel-tamogatas",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Legalább 4,5 milliárd forinttal támogatták Mészáros Lőrinc érdekeltségei a Megafont 2022 óta – írja a Direkt36 a birtokába jutott belső céges dokumentumok alapján. A szervezet bevételeinek mintegy…",
+      "fullSummary": "Legalább 4,5 milliárd forinttal támogatták Mészáros Lőrinc érdekeltségei a Megafont 2022 óta – írja a Direkt36 a birtokába jutott belső céges dokumentumok alapján. A szervezet bevételeinek mintegy harmadát tehette ki a felcsúti milliárdos vállalkozásaiból érkező forrás.",
+      "tags": [
+        "Tamogatas",
+        "Business",
+        "Meszaros Lorinc",
+        "Megafon",
+        "Media"
+      ],
+      "rawTags": [
+        "tamogatas",
+        "bevetel",
+        "meszaros-lorinc",
+        "megafon",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/n/e/v/t/e/nevtelen-0-20261005-920-690-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-10-05T08:03:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-06T03:24:13Z",
+      "enrichAttempts": 1
+    },
     {
       "id": "77a6c2a0",
       "title": "Merre tovább, közmédia? 125 szakmai javaslat érkezett",
@@ -166,7 +418,7 @@
         "kozmedia",
         "mtva"
       ],
-      "image": "https://kreativ.hu/img-cache/k/o/s/z/t/koszticsak-szilard-mti-mtva-jpeg-20260728-1620-0-90-cr-webp-20261002-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/k/o/s/z/t/koszticsak-szilard-mti-mtva-jpeg-20260728-1620-0-90-cr-webp-20261002-549-75-733-90-zc.webp",
       "author": "Sz. Sz.",
       "category": "",
       "publishedAt": "2026-10-02T11:59:00Z",
@@ -195,7 +447,7 @@
         "balazskicks",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/n/e/o/n/z/neonzold-fenyekkel-korulolelt-uzleti-trio-png-20261002-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/n/e/o/n/z/neonzold-fenyekkel-korulolelt-uzleti-trio-png-20261002-549-75-733-90-zc.webp",
       "author": "Sz. Sz.",
       "category": "",
       "publishedAt": "2026-10-02T09:28:00Z",
@@ -226,13 +478,36 @@
         "ai",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/h/a/l/f/-/half-vertical-2-v1790670404-png-20261002-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/h/a/l/f/-/half-vertical-2-v1790670404-png-20261002-549-75-733-90-zc.webp",
       "author": "Sz. Sz.",
       "category": "",
       "publishedAt": "2026-10-02T08:08:00Z",
       "datePrecise": true,
       "firstSeenAt": "2026-10-03T03:28:21Z",
       "enrichAttempts": 1
+    },
+    {
+      "id": "a09eb53a",
+      "title": "The Vienna Template",
+      "url": "https://theinspiration.com/2026/10/54650/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "Vienna turned its design heritage into a tool creatives can actually use. The Vienna Template is a free Figma toolkit inspired by Viennese Modernism, with everything from Klimt Gold and Otto Wagner Green to grids and graphic details based…",
+      "fullSummary": "Vienna turned its design heritage into a tool creatives can actually use. The Vienna Template is a free Figma toolkit inspired by Viennese Modernism, with everything from Klimt Gold and Otto Wagner Green to grids and graphic details based on historic designs. Rather than simply telling creatives about Vienna’s design legacy, the city put that […]",
+      "tags": [
+        "Design"
+      ],
+      "rawTags": [
+        "Design"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/VTB_TVT_01_Header_neu-750x536.webp",
+      "author": "René Kammersgaard",
+      "category": "Design",
+      "publishedAt": "2026-10-02T05:34:17Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-06T03:24:13Z",
+      "enrichAttempts": 0
     },
     {
       "id": "c0fe8651",
@@ -331,7 +606,7 @@
         "decathlon-magyarorszag",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/v/a/r/g/a/varga-marton-jpeg-0-20261001-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/v/a/r/g/a/varga-marton-jpeg-0-20261001-690-920-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-10-01T14:04:00Z",
@@ -420,7 +695,7 @@
         "kampany",
         "otp"
       ],
-      "image": "https://kreativ.hu/img-cache/a/8/a/2/7/a8a2786-20261001-549-75-733-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/8/a/2/7/a8a2786-20261001-920-690-90-zc.webp",
       "author": "Szerényi Szabolcs",
       "category": "",
       "publishedAt": "2026-10-01T09:41:00Z",
@@ -451,7 +726,7 @@
         "indanext",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/3/3/0/7/9/330798276-493265016353637-2516709773000215432-n-20261001-451-5-602-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/3/3/0/7/9/330798276-493265016353637-2516709773000215432-n-20261001-800-600-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-10-01T07:52:00Z",
