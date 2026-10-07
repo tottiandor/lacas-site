@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-06T03:24:13Z",
-  "itemCount": 282,
+  "generatedAt": "2026-10-07T03:26:14Z",
+  "itemCount": 290,
   "sources": [
     {
       "id": "thedrum",
@@ -50,6 +50,234 @@
   ],
   "items": [
     {
+      "id": "6a1453f4",
+      "title": "Az X-Faktor megverte a Megasztárt, de a hetet a Sztárban Sztár vitte – 40. heti nézettségi adatok",
+      "url": "https://kreativ.hu/cikk/nezettseg-40-het-rtl-tv2-sztarban-sztar",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Az előző héten a Sztárban Sztár tudta a legtöbb nézőt a tévéképernyő elé ültetni, szorosan követi a Házasság első látásra. A Celeb vagyok, ments ki innen! fináléja az előző heti nézettségi adatokkal…",
+      "fullSummary": "Az előző héten a Sztárban Sztár tudta a legtöbb nézőt a tévéképernyő elé ültetni, szorosan követi a Házasság első látásra. A Celeb vagyok, ments ki innen! fináléja az előző heti nézettségi adatokkal ellentétben most bekerült a top 10 legnézettebb műsor közé, legalábbis a 18-59 évesek körében, az X-Faktor viszont mindkét vizsgált korcsoportban megelőzte a Megasztárt.",
+      "tags": [
+        "Tv2",
+        "Nezettseg",
+        "RTL",
+        "Media"
+      ],
+      "rawTags": [
+        "tv2",
+        "nezettseg",
+        "rtl",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/e/v/a/-/7/eva-7654-0-20261006-920-690-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-10-06T12:35:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-07T03:26:14Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "1e7f20f5",
+      "title": "Itt az OVA shortlist! Mutatjuk a 2026-os döntős produkciókat",
+      "url": "https://kreativ.hu/cikk/ova-2026-shortlist",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Huszonegy alkotás összesen huszonöt shortlisthelyet szerzett a Kreatív idei videós és podcastos versenyén. A döntősök között színházi és gasztronómiai videósorozatok, márkaegyüttműködések, valamint…",
+      "fullSummary": "Huszonegy alkotás összesen huszonöt shortlisthelyet szerzett a Kreatív idei videós és podcastos versenyén. A döntősök között színházi és gasztronómiai videósorozatok, márkaegyüttműködések, valamint tudományos és munkahelyi témákat feldolgozó podcastok is szerepelnek.",
+      "tags": [
+        "Awards",
+        "Ova 2026",
+        "Verseny",
+        "Branding"
+      ],
+      "rawTags": [
+        "shortlist",
+        "ova-2026",
+        "verseny"
+      ],
+      "image": "https://kreativ.hu/img-cache/i/m/g/-/4/img-4875-png-20261006-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-10-06T11:20:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-07T03:26:14Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "218f9cda",
+      "title": "Remarque egy művészettörténésznek, Dragomán egy séfnek",
+      "url": "https://kreativ.hu/cikk/remarque-egy-muveszettortenesznek-dragoman-egy-sefnek",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Miért marad velünk egy-egy könyv akár évtizedeken át, és mit viszünk magunkkal a szereplőiből, gondolataiból a saját életünkbe? Új podcastsorozat indul életünk meghatározó…",
+      "fullSummary": "Miért marad velünk egy-egy könyv akár évtizedeken át, és mit viszünk magunkkal a szereplőiből, gondolataiból a saját életünkbe? Új podcastsorozat indul életünk meghatározó olvasmányairól, melyben az is elhangzik: a jövő egyik versenyelőnye lehet az elmélyült olvasás",
+      "tags": [
+        "Olvasas",
+        "Libri",
+        "Podcast",
+        "Popkult"
+      ],
+      "rawTags": [
+        "olvasas",
+        "libri",
+        "podcast",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/c/z/e/l/aczelpetra-1-png-20261006-920-690-90-zc.webp",
+      "author": "S. D.",
+      "category": "",
+      "publishedAt": "2026-10-06T09:38:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-07T03:26:14Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "8e5483c6",
+      "title": "Nyolcezer nevezés közül a legjobb tíz közé: Oscarért versenyez a Never Give Up!",
+      "url": "https://kreativ.hu/cikk/oscar-oscar-dij-never-give-up-juno-topolanszky-tamas",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Topolánszky Tamás Yvan rövidfilmje a los angelesi HollyShorts Film Festivalon mintegy 8000 nevezés közül került be a tíz legjobb rövidfilm közé, Oscar-kvalifikációt szerzett, és versenyben van a 99.…",
+      "fullSummary": "Topolánszky Tamás Yvan rövidfilmje a los angelesi HollyShorts Film Festivalon mintegy 8000 nevezés közül került be a tíz legjobb rövidfilm közé, Oscar-kvalifikációt szerzett, és versenyben van a 99. Oscar-díj legjobb élőszereplős rövidfilm kategóriájában.",
+      "tags": [
+        "Rovidfilm",
+        "Oscar",
+        "Topolanszky Tamas",
+        "Popkult",
+        "Film & TV",
+        "Awards"
+      ],
+      "rawTags": [
+        "rovidfilm",
+        "oscar",
+        "topolanszky-tamas",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/n/e/v/e/r/never-20261006-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-10-06T08:32:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-07T03:26:14Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "373e644b",
+      "title": "A TikTok már azt is megmondja, melyik ügynökség ért hozzá igazán",
+      "url": "https://kreativ.hu/cikk/a-tiktok-mar-azt-is-megmondja-melyik-ugynokseg-ert-hozza-igazan",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A TikTok átalakította ügynökségi partnerprogramját: az eddigi egyszintű Agency Partner-rendszert két kategóriára bontotta.",
+      "fullSummary": "A TikTok átalakította ügynökségi partnerprogramját: az eddigi egyszintű Agency Partner-rendszert két kategóriára bontotta.",
+      "tags": [
+        "Ugynoksegek",
+        "Social Media",
+        "Advertising",
+        "Agencies"
+      ],
+      "rawTags": [
+        "ugynoksegek",
+        "social-media",
+        "tiktok",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-382769229-editorial-use-only-jpeg-20261006-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-10-06T07:43:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-07T03:26:14Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "c3d3b91b",
+      "title": "Wet Ones turns hands into bottoms for ads too cheeky for the subway",
+      "url": "https://www.famouscampaigns.com/2026/10/wet-ones-turns-hands-into-bottoms-for-ads-too-cheeky-for-the-subway/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Wet Ones has filled New York with photographs of hands that look like bare bottoms, reminding customers its wipes are “Just For Hands”. Created by BBH USA and shot by photographer Ale Burset, the campaign turns fingers, palms and knuckles…",
+      "fullSummary": "Wet Ones has filled New York with photographs of hands that look like bare bottoms, reminding customers its wipes are “Just For Hands”. Created by BBH USA and shot by photographer Ale Burset, the campaign turns fingers, palms and knuckles into deceptively cheeky close-ups. The idea follows a OnePulse study which, according to the brand, […]",
+      "tags": [
+        "Advertising",
+        "Health & Beauty",
+        "Campaigns",
+        "Photography"
+      ],
+      "rawTags": [
+        "Advertising",
+        "Health & Beauty"
+      ],
+      "image": null,
+      "author": "James Herring",
+      "category": "Advertising",
+      "publishedAt": "2026-10-06T06:43:25Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-07T03:26:14Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "8b9e03a2",
+      "title": "A Népszabadsághoz igazol Réti Dóra",
+      "url": "https://kreativ.hu/cikk/a-nepszabadsaghoz-igazol-reti-dora",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "AZ ATV Csoport távozó kommunikációs igazgatója lesz a Népszabadság PR vezetője.",
+      "fullSummary": "AZ ATV Csoport távozó kommunikációs igazgatója lesz a Népszabadság PR vezetője.",
+      "tags": [
+        "Kommunikacio",
+        "Nepszabadsag",
+        "Atv",
+        "Media"
+      ],
+      "rawTags": [
+        "kommunikacio",
+        "nepszabadsag",
+        "atv",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/r/e/t/i/-/reti-d-png-20261006-800-600-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-10-06T04:41:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-07T03:26:14Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "63417bca",
+      "title": "Magyar designer a BOLIA Design Awards döntősei között",
+      "url": "https://kreativ.hu/cikk/magyar-designer-a-bolia-design-awards-dontosei-kozott",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Horváth Máté Root Chair nevű munkájával bekerült a dán Bolia Design Awards idei közönségszavazásos shortlistjére.",
+      "fullSummary": "Horváth Máté Root Chair nevű munkájával bekerült a dán Bolia Design Awards idei közönségszavazásos shortlistjére.",
+      "tags": [
+        "Design",
+        "Verseny",
+        "Awards"
+      ],
+      "rawTags": [
+        "design",
+        "verseny"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/a/t/e/-/mate-horvath-3-20261006-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-10-06T03:37:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-07T03:26:14Z",
+      "enrichAttempts": 1
+    },
+    {
       "id": "02f40033",
       "title": "A nevető tehén nem nevet többé – országos mozgalom indult a mosolyáért",
       "url": "https://kreativ.hu/cikk/the-laughing-cow-neveto-tehen-kampany",
@@ -57,7 +285,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Több mint száz év után először tűnt el a híres mosoly a Laughing Cow (Nevető Tehén) arcáról. Az élelmiszeripar egyik legismertebb figurája különös kampány középpontjába került, amely egyszerre zajlik…",
-      "fullSummary": "Több mint száz év után először tűnt el a híres mosoly a Laughing Cow (Nevető Tehén) arcáról. Az élelmiszeripar egyik legismertebb figurája különös kampány középpontjába került, amely egyszerre zajlik a termék csomagolásán, a közösségi médiában és a való világban.",
+      "fullSummary": "Több mint száz év után először tűnt el a híres mosoly a Laughing Cow (Nevető Tehén) arcáról. Az élelmiszeripar egyik legismertebb figurája különös kampány középpontjába került, amely egyszerre zajlik…",
       "tags": [
         "Sajt",
         "Campaigns",
@@ -70,7 +298,7 @@
         "tehen",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/3/5/2/4/0/352400487-642098277789160-7833287852098454123-n-jfif-20261005-628-471-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/3/5/2/4/0/352400487-642098277789160-7833287852098454123-n-jfif-20261005-354-472-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-10-05T14:18:00Z",
@@ -139,7 +367,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Az MRSZ OOH Tagozata nyilvánosságra hozza szakmai javaslatait, és továbbra is érdemi egyeztetést kezdeményez. A Kreatívnak elküldött közleményben azt írják, hogy az október 1-jei szabályozási…",
-      "fullSummary": "Az MRSZ OOH Tagozata nyilvánosságra hozza szakmai javaslatait, és továbbra is érdemi egyeztetést kezdeményez. A Kreatívnak elküldött közleményben azt írják, hogy az október 1-jei szabályozási fordulópont elmúlt, a közterületi reklámpiac jövőjét meghatározó végleges részletszabályok azonban továbbra sem jelentek meg.",
+      "fullSummary": "Az MRSZ OOH Tagozata nyilvánosságra hozza szakmai javaslatait, és továbbra is érdemi egyeztetést kezdeményez. A Kreatívnak elküldött közleményben azt írják, hogy az október 1-jei szabályozási…",
       "tags": [
         "Mrsz",
         "Kozteruleti Reklam",
@@ -153,7 +381,7 @@
         "mrsz-ohh",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/p/e/x/e/l/pexels-timothy-huliselan-205951426-27467330-1-0-20261005-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/p/e/x/e/l/pexels-timothy-huliselan-205951426-27467330-1-0-20261005-690-920-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-10-05T11:28:00Z",
@@ -194,7 +422,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Október 24. és november 1. között újra a legnagyobb fesztiválsikereket begyűjtő nemzetközi filmeké lesz a főszerep Budapesten, a Corvin moziban. A fesztivált idén harmadik alkalommal rendezik meg, a…",
-      "fullSummary": "Október 24. és november 1. között újra a legnagyobb fesztiválsikereket begyűjtő nemzetközi filmeké lesz a főszerep Budapesten, a Corvin moziban. A fesztivált idén harmadik alkalommal rendezik meg, a BIFF – Budapest International Film Festival idén már 45 filmet mutat be 9 napon keresztül – Martin McDonagh-tól Taika Waititin át Mike Leigh és Anton Corbijn új filmjeiig teljes a BIFF filmes programja.",
+      "fullSummary": "Október 24. és november 1. között újra a legnagyobb fesztiválsikereket begyűjtő nemzetközi filmeké lesz a főszerep Budapesten, a Corvin moziban. A fesztivált idén harmadik alkalommal rendezik meg, a…",
       "tags": [
         "Biff",
         "Popkult"
@@ -204,7 +432,7 @@
         "biff",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/b/i/f/f/2/biff2026-logo-png-20261005-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/b/i/f/f/2/biff2026-logo-png-20261005-609-812-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-10-05T09:21:00Z",
@@ -220,7 +448,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A közmédia átalakítása történelmi projekt, amelynek végén egy független, átlátható és propagandamentes intézménynek kell létrejönnie – mondta a Kreatívnak Grósz Judit, a közmédia…",
-      "fullSummary": "A közmédia átalakítása történelmi projekt, amelynek végén egy független, átlátható és propagandamentes intézménynek kell létrejönnie – mondta a Kreatívnak Grósz Judit, a közmédia megújításáért felelős miniszteri biztos. Szerinte a bizalom visszaépítése akár másfél évig is eltarthat, miközben az auditnak azt is fel kell tárnia, kik és milyen mértékben felelősek az elmúlt 16 év működéséért.",
+      "fullSummary": "A közmédia átalakítása történelmi projekt, amelynek végén egy független, átlátható és propagandamentes intézménynek kell létrejönnie – mondta a Kreatívnak Grósz Judit, a közmédia…",
       "tags": [
         "Interju",
         "Duna",
@@ -239,7 +467,7 @@
         "grosz-judit",
         "fuggetlen-kozmedia-testulet"
       ],
-      "image": "https://kreativ.hu/img-cache/s/z/r/4/5/szr4564-0-20261005-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/s/z/r/4/5/szr4564-0-20261005-690-920-90-zc.webp",
       "author": "Tiszóczi Roland",
       "category": "",
       "publishedAt": "2026-10-05T08:25:00Z",
@@ -278,7 +506,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Legalább 4,5 milliárd forinttal támogatták Mészáros Lőrinc érdekeltségei a Megafont 2022 óta – írja a Direkt36 a birtokába jutott belső céges dokumentumok alapján. A szervezet bevételeinek mintegy…",
-      "fullSummary": "Legalább 4,5 milliárd forinttal támogatták Mészáros Lőrinc érdekeltségei a Megafont 2022 óta – írja a Direkt36 a birtokába jutott belső céges dokumentumok alapján. A szervezet bevételeinek mintegy harmadát tehette ki a felcsúti milliárdos vállalkozásaiból érkező forrás.",
+      "fullSummary": "Legalább 4,5 milliárd forinttal támogatták Mészáros Lőrinc érdekeltségei a Megafont 2022 óta – írja a Direkt36 a birtokába jutott belső céges dokumentumok alapján. A szervezet bevételeinek mintegy…",
       "tags": [
         "Tamogatas",
         "Business",
@@ -293,7 +521,7 @@
         "megafon",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/n/e/v/t/e/nevtelen-0-20261005-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/n/e/v/t/e/nevtelen-0-20261005-522-696-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-10-05T08:03:00Z",
@@ -325,7 +553,7 @@
         "magyar-radio-es-televizio-nonprofit-zrt",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/a/j/e/e/t/ajeet-mestry-ubhpoihnazm-unsplash-0-20261002-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/j/e/e/t/ajeet-mestry-ubhpoihnazm-unsplash-0-20261002-690-920-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-10-02T14:40:00Z",
@@ -418,7 +646,7 @@
         "kozmedia",
         "mtva"
       ],
-      "image": "https://kreativ.hu/img-cache/k/o/s/z/t/koszticsak-szilard-mti-mtva-jpeg-20260728-1620-0-90-cr-webp-20261002-549-75-733-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/k/o/s/z/t/koszticsak-szilard-mti-mtva-jpeg-20260728-1620-0-90-cr-webp-20261002-920-690-90-zc.webp",
       "author": "Sz. Sz.",
       "category": "",
       "publishedAt": "2026-10-02T11:59:00Z",
