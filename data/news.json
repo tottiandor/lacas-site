@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-07T03:26:14Z",
-  "itemCount": 290,
+  "generatedAt": "2026-10-08T03:25:52Z",
+  "itemCount": 305,
   "sources": [
     {
       "id": "thedrum",
@@ -50,6 +50,450 @@
   ],
   "items": [
     {
+      "id": "9e704f1d",
+      "title": "Közös gondolkodásra hívja a szakmát az Artificial Group",
+      "url": "https://kreativ.hu/cikk/artificial-group-kovacs-andras-peter-szakmai-beszelgetes",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Október végére szakmai beszélgetést szervez Kovács András Péter, az Artificial Group stratégiai vezetője, amelyen ügyfél- és ügynökségi oldali szakemberekkel vitatnák meg a reklámipar előtt álló…",
+      "fullSummary": "Október végére szakmai beszélgetést szervez Kovács András Péter, az Artificial Group stratégiai vezetője, amelyen ügyfél- és ügynökségi oldali szakemberekkel vitatnák meg a reklámipar előtt álló kihívásokat és lehetőségeket.",
+      "tags": [
+        "Artificial Group",
+        "Kovacs Andras Peter",
+        "Szakmai Beszelgetes",
+        "Advertising",
+        "Agencies",
+        "Strategy"
+      ],
+      "rawTags": [
+        "artificial-group",
+        "kovacs-andras-peter",
+        "szakmai-beszelgetes",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/k/o/v/a/c/kovacs-andras-peter-artificial-group-jpeg-0-20261007-800-600-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-10-07T14:33:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-08T03:25:52Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "7c619b50",
+      "title": "Sour Patch Kids tear into Oreo’s billboards",
+      "url": "https://www.famouscampaigns.com/2026/10/sour-patch-kids-tear-into-oreos-billboards-in-first-uk-ad-campaign/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Sour Patch Kids are making their UK advertising debut by destroying someone else’s ads. Created by VCCP, ‘Not As Sweet As They Look’ sees the sweets attack neighbouring Oreo posters in London and Bristol. Four special-build sites take the…",
+      "fullSummary": "Sour Patch Kids are making their UK advertising debut by destroying someone else’s ads. Created by VCCP, ‘Not As Sweet As They Look’ sees the sweets attack neighbouring Oreo posters in London and Bristol. Four special-build sites take the brands’ social media feud onto the streets, turning the Sour Patch Kids’ habit of roasting Oreo […]",
+      "tags": [
+        "Advertising",
+        "Food & Drink",
+        "OOH"
+      ],
+      "rawTags": [
+        "Advertising",
+        "Food & Drink",
+        "OOH"
+      ],
+      "image": null,
+      "author": "Staff",
+      "category": "Advertising",
+      "publishedAt": "2026-10-07T14:16:26Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-08T03:25:52Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "a299aa77",
+      "title": "Visit Sweden — The Introvert Travel Agency",
+      "url": "https://theinspiration.com/2026/10/visit-sweden-the-introvert-travel-agency/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "Visit Sweden has opened The Introvert Travel Agency – a travel agency for people who would rather skip the small talk. The idea builds on research showing that 67% of travelers prefer destinations where social interaction is optional, and…",
+      "fullSummary": "Visit Sweden has opened The Introvert Travel Agency – a travel agency for people who would rather skip the small talk. The idea builds on research showing that 67% of travelers prefer destinations where social interaction is optional, and that 53% would pay extra for peace, privacy and fewer crowds. Through an online booking platform […]",
+      "tags": [
+        "Advertising",
+        "Agencies"
+      ],
+      "rawTags": [
+        "Advertising"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/visit-sweden-introvert-travel-agency-1-750x536.webp",
+      "author": "Daniel Ingvartsen",
+      "category": "Advertising",
+      "publishedAt": "2026-10-07T13:18:50Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-08T03:25:52Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "b262cdf7",
+      "title": "Disney chops up its logo to ask ‘Hu Dis?’",
+      "url": "https://www.famouscampaigns.com/2026/10/disney-chops-up-its-logo-to-ask-hu-dis/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Disney+ has sliced up its famous wordmark for a Canadian outdoor campaign promoting Hulu shows available on the streaming platform. Created by agency Courage, the ads pair the green ‘Hu’ from Hulu with ‘Dis’ from Disney to ask a familiar…",
+      "fullSummary": "Disney+ has sliced up its famous wordmark for a Canadian outdoor campaign promoting Hulu shows available on the streaming platform. Created by agency Courage, the ads pair the green ‘Hu’ from Hulu with ‘Dis’ from Disney to ask a familiar text-message question: ‘Hu Dis?’ Two brands, one line, and a fairly relaxed approach to the […]",
+      "tags": [
+        "Advertising",
+        "Entertainment",
+        "Agencies",
+        "Branding",
+        "Campaigns",
+        "Film & TV"
+      ],
+      "rawTags": [
+        "Advertising",
+        "Entertainment"
+      ],
+      "image": null,
+      "author": "Staff",
+      "category": "Advertising",
+      "publishedAt": "2026-10-07T12:39:13Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-08T03:25:52Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "2128e4b5",
+      "title": "Monzo is winning the fame game.",
+      "url": "https://www.famouscampaigns.com/2026/10/monzo-is-winning-the-fame-game/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "partner post Tracksuit data shows Monzo ahead at every stage of the funnel, with Revolut closing in on awareness. That gives its new brand platform a clear job. When Monzo unveiled “Get busy living” on 27 July, Olivia Colman grabbed…",
+      "fullSummary": "partner post Tracksuit data shows Monzo ahead at every stage of the funnel, with Revolut closing in on awareness. That gives its new brand platform a clear job. When Monzo unveiled “Get busy living” on 27 July, Olivia Colman grabbed headlines. The bank’s first global brand platform has ten single-shot films directed by Daniel Wolfe […]",
+      "tags": [
+        "Brand Measurement",
+        "Branding"
+      ],
+      "rawTags": [
+        "Brand Measurement"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/10/Monzo-brand-campaign.mp4",
+      "author": "Tracksuit",
+      "category": "Brand Measurement",
+      "publishedAt": "2026-10-07T12:18:08Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-08T03:25:52Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "94688575",
+      "title": "Koraszülött-intenzívtől a háborús zónáig: indul a Spektrum legújabb saját gyártású sorozata",
+      "url": "https://kreativ.hu/cikk/spektrum-az-elet-a-tet-sorozat-premier",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Október 12-én indul a Spektrum új, saját gyártású sorozata, Az élet a tét, amely azoknak a munkájába enged betekintést, akik nap mint nap mások biztonságáért dolgoznak. A sorozat közelebb hozza a…",
+      "fullSummary": "Október 12-én indul a Spektrum új, saját gyártású sorozata, Az élet a tét, amely azoknak a munkájába enged betekintést, akik nap mint nap mások biztonságáért dolgoznak. A sorozat közelebb hozza a hétköznapi emberekhez az egyenruhásokat, és megmutatja, hogyan dolgoznak együtt a legkritikusabb helyzetekben, akár saját testi épségüket sem féltve.",
+      "tags": [
+        "Spektrum",
+        "Film & TV",
+        "Eletmento",
+        "Premier",
+        "Media"
+      ],
+      "rawTags": [
+        "spektrum",
+        "sorozat",
+        "eletmento",
+        "premier",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/s/z/g/-/6/szg-6038-0-20261007-920-690-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-10-07T11:58:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-08T03:25:52Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "20b27404",
+      "title": "Visit Sweden has launched The Introvert Travel Agency",
+      "url": "https://www.famouscampaigns.com/2026/10/visit-sweden-has-launched-the-introvert-travel-agency/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Visit Sweden has launched The Introvert Travel Agency, a holiday planning concept for travellers who would quite like a break from making conversation. Created by Prime Weber Shandwick, the campaign helps visitors discover and book quieter…",
+      "fullSummary": "Visit Sweden has launched The Introvert Travel Agency, a holiday planning concept for travellers who would quite like a break from making conversation. Created by Prime Weber Shandwick, the campaign helps visitors discover and book quieter Swedish holidays, with less social pressure and more freedom to explore at their own pace. The idea taps into […]",
+      "tags": [
+        "PR",
+        "Travel",
+        "Agencies",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "PR",
+        "Travel"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/10/Welcome-to-The-Introvert-Travel-Agency.mp4",
+      "author": "James Herring",
+      "category": "PR",
+      "publishedAt": "2026-10-07T11:41:14Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-08T03:25:52Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "81a40ee8",
+      "title": "Vízjelet tesz a ChatGPT az AI-jal írt szövegekbe",
+      "url": "https://kreativ.hu/cikk/vizjelet-tesz-a-chatgpt-az-ai-jal-irt-szovegekbe",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Az OpenAI géppel olvasható, láthatatlan vízjelet vezet be a ChatGPT által generált szövegekben az Európai Unióban, hogy jelezze az AI-tartalmak eredetét.",
+      "fullSummary": "Az OpenAI géppel olvasható, láthatatlan vízjelet vezet be a ChatGPT által generált szövegekben az Európai Unióban, hogy jelezze az AI-tartalmak eredetét.",
+      "tags": [
+        "AI",
+        "Szoveg",
+        "Vizjel",
+        "Media"
+      ],
+      "rawTags": [
+        "mesterseges-intelligencia",
+        "szoveg",
+        "vizjel",
+        "ai",
+        "chatgpt",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/l/e/v/a/r/levart-photographer-7q-ke4szzvq-unsplash-2-0-20261007-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-10-07T11:03:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-08T03:25:52Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "94f29e9d",
+      "title": "Elhunyt Pintér Dezső, a TV2 első elnöke",
+      "url": "https://kreativ.hu/cikk/elhunyt-pinter-dezso-a-tv2-elso-elnoke",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "77 éves korában meghalt Pintér Dezső, a magyar rádiózás és televíziózás meghatározó alakja, a TV2 első elnöke – írja a Blikk.",
+      "fullSummary": "77 éves korában meghalt Pintér Dezső, a magyar rádiózás és televíziózás meghatározó alakja, a TV2 első elnöke – írja a Blikk.",
+      "tags": [
+        "Elnok",
+        "Magyar Radio",
+        "Tv2",
+        "Tenyek",
+        "Kossuth Radio",
+        "Naplo"
+      ],
+      "rawTags": [
+        "elnok",
+        "magyar-radio",
+        "tv2",
+        "tenyek",
+        "kossuth-radio",
+        "naplo",
+        "pinter-dezso",
+        "jo-reggelt-magyarorszag"
+      ],
+      "image": "https://kreativ.hu/img-cache/p/i/n/t/e/pintes-dezso-tv2-0-20261007-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-10-07T10:08:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-08T03:25:52Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "1c8ef60a",
+      "title": "25 éves az nlc – rendhagyó tartalmakkal ünnepel",
+      "url": "https://kreativ.hu/cikk/nlc-central-mediacsoport-podcast-25-eves",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Jubileumi tartalmakkal és podcast-sorozattal ünnepli 25. születésnapját az nlc online női magazin.",
+      "fullSummary": "Jubileumi tartalmakkal és podcast-sorozattal ünnepli 25. születésnapját az nlc online női magazin.",
+      "tags": [
+        "Eves",
+        "Central Mediacsoport",
+        "Nlc",
+        "Podcast",
+        "25",
+        "Media"
+      ],
+      "rawTags": [
+        "eves",
+        "central-mediacsoport",
+        "nlc",
+        "podcast",
+        "25",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/n/l/c/-/2/nlc-25-png-0-20261007-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-10-07T09:30:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-08T03:25:52Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "9f9a2bd9",
+      "title": "ARC 2026-szubjektív: Kell az ilyen is. Nagyon kell!",
+      "url": "https://kreativ.hu/cikk/arc-kiallitas-plakat-oriasplakat-zsuri-mualkotas-ai",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Több mint tíz éve zsűrizek az ARC-on, több mint tízezer pályaművet értékeltem, de az idei más, mint eddig bármikor ebben az időszakban. A bennem élő demokrata erről csak annyit…",
+      "fullSummary": "Több mint tíz éve zsűrizek az ARC-on, több mint tízezer pályaművet értékeltem, de az idei más, mint eddig bármikor ebben az időszakban. A bennem élő demokrata erről csak annyit mond: szerencsére. Nagy Iván Zsolt véleménye az idei kiállításról.",
+      "tags": [
+        "Kiallitas",
+        "OOH",
+        "Arc",
+        "Awards",
+        "Mualkotas",
+        "AI"
+      ],
+      "rawTags": [
+        "kiallitas",
+        "plakat",
+        "arc",
+        "oriasplakat",
+        "zsuri",
+        "mualkotas",
+        "ai",
+        "2026"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/r/c/-/2/arc-26-screen-1500px-009-v2-20261006-920-690-90-zc.webp",
+      "author": "Nagy Iván Zsolt",
+      "category": "",
+      "publishedAt": "2026-10-07T08:10:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-08T03:25:52Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "f728cc18",
+      "title": "A manipulatív reklámokra is megtanítja a diákokat nemet mondani a GVH",
+      "url": "https://kreativ.hu/cikk/gazdasagi-versenyhivatal-digitalis-tudatossag-program-gvh-manipulativ-reklamok",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Gazdasági Versenyhivatal megújult Digitális Tudatosság Programja a 10–16 éves diákokat többek között arra tanítja, hogyan ismerjék fel a manipulatív reklámokat, a megtévesztő online ajánlatokat és…",
+      "fullSummary": "A Gazdasági Versenyhivatal megújult Digitális Tudatosság Programja a 10–16 éves diákokat többek között arra tanítja, hogyan ismerjék fel a manipulatív reklámokat, a megtévesztő online ajánlatokat és az internetes tér egyéb kockázatait.",
+      "tags": [
+        "Gazdasagi Versenyhivatal",
+        "Gvh",
+        "Digitalis Tudatossag Program",
+        "Manipulativ Reklamok",
+        "Advertising",
+        "Media"
+      ],
+      "rawTags": [
+        "gazdasagi-versenyhivatal",
+        "gvh",
+        "digitalis-tudatossag-program",
+        "manipulativ-reklamok",
+        "reklam",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/j/o/n/-/t/jon-tyson-mrvywjhokdw-unsplash-0-20261007-690-920-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-10-07T08:01:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-08T03:25:52Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "5c7b2aa6",
+      "title": "Ügynökséget keres sportmarketing-feladataira a Szerencsejáték Zrt.",
+      "url": "https://kreativ.hu/cikk/szerencsejatek-zrt-sportmarketing-tender-nyilt-ugynokseg-allami",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A 2027-es, illetve opcionálisan a 2028-as évre keres integrált ügynökségi partnert sportmarketing- és sportfogadási aktivitásainak támogatására a Szerencsejáték Zrt. A nyílt tenderre reklám-,…",
+      "fullSummary": "A 2027-es, illetve opcionálisan a 2028-as évre keres integrált ügynökségi partnert sportmarketing- és sportfogadási aktivitásainak támogatására a Szerencsejáték Zrt. A nyílt tenderre reklám-, kreatív-, sportmarketing- és integrált kommunikációs ügynökségek jelentkezését várják, a határidő október 9. éjfél előtt.",
+      "tags": [
+        "Allami",
+        "Agencies",
+        "Tender",
+        "Szerencsejatek Zrt",
+        "Sportmarketing",
+        "Nyilt"
+      ],
+      "rawTags": [
+        "allami",
+        "ugynokseg",
+        "tender",
+        "szerencsejatek-zrt",
+        "sportmarketing",
+        "nyilt",
+        "reklam",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/s/z/e/r/e/szerencsejatek-zrt2-0-20261007-417-556-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-10-07T07:19:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-08T03:25:52Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "11bb259a",
+      "title": "Apa By Valeria Duque",
+      "url": "https://theinspiration.com/2026/10/apa-by-valeria-duque/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "Artist and photographer Valeria Duque stitches directly into printed photographs. “Apa” (meaning “water”) is a series of swimmers seen from above, where hand embroidery in DMC Mouliné thread on Artistic Velvet paper turns the surface of…",
+      "fullSummary": "Artist and photographer Valeria Duque stitches directly into printed photographs. “Apa” (meaning “water”) is a series of swimmers seen from above, where hand embroidery in DMC Mouliné thread on Artistic Velvet paper turns the surface of the water into a textured, pixel-like pattern. This is the second swimmer in the series, a 40 x 26 cm piece and part of a triptych she hopes to complete soon. Below, more of her stitched work: further pieces from…",
+      "tags": [
+        "Art",
+        "Photography"
+      ],
+      "rawTags": [
+        "Art"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/valeria-duque-apa-1-1-750x536.webp",
+      "author": "Daniel Ingvartsen",
+      "category": "Art",
+      "publishedAt": "2026-10-07T06:42:31Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-08T03:25:52Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "bec3b30e",
+      "title": "Hulu + Disney+ — hu Dis?",
+      "url": "https://theinspiration.com/2026/10/hulu-disney-hu-dis/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "To tease Hulu landing on Disney+, a new outdoor campaign merges the two brands into one deliberately unfinished question: “hu Dis?” – “hu” set in Hulu’s signature green, “Dis?” in Disney’s classic script. Instead of titles, release dates…",
+      "fullSummary": "To tease Hulu landing on Disney+, a new outdoor campaign merges the two brands into one deliberately unfinished question: “hu Dis?” – “hu” set in Hulu’s signature green, “Dis?” in Disney’s classic script. Instead of titles, release dates or full logos, the billboards pair the lockup with tightly cropped fragments – a lower face, a […]",
+      "tags": [
+        "Advertising",
+        "Branding",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "Advertising"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/hulu-disney-plus-hu-dis-1-1-750x536.webp",
+      "author": "Daniel Ingvartsen",
+      "category": "Advertising",
+      "publishedAt": "2026-10-07T06:22:01Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-08T03:25:52Z",
+      "enrichAttempts": 0
+    },
+    {
       "id": "6a1453f4",
       "title": "Az X-Faktor megverte a Megasztárt, de a hetet a Sztárban Sztár vitte – 40. heti nézettségi adatok",
       "url": "https://kreativ.hu/cikk/nezettseg-40-het-rtl-tv2-sztarban-sztar",
@@ -57,7 +501,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Az előző héten a Sztárban Sztár tudta a legtöbb nézőt a tévéképernyő elé ültetni, szorosan követi a Házasság első látásra. A Celeb vagyok, ments ki innen! fináléja az előző heti nézettségi adatokkal…",
-      "fullSummary": "Az előző héten a Sztárban Sztár tudta a legtöbb nézőt a tévéképernyő elé ültetni, szorosan követi a Házasság első látásra. A Celeb vagyok, ments ki innen! fináléja az előző heti nézettségi adatokkal ellentétben most bekerült a top 10 legnézettebb műsor közé, legalábbis a 18-59 évesek körében, az X-Faktor viszont mindkét vizsgált korcsoportban megelőzte a Megasztárt.",
+      "fullSummary": "Az előző héten a Sztárban Sztár tudta a legtöbb nézőt a tévéképernyő elé ültetni, szorosan követi a Házasság első látásra. A Celeb vagyok, ments ki innen! fináléja az előző heti nézettségi adatokkal…",
       "tags": [
         "Tv2",
         "Nezettseg",
@@ -70,7 +514,7 @@
         "rtl",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/e/v/a/-/7/eva-7654-0-20261006-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/e/v/a/-/7/eva-7654-0-20261006-690-920-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-10-06T12:35:00Z",
@@ -86,7 +530,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Huszonegy alkotás összesen huszonöt shortlisthelyet szerzett a Kreatív idei videós és podcastos versenyén. A döntősök között színházi és gasztronómiai videósorozatok, márkaegyüttműködések, valamint…",
-      "fullSummary": "Huszonegy alkotás összesen huszonöt shortlisthelyet szerzett a Kreatív idei videós és podcastos versenyén. A döntősök között színházi és gasztronómiai videósorozatok, márkaegyüttműködések, valamint tudományos és munkahelyi témákat feldolgozó podcastok is szerepelnek.",
+      "fullSummary": "Huszonegy alkotás összesen huszonöt shortlisthelyet szerzett a Kreatív idei videós és podcastos versenyén. A döntősök között színházi és gasztronómiai videósorozatok, márkaegyüttműködések, valamint…",
       "tags": [
         "Awards",
         "Ova 2026",
@@ -114,7 +558,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Miért marad velünk egy-egy könyv akár évtizedeken át, és mit viszünk magunkkal a szereplőiből, gondolataiból a saját életünkbe? Új podcastsorozat indul életünk meghatározó…",
-      "fullSummary": "Miért marad velünk egy-egy könyv akár évtizedeken át, és mit viszünk magunkkal a szereplőiből, gondolataiból a saját életünkbe? Új podcastsorozat indul életünk meghatározó olvasmányairól, melyben az is elhangzik: a jövő egyik versenyelőnye lehet az elmélyült olvasás",
+      "fullSummary": "Miért marad velünk egy-egy könyv akár évtizedeken át, és mit viszünk magunkkal a szereplőiből, gondolataiból a saját életünkbe? Új podcastsorozat indul életünk meghatározó…",
       "tags": [
         "Olvasas",
         "Libri",
@@ -127,7 +571,7 @@
         "podcast",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/a/c/z/e/l/aczelpetra-1-png-20261006-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/c/z/e/l/aczelpetra-1-png-20261006-690-920-90-zc.webp",
       "author": "S. D.",
       "category": "",
       "publishedAt": "2026-10-06T09:38:00Z",
@@ -143,7 +587,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Topolánszky Tamás Yvan rövidfilmje a los angelesi HollyShorts Film Festivalon mintegy 8000 nevezés közül került be a tíz legjobb rövidfilm közé, Oscar-kvalifikációt szerzett, és versenyben van a 99.…",
-      "fullSummary": "Topolánszky Tamás Yvan rövidfilmje a los angelesi HollyShorts Film Festivalon mintegy 8000 nevezés közül került be a tíz legjobb rövidfilm közé, Oscar-kvalifikációt szerzett, és versenyben van a 99. Oscar-díj legjobb élőszereplős rövidfilm kategóriájában.",
+      "fullSummary": "Topolánszky Tamás Yvan rövidfilmje a los angelesi HollyShorts Film Festivalon mintegy 8000 nevezés közül került be a tíz legjobb rövidfilm közé, Oscar-kvalifikációt szerzett, és versenyben van a 99.…",
       "tags": [
         "Rovidfilm",
         "Oscar",
@@ -158,7 +602,7 @@
         "topolanszky-tamas",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/n/e/v/e/r/never-20261006-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/n/e/v/e/r/never-20261006-690-920-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-10-06T08:32:00Z",
@@ -187,7 +631,7 @@
         "tiktok",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-382769229-editorial-use-only-jpeg-20261006-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-382769229-editorial-use-only-jpeg-20261006-549-75-733-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-10-06T07:43:00Z",
@@ -467,7 +911,7 @@
         "grosz-judit",
         "fuggetlen-kozmedia-testulet"
       ],
-      "image": "https://kreativ.hu/img-cache/s/z/r/4/5/szr4564-0-20261005-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/s/z/r/4/5/szr4564-0-20261005-920-690-90-zc.webp",
       "author": "Tiszóczi Roland",
       "category": "",
       "publishedAt": "2026-10-05T08:25:00Z",
@@ -490,7 +934,7 @@
       "rawTags": [
         "Art"
       ],
-      "image": "https://theinspiration.com/wp-content/uploads/urban-pixel-scoobafish-1-750x536.jpg",
+      "image": "https://theinspiration.com/wp-content/uploads/urban-pixel-scoobafish-1-1-750x536.webp",
       "author": "Daniel Ingvartsen",
       "category": "Art",
       "publishedAt": "2026-10-05T08:14:44Z",
