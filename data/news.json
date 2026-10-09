@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-08T03:25:52Z",
-  "itemCount": 305,
+  "generatedAt": "2026-10-09T03:26:02Z",
+  "itemCount": 314,
   "sources": [
     {
       "id": "thedrum",
@@ -18,7 +18,7 @@
       "accent": "#e8453c",
       "status": "ok",
       "error": null,
-      "count": 25
+      "count": 22
     },
     {
       "id": "creativereview",
@@ -50,6 +50,249 @@
   ],
   "items": [
     {
+      "id": "f0953bf0",
+      "title": "Street Fighter picks a fight with London’s street signs",
+      "url": "https://www.famouscampaigns.com/2026/10/street-fighter-picks-a-fight-with-londons-street-signs/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Street Fighter has found a handy shortcut to promoting its new film: London already has half the title on its street signs. Images shared by Paramount on its Instagram feed show signs for Oxford Street, Regent Street, Baker Street and King…",
+      "fullSummary": "Street Fighter has found a handy shortcut to promoting its new film: London already has half the title on its street signs. Images shared by Paramount on its Instagram feed show signs for Oxford Street, Regent Street, Baker Street and King Street with “Fighter” added beneath “Street” in the franchise’s distinctive orange lettering. The familiar […]",
+      "tags": [
+        "COOH",
+        "Entertainment",
+        "Film & TV",
+        "Social Media"
+      ],
+      "rawTags": [
+        "COOH",
+        "Entertainment"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/10/street-fighter-video-FC.mp4",
+      "author": "Staff",
+      "category": "COOH",
+      "publishedAt": "2026-10-08T17:21:10Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-09T03:26:02Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "4dbc210b",
+      "title": "Dalszerzők napja: az AI-zenék szabályozását sürgeti az Artisjus és az EJI",
+      "url": "https://kreativ.hu/cikk/dalszerzok-napja-generativ-ai-manifeszto-zene-artisjus-eji",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A zenegenerátorok betanítását és a megnevezett művészek utánzását is engedélyhez kötné az Artisjus és az Előadóművészi Jogvédő Iroda (EJI) közös AI Manifesztója. A mai dalszerzők napjára időzített…",
+      "fullSummary": "A zenegenerátorok betanítását és a megnevezett művészek utánzását is engedélyhez kötné az Artisjus és az Előadóművészi Jogvédő Iroda (EJI) közös AI Manifesztója. A mai dalszerzők napjára időzített felhívás igazságos jövedelmezési rendszert és az emberi közreműködés átláthatóságát is sürgeti.",
+      "tags": [
+        "Artisjus",
+        "Brody Janos",
+        "AI",
+        "Dalszerzok Napja",
+        "Eji",
+        "Popkult"
+      ],
+      "rawTags": [
+        "artisjus",
+        "brody-janos",
+        "ai",
+        "dalszerzok-napja",
+        "eji",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/b/r/o/d/y/brody-janos-kredit-edocs-balint-bb-pictures-0-20261008-920-690-90-zc.webp",
+      "author": "L. B.",
+      "category": "",
+      "publishedAt": "2026-10-08T15:10:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-09T03:26:02Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "d88e64e2",
+      "title": "Hont András lett az Index vezérigazgatója",
+      "url": "https://kreativ.hu/cikk/indamedia-hont-andras-bokor-klara-vezetovaltas",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Az Indamedia közleményeben tudatta, hogy átalakul a cégcsoport vezetése. Starcz Ákos új feladatkörben folytatja, az Index.hu Zrt. vezérigazgatói feladatait Hont András veszi át. Az Index…",
+      "fullSummary": "Az Indamedia közleményeben tudatta, hogy átalakul a cégcsoport vezetése. Starcz Ákos új feladatkörben folytatja, az Index.hu Zrt. vezérigazgatói feladatait Hont András veszi át. Az Index főszerkesztője továbbra is Gedei Norbert marad.",
+      "tags": [
+        "Vezetovaltas",
+        "Indamedia",
+        "Indanext",
+        "Media"
+      ],
+      "rawTags": [
+        "vezetovaltas",
+        "indamedia",
+        "indanext",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/3/3/9/7/6/339766330-527880186216514-766684283514361935-n-1-png-0-20261008-820-615-90-zc.webp",
+      "author": "Kreatív,Sz. Sz.",
+      "category": "",
+      "publishedAt": "2026-10-08T13:52:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-09T03:26:02Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "83f60eef",
+      "title": "Subway serves up a taste of getting your own way",
+      "url": "https://www.famouscampaigns.com/2026/10/subway-serves-up-a-taste-of-getting-your-own-way/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Subway is turning highly specific sandwich orders into a broader licence to be demanding in “Get Your Own Way”, a new EMEA campaign created by Saatchi & Saatchi. A series of TV spots follow customers whose confidence spills beyond the…",
+      "fullSummary": "Subway is turning highly specific sandwich orders into a broader licence to be demanding in “Get Your Own Way”, a new EMEA campaign created by Saatchi & Saatchi. A series of TV spots follow customers whose confidence spills beyond the sandwich counter: changing the channel during football at the pub, or stopping for supermarket essentials […]",
+      "tags": [
+        "ALL",
+        "Campaigns",
+        "Film & TV"
+      ],
+      "rawTags": [
+        "ALL"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/10/subway_-_get_your_own_way_driving_instructor-720p.mp4",
+      "author": "James Herring",
+      "category": "ALL",
+      "publishedAt": "2026-10-08T13:45:38Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-09T03:26:02Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "acbad8c5",
+      "title": "Megkezdte működését az új Médiatanács – nyilvánossá teszi a voksokat",
+      "url": "https://kreativ.hu/cikk/megkezdte-mukodeset-az-uj-mediatanacs-nyilvanossa-teszi-a-voksokat",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Új ügyrendet fogadott el első ülésén a Polyák Gábor vezette Médiatanács: a név szerinti szavazási eredmények és a különvélemények is nyilvánosak lesznek. A testület a napirendjén szereplő lejáró…",
+      "fullSummary": "Új ügyrendet fogadott el első ülésén a Polyák Gábor vezette Médiatanács: a név szerinti szavazási eredmények és a különvélemények is nyilvánosak lesznek. A testület a napirendjén szereplő lejáró rádiós jogosultságokat egy évre újította meg, és bírságot szabott ki az RTL-re, valamint a Hír TV-re.",
+      "tags": [
+        "Nmhh",
+        "Mediatanacs",
+        "Polyak Gabor",
+        "Media"
+      ],
+      "rawTags": [
+        "nmhh",
+        "mediatanacs",
+        "polyak-gabor",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/t/-/u/l/mt-ules-1006-nmhh-0-20261008-690-920-90-zc.webp",
+      "author": "L. B.",
+      "category": "",
+      "publishedAt": "2026-10-08T12:51:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-09T03:26:02Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "37943e69",
+      "title": "Ki marad a virális videó után? – beszámoló az első Community Culture eseményről",
+      "url": "https://kreativ.hu/cikk/the-good-persona-community-culture-beszamolo",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Mit ér a virális videó, ha nem marad utána közösség, és mit számláz egy ügynökség, ha az AI felgyorsítja a munkáját? A The Good Persona által szervezett Community Culture eseményen a márkaépítés…",
+      "fullSummary": "Mit ér a virális videó, ha nem marad utána közösség, és mit számláz egy ügynökség, ha az AI felgyorsítja a munkáját? A The Good Persona által szervezett Community Culture eseményen a márkaépítés aktuális kérdései mellé a házigazdák olyan közeget is teremtettek, amelyben az előadások után valóban volt kedv és lehetőség beszélgetni.",
+      "tags": [
+        "Advertising",
+        "AI",
+        "Agencies",
+        "Branding"
+      ],
+      "rawTags": [
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/t/g/p/-/c/tgp-cc-15-20261008-920-690-90-zc.webp",
+      "author": "Lakos Boglárka",
+      "category": "",
+      "publishedAt": "2026-10-08T10:21:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-09T03:26:02Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "13354ab6",
+      "title": "„A hiányzó nevezés az egész szakmának veszteség” – Prizma zsűrielnöki páros interjú",
+      "url": "https://kreativ.hu/cikk/a-hianyzo-nevezes-az-egesz-szakmanak-veszteseg-prizma-2026-zsurielnok-interju-hives-beata-horvath-magyary-voljc-nora",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Kreatív által 2009-ben indított Prizma PR-verseny a kiemelkedő hazai PR-megoldásokat ismeri el; idei két zsűrielnöke Híves Beáta, a Next9 Communications társalapítója és ügyvezető igazgatója,…",
+      "fullSummary": "A Kreatív által 2009-ben indított Prizma PR-verseny a kiemelkedő hazai PR-megoldásokat ismeri el; idei két zsűrielnöke Híves Beáta, a Next9 Communications társalapítója és ügyvezető igazgatója, valamint Horváth Magyary Voljč Nóra, a K&H Csoport kommunikációs ügyvezető igazgatója. A több mint húszéves kommunikációs tapasztalattal rendelkező ügynökségvezetőt és a K&H kommunikációját huszonnégy éve irányító szakembert arról kérdeztük, mitől…",
+      "tags": [
+        "Prizma Kreativ PR Dij",
+        "Verseny",
+        "Awards"
+      ],
+      "rawTags": [
+        "prizma-kreativ-pr-dij",
+        "verseny"
+      ],
+      "image": "https://kreativ.hu/img-cache/p/r/i/z/m/prizma-poszt-1080x1080px-png-0-20261008-920-690-90-zc.webp",
+      "author": "Lakos Boglárka",
+      "category": "",
+      "publishedAt": "2026-10-08T07:24:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-09T03:26:02Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "23bc6907",
+      "title": "Disney+ — Hu Dis?",
+      "url": "https://theinspiration.com/2026/10/disney-hu-dis/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "Disney+ chopped up its iconic logo to create a simple visual joke: combining Hulu’s “Hu” with Disney’s “Dis” to form “Hu Dis?” — a playful way of telling Canadians that Hulu shows are now available on Disney+. By letting its instantly…",
+      "fullSummary": "Disney+ chopped up its iconic logo to create a simple visual joke: combining Hulu’s “Hu” with Disney’s “Dis” to form “Hu Dis?” — a playful way of telling Canadians that Hulu shows are now available on Disney+. By letting its instantly recognisable brand assets do all the talking, the campaign turns a tiny logo hack […]",
+      "tags": [
+        "Advertising",
+        "Branding"
+      ],
+      "rawTags": [
+        "Advertising"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/Hu-Dis-750x536.webp",
+      "author": "René Kammersgaard",
+      "category": "Advertising",
+      "publishedAt": "2026-10-08T06:59:42Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-09T03:26:02Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "fc96cea8",
+      "title": "Aritzia — Super Giant Puff",
+      "url": "https://theinspiration.com/2026/10/aritzia-super-giant-puff/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "Aritzia turned its cult Super Puff jacket into a giant New York installation to launch an upgrade to the iconic product. By making the jacket enormous, the brand transformed a technical product benefit — more warmth with less weight — into…",
+      "fullSummary": "Aritzia turned its cult Super Puff jacket into a giant New York installation to launch an upgrade to the iconic product. By making the jacket enormous, the brand transformed a technical product benefit — more warmth with less weight — into something impossible to miss. The simple act of scaling up the product turned a […]",
+      "tags": [
+        "Advertising",
+        "Branding"
+      ],
+      "rawTags": [
+        "Advertising"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/Skaermbillede-2026-10-08-kl.-08.57.29-750x536.webp",
+      "author": "René Kammersgaard",
+      "category": "Advertising",
+      "publishedAt": "2026-10-08T06:58:20Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-09T03:26:02Z",
+      "enrichAttempts": 0
+    },
+    {
       "id": "9e704f1d",
       "title": "Közös gondolkodásra hívja a szakmát az Artificial Group",
       "url": "https://kreativ.hu/cikk/artificial-group-kovacs-andras-peter-szakmai-beszelgetes",
@@ -57,7 +300,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Október végére szakmai beszélgetést szervez Kovács András Péter, az Artificial Group stratégiai vezetője, amelyen ügyfél- és ügynökségi oldali szakemberekkel vitatnák meg a reklámipar előtt álló…",
-      "fullSummary": "Október végére szakmai beszélgetést szervez Kovács András Péter, az Artificial Group stratégiai vezetője, amelyen ügyfél- és ügynökségi oldali szakemberekkel vitatnák meg a reklámipar előtt álló kihívásokat és lehetőségeket.",
+      "fullSummary": "Október végére szakmai beszélgetést szervez Kovács András Péter, az Artificial Group stratégiai vezetője, amelyen ügyfél- és ügynökségi oldali szakemberekkel vitatnák meg a reklámipar előtt álló…",
       "tags": [
         "Artificial Group",
         "Kovacs Andras Peter",
@@ -72,7 +315,7 @@
         "szakmai-beszelgetes",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/k/o/v/a/c/kovacs-andras-peter-artificial-group-jpeg-0-20261007-800-600-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/k/o/v/a/c/kovacs-andras-peter-artificial-group-jpeg-0-20261007-451-5-602-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-10-07T14:33:00Z",
@@ -192,7 +435,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Október 12-én indul a Spektrum új, saját gyártású sorozata, Az élet a tét, amely azoknak a munkájába enged betekintést, akik nap mint nap mások biztonságáért dolgoznak. A sorozat közelebb hozza a…",
-      "fullSummary": "Október 12-én indul a Spektrum új, saját gyártású sorozata, Az élet a tét, amely azoknak a munkájába enged betekintést, akik nap mint nap mások biztonságáért dolgoznak. A sorozat közelebb hozza a hétköznapi emberekhez az egyenruhásokat, és megmutatja, hogyan dolgoznak együtt a legkritikusabb helyzetekben, akár saját testi épségüket sem féltve.",
+      "fullSummary": "Október 12-én indul a Spektrum új, saját gyártású sorozata, Az élet a tét, amely azoknak a munkájába enged betekintést, akik nap mint nap mások biztonságáért dolgoznak. A sorozat közelebb hozza a…",
       "tags": [
         "Spektrum",
         "Film & TV",
@@ -207,7 +450,7 @@
         "premier",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/s/z/g/-/6/szg-6038-0-20261007-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/s/z/g/-/6/szg-6038-0-20261007-690-920-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-10-07T11:58:00Z",
@@ -265,7 +508,7 @@
         "chatgpt",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/l/e/v/a/r/levart-photographer-7q-ke4szzvq-unsplash-2-0-20261007-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/l/e/v/a/r/levart-photographer-7q-ke4szzvq-unsplash-2-0-20261007-690-920-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-10-07T11:03:00Z",
@@ -300,7 +543,7 @@
         "pinter-dezso",
         "jo-reggelt-magyarorszag"
       ],
-      "image": "https://kreativ.hu/img-cache/p/i/n/t/e/pintes-dezso-tv2-0-20261007-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/p/i/n/t/e/pintes-dezso-tv2-0-20261007-690-920-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-10-07T10:08:00Z",
@@ -333,7 +576,7 @@
         "25",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/n/l/c/-/2/nlc-25-png-0-20261007-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/n/l/c/-/2/nlc-25-png-0-20261007-690-920-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-10-07T09:30:00Z",
@@ -349,7 +592,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Több mint tíz éve zsűrizek az ARC-on, több mint tízezer pályaművet értékeltem, de az idei más, mint eddig bármikor ebben az időszakban. A bennem élő demokrata erről csak annyit…",
-      "fullSummary": "Több mint tíz éve zsűrizek az ARC-on, több mint tízezer pályaművet értékeltem, de az idei más, mint eddig bármikor ebben az időszakban. A bennem élő demokrata erről csak annyit mond: szerencsére. Nagy Iván Zsolt véleménye az idei kiállításról.",
+      "fullSummary": "Több mint tíz éve zsűrizek az ARC-on, több mint tízezer pályaművet értékeltem, de az idei más, mint eddig bármikor ebben az időszakban. A bennem élő demokrata erről csak annyit…",
       "tags": [
         "Kiallitas",
         "OOH",
@@ -384,7 +627,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Gazdasági Versenyhivatal megújult Digitális Tudatosság Programja a 10–16 éves diákokat többek között arra tanítja, hogyan ismerjék fel a manipulatív reklámokat, a megtévesztő online ajánlatokat és…",
-      "fullSummary": "A Gazdasági Versenyhivatal megújult Digitális Tudatosság Programja a 10–16 éves diákokat többek között arra tanítja, hogyan ismerjék fel a manipulatív reklámokat, a megtévesztő online ajánlatokat és az internetes tér egyéb kockázatait.",
+      "fullSummary": "A Gazdasági Versenyhivatal megújult Digitális Tudatosság Programja a 10–16 éves diákokat többek között arra tanítja, hogyan ismerjék fel a manipulatív reklámokat, a megtévesztő online ajánlatokat és…",
       "tags": [
         "Gazdasagi Versenyhivatal",
         "Gvh",
@@ -401,7 +644,7 @@
         "reklam",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/j/o/n/-/t/jon-tyson-mrvywjhokdw-unsplash-0-20261007-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/j/o/n/-/t/jon-tyson-mrvywjhokdw-unsplash-0-20261007-920-690-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-10-07T08:01:00Z",
