@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-09T03:26:02Z",
-  "itemCount": 314,
+  "generatedAt": "2026-10-10T03:24:34Z",
+  "itemCount": 319,
   "sources": [
     {
       "id": "thedrum",
@@ -50,6 +50,146 @@
   ],
   "items": [
     {
+      "id": "02aeabd5",
+      "title": "Alig érkezett panasz reklámokra Magyarországon – Európában viszont egyre több",
+      "url": "https://kreativ.hu/cikk/alig-erkezett-panasz-reklamokra-magyarorszagon-europaban-viszont-egyre-tobb",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Több mint 55 ezer reklámpanaszt kezeltek 2025-ben az európai önszabályozó szervezetek, miközben jelentősen nőtt a reklámok előzetes véleményezése iránti igény. Magyarországon mindössze 15 fogyasztói…",
+      "fullSummary": "Több mint 55 ezer reklámpanaszt kezeltek 2025-ben az európai önszabályozó szervezetek, miközben jelentősen nőtt a reklámok előzetes véleményezése iránti igény. Magyarországon mindössze 15 fogyasztói panasz érkezett az Önszabályozó Reklám Testülethez (ÖRT), amely ugyanakkor az előzetes véleményezések számában az európai élmezőnybe tartozik.",
+      "tags": [
+        "Advertising",
+        "Nmhh",
+        "Ort",
+        "Reklamjog",
+        "Reklamszabalyozas"
+      ],
+      "rawTags": [
+        "reklam",
+        "nmhh",
+        "ort",
+        "reklamjog",
+        "reklamszabalyozas"
+      ],
+      "image": "https://kreativ.hu/img-cache/f/e/s/z/u/feszultseg-a-retro-nappaliban-png-20261009-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-10-09T10:58:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-10T03:24:34Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "bf373abd",
+      "title": "Amerikában nyert szakmai díjat az Örvényesvölgy Fesztivál",
+      "url": "https://kreativ.hu/cikk/amerikaban-nyert-szakmai-dijat-az-orvenyesvolgy-fesztival",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Külföldön a fenntartható termékfejlesztésért, itthon a videós tartalomstratégiáért díjazták az Örvényesvölgy Fesztivált.",
+      "fullSummary": "Külföldön a fenntartható termékfejlesztésért, itthon a videós tartalomstratégiáért díjazták az Örvényesvölgy Fesztivált.",
+      "tags": [
+        "Innovacio",
+        "Fesztival",
+        "Rendezveny",
+        "Event",
+        "Popkult"
+      ],
+      "rawTags": [
+        "innovacio",
+        "fesztival",
+        "rendezveny",
+        "event",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/o/r/v/e/n/orvenyesvolgy-20261009-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-10-09T10:08:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-10T03:24:34Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "2fc5ee5a",
+      "title": "124 millió forinttal támogat hét új tévéfilmet a Nemzeti Filmintézet",
+      "url": "https://kreativ.hu/cikk/124-millio-forinttal-tamogat-het-uj-tevefilmet-a-nemzeti-filmintezet",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Öt dokumentumfilm és két animációs film gyártását támogatja a Nemzeti Filmintézet (NFI), összesen 124 millió forint értékben. A támogatott produkciók között az Artpool történetét, roma ökölvívók…",
+      "fullSummary": "Öt dokumentumfilm és két animációs film gyártását támogatja a Nemzeti Filmintézet (NFI), összesen 124 millió forint értékben. A támogatott produkciók között az Artpool történetét, roma ökölvívók életét és a Gestapo által kivégzett magyar futballedzők sorsát feldolgozó alkotások is szerepelnek.",
+      "tags": [
+        "Film & TV",
+        "Tevefilm",
+        "Nfi",
+        "Media"
+      ],
+      "rawTags": [
+        "televizio",
+        "tv",
+        "tevefilm",
+        "nfi",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/n/f/i/-/2/nfi-20261009-549-75-733-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-10-09T08:27:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-10T03:24:34Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "07fec2f3",
+      "title": "Ramp — Tony Stock: Pro Trader",
+      "url": "https://theinspiration.com/2026/10/ramp-tony-stock-pro-trader/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "Ramp turned finance software into an unexpected love letter to skateboarding culture. When Tony Hawk finds himself targeted by the skate mafia, he enters witness protection and is hidden in the last place anyone would expect: a Wall Street…",
+      "fullSummary": "Ramp turned finance software into an unexpected love letter to skateboarding culture. When Tony Hawk finds himself targeted by the skate mafia, he enters witness protection and is hidden in the last place anyone would expect: a Wall Street trading floor, under the name Anthony Stock. Blending the “you look like Tony Hawk” meme with […]",
+      "tags": [
+        "Advertising"
+      ],
+      "rawTags": [
+        "Advertising"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/Skaermbillede-2026-10-09-kl.-07.52.29-750x536.webp",
+      "author": "René Kammersgaard",
+      "category": "Advertising",
+      "publishedAt": "2026-10-09T05:55:08Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-10T03:24:34Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "0754d617",
+      "title": "Ōura — Wear Your Best Life",
+      "url": "https://theinspiration.com/2026/10/oura-wear-your-best-life/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "Ōura challenges the one-size-fits-all idea of wellness by celebrating the many different ways people live their best lives. Instead of relying on AI-generated visuals, the campaign brings its message to life through a handcrafted miniature…",
+      "fullSummary": "Ōura challenges the one-size-fits-all idea of wellness by celebrating the many different ways people live their best lives. Instead of relying on AI-generated visuals, the campaign brings its message to life through a handcrafted miniature city in Prague, where real performers’ hands become the characters navigating everyday life. With intricate sets, tiny working details and […]",
+      "tags": [
+        "Advertising",
+        "AI",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "Advertising"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/oura-bts-7-750x536.webp",
+      "author": "René Kammersgaard",
+      "category": "Advertising",
+      "publishedAt": "2026-10-09T05:39:33Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-10T03:24:34Z",
+      "enrichAttempts": 0
+    },
+    {
       "id": "f0953bf0",
       "title": "Street Fighter picks a fight with London’s street signs",
       "url": "https://www.famouscampaigns.com/2026/10/street-fighter-picks-a-fight-with-londons-street-signs/",
@@ -84,7 +224,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A zenegenerátorok betanítását és a megnevezett művészek utánzását is engedélyhez kötné az Artisjus és az Előadóművészi Jogvédő Iroda (EJI) közös AI Manifesztója. A mai dalszerzők napjára időzített…",
-      "fullSummary": "A zenegenerátorok betanítását és a megnevezett művészek utánzását is engedélyhez kötné az Artisjus és az Előadóművészi Jogvédő Iroda (EJI) közös AI Manifesztója. A mai dalszerzők napjára időzített felhívás igazságos jövedelmezési rendszert és az emberi közreműködés átláthatóságát is sürgeti.",
+      "fullSummary": "A zenegenerátorok betanítását és a megnevezett művészek utánzását is engedélyhez kötné az Artisjus és az Előadóművészi Jogvédő Iroda (EJI) közös AI Manifesztója. A mai dalszerzők napjára időzített…",
       "tags": [
         "Artisjus",
         "Brody Janos",
@@ -101,7 +241,7 @@
         "eji",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/b/r/o/d/y/brody-janos-kredit-edocs-balint-bb-pictures-0-20261008-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/b/r/o/d/y/brody-janos-kredit-edocs-balint-bb-pictures-0-20261008-690-920-90-zc.webp",
       "author": "L. B.",
       "category": "",
       "publishedAt": "2026-10-08T15:10:00Z",
@@ -117,7 +257,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Az Indamedia közleményeben tudatta, hogy átalakul a cégcsoport vezetése. Starcz Ákos új feladatkörben folytatja, az Index.hu Zrt. vezérigazgatói feladatait Hont András veszi át. Az Index…",
-      "fullSummary": "Az Indamedia közleményeben tudatta, hogy átalakul a cégcsoport vezetése. Starcz Ákos új feladatkörben folytatja, az Index.hu Zrt. vezérigazgatói feladatait Hont András veszi át. Az Index főszerkesztője továbbra is Gedei Norbert marad.",
+      "fullSummary": "Az Indamedia közleményeben tudatta, hogy átalakul a cégcsoport vezetése. Starcz Ákos új feladatkörben folytatja, az Index.hu Zrt. vezérigazgatói feladatait Hont András veszi át. Az Index…",
       "tags": [
         "Vezetovaltas",
         "Indamedia",
@@ -130,7 +270,7 @@
         "indanext",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/3/3/9/7/6/339766330-527880186216514-766684283514361935-n-1-png-0-20261008-820-615-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/3/3/9/7/6/339766330-527880186216514-766684283514361935-n-1-png-0-20261008-462-75-617-90-zc.webp",
       "author": "Kreatív,Sz. Sz.",
       "category": "",
       "publishedAt": "2026-10-08T13:52:00Z",
@@ -171,7 +311,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Új ügyrendet fogadott el első ülésén a Polyák Gábor vezette Médiatanács: a név szerinti szavazási eredmények és a különvélemények is nyilvánosak lesznek. A testület a napirendjén szereplő lejáró…",
-      "fullSummary": "Új ügyrendet fogadott el első ülésén a Polyák Gábor vezette Médiatanács: a név szerinti szavazási eredmények és a különvélemények is nyilvánosak lesznek. A testület a napirendjén szereplő lejáró rádiós jogosultságokat egy évre újította meg, és bírságot szabott ki az RTL-re, valamint a Hír TV-re.",
+      "fullSummary": "Új ügyrendet fogadott el első ülésén a Polyák Gábor vezette Médiatanács: a név szerinti szavazási eredmények és a különvélemények is nyilvánosak lesznek. A testület a napirendjén szereplő lejáró…",
       "tags": [
         "Nmhh",
         "Mediatanacs",
@@ -200,7 +340,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Mit ér a virális videó, ha nem marad utána közösség, és mit számláz egy ügynökség, ha az AI felgyorsítja a munkáját? A The Good Persona által szervezett Community Culture eseményen a márkaépítés…",
-      "fullSummary": "Mit ér a virális videó, ha nem marad utána közösség, és mit számláz egy ügynökség, ha az AI felgyorsítja a munkáját? A The Good Persona által szervezett Community Culture eseményen a márkaépítés aktuális kérdései mellé a házigazdák olyan közeget is teremtettek, amelyben az előadások után valóban volt kedv és lehetőség beszélgetni.",
+      "fullSummary": "Mit ér a virális videó, ha nem marad utána közösség, és mit számláz egy ügynökség, ha az AI felgyorsítja a munkáját? A The Good Persona által szervezett Community Culture eseményen a márkaépítés…",
       "tags": [
         "Advertising",
         "AI",
@@ -226,7 +366,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Kreatív által 2009-ben indított Prizma PR-verseny a kiemelkedő hazai PR-megoldásokat ismeri el; idei két zsűrielnöke Híves Beáta, a Next9 Communications társalapítója és ügyvezető igazgatója,…",
-      "fullSummary": "A Kreatív által 2009-ben indított Prizma PR-verseny a kiemelkedő hazai PR-megoldásokat ismeri el; idei két zsűrielnöke Híves Beáta, a Next9 Communications társalapítója és ügyvezető igazgatója, valamint Horváth Magyary Voljč Nóra, a K&H Csoport kommunikációs ügyvezető igazgatója. A több mint húszéves kommunikációs tapasztalattal rendelkező ügynökségvezetőt és a K&H kommunikációját huszonnégy éve irányító szakembert arról kérdeztük, mitől…",
+      "fullSummary": "A Kreatív által 2009-ben indított Prizma PR-verseny a kiemelkedő hazai PR-megoldásokat ismeri el; idei két zsűrielnöke Híves Beáta, a Next9 Communications társalapítója és ügyvezető igazgatója,…",
       "tags": [
         "Prizma Kreativ PR Dij",
         "Verseny",
@@ -508,7 +648,7 @@
         "chatgpt",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/l/e/v/a/r/levart-photographer-7q-ke4szzvq-unsplash-2-0-20261007-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/l/e/v/a/r/levart-photographer-7q-ke4szzvq-unsplash-2-0-20261007-920-690-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-10-07T11:03:00Z",
@@ -543,7 +683,7 @@
         "pinter-dezso",
         "jo-reggelt-magyarorszag"
       ],
-      "image": "https://kreativ.hu/img-cache/p/i/n/t/e/pintes-dezso-tv2-0-20261007-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/p/i/n/t/e/pintes-dezso-tv2-0-20261007-920-690-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-10-07T10:08:00Z",
