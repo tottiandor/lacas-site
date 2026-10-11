@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-10T03:24:34Z",
-  "itemCount": 319,
+  "generatedAt": "2026-10-11T03:25:36Z",
+  "itemCount": 320,
   "sources": [
     {
       "id": "thedrum",
@@ -50,6 +50,41 @@
   ],
   "items": [
     {
+      "id": "a9f1e080",
+      "title": "A reklám- és médiaipar AI-megoldásait is várja a STRIX Award",
+      "url": "https://kreativ.hu/cikk/a-reklam-es-mediaipar-ai-megoldasait-is-varja-a-strix-award",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Idén második alkalommal érkezik a STRIX Award, a PPH Media mesterséges intelligenciával kapcsolatos hazai szakmai versenye. A reklám-, marketing- és médiaipari vállalkozások többek között AI-alapú…",
+      "fullSummary": "Idén második alkalommal érkezik a STRIX Award, a PPH Media mesterséges intelligenciával kapcsolatos hazai szakmai versenye. A reklám-, marketing- és médiaipari vállalkozások többek között AI-alapú kreatívgyártási, médiatervezési, marketing-automatizációs és ügyfélkommunikációs megoldásokkal nevezhetnek. Az első nevezési határidő november 16., a végső határidő november 26.",
+      "tags": [
+        "Advertising",
+        "Verseny",
+        "Media",
+        "Digitalis",
+        "Awards",
+        "AI"
+      ],
+      "rawTags": [
+        "reklam",
+        "verseny",
+        "media",
+        "digitalis",
+        "award",
+        "ai",
+        "strix-award",
+        "strix"
+      ],
+      "image": "https://kreativ.hu/img-cache/n/y/i/t/o/nyito2-0-20261010-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-10-10T07:22:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-11T03:25:36Z",
+      "enrichAttempts": 1
+    },
+    {
       "id": "02aeabd5",
       "title": "Alig érkezett panasz reklámokra Magyarországon – Európában viszont egyre több",
       "url": "https://kreativ.hu/cikk/alig-erkezett-panasz-reklamokra-magyarorszagon-europaban-viszont-egyre-tobb",
@@ -57,7 +92,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Több mint 55 ezer reklámpanaszt kezeltek 2025-ben az európai önszabályozó szervezetek, miközben jelentősen nőtt a reklámok előzetes véleményezése iránti igény. Magyarországon mindössze 15 fogyasztói…",
-      "fullSummary": "Több mint 55 ezer reklámpanaszt kezeltek 2025-ben az európai önszabályozó szervezetek, miközben jelentősen nőtt a reklámok előzetes véleményezése iránti igény. Magyarországon mindössze 15 fogyasztói panasz érkezett az Önszabályozó Reklám Testülethez (ÖRT), amely ugyanakkor az előzetes véleményezések számában az európai élmezőnybe tartozik.",
+      "fullSummary": "Több mint 55 ezer reklámpanaszt kezeltek 2025-ben az európai önszabályozó szervezetek, miközben jelentősen nőtt a reklámok előzetes véleményezése iránti igény. Magyarországon mindössze 15 fogyasztói…",
       "tags": [
         "Advertising",
         "Nmhh",
@@ -119,7 +154,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Öt dokumentumfilm és két animációs film gyártását támogatja a Nemzeti Filmintézet (NFI), összesen 124 millió forint értékben. A támogatott produkciók között az Artpool történetét, roma ökölvívók…",
-      "fullSummary": "Öt dokumentumfilm és két animációs film gyártását támogatja a Nemzeti Filmintézet (NFI), összesen 124 millió forint értékben. A támogatott produkciók között az Artpool történetét, roma ökölvívók életét és a Gestapo által kivégzett magyar futballedzők sorsát feldolgozó alkotások is szerepelnek.",
+      "fullSummary": "Öt dokumentumfilm és két animációs film gyártását támogatja a Nemzeti Filmintézet (NFI), összesen 124 millió forint értékben. A támogatott produkciók között az Artpool történetét, roma ökölvívók…",
       "tags": [
         "Film & TV",
         "Tevefilm",
@@ -376,7 +411,7 @@
         "prizma-kreativ-pr-dij",
         "verseny"
       ],
-      "image": "https://kreativ.hu/img-cache/p/r/i/z/m/prizma-poszt-1080x1080px-png-0-20261008-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/p/r/i/z/m/prizma-poszt-1080x1080px-png-0-20261008-609-812-90-zc.webp",
       "author": "Lakos Boglárka",
       "category": "",
       "publishedAt": "2026-10-08T07:24:00Z",
@@ -590,7 +625,7 @@
         "premier",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/s/z/g/-/6/szg-6038-0-20261007-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/s/z/g/-/6/szg-6038-0-20261007-920-690-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-10-07T11:58:00Z",
