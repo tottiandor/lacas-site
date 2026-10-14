@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-13T10:27:13Z",
-  "itemCount": 333,
+  "generatedAt": "2026-10-14T08:36:43Z",
+  "itemCount": 343,
   "sources": [
     {
       "id": "thedrum",
@@ -50,14 +50,287 @@
   ],
   "items": [
     {
+      "id": "1e159dd5",
+      "title": "M-lista pontokat is kapnak a díjazottak a 2026-os Év videós hirdetése versenyen",
+      "url": "https://kreativ.hu/cikk/iab-video-video-hirdetes-verseny-iab-hungary",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A versenyre elindult a nevezés: az elmúlt év legjobb videós hirdetéseit keresi az IAB Hungary.",
+      "fullSummary": "A versenyre elindult a nevezés: az elmúlt év legjobb videós hirdetéseit keresi az IAB Hungary.",
+      "tags": [
+        "Video",
+        "Verseny",
+        "Iab",
+        "Iab Hungary",
+        "Advertising",
+        "Media"
+      ],
+      "rawTags": [
+        "video",
+        "verseny",
+        "iab",
+        "iab-hungary",
+        "reklam",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/i/a/b/-/e/iab-ev-videos-hirdetese-verseny-2025-dijak-20261014-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-10-14T08:11:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-14T08:36:43Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "23713d89",
+      "title": "Túl a tárgyakon: a design társadalmi szerepét vizsgálja a MOME kiállítása",
+      "url": "https://kreativ.hu/cikk/tul-a-targyakon-mi-a-design-tarsadalmi-felelossege",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A tervezői gondolkodás lehetőségeivel, a design társadalmi szerepével foglalkozik a MOME hamarosan nyíló kiállítása.",
+      "fullSummary": "A tervezői gondolkodás lehetőségeivel, a design társadalmi szerepével foglalkozik a MOME hamarosan nyíló kiállítása.",
+      "tags": [
+        "Kiallitas",
+        "Design",
+        "Mome",
+        "Popkult"
+      ],
+      "rawTags": [
+        "kiallitas",
+        "design",
+        "mome",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/v/a/j/d/a/vajda-villo-20261014-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-10-14T07:20:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-14T08:36:43Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "150db343",
+      "title": "Közéleti műsorokkal indul a Népszabadság YouTube csatornája",
+      "url": "https://kreativ.hu/cikk/kozeleti-musorokkal-indul-a-nepszabadsag-youtube-csatornaja",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Három, heti rendszerességgel jelentkező közéleti műsor indul, melyek eltérő nézőpontból közelítenek a magyar közélethez.",
+      "fullSummary": "Három, heti rendszerességgel jelentkező közéleti műsor indul, melyek eltérő nézőpontból közelítenek a magyar közélethez.",
+      "tags": [
+        "Nepszabadsag",
+        "Social Media",
+        "Kozelet",
+        "Media"
+      ],
+      "rawTags": [
+        "nepszabadsag",
+        "youtube",
+        "kozelet",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/f/o/y/l/a/foylamatos-jelen-20261014-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-10-14T06:45:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-14T08:36:43Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "cac37371",
+      "title": "Oura skips AI to build a tiny city where hands do the walking",
+      "url": "https://www.famouscampaigns.com/2026/10/oura-skips-ai-to-build-a-tiny-city-where-hands-do-the-walking/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Oura has built a miniature city populated by walking, dancing hands for ‘Wear Your Best Life’, a brand campaign created with Nice+Frank to promote Oura Ring 5. The smart ring brand says it shunned AI in favour of handmade sets and…",
+      "fullSummary": "Oura has built a miniature city populated by walking, dancing hands for ‘Wear Your Best Life’, a brand campaign created with Nice+Frank to promote Oura Ring 5. The smart ring brand says it shunned AI in favour of handmade sets and practical effects, turning the close-up shots its product demands into the idea behind the […]",
+      "tags": [
+        "Advertising",
+        "Technology",
+        "AI",
+        "Branding",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "Advertising",
+        "Technology"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/10/The-Making-of-Ouras-Wear-Your-Best-Life.mp4",
+      "author": "Staff",
+      "category": "Advertising",
+      "publishedAt": "2026-10-13T16:46:05Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-14T08:36:43Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "239ec6d2",
+      "title": "Kiírták a pályázatot a közmédia vezérigazgatói posztjára",
+      "url": "https://kreativ.hu/cikk/kiirtak-a-palyazatot-a-kozmedia-vezerigazgatoi-posztjara",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A pályázatok benyújtási határideje november 12-e éjfél.",
+      "fullSummary": "A pályázatok benyújtási határideje november 12-e éjfél.",
+      "tags": [
+        "Film & TV",
+        "Awards",
+        "Magyar Radio",
+        "Vezerigazgato",
+        "Kiiras",
+        "Fuggetlen Kozmedia Testulet"
+      ],
+      "rawTags": [
+        "televizio",
+        "palyazat",
+        "magyar-radio",
+        "vezerigazgato",
+        "kiiras",
+        "fuggetlen-kozmedia-testulet",
+        "fkt",
+        "nyilt"
+      ],
+      "image": "https://kreativ.hu/img-cache/f/u/g/g/e/fuggetlen-kozmedia-testulet-fkt-logo-cimlapra-v2-20261013-673-504-75-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-10-13T15:17:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-14T08:36:43Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "5b35083d",
+      "title": "A feat., a DDB, a Mito és a Publicis a jubileumi Effie élmezőnyében",
+      "url": "https://kreativ.hu/cikk/ime-a-jubileumi-effie-shortlistje-1",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Idén 25 éves a Reklám Világszövetség (IAA) Magyarországi Tagozata és a Magyarországi Kommunikációs Ügynökségek Szövetsége (MAKSZ) által szervezett hazai Effie. Ezúttal 49 sikeres pályamű szerepel a…",
+      "fullSummary": "Idén 25 éves a Reklám Világszövetség (IAA) Magyarországi Tagozata és a Magyarországi Kommunikációs Ügynökségek Szövetsége (MAKSZ) által szervezett hazai Effie. Ezúttal 49 sikeres pályamű szerepel a listán, a Célzott marketing / Youth engagement kategóriákban jutott be a legtöbb shortlistes alkotás.",
+      "tags": [
+        "Maksz",
+        "Awards",
+        "Nemzetkozi Reklamszovetseg",
+        "Advertising",
+        "Media",
+        "Agencies"
+      ],
+      "rawTags": [
+        "maksz",
+        "effie",
+        "nemzetkozi-reklamszovetseg",
+        "reklam",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/e/f/f/i/e/effie-dij-logo-szalcsiszolt-femen-png-0-20261014-690-920-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-10-13T13:31:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-14T08:36:43Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "ff2cd4ff",
+      "title": "Australian campaign imagines life without migrant workers",
+      "url": "https://www.famouscampaigns.com/2026/10/australian-campaign-imagines-life-without-migrant-workers/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Hospitality NT, the industry body representing pubs, restaurants and hotels in Australia’s Northern Territory, has released a satirical video imagining how hospitality and care services would cope without migrant workers. Shared on…",
+      "fullSummary": "Hospitality NT, the industry body representing pubs, restaurants and hotels in Australia’s Northern Territory, has released a satirical video imagining how hospitality and care services would cope without migrant workers. Shared on Instagram, the A.I film turns a political debate into a simple question: what happens when the people doing these jobs are no longer […]",
+      "tags": [
+        "Cause Related",
+        "PR",
+        "Campaigns",
+        "Food & Drink"
+      ],
+      "rawTags": [
+        "Cause Related",
+        "PR"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/10/hospitality-NT-1.mp4",
+      "author": "Staff",
+      "category": "Cause Related",
+      "publishedAt": "2026-10-13T12:32:47Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-14T08:36:43Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "470d0bd2",
+      "title": "Nevet vált a FILMBOX+ csatornákat üzemeltető SPI International",
+      "url": "https://kreativ.hu/cikk/nevet-valt-a-filmbox-csatornakat-uzemelteto-spi-international",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Új néven működik tovább a Magyarországon is elérhető FILMBOX+ filmcsatornák és a FILMBOX+ Stream streamingszolgáltatás üzemeltetője, az SPI International. A CANAL+ csoporthoz tartozó médiavállalat új…",
+      "fullSummary": "Új néven működik tovább a Magyarországon is elérhető FILMBOX+ filmcsatornák és a FILMBOX+ Stream streamingszolgáltatás üzemeltetője, az SPI International. A CANAL+ csoporthoz tartozó médiavállalat új neve CANAL+ CONTENT Benelux & Central Europe.",
+      "tags": [
+        "Canal",
+        "Filmbox",
+        "Spi International",
+        "Filmcsatorna",
+        "Media",
+        "Popkult"
+      ],
+      "rawTags": [
+        "canal",
+        "filmbox",
+        "spi-international",
+        "filmcsatorna",
+        "media",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/c/a/n/a/l/canal-20261013-225-75-301-90-zc.webp",
+      "author": "S. D.",
+      "category": "",
+      "publishedAt": "2026-10-13T11:48:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-14T08:36:43Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "6467b487",
+      "title": "Sorszámért játszmáznak a Katona József Színház karakterei",
+      "url": "https://kreativ.hu/cikk/sorszamert-jatszmaznak-a-katona-jozsef-szinhaz-karakterei",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Katona és a Telekom együttműködésének első fejezetében Rujder Vivien, Tasnádi Bence és Elek Ferenc egészen szokatlan helyen tűnik fel.",
+      "fullSummary": "A Katona és a Telekom együttműködésének első fejezetében Rujder Vivien, Tasnádi Bence és Elek Ferenc egészen szokatlan helyen tűnik fel.",
+      "tags": [
+        "Telekom",
+        "Katona Jozsef Szinhaz",
+        "Advertising"
+      ],
+      "rawTags": [
+        "telekom",
+        "katona-jozsef-szinhaz",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/k/a/t/o/n/katona-telekom-2-png-20261013-549-75-733-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-10-13T10:39:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-14T08:36:43Z",
+      "enrichAttempts": 1
+    },
+    {
       "id": "2bdb2428",
-      "title": "Rangos nemzetközi elismerést kapott a Rothman & Roman és egyik alapítója Balatoni Zsófia",
+      "title": "Rangos nemzetközi elismerést kapott a Rothman, és annak egyik alapítója, Balatoni Zsófia",
       "url": "https://kreativ.hu/cikk/rangos-nemzetkozi-elismeres-a-rothman-roman-ugynoksegnek-es-egyik-alapitojanak-balatoni-zsofianak",
       "source": "kreativ",
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Először szerepel magyar tulajdonú ügynökség a világ 300 legnagyobb PR-cége között: a Rothman & Roman felkerült a PRovoke Media Global Top 300 rangsorára. Balatoni Zsófia, a csoport társalapítója…",
-      "fullSummary": "Először szerepel magyar tulajdonú ügynökség a világ 300 legnagyobb PR-cége között: a Rothman & Roman felkerült a PRovoke Media Global Top 300 rangsorára. Balatoni Zsófia, a csoport társalapítója és stratégiai igazgatója pedig felkerült a Campaign Asia-Pacific Women to Watch 2026 nyertesei közé.",
+      "fullSummary": "Először szerepel magyar tulajdonú ügynökség a világ 300 legnagyobb PR-cége között: a Rothman & Roman felkerült a PRovoke Media Global Top 300 rangsorára. Balatoni Zsófia, a csoport társalapítója…",
       "tags": [
         "Advertising",
         "Media",
@@ -67,7 +340,7 @@
         "reklam",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/b/a/l/a/t/balatoni-zsofia-1-20261013-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/b/a/l/a/t/balatoni-zsofia-1-20261013-690-920-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-10-13T09:15:00Z",
@@ -139,7 +412,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A 41. héten alaposan átalakult a legnézettebb műsorok toplistája: a 18-59-es korcsoportban az X-Faktor első helyre került, de a héten elindult Álarcos énekes és Az Árulók – Gyilkosság a kastélyban is…",
-      "fullSummary": "A 41. héten alaposan átalakult a legnézettebb műsorok toplistája: a 18-59-es korcsoportban az X-Faktor első helyre került, de a héten elindult Álarcos énekes és Az Árulók – Gyilkosság a kastélyban is sok nézőt vonzott be. A Celeb vagyok, ments ki innen! és a Farm VIP fináléja viszont a top 10-be se került be.",
+      "fullSummary": "A 41. héten alaposan átalakult a legnézettebb műsorok toplistája: a 18-59-es korcsoportban az X-Faktor első helyre került, de a héten elindult Álarcos énekes és Az Árulók – Gyilkosság a kastélyban is…",
       "tags": [
         "Tv2",
         "Nezettseg",
@@ -152,7 +425,7 @@
         "rtl",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/s/z/g/-/4/szg-4210-0-20261012-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/s/z/g/-/4/szg-4210-0-20261012-690-920-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-10-13T07:38:00Z",
@@ -168,7 +441,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Kiírta a Nemzeti Filmintézet az Inkubátor Program gyártási pályázatát, amely a nyertes filmtervek gyártására a játékfilmeknél 135 millió, a dokumentumfilmeknél 40 millió forintig nyújt…",
-      "fullSummary": "Kiírta a Nemzeti Filmintézet az Inkubátor Program gyártási pályázatát, amely a nyertes filmtervek gyártására a játékfilmeknél 135 millió, a dokumentumfilmeknél 40 millió forintig nyújt támogatást. Azok is indulhatnak, akik a korábbi években nyertek ugyan, de mégsem pályázhattak.",
+      "fullSummary": "Kiírta a Nemzeti Filmintézet az Inkubátor Program gyártási pályázatát, amely a nyertes filmtervek gyártására a játékfilmeknél 135 millió, a dokumentumfilmeknél 40 millió forintig nyújt…",
       "tags": [
         "Tamogatas",
         "Film & TV",
@@ -184,7 +457,7 @@
         "nemzeti-filmintezet",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/n/f/i/-/l/nfi-logo-20261013-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/n/f/i/-/l/nfi-logo-20261013-549-75-733-90-zc.webp",
       "author": "S. D.",
       "category": "",
       "publishedAt": "2026-10-13T07:18:00Z",
@@ -200,7 +473,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Társadalmi szükségletből értékteremtés – Impact Branding az ELTE Társadalomtudományi Karán indul az új képzés, amely az üzleti célok és a társadalmi értékteremtés összekapcsolására készíti fel a…",
-      "fullSummary": "Társadalmi szükségletből értékteremtés – Impact Branding az ELTE Társadalomtudományi Karán indul az új képzés, amely az üzleti célok és a társadalmi értékteremtés összekapcsolására készíti fel a résztvevő szakembereket.",
+      "fullSummary": "Társadalmi szükségletből értékteremtés – Impact Branding az ELTE Társadalomtudományi Karán indul az új képzés, amely az üzleti célok és a társadalmi értékteremtés összekapcsolására készíti fel a…",
       "tags": [
         "Marketing",
         "Elte",
@@ -254,6 +527,35 @@
       "publishedAt": "2026-10-12T15:08:00Z",
       "datePrecise": true,
       "firstSeenAt": "2026-10-13T10:27:13Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "7de22d35",
+      "title": "Szerdától új elnöke lesz a Magyar PR Szövetségnek",
+      "url": "https://kreativ.hu/cikk/mprsz-tisztujitas-elnok-szovetseg-pr-kozgyules-2026",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Az idén 35 éves Magyar PR Szövetség (MPRSZ) október 14-én, szerda délután tartja tisztújító közgyűlését. A közgyűlésre kiemelt figyelem irányul a tavasszal nyilvánosságra kerülő, meglehetősen éles…",
+      "fullSummary": "Az idén 35 éves Magyar PR Szövetség (MPRSZ) október 14-én, szerda délután tartja tisztújító közgyűlését. A közgyűlésre kiemelt figyelem irányul a tavasszal nyilvánosságra kerülő, meglehetősen éles viták, az MPRSZ vezetését ért szakmai kritikák után, melyeket egy szakszövetség életében akár viharosnak is nevezhető események követtek, lemondott egy elnökségi tag, később a főtitkár is távozott. Ennek ellenére az őszi közgyűlésen nem számítanak…",
+      "tags": [
+        "Mprsz",
+        "PR Szovetseg",
+        "Advertising",
+        "Media"
+      ],
+      "rawTags": [
+        "mprsz",
+        "pr-szovetseg",
+        "reklam",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/t/i/s/z/t/tisztujitas-2026-png-0-20261013-920-690-90-zc.webp",
+      "author": "Sz. Sz.,S. D.",
+      "category": "",
+      "publishedAt": "2026-10-12T13:52:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-14T08:36:43Z",
       "enrichAttempts": 1
     },
     {
