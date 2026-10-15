@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-14T08:36:43Z",
-  "itemCount": 343,
+  "generatedAt": "2026-10-15T08:12:28Z",
+  "itemCount": 348,
   "sources": [
     {
       "id": "thedrum",
@@ -49,6 +49,150 @@
     }
   ],
   "items": [
+    {
+      "id": "d197f954",
+      "title": "The Famous Q&A with ~ Noel Mack",
+      "url": "https://www.famouscampaigns.com/2026/10/the-famous-qa-with-noel-mack/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Noel Mack is Chief Brand Officer at Gymshark, where he leads global brand marketing, creative and cultural strategy. Known for his bold, community-first approach, Noel has helped transform Gymshark from a Birmingham garage start-up into a…",
+      "fullSummary": "Noel Mack is Chief Brand Officer at Gymshark, where he leads global brand marketing, creative and cultural strategy. Known for his bold, community-first approach, Noel has helped transform Gymshark from a Birmingham garage start-up into a billion-dollar global brand, championing creativity, cultural relevance and an uncompromising commitment to gym culture. Gymshark has launched a campaign […]",
+      "tags": [
+        "The Famous Q&A",
+        "Branding",
+        "Strategy"
+      ],
+      "rawTags": [
+        "The Famous Q&A"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/10/gymshark-megan.mp4",
+      "author": "James Herring",
+      "category": "The Famous Q&A",
+      "publishedAt": "2026-10-14T16:18:26Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-15T08:12:28Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "fa7f7931",
+      "title": "A Google végre megmutatta, hogyan néz ki hátulról egy emoji",
+      "url": "https://kreativ.hu/cikk/a-google-vegre-megmutatta-hogyan-nez-ki-hatulrol-egy-emoji",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A háromdimenziós emojik újratervezése közben a Google dizájnerei egy meglepő kérdéssel szembesültek: vajon hogyan néz ki hátulról egy mosolygó fej? A cég egy humoros illusztrációval válaszolt,…",
+      "fullSummary": "A háromdimenziós emojik újratervezése közben a Google dizájnerei egy meglepő kérdéssel szembesültek: vajon hogyan néz ki hátulról egy mosolygó fej? A cég egy humoros illusztrációval válaszolt, miközben közel négyezer emojit alakított át 3D-s figurává.",
+      "tags": [
+        "3d",
+        "Google",
+        "Humor",
+        "Emoji",
+        "Media",
+        "Design"
+      ],
+      "rawTags": [
+        "3d",
+        "google",
+        "humor",
+        "emoji",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/e/m/o/j/i/emoji-3d-v4-20261014-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-10-14T14:30:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-15T08:12:28Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "62204fcd",
+      "title": "Corona Cero launches a seven-pack",
+      "url": "https://www.famouscampaigns.com/2026/10/corona-cero-launches-a-seven-pack/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Corona Cero has created a seven-pack of its alcohol-free beer, tackling a problem nobody was particularly worried about: seven days in a week, but only six beers in a standard pack. Developed with Wieden+Kennedy Amsterdam, the…",
+      "fullSummary": "Corona Cero has created a seven-pack of its alcohol-free beer, tackling a problem nobody was particularly worried about: seven days in a week, but only six beers in a standard pack. Developed with Wieden+Kennedy Amsterdam, the limited-edition pack gives drinkers one 0.0% beer for each day of the week. The premise is deliberately slight, turning […]",
+      "tags": [
+        "Food & Drink",
+        "Packaging"
+      ],
+      "rawTags": [
+        "Food & Drink",
+        "Packaging"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/10/Corona-7-Pack-Hero-Film.mp4",
+      "author": "Staff",
+      "category": "Food & Drink",
+      "publishedAt": "2026-10-14T12:32:37Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-15T08:12:28Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "1be34e3f",
+      "title": "Az FKT elnöke: „Olyan közmédiát szeretnénk, amely színes, korszerű, érdekes és egyben fenntartható”",
+      "url": "https://kreativ.hu/cikk/fkt-fuggetlen-kozmedia-testulet-bayer-judit-elnok-hargitai-miklos-tag-sajtotajekoztato-kozmedia-mti-tv-radio",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "„Célunk egy olyan magyar közmédia létrejöttének elősegítése, amilyen korábban még nem volt Magyarországon” – hangzott el a Független Közmédia Testület szerdai sajtótájékoztatóján, ahol megtudhattuk,…",
+      "fullSummary": "„Célunk egy olyan magyar közmédia létrejöttének elősegítése, amilyen korábban még nem volt Magyarországon” – hangzott el a Független Közmédia Testület szerdai sajtótájékoztatóján, ahol megtudhattuk, mit várnak a közmédia új vezérigazgatójától. Az MTI vezérigazgatói pályázatát várhatóan egy héten belül szintén kiírja az FKT.",
+      "tags": [
+        "Film & TV",
+        "Radio",
+        "Elnok",
+        "Sajtotajekoztato",
+        "Mti",
+        "Kozmedia"
+      ],
+      "rawTags": [
+        "tv",
+        "radio",
+        "elnok",
+        "sajtotajekoztato",
+        "mti",
+        "kozmedia",
+        "tag",
+        "hargitai-miklos"
+      ],
+      "image": "https://kreativ.hu/img-cache/i/m/g/-/2/img-20261014-100606-0-20261014-920-690-90-zc.webp",
+      "author": "Tiszóczi Roland",
+      "category": "",
+      "publishedAt": "2026-10-14T10:42:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-15T08:12:28Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "6163b559",
+      "title": "Women labelled ‘33% OFF’ in campaign exposing pension gap",
+      "url": "https://www.famouscampaigns.com/2026/10/women-labelled-33-off-in-campaign-exposing-pension-gap/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Pregnant Then Screwed, a UK charity campaigning against discrimination faced by mothers, is putting giant neon “33% OFF” labels on women to highlight the pension gap between men and women. ‘Thanks for your service*’ borrows the visual…",
+      "fullSummary": "Pregnant Then Screwed, a UK charity campaigning against discrimination faced by mothers, is putting giant neon “33% OFF” labels on women to highlight the pension gap between men and women. ‘Thanks for your service*’ borrows the visual language of clearance sales to make a point about how society values mothers. The charity says women end […]",
+      "tags": [
+        "Cause Related",
+        "OOH",
+        "Campaigns",
+        "Health"
+      ],
+      "rawTags": [
+        "Cause Related",
+        "OOH"
+      ],
+      "image": null,
+      "author": "James Herring",
+      "category": "Cause Related",
+      "publishedAt": "2026-10-14T08:56:13Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-15T08:12:28Z",
+      "enrichAttempts": 0
+    },
     {
       "id": "1e159dd5",
       "title": "M-lista pontokat is kapnak a díjazottak a 2026-os Év videós hirdetése versenyen",
@@ -211,7 +355,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Idén 25 éves a Reklám Világszövetség (IAA) Magyarországi Tagozata és a Magyarországi Kommunikációs Ügynökségek Szövetsége (MAKSZ) által szervezett hazai Effie. Ezúttal 49 sikeres pályamű szerepel a…",
-      "fullSummary": "Idén 25 éves a Reklám Világszövetség (IAA) Magyarországi Tagozata és a Magyarországi Kommunikációs Ügynökségek Szövetsége (MAKSZ) által szervezett hazai Effie. Ezúttal 49 sikeres pályamű szerepel a listán, a Célzott marketing / Youth engagement kategóriákban jutott be a legtöbb shortlistes alkotás.",
+      "fullSummary": "Idén 25 éves a Reklám Világszövetség (IAA) Magyarországi Tagozata és a Magyarországi Kommunikációs Ügynökségek Szövetsége (MAKSZ) által szervezett hazai Effie. Ezúttal 49 sikeres pályamű szerepel a…",
       "tags": [
         "Maksz",
         "Awards",
@@ -270,7 +414,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Új néven működik tovább a Magyarországon is elérhető FILMBOX+ filmcsatornák és a FILMBOX+ Stream streamingszolgáltatás üzemeltetője, az SPI International. A CANAL+ csoporthoz tartozó médiavállalat új…",
-      "fullSummary": "Új néven működik tovább a Magyarországon is elérhető FILMBOX+ filmcsatornák és a FILMBOX+ Stream streamingszolgáltatás üzemeltetője, az SPI International. A CANAL+ csoporthoz tartozó médiavállalat új neve CANAL+ CONTENT Benelux & Central Europe.",
+      "fullSummary": "Új néven működik tovább a Magyarországon is elérhető FILMBOX+ filmcsatornák és a FILMBOX+ Stream streamingszolgáltatás üzemeltetője, az SPI International. A CANAL+ csoporthoz tartozó médiavállalat új…",
       "tags": [
         "Canal",
         "Filmbox",
@@ -537,7 +681,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Az idén 35 éves Magyar PR Szövetség (MPRSZ) október 14-én, szerda délután tartja tisztújító közgyűlését. A közgyűlésre kiemelt figyelem irányul a tavasszal nyilvánosságra kerülő, meglehetősen éles…",
-      "fullSummary": "Az idén 35 éves Magyar PR Szövetség (MPRSZ) október 14-én, szerda délután tartja tisztújító közgyűlését. A közgyűlésre kiemelt figyelem irányul a tavasszal nyilvánosságra kerülő, meglehetősen éles viták, az MPRSZ vezetését ért szakmai kritikák után, melyeket egy szakszövetség életében akár viharosnak is nevezhető események követtek, lemondott egy elnökségi tag, később a főtitkár is távozott. Ennek ellenére az őszi közgyűlésen nem számítanak…",
+      "fullSummary": "Az idén 35 éves Magyar PR Szövetség (MPRSZ) október 14-én, szerda délután tartja tisztújító közgyűlését. A közgyűlésre kiemelt figyelem irányul a tavasszal nyilvánosságra kerülő, meglehetősen éles…",
       "tags": [
         "Mprsz",
         "PR Szovetseg",
@@ -583,7 +727,7 @@
         "allamfo",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/s/a/n/d/o/sandorpalota1-0-20261012-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/s/a/n/d/o/sandorpalota1-0-20261012-920-690-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-10-12T11:11:00Z",
@@ -2019,7 +2163,7 @@
         "grosz-judit",
         "fuggetlen-kozmedia-testulet"
       ],
-      "image": "https://kreativ.hu/img-cache/s/z/r/4/5/szr4564-0-20261005-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/s/z/r/4/5/szr4564-0-20261008-920-690-90-zc.webp",
       "author": "Tiszóczi Roland",
       "category": "",
       "publishedAt": "2026-10-05T08:25:00Z",
