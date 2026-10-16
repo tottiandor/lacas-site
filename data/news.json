@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-15T08:12:28Z",
-  "itemCount": 348,
+  "generatedAt": "2026-10-16T08:05:08Z",
+  "itemCount": 355,
   "sources": [
     {
       "id": "thedrum",
@@ -50,6 +50,231 @@
   ],
   "items": [
     {
+      "id": "0de73f0d",
+      "title": "MediaScan néven indult ingyenes, reklámmentes magyar sajtófigyelő",
+      "url": "https://kreativ.hu/cikk/mediascan-sajtofigyelo-nonprofit",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Személyre szabható hírfolyammal, keresési és szűrési lehetőségekkel, valamint a sajtótermékek politikai és tulajdonosi hátterét bemutató információkkal indult el a MediaScan.hu ingyenes, reklámmentes…",
+      "fullSummary": "Személyre szabható hírfolyammal, keresési és szűrési lehetőségekkel, valamint a sajtótermékek politikai és tulajdonosi hátterét bemutató információkkal indult el a MediaScan.hu ingyenes, reklámmentes sajtófigyelő, amely a hazai szerkesztőségek nyilvánosan elérhető tartalmait gyűjti össze egyetlen felületen.",
+      "tags": [
+        "Nonprofit",
+        "Mediascan",
+        "Sajtofigyelo",
+        "Advertising",
+        "Media",
+        "Politics"
+      ],
+      "rawTags": [
+        "nonprofit",
+        "mediascan",
+        "sajtofigyelo",
+        "reklam",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/e/d/i/a/mediascan-logo-2-20261015-441-330-75-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-10-15T13:54:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-16T08:05:08Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "a2a85006",
+      "title": "Új tartalmakkal bővül a kétéves 24 Extra",
+      "url": "https://kreativ.hu/cikk/24-hu-elofizetes-24-extra-central-mediacsoport-bovul",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Central Médiacsoport további márkáinak kiemelt cikkei, új podcastok és közönségtalálkozók is színesítik a 24.hu előfizetéses szolgáltatását, amely második születésnapját ünnepli.",
+      "fullSummary": "A Central Médiacsoport további márkáinak kiemelt cikkei, új podcastok és közönségtalálkozók is színesítik a 24.hu előfizetéses szolgáltatását, amely második születésnapját ünnepli.",
+      "tags": [
+        "Elofizetes",
+        "Central Mediacsoport",
+        "24 Hu",
+        "24 Extra",
+        "Bovul",
+        "Media"
+      ],
+      "rawTags": [
+        "elofizetes",
+        "central-mediacsoport",
+        "24-hu",
+        "24-extra",
+        "bovul",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/2/4/-/e/x/24-extra-image-png-0-20261015-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-10-15T12:27:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-16T08:05:08Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "093c5f82",
+      "title": "Szántó Balázs az MPRSZ új elnöke",
+      "url": "https://kreativ.hu/cikk/mprsz-tisztsegviselok-tiszujitas-2026",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Az idén 35 éves Magyar PR Szövetség (MPRSZ) megtartotta tisztújítását október 14-én és döntött a 2026-2029-es ciklusról.",
+      "fullSummary": "Az idén 35 éves Magyar PR Szövetség (MPRSZ) megtartotta tisztújítását október 14-én és döntött a 2026-2029-es ciklusról.",
+      "tags": [
+        "Elnok",
+        "Mprsz",
+        "Elnokseg",
+        "Media"
+      ],
+      "rawTags": [
+        "elnok",
+        "mprsz",
+        "elnokseg",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/s/z/a/n/t/szanto-balazs-20261015-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-10-15T12:19:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-16T08:05:08Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "e40b3a9b",
+      "title": "Az arc az enyém, a beállítás a fotósé, a portré a munkáltatóé?",
+      "url": "https://kreativ.hu/cikk/foto-portre-szerzoi-jog-szemelyisegi-jog-felhasznalas",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Ki rendelkezhet egy munkavállalóról készült professzionális portréfotóval a vaku villanása után? A kérdés elsőre egyszerűnek tűnhet, különösen akkor, ha a fotózást a munkáltató rendelte meg és…",
+      "fullSummary": "Ki rendelkezhet egy munkavállalóról készült professzionális portréfotóval a vaku villanása után? A kérdés elsőre egyszerűnek tűnhet, különösen akkor, ha a fotózást a munkáltató rendelte meg és finanszírozta. A helyzet azonban ennél összetettebb: ugyanahhoz a fényképhez szerzői jogi és személyiségi jogi jogosultságok is kapcsolódnak, amelyek nem feltétlenül ugyanazt a személyt illetik meg. A kérdés különösen a munkaviszony megszűnésekor válhat…",
+      "tags": [
+        "Photography",
+        "Szerzoi Jog",
+        "Portre",
+        "Felhasznalas",
+        "Szemelyisegi Jog",
+        "Advertising"
+      ],
+      "rawTags": [
+        "foto",
+        "szerzoi-jog",
+        "portre",
+        "felhasznalas",
+        "szemelyisegi-jog",
+        "reklam",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/i/l/b/h/ailbhe-flynn-jkzs3oi9pq0-unsplash-0-20261015-920-690-90-zc.webp",
+      "author": "Kristóf Patrícia",
+      "category": "",
+      "publishedAt": "2026-10-15T10:55:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-16T08:05:08Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "01395151",
+      "title": "Nemcsak meghallják, el is hiszik: így győzi le a rádió a reklámzajt",
+      "url": "https://kreativ.hu/cikk/nagy-radios-nap-marketingkommunikacio-konferencia",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Idén ötödik alkalommal rendezte meg a MiértRádió? iparági összefogás a Nagy Rádiós Napot, ahol médiaszakemberek, marketingvezetők és egyetemi előadók beszéltek arról, hogy a rádió továbbra sem…",
+      "fullSummary": "Idén ötödik alkalommal rendezte meg a MiértRádió? iparági összefogás a Nagy Rádiós Napot, ahol médiaszakemberek, marketingvezetők és egyetemi előadók beszéltek arról, hogy a rádió továbbra sem halott, köszöni szépen, jól van, valamint felhívták a figyelmet a médiatípusban rejlő marketingkommunikációs potenciálra.",
+      "tags": [
+        "Radio",
+        "Marketingkommunikacio",
+        "Nagy Radios Nap",
+        "Advertising",
+        "Media"
+      ],
+      "rawTags": [
+        "radio",
+        "marketingkommunikacio",
+        "nagy-radios-nap",
+        "reklam",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/p/e/x/e/l/pexels-sami-aksu-48867324-17872334-0-20261015-920-690-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-10-15T10:03:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-16T08:05:08Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "96de6059",
+      "title": "Több mint 7 millió forintot érhet MrBeast tíz perc alatt készült logóvázlata",
+      "url": "https://kreativ.hu/cikk/mrbeast-logo-logoterv-arveres",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Akár 20 ezer dollárért, vagyis több mint 7 millió forintért is elkelhet MrBeast ikonikus nagymacskás logójának eredeti, 2018-ban készült ceruzarajza. A mindössze tíz perc alatt elkészített vázlatot…",
+      "fullSummary": "Akár 20 ezer dollárért, vagyis több mint 7 millió forintért is elkelhet MrBeast ikonikus nagymacskás logójának eredeti, 2018-ban készült ceruzarajza. A mindössze tíz perc alatt elkészített vázlatot október végén árverezik el, a vevő azonban csak a papírlapot szerezheti meg, a logóhoz kapcsolódó szellemi tulajdonjogokat nem.",
+      "tags": [
+        "Arveres",
+        "Branding",
+        "Logoterv",
+        "Mrbeast",
+        "Popkult"
+      ],
+      "rawTags": [
+        "arveres",
+        "logo",
+        "logoterv",
+        "mrbeast",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/r/b/e/a/mrbeast-logo-arveres-2-20261015-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-10-15T09:41:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-16T08:05:08Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "0848d27f",
+      "title": "24.hu: Kert Attila pályázna a közmédia élére, Szabó Stein Imre és Weyer Balázs még mérlegel",
+      "url": "https://kreativ.hu/cikk/kozmedia-radio-televizio-vezerigazgato-palyazat-jelolt-eselylatolgatas",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Kert Attila, Szabó Stein Imre és Weyer Balázs is szóba került a 24.hu cikkében a megújuló közmédia vezérigazgatói posztjára aspiránsként, de egyelőre csak az Euronews magyar irodájának vezetője…",
+      "fullSummary": "Kert Attila, Szabó Stein Imre és Weyer Balázs is szóba került a 24.hu cikkében a megújuló közmédia vezérigazgatói posztjára aspiránsként, de egyelőre csak az Euronews magyar irodájának vezetője jelezte, hogy nagy valószínűséggel beadja pályázatát. Bárdos András nem indul, Nagy Iván Zsolt, a HVG, a Blikk és a Kreatív korábbi főszerkesztője pedig televíziós tapasztalat hiányában nem pályázik, noha régóta szeretne részt venni a közmédia…",
+      "tags": [
+        "Film & TV",
+        "Awards",
+        "Radio",
+        "Vezerigazgato",
+        "Kozmedia",
+        "Eselylatolgatas"
+      ],
+      "rawTags": [
+        "televizio",
+        "palyazat",
+        "radio",
+        "vezerigazgato",
+        "kozmedia",
+        "eselylatolgatas",
+        "jelolt",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/t/v/a/-/mtva-0-20261015-690-920-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-10-15T08:40:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-16T08:05:08Z",
+      "enrichAttempts": 1
+    },
+    {
       "id": "d197f954",
       "title": "The Famous Q&A with ~ Noel Mack",
       "url": "https://www.famouscampaigns.com/2026/10/the-famous-qa-with-noel-mack/",
@@ -82,7 +307,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A háromdimenziós emojik újratervezése közben a Google dizájnerei egy meglepő kérdéssel szembesültek: vajon hogyan néz ki hátulról egy mosolygó fej? A cég egy humoros illusztrációval válaszolt,…",
-      "fullSummary": "A háromdimenziós emojik újratervezése közben a Google dizájnerei egy meglepő kérdéssel szembesültek: vajon hogyan néz ki hátulról egy mosolygó fej? A cég egy humoros illusztrációval válaszolt, miközben közel négyezer emojit alakított át 3D-s figurává.",
+      "fullSummary": "A háromdimenziós emojik újratervezése közben a Google dizájnerei egy meglepő kérdéssel szembesültek: vajon hogyan néz ki hátulról egy mosolygó fej? A cég egy humoros illusztrációval válaszolt,…",
       "tags": [
         "3d",
         "Google",
@@ -98,7 +323,7 @@
         "emoji",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/e/m/o/j/i/emoji-3d-v4-20261014-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/e/m/o/j/i/emoji-3d-v4-20261014-549-732-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-10-14T14:30:00Z",
@@ -139,7 +364,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "„Célunk egy olyan magyar közmédia létrejöttének elősegítése, amilyen korábban még nem volt Magyarországon” – hangzott el a Független Közmédia Testület szerdai sajtótájékoztatóján, ahol megtudhattuk,…",
-      "fullSummary": "„Célunk egy olyan magyar közmédia létrejöttének elősegítése, amilyen korábban még nem volt Magyarországon” – hangzott el a Független Közmédia Testület szerdai sajtótájékoztatóján, ahol megtudhattuk, mit várnak a közmédia új vezérigazgatójától. Az MTI vezérigazgatói pályázatát várhatóan egy héten belül szintén kiírja az FKT.",
+      "fullSummary": "„Célunk egy olyan magyar közmédia létrejöttének elősegítése, amilyen korábban még nem volt Magyarországon” – hangzott el a Független Közmédia Testület szerdai sajtótájékoztatóján, ahol megtudhattuk,…",
       "tags": [
         "Film & TV",
         "Radio",
@@ -158,7 +383,7 @@
         "tag",
         "hargitai-miklos"
       ],
-      "image": "https://kreativ.hu/img-cache/i/m/g/-/2/img-20261014-100606-0-20261014-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/i/m/g/-/2/img-20261014-100606-0-20261014-690-920-90-zc.webp",
       "author": "Tiszóczi Roland",
       "category": "",
       "publishedAt": "2026-10-14T10:42:00Z",
@@ -218,7 +443,7 @@
         "reklam",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/i/a/b/-/e/iab-ev-videos-hirdetese-verseny-2025-dijak-20261014-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/i/a/b/-/e/iab-ev-videos-hirdetese-verseny-2025-dijak-20261014-549-75-733-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-10-14T08:11:00Z",
@@ -247,7 +472,7 @@
         "mome",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/v/a/j/d/a/vajda-villo-20261014-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/v/a/j/d/a/vajda-villo-20261014-549-75-733-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-10-14T07:20:00Z",
@@ -276,7 +501,7 @@
         "kozelet",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/f/o/y/l/a/foylamatos-jelen-20261014-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/f/o/y/l/a/foylamatos-jelen-20261014-690-920-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-10-14T06:45:00Z",
@@ -371,7 +596,7 @@
         "reklam",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/e/f/f/i/e/effie-dij-logo-szalcsiszolt-femen-png-0-20261014-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/e/f/f/i/e/effie-dij-logo-szalcsiszolt-femen-png-0-20261014-920-690-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-10-13T13:31:00Z",
@@ -431,7 +656,7 @@
         "media",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/c/a/n/a/l/canal-20261013-225-75-301-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/c/a/n/a/l/canal-20261013-400-300-90-zc.webp",
       "author": "S. D.",
       "category": "",
       "publishedAt": "2026-10-13T11:48:00Z",
@@ -458,7 +683,7 @@
         "katona-jozsef-szinhaz",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/k/a/t/o/n/katona-telekom-2-png-20261013-549-75-733-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/k/a/t/o/n/katona-telekom-2-png-20261013-920-690-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-10-13T10:39:00Z",
