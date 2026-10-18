@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-17T07:42:48Z",
-  "itemCount": 363,
+  "generatedAt": "2026-10-18T07:57:25Z",
+  "itemCount": 364,
   "sources": [
     {
       "id": "thedrum",
@@ -49,6 +49,41 @@
     }
   ],
   "items": [
+    {
+      "id": "c6d69e94",
+      "title": "Mikor lesz a figyelemfelhívásból megtévesztés?",
+      "url": "https://kreativ.hu/cikk/rtl-gryllus-dorka-media-mediahekk-mprsz-wpp",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Egy megrendezett televíziós rosszulléttel akarta felhívni a figyelmet a menopauza tüneteire a dm, a WPP Media és az RTL közös akciója. A kampány kétségtelenül jelentős nyilvánosságot generált, de a…",
+      "fullSummary": "Egy megrendezett televíziós rosszulléttel akarta felhívni a figyelmet a menopauza tüneteire a dm, a WPP Media és az RTL közös akciója. A kampány kétségtelenül jelentős nyilvánosságot generált, de a nézők megtévesztése miatt komoly kritikákat is kapott. A szereplők közül az RTL elnézést kért, a dm sajnálatát fejezte ki, a Magyar PR Szövetség pedig elvi állásfoglalásban bírálta az akciót, szerintük ugyanis a társadalmilag hasznos cél sem jogosít…",
+      "tags": [
+        "Film & TV",
+        "PR",
+        "Media",
+        "Dm",
+        "Agencies",
+        "RTL"
+      ],
+      "rawTags": [
+        "tv",
+        "pr",
+        "media",
+        "dm",
+        "wpp",
+        "rtl",
+        "gryllus-dorka",
+        "mediahekk"
+      ],
+      "image": "https://kreativ.hu/img-cache/n/e/v/t/e/nevtelen-0-20261017-920-690-90-zc.webp",
+      "author": "Sz. Sz.",
+      "category": "",
+      "publishedAt": "2026-10-17T18:44:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-18T07:57:25Z",
+      "enrichAttempts": 1
+    },
     {
       "id": "3df6760a",
       "title": "Call of Duty — The Korean Alley",
@@ -107,7 +142,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Legfeljebb tíz-tíz szereplős keretmegállapodásokat készít elő a Nemzeti Kommunikációs Hivatal rendezvényszervezési, illetve kommunikációs és médiabeszerzési feladatokra. A tervek szerint a konkrét…",
-      "fullSummary": "Legfeljebb tíz-tíz szereplős keretmegállapodásokat készít elő a Nemzeti Kommunikációs Hivatal rendezvényszervezési, illetve kommunikációs és médiabeszerzési feladatokra. A tervek szerint a konkrét megbízásokért a keretbe bekerülő cégeknek újra versenyezniük kellene; a dokumentációról most a piaci szereplők véleményét is várják.",
+      "fullSummary": "Legfeljebb tíz-tíz szereplős keretmegállapodásokat készít elő a Nemzeti Kommunikációs Hivatal rendezvényszervezési, illetve kommunikációs és médiabeszerzési feladatokra. A tervek szerint a konkrét…",
       "tags": [
         "Kozbeszerzes",
         "Tenderkiiras",
@@ -139,7 +174,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Idén összesen 161 nevezés érkezett az RGB Kreatív Design Awardra, szokás szerint két csoportban: a Pro kategóriába az üzleti munkákat, a Talentbe a diákok nevezéseit vártuk. Szerdán mindkét zsűri…",
-      "fullSummary": "Idén összesen 161 nevezés érkezett az RGB Kreatív Design Awardra, szokás szerint két csoportban: a Pro kategóriába az üzleti munkákat, a Talentbe a diákok nevezéseit vártuk. Szerdán mindkét zsűri értékelte a beadott munkákat, így elkészült a két shortlist. Mutatjuk a Pro nevezéseket.",
+      "fullSummary": "Idén összesen 161 nevezés érkezett az RGB Kreatív Design Awardra, szokás szerint két csoportban: a Pro kategóriába az üzleti munkákat, a Talentbe a diákok nevezéseit vártuk. Szerdán mindkét zsűri…",
       "tags": [
         "Awards",
         "Rgb Kreativ Design Award",
@@ -171,7 +206,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Sisák Donát rendezte ROAR bekerült a Higgsfield Global Film Festival 126 döntős filmje közé. Az apa-lánya történetet feldolgozó kisfilm olyan versenyen szerepel, amelynek zsűrijében a Pixar…",
-      "fullSummary": "A Sisák Donát rendezte ROAR bekerült a Higgsfield Global Film Festival 126 döntős filmje közé. Az apa-lánya történetet feldolgozó kisfilm olyan versenyen szerepel, amelynek zsűrijében a Pixar társalapítója, Edwin Catmull és A holló rendezője, Alex Proyas is helyet kapott.",
+      "fullSummary": "A Sisák Donát rendezte ROAR bekerült a Higgsfield Global Film Festival 126 döntős filmje közé. Az apa-lánya történetet feldolgozó kisfilm olyan versenyen szerepel, amelynek zsűrijében a Pixar…",
       "tags": [
         "Kisfilm",
         "Filmverseny",
@@ -202,7 +237,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Idén 161 nevezés érkezett összesen az RGB Kreatív Design Awardra. Ahogy már megszokhattátok, ezúttal is két külön csoportban hirdettük meg az RGB-t: a Pro kategóriába az üzleti munkákat, a Talentbe a…",
-      "fullSummary": "Idén 161 nevezés érkezett összesen az RGB Kreatív Design Awardra. Ahogy már megszokhattátok, ezúttal is két külön csoportban hirdettük meg az RGB-t: a Pro kategóriába az üzleti munkákat, a Talentbe a diákok nevezéseit vártuk. Szerdán mindkét zsűri értékelte a beadott munkákat, így megszületett a két shortlist. Most a Talent nevezéseket mutatjuk.",
+      "fullSummary": "Idén 161 nevezés érkezett összesen az RGB Kreatív Design Awardra. Ahogy már megszokhattátok, ezúttal is két külön csoportban hirdettük meg az RGB-t: a Pro kategóriába az üzleti munkákat, a Talentbe a…",
       "tags": [
         "Awards",
         "Rgb Kreativ Design Award",
@@ -234,7 +269,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Október 16-án megjelent az újraindult Népszabadság első nyomtatott lapszáma, címlapján egy Ruff Bálinttal készült interjúval. A korábbi napilap online híroldalként és nyomtatott hetilapként tért…",
-      "fullSummary": "Október 16-án megjelent az újraindult Népszabadság első nyomtatott lapszáma, címlapján egy Ruff Bálinttal készült interjúval. A korábbi napilap online híroldalként és nyomtatott hetilapként tért vissza; az első számhoz a Népszava és a Szép Szó is önálló melléklettel csatlakozik.",
+      "fullSummary": "Október 16-án megjelent az újraindult Népszabadság első nyomtatott lapszáma, címlapján egy Ruff Bálinttal készült interjúval. A korábbi napilap online híroldalként és nyomtatott hetilapként tért…",
       "tags": [
         "Nepszabadsag",
         "Ujraindulas",
@@ -274,7 +309,7 @@
         "raw-agency",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/z/n/e/t/-/znet-osszefoglalo-1-0-20261016-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/z/n/e/t/-/znet-osszefoglalo-1-0-20261016-549-75-733-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-10-16T09:18:00Z",
@@ -464,7 +499,7 @@
         "mrbeast",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/m/r/b/e/a/mrbeast-logo-arveres-2-20261015-575-25-767-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/m/r/b/e/a/mrbeast-logo-arveres-2-20261015-920-690-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-10-15T09:41:00Z",
