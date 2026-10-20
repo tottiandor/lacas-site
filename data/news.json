@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-19T08:45:29Z",
-  "itemCount": 370,
+  "generatedAt": "2026-10-20T08:25:58Z",
+  "itemCount": 376,
   "sources": [
     {
       "id": "thedrum",
@@ -50,6 +50,181 @@
   ],
   "items": [
     {
+      "id": "73b42bb6",
+      "title": "Még mindig a Sztárban Sztár és a Házasság első látásra érdekli a legjobban az embereket – 42. heti nézettség",
+      "url": "https://kreativ.hu/cikk/nezettseg-42-het-rtl-tv2-sztarban-sztar",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Ismét a Sztárban Sztár és a Házasság első látásra volt a két legnézettebb műsor mindkét korcsoportban.",
+      "fullSummary": "Ismét a Sztárban Sztár és a Házasság első látásra volt a két legnézettebb műsor mindkét korcsoportban.",
+      "tags": [
+        "Tv2",
+        "Nezettseg",
+        "RTL",
+        "Media"
+      ],
+      "rawTags": [
+        "tv2",
+        "nezettseg",
+        "rtl",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/e/v/a/-/2/eva-2489-0-20261020-920-690-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-10-20T07:54:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-20T08:25:58Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "d78c7bf0",
+      "title": "Az INTREN lett a Schneider Electric digitális ügynöksége",
+      "url": "https://kreativ.hu/cikk/az-intern-lett-a-schneider-electric-digitalis-ugynoksege",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Az együttműködés a vállalat digitális kampányainak integrált, adatvezérelt támogatására terjed ki. A közös cél egy olyan átlátható és rugalmas működési modell kialakítása, amely egyszerre segíti a…",
+      "fullSummary": "Az együttműködés a vállalat digitális kampányainak integrált, adatvezérelt támogatására terjed ki. A közös cél egy olyan átlátható és rugalmas működési modell kialakítása, amely egyszerre segíti a Schneider Electric kommunikációs céljainak megvalósítását és a digitális marketingre fordított erőforrások hatékony felhasználását.",
+      "tags": [
+        "Agencies",
+        "Schneider Electric",
+        "Intren",
+        "Advertising",
+        "Media",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "ugynokseg",
+        "schneider-electric",
+        "intren",
+        "reklam",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/i/n/t/r/e/intren2-20261019-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-10-19T14:41:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-20T08:25:58Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "7b027713",
+      "title": "Hamarosan debütál az HBO első magyar true crime sorozata",
+      "url": "https://kreativ.hu/cikk/hamarosan-debutal-az-hbo-elso-magyar-true-crime-sorozata",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "November 13-án mutatja be az HBO az első, Magyarországon gyártott, magyar bűnügyeket feldolgozó true crime sorozatát, Az igazság mániákusait. A kétrészes dokusorozat egyedülálló nézőpontból mutatja…",
+      "fullSummary": "November 13-án mutatja be az HBO az első, Magyarországon gyártott, magyar bűnügyeket feldolgozó true crime sorozatát, Az igazság mániákusait. A kétrészes dokusorozat egyedülálló nézőpontból mutatja be az ország legismertebb bűnügyeit, azokat a legendás detektíveket követve, akik anno szerves részei voltak a nyomozásoknak, és életük jelentős részét az igazság felderítésének szentelték.",
+      "tags": [
+        "Hbo",
+        "Film & TV",
+        "True Crime",
+        "Popkult"
+      ],
+      "rawTags": [
+        "hbo",
+        "streaming",
+        "true-crime",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/i/g/a/z/s/igazsag-jfif-20261019-920-690-90-zc.webp",
+      "author": "S. D.",
+      "category": "",
+      "publishedAt": "2026-10-19T12:04:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-20T08:25:58Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "d78e5fe9",
+      "title": "Új adatvizualizációs oldal mutatja meg a klímaváltozás összefüggéseit",
+      "url": "https://kreativ.hu/cikk/klima-klimavaltozas-adatvizualizacio-big-picture",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "“Független nézőpontok. Közös összefüggések.” Ezzel a szlogennel indította el Dr. Buda Lorina fenntarthatósági szakértő és Kálló Péter kommunikációs szakember azt az új tudománykommunikációs és…",
+      "fullSummary": "“Független nézőpontok. Közös összefüggések.” Ezzel a szlogennel indította el Dr. Buda Lorina fenntarthatósági szakértő és Kálló Péter kommunikációs szakember azt az új tudománykommunikációs és adatoldalt, amely a klímaváltozásra és annak összefüggéseire koncentrál.",
+      "tags": [
+        "Klimavaltozas",
+        "Adatvizualizacio",
+        "Media",
+        "Sustainability"
+      ],
+      "rawTags": [
+        "klimavaltozas",
+        "adatvizualizacio",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/1/7/6/a/4/176a4872-20261019-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-10-19T10:04:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-20T08:25:58Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "3dd48bb3",
+      "title": "Összeállt a 2026-os Pixel Perfect Awards zsűrije",
+      "url": "https://kreativ.hu/cikk/pixel-perfect-awards-2026-zsuri",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Október 19-én, vagyis ma jár le a Pixel Perfect első nevezési határideje, azonban egészen november 5-ig várjuk a nevezéseket az idén ötödik alkalommal megrendezett versenyre.",
+      "fullSummary": "Október 19-én, vagyis ma jár le a Pixel Perfect első nevezési határideje, azonban egészen november 5-ig várjuk a nevezéseket az idén ötödik alkalommal megrendezett versenyre.",
+      "tags": [
+        "Awards",
+        "Pixel Perfect Awards",
+        "2026",
+        "Verseny"
+      ],
+      "rawTags": [
+        "zsuri",
+        "pixel-perfect-awards",
+        "2026",
+        "verseny"
+      ],
+      "image": "https://kreativ.hu/img-cache/p/p/a/2/0/ppa2026-online-nevezes1-okt19-edm-header-640x360-0-20261019-640-480-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-10-19T09:04:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-20T08:25:58Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "f2b9eed7",
+      "title": "Animációs film főszereplője lett az autista Barbie",
+      "url": "https://kreativ.hu/cikk/autista-barbie-mattel-cinemon-tarsadalmi-kampany",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Az Autistic Art Alapítvány, a Cinemon Entertainment és a Mattel együttműködésében készült új animációs kisfilm a súlyosan autista fiatalok felnőtté válásának nehézségeit járja körül.",
+      "fullSummary": "Az Autistic Art Alapítvány, a Cinemon Entertainment és a Mattel együttműködésében készült új animációs kisfilm a súlyosan autista fiatalok felnőtté válásának nehézségeit járja körül.",
+      "tags": [
+        "Barbie",
+        "Autista Barbie Baba",
+        "Advertising",
+        "Film & TV"
+      ],
+      "rawTags": [
+        "barbie",
+        "autista-barbie-baba",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/p/l/a/k/a/plakat-autistic-art-x-cinemon-x-barbie-animacios-film-20261019-564-752-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-10-19T08:57:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-20T08:25:58Z",
+      "enrichAttempts": 1
+    },
+    {
       "id": "fdc2cdf0",
       "title": "Plakáttörvény: megfelelő átmeneti időt, differenciált szabályozást kér az MRSZ",
       "url": "https://kreativ.hu/cikk/plakattorveny-megfelelo-atmeneti-idot-differencialt-szabalyozast-ker-az-mrsz",
@@ -57,7 +232,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A miniszterelnökhöz fordul a Magyar Reklámszövetség: a szakmai szervezet szerint a kisvállalkozásokat ellehetetleníti, a kék plakátok korábbi haszonélvezőit pedig helyzetbe hozza az aláírás előtt…",
-      "fullSummary": "A miniszterelnökhöz fordul a Magyar Reklámszövetség: a szakmai szervezet szerint a kisvállalkozásokat ellehetetleníti, a kék plakátok korábbi haszonélvezőit pedig helyzetbe hozza az aláírás előtt álló új rendelkezés..",
+      "fullSummary": "A miniszterelnökhöz fordul a Magyar Reklámszövetség: a szakmai szervezet szerint a kisvállalkozásokat ellehetetleníti, a kék plakátok korábbi haszonélvezőit pedig helyzetbe hozza az aláírás előtt…",
       "tags": [
         "Kkv",
         "Magyar Reklamszovetseg",
@@ -115,7 +290,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Október 16-án pénteken derült ki, hogy egy megrendezett televíziós rosszulléttel akarta felhívni a figyelmet a menopauza tüneteire a DM, a WPP Media és az RTL közös akciója. Az akció hatalmas…",
-      "fullSummary": "Október 16-án pénteken derült ki, hogy egy megrendezett televíziós rosszulléttel akarta felhívni a figyelmet a menopauza tüneteire a DM, a WPP Media és az RTL közös akciója. Az akció hatalmas közfelháborodást váltott ki, a szakma is bírálta. Alább Balatoni Zsófia véleménycikke olvasható a Gryllus-botrányról: A jó szándék nem elég. Kell egy emberi-szakmai minimum.",
+      "fullSummary": "Október 16-án pénteken derült ki, hogy egy megrendezett televíziós rosszulléttel akarta felhívni a figyelmet a menopauza tüneteire a DM, a WPP Media és az RTL közös akciója. Az akció hatalmas…",
       "tags": [
         "Dm",
         "Agencies",
@@ -249,7 +424,7 @@
         "gryllus-dorka",
         "mediahekk"
       ],
-      "image": "https://kreativ.hu/img-cache/n/e/v/t/e/nevtelen-0-20261017-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/n/e/v/t/e/nevtelen-0-20261017-690-920-90-zc.webp",
       "author": "Sz. Sz.",
       "category": "",
       "publishedAt": "2026-10-17T18:44:00Z",
@@ -331,7 +506,7 @@
         "nkoh",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-1948745004-jpeg-0-20261016-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-1948745004-jpeg-0-20261016-690-920-90-zc.webp",
       "author": "L. B.",
       "category": "",
       "publishedAt": "2026-10-16T15:40:00Z",
@@ -363,7 +538,7 @@
         "2026",
         "verseny"
       ],
-      "image": "https://kreativ.hu/img-cache/r/g/b/2/6/rgb26-social-media-story-1080x1920px-pro-01-png-20261016-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/r/g/b/2/6/rgb26-social-media-story-1080x1920px-pro-01-png-20261016-609-812-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-10-16T12:27:00Z",
@@ -426,7 +601,7 @@
         "2026",
         "verseny"
       ],
-      "image": "https://kreativ.hu/img-cache/r/g/b/2/6/rgb26-social-media-story-1080x1920px-talent-01-png-20261016-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/r/g/b/2/6/rgb26-social-media-story-1080x1920px-talent-01-png-20261016-609-812-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-10-16T10:35:00Z",
@@ -453,7 +628,7 @@
         "ujraindulas",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/k/o/z/e/p/kozepre-igazitott-ujsagborito-sotetkek-margokkal-png-0-20261016-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/k/o/z/e/p/kozepre-igazitott-ujsagborito-sotetkek-margokkal-png-0-20261016-920-690-90-zc.webp",
       "author": "L. B.",
       "category": "",
       "publishedAt": "2026-10-16T10:11:00Z",
@@ -482,7 +657,7 @@
         "raw-agency",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/z/n/e/t/-/znet-osszefoglalo-1-0-20261016-549-75-733-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/z/n/e/t/-/znet-osszefoglalo-1-0-20261016-920-690-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-10-16T09:18:00Z",
@@ -514,7 +689,7 @@
         "reklam",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/m/e/d/i/a/mediascan-logo-2-20261015-249-332-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/m/e/d/i/a/mediascan-logo-2-20261015-441-330-75-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-10-15T13:54:00Z",
@@ -547,7 +722,7 @@
         "bovul",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/2/4/-/e/x/24-extra-image-png-0-20261015-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/2/4/-/e/x/24-extra-image-png-0-20261015-920-690-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-10-15T12:27:00Z",
