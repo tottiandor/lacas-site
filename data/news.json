@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-22T08:31:05Z",
-  "itemCount": 393,
+  "generatedAt": "2026-10-23T08:27:38Z",
+  "itemCount": 400,
   "sources": [
     {
       "id": "thedrum",
@@ -18,7 +18,7 @@
       "accent": "#e8453c",
       "status": "ok",
       "error": null,
-      "count": 25
+      "count": 22
     },
     {
       "id": "creativereview",
@@ -49,6 +49,344 @@
     }
   ],
   "items": [
+    {
+      "id": "61899d27",
+      "title": "Harder, Better, Faster, Builder: LEGO announces Daft Punk set",
+      "url": "https://www.famouscampaigns.com/2026/10/harder-better-faster-builder-lego-announces-daft-punk-set/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "LEGO has announced a partnership with Daft Punk, starting with a fan-designed set inspired by the electronic duo’s Alive 2007 tour and its distinctive pyramid stage. The concept, submitted by creator Robotrock through LEGO Ideas, features…",
+      "fullSummary": "LEGO has announced a partnership with Daft Punk, starting with a fan-designed set inspired by the electronic duo’s Alive 2007 tour and its distinctive pyramid stage. The concept, submitted by creator Robotrock through LEGO Ideas, features the helmeted musicians behind their towering concert setup. It has now been approved for development, with LEGO promising “more […]",
+      "tags": [
+        "Products",
+        "Retail",
+        "Design"
+      ],
+      "rawTags": [
+        "Products",
+        "Retail"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/10/DAFT-PUNK™-has-entered-the-LEGO®-universe.mp4",
+      "author": "Staff",
+      "category": "Products",
+      "publishedAt": "2026-10-22T14:50:51Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-23T08:27:38Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "f8fb9277",
+      "title": "A ContentShop Agency lett a jövőre 15 éves Paloznaki Jazzpiknik PR-kommunikációs partnere",
+      "url": "https://kreativ.hu/cikk/paloznaki-jazzpiknik-contentshop-agency-pr-kommunikacios-partner",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A 2027-ben tizenötödik évfordulóját ünneplő Paloznaki Jazzpiknik PR-kommunikációs partnere a ContentShop Agency lett. Az együttműködés célja az egész éves márkajelenlét erősítése és új közönségek…",
+      "fullSummary": "A 2027-ben tizenötödik évfordulóját ünneplő Paloznaki Jazzpiknik PR-kommunikációs partnere a ContentShop Agency lett. Az együttműködés célja az egész éves márkajelenlét erősítése és új közönségek megszólítása, a fesztivál személyes karakterének megőrzésével.",
+      "tags": [
+        "Agencies",
+        "Paloznaki Jazz Piknik",
+        "Advertising",
+        "Branding"
+      ],
+      "rawTags": [
+        "ugynokseg",
+        "paloznaki-jazz-piknik",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/d/r/-/i/f/dr-ifi-valde-orsolya2-png-20261022-920-690-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-10-22T14:18:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-23T08:27:38Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "37612a5c",
+      "title": "Meghosszabbították a Hégető Honorka-díj nevezési határidejét",
+      "url": "https://kreativ.hu/cikk/meghosszabbitottak-a-hegeto-honorka-dij-nevezesi-hataridejet",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Hégető Honorka-díj idén is azokra a szerkesztőségekre, újságírókra és fotográfusokra hívja fel a figyelmet, akik munkájukkal hozzájárulnak a társadalmi problémák megértéséhez és a közbeszéd…",
+      "fullSummary": "A Hégető Honorka-díj idén is azokra a szerkesztőségekre, újságírókra és fotográfusokra hívja fel a figyelmet, akik munkájukkal hozzájárulnak a társadalmi problémák megértéséhez és a közbeszéd formálásához. November 30-ig még lehet pályázni.",
+      "tags": [
+        "Klimavaltozas",
+        "Awards",
+        "Hegeto Honorka Dij",
+        "Media"
+      ],
+      "rawTags": [
+        "klimavaltozas",
+        "nevezes",
+        "hegeto-honorka-dij",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/h/e/g/e/t/hegeto-h-20261022-565-5-754-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-10-22T13:11:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-23T08:27:38Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "02959040",
+      "title": "NMHH: zsugorodik a sajtópiac, de digitális áttörés történt a megyei lapoknál",
+      "url": "https://kreativ.hu/cikk/nmhh-elemzes-nyomtatott-sajto",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Elkészült az NMHH 2025-ös elemzése a nyomtatott sajtóról. E szerint folytatódott a nyomtatott sajtó évek óta tartó csökkenő tendenciája: a napi- és hetilapok példányszáma mintegy 10 százalékkal esett…",
+      "fullSummary": "Elkészült az NMHH 2025-ös elemzése a nyomtatott sajtóról. E szerint folytatódott a nyomtatott sajtó évek óta tartó csökkenő tendenciája: a napi- és hetilapok példányszáma mintegy 10 százalékkal esett vissza az egy évvel korábbihoz képest. A rendszeres olvasók tábora tovább csökkent, alkalmanként viszont egyre többen vettek a kezükbe nyomtatott sajtóterméket. Az év nagy fordulata, hogy míg 2024-ben három, 2025-ben már tizenhárom olyan – főként…",
+      "tags": [
+        "Nmhh",
+        "Elemzes",
+        "Nyomtatott Sajto",
+        "Media"
+      ],
+      "rawTags": [
+        "nmhh",
+        "elemzes",
+        "nyomtatott-sajto",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/k/a/b/o/o/kaboompics-man-791440-1920-0-20261022-690-920-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-10-22T12:56:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-23T08:27:38Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "ababa6c7",
+      "title": "Aldi creates broomstick parking bay for Halloween",
+      "url": "https://www.famouscampaigns.com/2026/10/aldi-creates-broomstick-parking-bay-for-halloween/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Aldi has opened a dedicated broomstick parking bay at its Water Lane store in York, giving witches and wizards somewhere to leave their transport while they do the Halloween shop. The pop-up features a purpose-built rack, spooky signage…",
+      "fullSummary": "Aldi has opened a dedicated broomstick parking bay at its Water Lane store in York, giving witches and wizards somewhere to leave their transport while they do the Halloween shop. The pop-up features a purpose-built rack, spooky signage and a broomstick floor vinyl. It will remain in place until 31 October. York provides a fitting […]",
+      "tags": [
+        "PR",
+        "Retail"
+      ],
+      "rawTags": [
+        "PR",
+        "Retail"
+      ],
+      "image": null,
+      "author": "Staff",
+      "category": "PR",
+      "publishedAt": "2026-10-22T12:21:12Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-23T08:27:38Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "150982dd",
+      "title": "BTS: Apple Music turns sound into a logo with Fred again..",
+      "url": "https://www.famouscampaigns.com/2026/10/bts-apple-music-turns-sound-into-a-logo-with-fred-again/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Apple Music has used sound waves and a shallow bath of mineral oil to create its new visual identity, working with Fred again.., NEST Acoustics and TBWA\\Media Arts Lab. Built around the idea ‘Made by Sound’, the process involved playing…",
+      "fullSummary": "Apple Music has used sound waves and a shallow bath of mineral oil to create its new visual identity, working with Fred again.., NEST Acoustics and TBWA\\Media Arts Lab. Built around the idea ‘Made by Sound’, the process involved playing individual notes through a device that turned audio into physical vibrations. These sent ripples through […]",
+      "tags": [
+        "Advertising",
+        "Entertainment",
+        "Branding",
+        "Music",
+        "Media"
+      ],
+      "rawTags": [
+        "Advertising",
+        "Entertainment"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/10/apple-music-BTS-1.mp4",
+      "author": "James Herring",
+      "category": "Advertising",
+      "publishedAt": "2026-10-22T12:08:50Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-23T08:27:38Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "c7be2ec9",
+      "title": "Egy megtévesztés anatómiája",
+      "url": "https://kreativ.hu/cikk/harom-a-magyar-megtevesztes",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "“Hogy' is mondta valamikor, talán valaki? »Reklám az egész világ, és influenszer benne minden ember.« Hát ennek szellemében lépek fel én is a hordóra itt a tér sarkán, és próbálom rövidre fogni a…",
+      "fullSummary": "“Hogy' is mondta valamikor, talán valaki? »Reklám az egész világ, és influenszer benne minden ember.« Hát ennek szellemében lépek fel én is a hordóra itt a tér sarkán, és próbálom rövidre fogni a monológot. Bízom benne, közben nem leszek rosszul. Ha mégis, úgy színlelem.” Kovács Levente véleménycikke.",
+      "tags": [
+        "Media",
+        "Dm",
+        "Agencies",
+        "Velemenycikk",
+        "Gryllus Dorka",
+        "Mediahekk"
+      ],
+      "rawTags": [
+        "media",
+        "dm",
+        "wpp",
+        "velemenycikk",
+        "gryllus-dorka",
+        "mediahekk"
+      ],
+      "image": "https://kreativ.hu/img-cache/1/7/9/2/6/1792672624-pph-temp-jf07yw-20261022-920-690-90-zc.webp",
+      "author": "Kovács Levente",
+      "category": "",
+      "publishedAt": "2026-10-22T11:10:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-23T08:27:38Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "055e74e2",
+      "title": "Tischler Márk, zsűrielnök: „Ötlet, humor, technológia: ezt keresi a Lollipop zsűrije”",
+      "url": "https://kreativ.hu/cikk/lollipop-2026-verseny-reklam-zsuri-elnok-velemeny-cikk",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Azokat a projekteket keressük, amelyekben benne van a nagybetűs ötlet, fricska, humor, kiválóság és kitűnőség, vagy akár a technológiai újdonság. Vegyenek le minket a lábunkról!",
+      "fullSummary": "Azokat a projekteket keressük, amelyekben benne van a nagybetűs ötlet, fricska, humor, kiválóság és kitűnőség, vagy akár a technológiai újdonság. Vegyenek le minket a lábunkról!",
+      "tags": [
+        "Advertising",
+        "Verseny",
+        "Elnok",
+        "Awards",
+        "Velemeny",
+        "Lollipop 2026"
+      ],
+      "rawTags": [
+        "reklam",
+        "verseny",
+        "elnok",
+        "zsuri",
+        "cikk",
+        "velemeny",
+        "lollipop-2026"
+      ],
+      "image": "https://kreativ.hu/img-cache/t/i/s/c/h/tischler-mark-office-jpeg-0-20261022-920-690-90-zc.webp",
+      "author": "Tischler Márk",
+      "category": "",
+      "publishedAt": "2026-10-22T10:33:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-23T08:27:38Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "508688fb",
+      "title": "Újra TEDx a Katonában: Fénytörés a TEDxLibertyBridgeWomen 2026 konferencián",
+      "url": "https://kreativ.hu/cikk/tedx-liberty-bridge-women-katona-jozsef-szinhaz-konferencia-2026",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Idén november 5-én ismét a Katona József Színház ad otthont a TEDxLibertyBridgeWomen konferenciának. Az idei téma a FÉNYTÖRÉS: az a pillanat, amikor a megszokott irány megváltozik, és a látszólag…",
+      "fullSummary": "Idén november 5-én ismét a Katona József Színház ad otthont a TEDxLibertyBridgeWomen konferenciának. Az idei téma a FÉNYTÖRÉS: az a pillanat, amikor a megszokott irány megváltozik, és a látszólag egyszerűből előtűnik a végtelen spektrum. Egy olyan világban, ahol nap mint nap hírek, vélemények és történetek versenyeznek a figyelmünkért, egyre nehezebb észrevenni azt, ami valóban értékes. A konferencia előadói arra hívnak, hogy álljunk meg egy…",
+      "tags": [
+        "Katona Jozsef Szinhaz",
+        "Tedxlibertybridgewomen",
+        "Advertising"
+      ],
+      "rawTags": [
+        "katona-jozsef-szinhaz",
+        "tedxlibertybridgewomen",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/t/e/d/x/-/tedx-fenytores-kv-rosa-fb-insta-post-1080x1350px-a-png-20261022-609-812-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-10-22T09:46:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-23T08:27:38Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "25f0e633",
+      "title": "Visit Estonia — Born From Culture",
+      "url": "https://theinspiration.com/2026/10/born-from-culture-estonia-by-soveldaja/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "“Times can change. The Estonian spirit does not.” In Born From Culture, Tallinn University’s folk dance ensemble Soveldaja performs traditional Estonian folk dance to Future’s “Mask Off”, featuring Ernst Valdmaa on diatonic Estonian…",
+      "fullSummary": "“Times can change. The Estonian spirit does not.” In Born From Culture, Tallinn University’s folk dance ensemble Soveldaja performs traditional Estonian folk dance to Future’s “Mask Off”, featuring Ernst Valdmaa on diatonic Estonian accordion. The result is a striking clash of heritage and hip-hop that shows how some things just run in the blood. Choreography […]",
+      "tags": [
+        "Advertising"
+      ],
+      "rawTags": [
+        "Advertising"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/visit-tallinn-dance-video-scaled-1-750x536.webp",
+      "author": "Daniel Ingvartsen",
+      "category": "Advertising",
+      "publishedAt": "2026-10-22T09:27:45Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-23T08:27:38Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "22bfd5d4",
+      "title": "Apple Music — Made by Sound",
+      "url": "https://theinspiration.com/2026/10/apple-music-made-by-sound/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "Apple Music has unveiled a new brand identity, and its new logo was quite literally made by sound. Working with Fred again.. and NEST Acoustics, Apple used music to shape the logo practically, capturing it entirely in camera rather than…",
+      "fullSummary": "Apple Music has unveiled a new brand identity, and its new logo was quite literally made by sound. Working with Fred again.. and NEST Acoustics, Apple used music to shape the logo practically, capturing it entirely in camera rather than building it digitally – “just music, made visible.” The behind-the-scenes film shows how the collaboration […]",
+      "tags": [
+        "Design",
+        "Branding",
+        "Music"
+      ],
+      "rawTags": [
+        "Design"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/apple-music-made-by-sound-1-750x536.webp",
+      "author": "Daniel Ingvartsen",
+      "category": "Design",
+      "publishedAt": "2026-10-22T09:09:55Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-23T08:27:38Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "ed27712c",
+      "title": "Ritkán látott képsorok 1956-ról az NFI videósorozatában",
+      "url": "https://kreativ.hu/cikk/ritkan-latott-kepsorok-1956-rol-az-nfi-videosorozataban",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Az 1956-os forradalom és szabadságharc egy-egy napjának történetét idézi fel a Nemzeti Filmintézet videósorozata, ami a jelenleg elérhető legnagyobb és legteljesebb egybefüggő filmdokumentáció az…",
+      "fullSummary": "Az 1956-os forradalom és szabadságharc egy-egy napjának történetét idézi fel a Nemzeti Filmintézet videósorozata, ami a jelenleg elérhető legnagyobb és legteljesebb egybefüggő filmdokumentáció az eseményekről.",
+      "tags": [
+        "1956 Os Forradalom",
+        "Videosorozat",
+        "Nemzeti Filmintezet",
+        "Media",
+        "Popkult"
+      ],
+      "rawTags": [
+        "1956-os-forradalom",
+        "videosorozat",
+        "nemzeti-filmintezet",
+        "media",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/f/o/r/r/a/forradalom-naprol-napra-20261022-549-75-733-90-zc.webp",
+      "author": "S. D.",
+      "category": "",
+      "publishedAt": "2026-10-22T09:09:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-23T08:27:38Z",
+      "enrichAttempts": 1
+    },
     {
       "id": "076389c3",
       "title": "McDonald’s turns dipping sauces into Halloween face paints",
@@ -108,7 +446,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Uniomedia, a Noguchi, a Publicis Groupe Hungary és az Artificial Group munkái is szerepelnek a European Excellence Awards 2026-os shortlistjén. A magyar vonatkozású kampányok többek között a…",
-      "fullSummary": "A Uniomedia, a Noguchi, a Publicis Groupe Hungary és az Artificial Group munkái is szerepelnek a European Excellence Awards 2026-os shortlistjén. A magyar vonatkozású kampányok többek között a márkaépítés, a mesterséges intelligenciára épülő kommunikáció, a munkáltatói márkaépítés és a közösségi média kategóriáiban jutottak a legjobbak közé. Az európai kommunikációs verseny idén ünnepli fennállásának huszadik évfordulóját.",
+      "fullSummary": "A Uniomedia, a Noguchi, a Publicis Groupe Hungary és az Artificial Group munkái is szerepelnek a European Excellence Awards 2026-os shortlistjén. A magyar vonatkozású kampányok többek között a…",
       "tags": [
         "Magyar",
         "Agencies",
@@ -127,7 +465,7 @@
         "european-excellence-awards",
         "publicis-groupe"
       ],
-      "image": "https://kreativ.hu/img-cache/e/e/a/-/2/eea-2026-0-20261021-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/e/e/a/-/2/eea-2026-0-20261021-690-920-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-10-21T12:21:00Z",
@@ -143,7 +481,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Október 19-én Magyar Péter miniszterelnök bejelentette, hogy a gyakorlatban ismét bevezetik a reklámadót, vagyis a jogilag most is létező adónem jelenlegi, 0 százalékos kulcsát 3,75 százalékra…",
-      "fullSummary": "Október 19-én Magyar Péter miniszterelnök bejelentette, hogy a gyakorlatban ismét bevezetik a reklámadót, vagyis a jogilag most is létező adónem jelenlegi, 0 százalékos kulcsát 3,75 százalékra emelik. A szakmát derült égből villámcsapásként érte a bejelentés, az iparági szervezetek már ki is fejezték aggodalmukat. Bár a részletes adózási feltételeket még nem ismerjük, kíváncsiak voltunk, milyen hatással lehet a piacra, illetve az egyes…",
+      "fullSummary": "Október 19-én Magyar Péter miniszterelnök bejelentette, hogy a gyakorlatban ismét bevezetik a reklámadót, vagyis a jogilag most is létező adónem jelenlegi, 0 százalékos kulcsát 3,75 százalékra…",
       "tags": [
         "Media",
         "Allam",
@@ -159,7 +497,7 @@
         "hirdetes",
         "reklamado"
       ],
-      "image": "https://kreativ.hu/img-cache/r/e/k/l/a/reklamado2-png-20261020-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/r/e/k/l/a/reklamado2-png-20261020-690-920-90-zc.webp",
       "author": "Sz. Sz.",
       "category": "",
       "publishedAt": "2026-10-21T10:00:00Z",
@@ -175,7 +513,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A képgeneráláshoz kapcsolódó hirdetésekkel és új vizuális reklámformátumokkal bővíti a ChatGPT reklámkínálatát az OpenAI. A márkáknak legalább 300 ezer dolláros költést kell vállalniuk, az ezer…",
-      "fullSummary": "A képgeneráláshoz kapcsolódó hirdetésekkel és új vizuális reklámformátumokkal bővíti a ChatGPT reklámkínálatát az OpenAI. A márkáknak legalább 300 ezer dolláros költést kell vállalniuk, az ezer megjelenésre jutó költség pedig 40 dollár lehet. A vállalat a keresési hirdetések és a közösségi média közötti pozícióját erősítené, miközben a hirdetők még tesztelik, hogyan illeszthető be az új platform a médiaterveikbe.",
+      "fullSummary": "A képgeneráláshoz kapcsolódó hirdetésekkel és új vizuális reklámformátumokkal bővíti a ChatGPT reklámkínálatát az OpenAI. A márkáknak legalább 300 ezer dolláros költést kell vállalniuk, az ezer…",
       "tags": [
         "Advertising",
         "AI",
@@ -207,7 +545,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Egy erős kreatív ötlet sem ment meg mindig egy gyenge kivitelezést, a technológiai újdonságok pedig hamar üres mutatvánnyá válnak, ha nincs mögöttük valódi hasznosság. Balogh Timi, a T-Mobile CZ…",
-      "fullSummary": "Egy erős kreatív ötlet sem ment meg mindig egy gyenge kivitelezést, a technológiai újdonságok pedig hamar üres mutatvánnyá válnak, ha nincs mögöttük valódi hasznosság. Balogh Timi, a T-Mobile CZ márka- és marketingkommunikációs vezetője idén a Pixel Perfect Awards zsűrielnöke. Vele beszélgettünk a hazai digitális munkákról, az elcsúszott nevezési anyagokról és arról, mitől válik egy ötlet valóban működő megoldássá.",
+      "fullSummary": "Egy erős kreatív ötlet sem ment meg mindig egy gyenge kivitelezést, a technológiai újdonságok pedig hamar üres mutatvánnyá válnak, ha nincs mögöttük valódi hasznosság. Balogh Timi, a T-Mobile CZ…",
       "tags": [
         "Zsurielnok",
         "Balogh Timea",
@@ -11267,160 +11605,6 @@
       "datePrecise": true,
       "firstSeenAt": "2026-09-13T23:14:17Z",
       "enrichAttempts": 0
-    },
-    {
-      "id": "1db46c5f",
-      "title": "Rexona — Armpit Sponsorship on 2026 World Cup Referee Shirts",
-      "url": "https://theinspiration.com/2026/06/rexona-armpit-sponsorship-on-2026-world-cup-referee-shirts/",
-      "source": "theinspiration",
-      "sourceName": "The Inspiration",
-      "accent": "#f5b301",
-      "summary": "The execution of the campaign is a masterclass in subtlety that pays off with maximum impact. Throughout the standard flow of a football match, the Rexona branding remains completely invisible. The primary referees and the fourth officials…",
-      "fullSummary": "The execution of the campaign is a masterclass in subtlety that pays off with maximum impact. Throughout the standard flow of a football match, the Rexona branding remains completely invisible. The primary referees and the fourth officials wear their standard, strictly regulated kits, looking no different than they have in any other major tournament. The […]",
-      "tags": [
-        "Advertising",
-        "Branding",
-        "Campaigns",
-        "Sport"
-      ],
-      "rawTags": [
-        "Advertising"
-      ],
-      "image": "https://theinspiration.com/wp-content/uploads/rexona-logo-arbitre-mondial-2.jpg-615x536.webp",
-      "author": "Daniel Ingvartsen",
-      "category": "Advertising",
-      "publishedAt": "2026-06-24T10:39:46Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-14T09:52:42Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "1775d95d",
-      "title": "How Google Cloud maximized marketing impact on a lean budget",
-      "url": "https://www.thedrum.com/awards-case-study/how-google-cloud-s-15-budget-drove-60x-pipeline-with-localized-b2b-tactics",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "‘Go BIG with BigQuery’ has won Gold in Creative Use of Budget at The Drum Awards for Marketing for proving that strategic, hyper-regional allocation can rival massive brand spends in the fiercely…",
-      "fullSummary": "‘Go BIG with BigQuery’ has won Gold in Creative Use of Budget at The Drum Awards for Marketing for proving that strategic, hyper-regional allocation can rival massive brand spends in the fiercely…",
-      "tags": [
-        "Marketing",
-        "The Drum Awards",
-        "Branding",
-        "Marketing Services",
-        "Strategy",
-        "Awards"
-      ],
-      "rawTags": [
-        "The Drum Awards",
-        "Brand",
-        "The Drum Awards for Marketing Americas",
-        "Marketing Services",
-        "Marketing"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/creative-use-of-budget-google-cloud-1780393922.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "The Drum",
-      "category": "Marketing",
-      "publishedAt": "2026-06-11T14:48:33Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "e3a184cf",
-      "title": "Inside Audi’s handcrafted gingerbread film that built holiday desire without discounts",
-      "url": "https://www.thedrum.com/awards-case-study/inside-audi-s-handcrafted-gingerbread-film-that-built-holiday-desire-without-discounts",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "‘The Most Wonderful Drive of the Year’ has won Bronze in Creative at The Drum Awards for Marketing for proving that radical humanity beats discounting in a crowded luxury market. Here is the…",
-      "fullSummary": "‘The Most Wonderful Drive of the Year’ has won Bronze in Creative at The Drum Awards for Marketing for proving that radical humanity beats discounting in a crowded luxury market. Here is the…",
-      "tags": [
-        "Marketing",
-        "The Drum Awards",
-        "Branding",
-        "Marketing Services",
-        "Film & TV",
-        "Fashion"
-      ],
-      "rawTags": [
-        "The Drum Awards",
-        "Brand",
-        "The Drum Awards for Marketing Americas",
-        "Marketing Services",
-        "Marketing"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/creative-tilt-creative-production.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "The Drum",
-      "category": "Marketing",
-      "publishedAt": "2026-06-05T15:45:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "e63666ad",
-      "title": "How Artlist proved AI can replace Big Game production with a $5,000 ad",
-      "url": "https://www.thedrum.com/awards-case-study/how-artlist-proved-ai-can-replace-big-game-production-with-a-5-000-ad",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "Artlist won Gold in AI and Silver at The Drum Awards for Marketing by proving that artificial intelligence can replace million-dollar Big Game production workflows without sacrificing quality. The…",
-      "fullSummary": "Artlist won Gold in AI and Silver at The Drum Awards for Marketing by proving that artificial intelligence can replace million-dollar Big Game production workflows without sacrificing quality. The…",
-      "tags": [
-        "Marketing",
-        "The Drum Awards",
-        "Branding",
-        "Marketing Services",
-        "AI",
-        "Awards"
-      ],
-      "rawTags": [
-        "The Drum Awards",
-        "Brand",
-        "The Drum Awards for Marketing Americas",
-        "Marketing Services",
-        "Marketing"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/creative-use-of-budget-artlist.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "The Drum",
-      "category": "Marketing",
-      "publishedAt": "2026-06-05T04:02:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "09172c4f",
-      "title": "How the U.S. Army used AI decisioning to double recruitment conversion rates",
-      "url": "https://www.thedrum.com/awards-case-study/how-the-army-used-ai-decisioning-to-double-recruitment-conversion-rates",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "‘Army Marketing Cloud’ has won Silver in Data & Insight at The Drum Awards for Marketing for solving a crisis in military recruitment by transforming distrust into trust at scale. Facing a 78%…",
-      "fullSummary": "‘Army Marketing Cloud’ has won Silver in Data & Insight at The Drum Awards for Marketing for solving a crisis in military recruitment by transforming distrust into trust at scale. Facing a 78%…",
-      "tags": [
-        "Marketing",
-        "The Drum Awards",
-        "Branding",
-        "Marketing Services",
-        "AI",
-        "Strategy"
-      ],
-      "rawTags": [
-        "The Drum Awards",
-        "Brand",
-        "The Drum Awards for Marketing Americas",
-        "Marketing Services",
-        "Marketing"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/datainsight-team-ddb.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "The Drum",
-      "category": "Marketing",
-      "publishedAt": "2026-06-05T03:36:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
     }
   ]
 }
