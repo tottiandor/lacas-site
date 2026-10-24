@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T08:27:38Z",
+  "generatedAt": "2026-10-24T08:02:36Z",
   "itemCount": 400,
   "sources": [
     {
@@ -9,7 +9,7 @@
       "accent": "#00d1b2",
       "status": "error",
       "error": "failed to fetch https://www.thedrum.com/: HTTP Error 403: Forbidden",
-      "count": 45
+      "count": 41
     },
     {
       "id": "kreativ",
@@ -83,7 +83,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A 2027-ben tizenötödik évfordulóját ünneplő Paloznaki Jazzpiknik PR-kommunikációs partnere a ContentShop Agency lett. Az együttműködés célja az egész éves márkajelenlét erősítése és új közönségek…",
-      "fullSummary": "A 2027-ben tizenötödik évfordulóját ünneplő Paloznaki Jazzpiknik PR-kommunikációs partnere a ContentShop Agency lett. Az együttműködés célja az egész éves márkajelenlét erősítése és új közönségek megszólítása, a fesztivál személyes karakterének megőrzésével.",
+      "fullSummary": "A 2027-ben tizenötödik évfordulóját ünneplő Paloznaki Jazzpiknik PR-kommunikációs partnere a ContentShop Agency lett. Az együttműködés célja az egész éves márkajelenlét erősítése és új közönségek…",
       "tags": [
         "Agencies",
         "Paloznaki Jazz Piknik",
@@ -111,7 +111,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Hégető Honorka-díj idén is azokra a szerkesztőségekre, újságírókra és fotográfusokra hívja fel a figyelmet, akik munkájukkal hozzájárulnak a társadalmi problémák megértéséhez és a közbeszéd…",
-      "fullSummary": "A Hégető Honorka-díj idén is azokra a szerkesztőségekre, újságírókra és fotográfusokra hívja fel a figyelmet, akik munkájukkal hozzájárulnak a társadalmi problémák megértéséhez és a közbeszéd formálásához. November 30-ig még lehet pályázni.",
+      "fullSummary": "A Hégető Honorka-díj idén is azokra a szerkesztőségekre, újságírókra és fotográfusokra hívja fel a figyelmet, akik munkájukkal hozzájárulnak a társadalmi problémák megértéséhez és a közbeszéd…",
       "tags": [
         "Klimavaltozas",
         "Awards",
@@ -140,7 +140,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Elkészült az NMHH 2025-ös elemzése a nyomtatott sajtóról. E szerint folytatódott a nyomtatott sajtó évek óta tartó csökkenő tendenciája: a napi- és hetilapok példányszáma mintegy 10 százalékkal esett…",
-      "fullSummary": "Elkészült az NMHH 2025-ös elemzése a nyomtatott sajtóról. E szerint folytatódott a nyomtatott sajtó évek óta tartó csökkenő tendenciája: a napi- és hetilapok példányszáma mintegy 10 százalékkal esett vissza az egy évvel korábbihoz képest. A rendszeres olvasók tábora tovább csökkent, alkalmanként viszont egyre többen vettek a kezükbe nyomtatott sajtóterméket. Az év nagy fordulata, hogy míg 2024-ben három, 2025-ben már tizenhárom olyan – főként…",
+      "fullSummary": "Elkészült az NMHH 2025-ös elemzése a nyomtatott sajtóról. E szerint folytatódott a nyomtatott sajtó évek óta tartó csökkenő tendenciája: a napi- és hetilapok példányszáma mintegy 10 százalékkal esett…",
       "tags": [
         "Nmhh",
         "Elemzes",
@@ -222,7 +222,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "“Hogy' is mondta valamikor, talán valaki? »Reklám az egész világ, és influenszer benne minden ember.« Hát ennek szellemében lépek fel én is a hordóra itt a tér sarkán, és próbálom rövidre fogni a…",
-      "fullSummary": "“Hogy' is mondta valamikor, talán valaki? »Reklám az egész világ, és influenszer benne minden ember.« Hát ennek szellemében lépek fel én is a hordóra itt a tér sarkán, és próbálom rövidre fogni a monológot. Bízom benne, közben nem leszek rosszul. Ha mégis, úgy színlelem.” Kovács Levente véleménycikke.",
+      "fullSummary": "“Hogy' is mondta valamikor, talán valaki? »Reklám az egész világ, és influenszer benne minden ember.« Hát ennek szellemében lépek fel én is a hordóra itt a tér sarkán, és próbálom rövidre fogni a…",
       "tags": [
         "Media",
         "Dm",
@@ -289,7 +289,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Idén november 5-én ismét a Katona József Színház ad otthont a TEDxLibertyBridgeWomen konferenciának. Az idei téma a FÉNYTÖRÉS: az a pillanat, amikor a megszokott irány megváltozik, és a látszólag…",
-      "fullSummary": "Idén november 5-én ismét a Katona József Színház ad otthont a TEDxLibertyBridgeWomen konferenciának. Az idei téma a FÉNYTÖRÉS: az a pillanat, amikor a megszokott irány megváltozik, és a látszólag egyszerűből előtűnik a végtelen spektrum. Egy olyan világban, ahol nap mint nap hírek, vélemények és történetek versenyeznek a figyelmünkért, egyre nehezebb észrevenni azt, ami valóban értékes. A konferencia előadói arra hívnak, hogy álljunk meg egy…",
+      "fullSummary": "Idén november 5-én ismét a Katona József Színház ad otthont a TEDxLibertyBridgeWomen konferenciának. Az idei téma a FÉNYTÖRÉS: az a pillanat, amikor a megszokott irány megváltozik, és a látszólag…",
       "tags": [
         "Katona Jozsef Szinhaz",
         "Tedxlibertybridgewomen",
@@ -364,7 +364,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Az 1956-os forradalom és szabadságharc egy-egy napjának történetét idézi fel a Nemzeti Filmintézet videósorozata, ami a jelenleg elérhető legnagyobb és legteljesebb egybefüggő filmdokumentáció az…",
-      "fullSummary": "Az 1956-os forradalom és szabadságharc egy-egy napjának történetét idézi fel a Nemzeti Filmintézet videósorozata, ami a jelenleg elérhető legnagyobb és legteljesebb egybefüggő filmdokumentáció az eseményekről.",
+      "fullSummary": "Az 1956-os forradalom és szabadságharc egy-egy napjának történetét idézi fel a Nemzeti Filmintézet videósorozata, ami a jelenleg elérhető legnagyobb és legteljesebb egybefüggő filmdokumentáció az…",
       "tags": [
         "1956 Os Forradalom",
         "Videosorozat",
