@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T08:02:36Z",
+  "generatedAt": "2026-10-27T08:53:14Z",
   "itemCount": 400,
   "sources": [
     {
@@ -18,7 +18,7 @@
       "accent": "#e8453c",
       "status": "ok",
       "error": null,
-      "count": 22
+      "count": 25
     },
     {
       "id": "creativereview",
@@ -49,6 +49,356 @@
     }
   ],
   "items": [
+    {
+      "id": "d421f46e",
+      "title": "„A CSR a vállalati kultúra kirakata” - Pistyur Veronika a Doing Good zsűrilenöke",
+      "url": "https://kreativ.hu/cikk/doing-good-interju-zsurielnok-csr",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Melyek ma a kulcsszavak a felelős üzleti működésben és mi a társadalmi felelőségválalás bázisa? Mik lesznek a következő évek meghatározó CSR témái? Mitől lesz jó egy társadalmi kampány? Pistyur…",
+      "fullSummary": "Melyek ma a kulcsszavak a felelős üzleti működésben és mi a társadalmi felelőségválalás bázisa? Mik lesznek a következő évek meghatározó CSR témái? Mitől lesz jó egy társadalmi kampány? Pistyur Veronika zsűrielnökkel beszélgettünk, aki arra is felhívta a figyelmet, hogy mik a leggyakoribb hibák a pályázatoknál és milyen buktatókra érdemes ügyelni.",
+      "tags": [
+        "Doing Good",
+        "Doing Good Csr Award",
+        "Doing Good 2026",
+        "Verseny",
+        "Campaigns",
+        "Awards"
+      ],
+      "rawTags": [
+        "doing-good",
+        "doing-good-csr-award",
+        "doing-good-2026",
+        "verseny"
+      ],
+      "image": "https://kreativ.hu/img-cache/p/i/s/t/y/pistyur-vera-20261026-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-10-27T08:05:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-27T08:53:14Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "79367826",
+      "title": "A dentsu lett a Douglas médiaügynöksége az európai piacokon",
+      "url": "https://kreativ.hu/cikk/dentsu-douglas-beauty-mediaugynokseg",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A dentsu nyerte el a DOUGLAS prémium beauty kiskereskedelmi csoport jövőbeli médiaügynökségi partneri megbízását egy kiélezett nemzetközi tenderen.",
+      "fullSummary": "A dentsu nyerte el a DOUGLAS prémium beauty kiskereskedelmi csoport jövőbeli médiaügynökségi partneri megbízását egy kiélezett nemzetközi tenderen.",
+      "tags": [
+        "Mediaugynokseg",
+        "Agencies",
+        "Beauty",
+        "Douglas",
+        "Advertising",
+        "Media"
+      ],
+      "rawTags": [
+        "mediaugynokseg",
+        "dentsu",
+        "beauty",
+        "douglas",
+        "reklam",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-918832818-editorial-use-only-jpeg-20261027-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-10-27T07:58:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-27T08:53:14Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "d02bba9e",
+      "title": "Firefox brings back the internet’s original meme stars",
+      "url": "https://www.famouscampaigns.com/2026/10/firefox-brings-back-the-internets-original-meme-stars/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Firefox has reunited some of the internet’s earliest viral stars for a campaign asking former users to give the browser another go. Created by We Believers, ‘Come Back to Firefox’ puts familiar faces to modern frustrations, from online…",
+      "fullSummary": "Firefox has reunited some of the internet’s earliest viral stars for a campaign asking former users to give the browser another go. Created by We Believers, ‘Come Back to Firefox’ puts familiar faces to modern frustrations, from online tracking to unwanted AI. The cast includes Numa Numa Guy, Bad Luck Brian, Overly Attached Girlfriend, Tay […]",
+      "tags": [
+        "Advertising",
+        "Technology",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "Advertising",
+        "Technology"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/10/Its-time-to-come-back-to-Firefox.-The-Internet-you-loved-is-still-here.mp4",
+      "author": "Staff",
+      "category": "Advertising",
+      "publishedAt": "2026-10-26T17:23:23Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-27T08:53:14Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "49c95945",
+      "title": "Best Christmas Ads of 2026 – every advert so far",
+      "url": "https://www.famouscampaigns.com/2026/10/christmas-ads-of-2026-every-advert-so-far/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Every UK Christmas advert of 2026 in one place: John Lewis, M&S, Sainsbury’s, Aldi, Tesco and more,",
+      "fullSummary": "Every UK Christmas advert of 2026 in one place: John Lewis, M&S, Sainsbury’s, Aldi, Tesco and more,",
+      "tags": [
+        "Christmas",
+        "Advertising"
+      ],
+      "rawTags": [
+        "Christmas"
+      ],
+      "image": null,
+      "author": "Staff",
+      "category": "Christmas",
+      "publishedAt": "2026-10-26T16:30:16Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-27T08:53:14Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "84ea3d47",
+      "title": "Stroke Association unveils giant ice brain with a powerful message",
+      "url": "https://www.famouscampaigns.com/2026/10/stroke-association-unveils-giant-ice-brain-with-a-powerful-message/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "The Stroke Association has unveiled a 2.5-metre brain carved from ice on London’s Southbank, turning the fragility of the human brain into a public spectacle. The installation launches ‘Survival Is Not Enough’, a campaign highlighting the…",
+      "fullSummary": "The Stroke Association has unveiled a 2.5-metre brain carved from ice on London’s Southbank, turning the fragility of the human brain into a public spectacle. The installation launches ‘Survival Is Not Enough’, a campaign highlighting the lasting impact of stroke and the support survivors need to rebuild their lives. Created using 8.5 tonnes of ice […]",
+      "tags": [
+        "COOH",
+        "Health & Beauty",
+        "PR",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "COOH",
+        "Health & Beauty",
+        "PR"
+      ],
+      "image": null,
+      "author": "Staff",
+      "category": "COOH",
+      "publishedAt": "2026-10-26T15:45:18Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-27T08:53:14Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "cb3b6bcb",
+      "title": "Hat ingatlanpiaci oldal hirdetésértékesítése került az Atmediához",
+      "url": "https://kreativ.hu/cikk/hat-ingatlanpiaci-oldal-hirdetesertekesitese-kerult-az-atmediahoz",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Október 20-tól az Atmedia Csoport értékesíti az Otthontérkép, az Ingatlantájoló, az Ingatlanhírek, az Ingatlanbazár, az Irodaház.info és a Raktár.info hirdetési felületeit. Az együttműködéssel…",
+      "fullSummary": "Október 20-tól az Atmedia Csoport értékesíti az Otthontérkép, az Ingatlantájoló, az Ingatlanhírek, az Ingatlanbazár, az Irodaház.info és a Raktár.info hirdetési felületeit. Az együttműködéssel lakossági és üzleti ingatlanpiaci oldalakkal bővül a kereskedőház digitális kínálata; az Otthontérkép Csoport értékesítési partnere korábban az Adaptive Media volt.",
+      "tags": [
+        "Ingatlanpiac",
+        "Atmedia",
+        "Hirdetesek",
+        "Advertising"
+      ],
+      "rawTags": [
+        "ingatlanpiac",
+        "atmedia",
+        "hirdetesek",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/e/p/u/l/e/epuletek-a-digitalis-terben-png-0-20261026-920-690-90-zc.webp",
+      "author": "L. B.",
+      "category": "",
+      "publishedAt": "2026-10-26T12:22:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-27T08:53:14Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "0a0fa633",
+      "title": "Szerződést bont az IKO-val a közmédia, belső gyártásba kerülnek a Petőfi műsorai",
+      "url": "https://kreativ.hu/cikk/szerzodest-bont-az-iko-val-a-kozmedia-belso-gyartasba-kerulnek-a-petofi-musorai",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Október 31-én közös megegyezéssel megszűnik a közmédia és az IKO Műsorgyártó Magyarország Kft. koprodukciós szerződése. A Petőfi márkához tartozó műsorokat a Magyar Rádió és Televízió Nonprofit Zrt.…",
+      "fullSummary": "Október 31-én közös megegyezéssel megszűnik a közmédia és az IKO Műsorgyártó Magyarország Kft. koprodukciós szerződése. A Petőfi márkához tartozó műsorokat a Magyar Rádió és Televízió Nonprofit Zrt. a jövőben saját kapacitásból készíti, az IKO pedig lemond a korábban megszerzett felhasználási jogokról a társaság javára.",
+      "tags": [
+        "Kozmedia",
+        "Mtva",
+        "Iko",
+        "Szerzodesbontas",
+        "Media",
+        "Branding"
+      ],
+      "rawTags": [
+        "kozmedia",
+        "mtva",
+        "iko",
+        "szerzodesbontas",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/t/v/a/-/mtva-iko-boritokep-eredeti-logok-png-0-20261026-920-690-90-zc.webp",
+      "author": "L. B.",
+      "category": "",
+      "publishedAt": "2026-10-26T10:56:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-27T08:53:14Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "e7e8ff9d",
+      "title": "Duolingo crashes Apple’s iPhone Duo launch with free apples",
+      "url": "https://www.famouscampaigns.com/2026/10/duolingo-crashes-apples-iphone-duo-launch-with-free-apples/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Duolingo parked a cart of free green apples outside an Apple Store in New York to mark the launch of the iPhone Duo, turning a shared name into a media stunt. The language app’s green owl mascot is also called Duo. Naturally, it decided…",
+      "fullSummary": "Duolingo parked a cart of free green apples outside an Apple Store in New York to mark the launch of the iPhone Duo, turning a shared name into a media stunt. The language app’s green owl mascot is also called Duo. Naturally, it decided shoppers should meet the original, arriving with a fruit giveaway billed […]",
+      "tags": [
+        "Experiential",
+        "PR",
+        "Media"
+      ],
+      "rawTags": [
+        "Experiential",
+        "PR"
+      ],
+      "image": null,
+      "author": "Staff",
+      "category": "Experiential",
+      "publishedAt": "2026-10-26T10:14:15Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-27T08:53:14Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "1309f4fe",
+      "title": "Calin Dániel vezeti a Havas Budapest kreatív üzletágát",
+      "url": "https://kreativ.hu/cikk/calin-daniel-vezeti-a-havas-budapest-kreativ-uzletagat",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Október 1-jétől Calin Dániel irányítja Chief of Creative Services pozícióban a Havas Budapest kreatív, közösségimédia-, tartalomgyártási és aktivációs csapatait. Kinevezésével az ügynökség közlése…",
+      "fullSummary": "Október 1-jétől Calin Dániel irányítja Chief of Creative Services pozícióban a Havas Budapest kreatív, közösségimédia-, tartalomgyártási és aktivációs csapatait. Kinevezésével az ügynökség közlése szerint teljessé vált a nyáron elindított vezetői átalakítás, amely közös irányítás alá vonta a kreatív- és médiaterületeket.",
+      "tags": [
+        "Agencies",
+        "Karrierhir",
+        "Advertising",
+        "Careers"
+      ],
+      "rawTags": [
+        "havas",
+        "karrierhir",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/c/a/l/i/n/calin-daniel-a-havas-cimlapjan-png-0-20261026-690-920-90-zc.webp",
+      "author": "L. B.",
+      "category": "",
+      "publishedAt": "2026-10-26T09:50:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-27T08:53:14Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "ff5cac38",
+      "title": "Call of Duty builds a Korean alleyway fans can step inside",
+      "url": "https://www.famouscampaigns.com/2026/10/call-of-duty-builds-a-korean-alleyway-fans-can-step-inside/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Call of Duty has built replica Korean alleyways in London and Los Angeles, giving fans the chance to explore a setting from Modern Warfare 4 in real life. The installations on Shoreditch High Street and Sunset Boulevard recreated the…",
+      "fullSummary": "Call of Duty has built replica Korean alleyways in London and Los Angeles, giving fans the chance to explore a setting from Modern Warfare 4 in real life. The installations on Shoreditch High Street and Sunset Boulevard recreated the game’s world through detailed shopfronts, neon signs, graffiti and street props. In London, the set occupied […]",
+      "tags": [
+        "Experiential",
+        "Gaming"
+      ],
+      "rawTags": [
+        "Experiential",
+        "Gaming"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/10/call-of-duty-korean-pop-up-London.mp4",
+      "author": "James Herring",
+      "category": "Experiential",
+      "publishedAt": "2026-10-26T09:30:12Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-27T08:53:14Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "ff57101f",
+      "title": "Az AI téged idéz, de a konkurensedet ajánlja",
+      "url": "https://kreativ.hu/cikk/markak-mesterseges-intelligencia-ai-lathatosag-az-ai-szemevel-marketing-aeo",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Egy 228 AI-választ vizsgáló kutatásban a Notebook.hu többször jelent meg forrásként, mint az Alza, mégis az Alza kapott jóval több első helyes ajánlást. A különbség fontosabb, mint elsőre látszik:…",
+      "fullSummary": "Egy 228 AI-választ vizsgáló kutatásban a Notebook.hu többször jelent meg forrásként, mint az Alza, mégis az Alza kapott jóval több első helyes ajánlást. A különbség fontosabb, mint elsőre látszik: megmutatja, miért nem elég a márkáknak pusztán megjelenniük a generatív keresők válaszaiban. Az AI által közvetített márkaképben a hivatkozás, a jelenlét és az ajánlás három különböző szerep.",
+      "tags": [
+        "Marketing",
+        "Markak",
+        "AI",
+        "Lathatosag",
+        "Aeo",
+        "Az AI Szemevel"
+      ],
+      "rawTags": [
+        "marketing",
+        "markak",
+        "mesterseges-intelligencia",
+        "lathatosag",
+        "ai",
+        "aeo",
+        "az-ai-szemevel",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/s/h/e/r/a/sheraz-abdul-ghafoor-mndu3sh2j8m-unsplash-20261026-920-690-90-zc.webp",
+      "author": "Krankovics Béla",
+      "category": "",
+      "publishedAt": "2026-10-26T09:30:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-27T08:53:14Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "80e16aba",
+      "title": "Rónai Egonnal erősíti közéleti kínálatát a Network4",
+      "url": "https://kreativ.hu/cikk/ronai-egonnal-erositi-kozeleti-kinalatat-a-network4",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Az ATV-től távozó Rónai Egon a Network4 Media Groupnál folytatja pályafutását – jelentette be a médiavállalat. Érkezése a csoport saját gyártású és közéleti tartalmainak bővítéséhez kapcsolódik,…",
+      "fullSummary": "Az ATV-től távozó Rónai Egon a Network4 Media Groupnál folytatja pályafutását – jelentette be a médiavállalat. Érkezése a csoport saját gyártású és közéleti tartalmainak bővítéséhez kapcsolódik, amelynek részeként ősszel már a Kontroll.hu-val is együttműködést indítottak.",
+      "tags": [
+        "Atv",
+        "Karrierhir",
+        "Ronai Egon",
+        "Network4",
+        "Atigazolas",
+        "Media"
+      ],
+      "rawTags": [
+        "atv",
+        "karrierhir",
+        "ronai-egon",
+        "network4",
+        "atigazolas",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/r/o/n/a/i/ronai-egon-fb-0-20261026-690-920-90-zc.webp",
+      "author": "L. B.",
+      "category": "",
+      "publishedAt": "2026-10-26T08:59:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-27T08:53:14Z",
+      "enrichAttempts": 1
+    },
     {
       "id": "61899d27",
       "title": "Harder, Better, Faster, Builder: LEGO announces Daft Punk set",
@@ -95,7 +445,7 @@
         "paloznaki-jazz-piknik",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/d/r/-/i/f/dr-ifi-valde-orsolya2-png-20261022-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/d/r/-/i/f/dr-ifi-valde-orsolya2-png-20261022-577-5-770-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-10-22T14:18:00Z",
@@ -239,7 +589,7 @@
         "gryllus-dorka",
         "mediahekk"
       ],
-      "image": "https://kreativ.hu/img-cache/1/7/9/2/6/1792672624-pph-temp-jf07yw-20261022-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/k/o/v/a/c/kovacsl-png-0-20261022-920-690-90-zc.webp",
       "author": "Kovács Levente",
       "category": "",
       "publishedAt": "2026-10-22T11:10:00Z",
@@ -379,7 +729,7 @@
         "media",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/f/o/r/r/a/forradalom-naprol-napra-20261022-549-75-733-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/f/o/r/r/a/forradalom-naprol-napra-20261022-920-690-90-zc.webp",
       "author": "S. D.",
       "category": "",
       "publishedAt": "2026-10-22T09:09:00Z",
@@ -497,7 +847,7 @@
         "hirdetes",
         "reklamado"
       ],
-      "image": "https://kreativ.hu/img-cache/r/e/k/l/a/reklamado2-png-20261020-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/r/e/k/l/a/reklamado2-png-20261020-920-690-90-zc.webp",
       "author": "Sz. Sz.",
       "category": "",
       "publishedAt": "2026-10-21T10:00:00Z",
@@ -11278,333 +11628,6 @@
       "datePrecise": true,
       "firstSeenAt": "2026-09-13T23:14:17Z",
       "enrichAttempts": 1
-    },
-    {
-      "id": "35f0133d",
-      "title": "AI Act 2026: nem ott buknak el a kommunikációs cégek, ahol gondolnák",
-      "url": "https://kreativ.hu/cikk/ai-act-szabalyozas-europai-unio-ai-2026-mesterseges-intelligencia-kommunikacios-ipar",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "2026-ot sokáig fordulópontként emlegették a mesterséges intelligencia üzleti használatában: az volt a terv, hogy az Európai Unió AI Actjének szigorú, magas kockázatú rendszerekre vonatkozó szabályai…",
-      "fullSummary": "2026-ot sokáig fordulópontként emlegették a mesterséges intelligencia üzleti használatában: az volt a terv, hogy az Európai Unió AI Actjének szigorú, magas kockázatú rendszerekre vonatkozó szabályai…",
-      "tags": [
-        "Szabalyozas",
-        "Europai Unio",
-        "AI",
-        "Kommunikacios Ipar",
-        "AI Act",
-        "2026"
-      ],
-      "rawTags": [
-        "szabalyozas",
-        "europai-unio",
-        "mesterseges-intelligencia",
-        "ai",
-        "kommunikacios-ipar",
-        "ai-act",
-        "2026",
-        "reklam"
-      ],
-      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-1922928034-jpeg-0-20260722-920-690-90-zc.webp",
-      "author": "Tiszóczi Roland",
-      "category": "",
-      "publishedAt": "2026-07-27T08:10:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "c97d8e7c",
-      "title": "Jön, jön, jön! Indul a nevezés az idei RGB-re",
-      "url": "https://kreativ.hu/cikk/rgb-kreativ-design-award-2026-jelentkezes",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Már tudtok nevezni az idei RGB-re, ahol ezúttal is az elmúlt év legjobb kommunikációhoz, marketinghez és médiához kapcsolódó designmegoldásait keressük. Az első nevezési határidő szeptember 14.",
-      "fullSummary": "Már tudtok nevezni az idei RGB-re, ahol ezúttal is az elmúlt év legjobb kommunikációhoz, marketinghez és médiához kapcsolódó designmegoldásait keressük. Az első nevezési határidő szeptember 14.",
-      "tags": [
-        "Jelentkezes",
-        "Rgb",
-        "Rgb Kreativ Design Award",
-        "2026",
-        "Verseny",
-        "Design"
-      ],
-      "rawTags": [
-        "jelentkezes",
-        "rgb",
-        "rgb-kreativ-design-award",
-        "2026",
-        "verseny"
-      ],
-      "image": "https://kreativ.hu/img-cache/r/g/b/2/6/rgb26-admin-megosztasikep-1920x1080px-201-01-png-0-20260706-690-920-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-07-06T11:17:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "f4c72e9a",
-      "title": "Romok és esélyek – Merre tovább, magyar médiarendszer?",
-      "url": "https://kreativ.hu/cikk/mediarendszer-kozmedia-polyak-gabor-mediatorveny-atalakulas-modositas",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Eljött a pillanat, amikor szabad álmodozni. Sőt muszáj. Ki kell találnunk, közösen, a szakmának, a piaci szereplőknek, a közönségnek és a politikai döntéshozóknak, hogy milyen legyen Magyarország…",
-      "fullSummary": "Eljött a pillanat, amikor szabad álmodozni. Sőt muszáj. Ki kell találnunk, közösen, a szakmának, a piaci szereplőknek, a közönségnek és a politikai döntéshozóknak, hogy milyen legyen Magyarország…",
-      "tags": [
-        "Mediatorveny",
-        "Kozmedia",
-        "Modositas",
-        "Polyak Gabor",
-        "Atalakulas",
-        "Mediarendszer"
-      ],
-      "rawTags": [
-        "mediatorveny",
-        "kozmedia",
-        "modositas",
-        "polyak-gabor",
-        "atalakulas",
-        "mediarendszer",
-        "media"
-      ],
-      "image": null,
-      "author": "Polyák Gábor",
-      "category": "",
-      "publishedAt": "2026-07-06T09:45:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "6cf8c072",
-      "title": "Zsolt Péter: A Sajtóalapot hibrid pénzosztó rendszerként kellene felépíteni",
-      "url": "https://kreativ.hu/cikk/zsolt-peter-szociologus-uj-mediatorveny-sajtoalap-finanszirozas-tarsadalmi-vita",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Az új médiatörvény elfogadása után sem késő társadalmi vitát folytatni – állítja Zsolt Péter, szociológus, a Méltányosság Politikaelemző Központ kutatási igazgatója. Szerinte a mostani szabályozás a…",
-      "fullSummary": "Az új médiatörvény elfogadása után sem késő társadalmi vitát folytatni – állítja Zsolt Péter, szociológus, a Méltányosság Politikaelemző Központ kutatási igazgatója. Szerinte a mostani szabályozás a…",
-      "tags": [
-        "Finanszirozas",
-        "Zsolt Peter",
-        "Tarsadalmi Vita",
-        "Szociologus",
-        "Uj Mediatorveny",
-        "Sajtoalap"
-      ],
-      "rawTags": [
-        "finanszirozas",
-        "zsolt-peter",
-        "tarsadalmi-vita",
-        "szociologus",
-        "uj-mediatorveny",
-        "sajtoalap",
-        "media",
-        "insight"
-      ],
-      "image": null,
-      "author": "Tiszóczi Roland",
-      "category": "",
-      "publishedAt": "2026-07-02T09:15:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "bbc57d70",
-      "title": "Greenpeace — Renaming Tube Stations",
-      "url": "https://theinspiration.com/2026/07/greenpeace-renaming-tube-stations/",
-      "source": "theinspiration",
-      "sourceName": "The Inspiration",
-      "accent": "#f5b301",
-      "summary": "",
-      "fullSummary": "",
-      "tags": [
-        "Goodvertising"
-      ],
-      "rawTags": [
-        "Goodvertising"
-      ],
-      "image": "https://theinspiration.com/wp-content/uploads/greenpeace-metro-londres-shell-canicule-6.jpeg-750x536.webp",
-      "author": "Daniel Ingvartsen",
-      "category": "Goodvertising",
-      "publishedAt": "2026-07-01T12:43:02Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "e2e116b5",
-      "title": "Duct Tape Carving By Takahiro Iwasaki",
-      "url": "https://theinspiration.com/2026/06/duct-tape-carving-by-takahiro-iwasaki/",
-      "source": "theinspiration",
-      "sourceName": "The Inspiration",
-      "accent": "#f5b301",
-      "summary": "",
-      "fullSummary": "",
-      "tags": [
-        "Advertising"
-      ],
-      "rawTags": [
-        "Advertising"
-      ],
-      "image": "https://theinspiration.com/wp-content/uploads/Geoeye-Takahiro-Iwasaki-750x536.webp",
-      "author": "Daniel Ingvartsen",
-      "category": "Advertising",
-      "publishedAt": "2026-06-30T12:49:47Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "651406e8",
-      "title": "Columbia Sportswear — Expedition Impossible",
-      "url": "https://theinspiration.com/2026/06/columbia-sportswear-expedition-impossible/",
-      "source": "theinspiration",
-      "sourceName": "The Inspiration",
-      "accent": "#f5b301",
-      "summary": "",
-      "fullSummary": "",
-      "tags": [
-        "Advertising",
-        "Sport"
-      ],
-      "rawTags": [
-        "Advertising"
-      ],
-      "image": "https://theinspiration.com/wp-content/uploads/expedition-impossible-columbia-sportswear-750x536.webp",
-      "author": "Daniel Ingvartsen",
-      "category": "Advertising",
-      "publishedAt": "2026-06-30T12:42:41Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "97c96fd4",
-      "title": "Red Bull — Jumping a Bike Between Two Moving Boats",
-      "url": "https://theinspiration.com/2026/06/red-bull-jumping-a-bike-between-two-moving-boats/",
-      "source": "theinspiration",
-      "sourceName": "The Inspiration",
-      "accent": "#f5b301",
-      "summary": "",
-      "fullSummary": "",
-      "tags": [
-        "Advertising"
-      ],
-      "rawTags": [
-        "Advertising"
-      ],
-      "image": "https://theinspiration.com/wp-content/uploads/maxresddasfdfsdsffdsefault-750x536.webp",
-      "author": "Daniel Ingvartsen",
-      "category": "Advertising",
-      "publishedAt": "2026-06-30T12:39:19Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "c6fd3ec7",
-      "title": "Uber Eats Outdoors",
-      "url": "https://theinspiration.com/2026/06/uber-eats-outdoors/",
-      "source": "theinspiration",
-      "sourceName": "The Inspiration",
-      "accent": "#f5b301",
-      "summary": "",
-      "fullSummary": "",
-      "tags": [
-        "Advertising"
-      ],
-      "rawTags": [
-        "Advertising"
-      ],
-      "image": "https://theinspiration.com/wp-content/uploads/uber-eats-emballe-sac-marques-special-australie-6.jpeg-750x536.webp",
-      "author": "Daniel Ingvartsen",
-      "category": "Advertising",
-      "publishedAt": "2026-06-25T09:09:30Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "6deb7379",
-      "title": "DeLonghi – Tiny Coffee Shops",
-      "url": "https://theinspiration.com/2026/06/delonghi-tiny-coffee-shops/",
-      "source": "theinspiration",
-      "sourceName": "The Inspiration",
-      "accent": "#f5b301",
-      "summary": "",
-      "fullSummary": "",
-      "tags": [
-        "Advertising",
-        "Food & Drink"
-      ],
-      "rawTags": [
-        "Advertising"
-      ],
-      "image": "https://theinspiration.com/wp-content/uploads/DeLonghi-Tiny-Coffee-Shops.Dp75nD5K-750x536.webp",
-      "author": "Daniel Ingvartsen",
-      "category": "Advertising",
-      "publishedAt": "2026-06-24T10:54:02Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "f4a969e2",
-      "title": "Polaroid Billboards",
-      "url": "https://theinspiration.com/2026/06/polaroid-billboards/",
-      "source": "theinspiration",
-      "sourceName": "The Inspiration",
-      "accent": "#f5b301",
-      "summary": "",
-      "fullSummary": "",
-      "tags": [
-        "Advertising",
-        "OOH"
-      ],
-      "rawTags": [
-        "Advertising"
-      ],
-      "image": "https://theinspiration.com/wp-content/uploads/imgi_18_polaroid-data-centers-campagne-ete-20260619.jpg-750x536.webp",
-      "author": "Daniel Ingvartsen",
-      "category": "Advertising",
-      "publishedAt": "2026-06-24T10:47:09Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "4d6c856b",
-      "title": "Madame Airma – The Fortune Teller of Cannes",
-      "url": "https://theinspiration.com/2026/06/madame-airma-the-fortune-teller-of-cannes/",
-      "source": "theinspiration",
-      "sourceName": "The Inspiration",
-      "accent": "#f5b301",
-      "summary": "Enter Madame AIrma. Created by French agency Artefact 3000, this AI “fortune teller” is a masterclass in wrapping cold, hard tech in a brilliantly theatrical package. By analyzing a campaign board’s layout, copy, and strategy against years…",
-      "fullSummary": "Enter Madame AIrma. Created by French agency Artefact 3000, this AI “fortune teller” is a masterclass in wrapping cold, hard tech in a brilliantly theatrical package. By analyzing a campaign board’s layout, copy, and strategy against years of historical Cannes data, the tool predicts its chances of winning. But the true genius of Madame AIrma […]",
-      "tags": [
-        "Advertising",
-        "AI",
-        "Agencies",
-        "Campaigns",
-        "Strategy"
-      ],
-      "rawTags": [
-        "Advertising"
-      ],
-      "image": "https://theinspiration.com/wp-content/uploads/madame-airma-ia-cannes-lions-G-750x536.webp",
-      "author": "Daniel Ingvartsen",
-      "category": "Advertising",
-      "publishedAt": "2026-06-24T10:44:33Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
     }
   ]
 }
