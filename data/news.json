@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T09:33:22Z",
+  "generatedAt": "2026-10-29T09:50:54Z",
   "itemCount": 400,
   "sources": [
     {
@@ -9,7 +9,7 @@
       "accent": "#00d1b2",
       "status": "error",
       "error": "failed to fetch https://www.thedrum.com/: HTTP Error 403: Forbidden",
-      "count": 41
+      "count": 36
     },
     {
       "id": "kreativ",
@@ -18,7 +18,7 @@
       "accent": "#e8453c",
       "status": "ok",
       "error": null,
-      "count": 25
+      "count": 22
     },
     {
       "id": "creativereview",
@@ -49,6 +49,258 @@
     }
   ],
   "items": [
+    {
+      "id": "fcbcf5b9",
+      "title": "Columbia Sportswear — Don’t Panic Room",
+      "url": "https://theinspiration.com/2026/10/columbia-sportswear-dont-panic-room/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "Columbia is taking aim at billionaire tech bros building survival bunkers by giving everyone else a chance to get one too. The brand is giving away a fully stocked, off-grid bunker to whoever can best demonstrate their outdoor survival…",
+      "fullSummary": "Columbia is taking aim at billionaire tech bros building survival bunkers by giving everyone else a chance to get one too. The brand is giving away a fully stocked, off-grid bunker to whoever can best demonstrate their outdoor survival skills. Built inside a modified shipping container, the “Don’t Panic Room” comes complete with everything from […]",
+      "tags": [
+        "Advertising",
+        "Branding",
+        "Sport"
+      ],
+      "rawTags": [
+        "Advertising"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/c1e69e18-bbe8-447e-95a6-4f28b3e7850f-750x536.webp",
+      "author": "René Kammersgaard",
+      "category": "Advertising",
+      "publishedAt": "2026-10-29T09:45:18Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-29T09:50:54Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "8ad8fb48",
+      "title": "Horváth Dori Gábor is megpályázza a közmédia vezérigazgatói posztját",
+      "url": "https://kreativ.hu/cikk/kozmedia-televizio-palyazat-vezerigazgato-jelolt-horvath-dori-gabor",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Újabb névvel bővült a közmédia vezérigazgatói posztjáért indulók köre: a SorozatWiki információi szerint Horváth Dori Gábor, a Chello Central Europe és a Viacom Global Hungary korábbi vezetője is…",
+      "fullSummary": "Újabb névvel bővült a közmédia vezérigazgatói posztjáért indulók köre: a SorozatWiki információi szerint Horváth Dori Gábor, a Chello Central Europe és a Viacom Global Hungary korábbi vezetője is megpályázza a pozíciót.",
+      "tags": [
+        "Film & TV",
+        "Awards",
+        "Vezerigazgato",
+        "Kozmedia",
+        "Jelolt",
+        "Media"
+      ],
+      "rawTags": [
+        "televizio",
+        "palyazat",
+        "vezerigazgato",
+        "kozmedia",
+        "jelolt",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/7/3/2/8/6/732863387-1305085548448553-2193538020299231651-n-jfif-0-20261029-920-690-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-10-29T09:08:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-29T09:50:54Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "e12c6445",
+      "title": "Visit Iceland will send a knitter to your pointless online meeting",
+      "url": "https://www.famouscampaigns.com/2026/10/visit-iceland-will-send-a-knitter-to-your-pointless-online-meeting/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Visit Iceland is offering to send a real Icelandic knitter to your online meetings, then deliver a one-word summary made from wool. Created by M+C Saatchi North America and Peel, ‘AI Knittakers’ stands for Authentic Icelandic Knittakers.…",
+      "fullSummary": "Visit Iceland is offering to send a real Icelandic knitter to your online meetings, then deliver a one-word summary made from wool. Created by M+C Saatchi North America and Peel, ‘AI Knittakers’ stands for Authentic Icelandic Knittakers. The free, bookable service launches today, giving office workers a human alternative to the AI notetaker and an […]",
+      "tags": [
+        "PR",
+        "Social Media",
+        "Travel",
+        "AI"
+      ],
+      "rawTags": [
+        "PR",
+        "Social Media",
+        "Travel"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/10/Visit-iceland-Knitting.mp4",
+      "author": "James Herring",
+      "category": "PR",
+      "publishedAt": "2026-10-29T08:55:14Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-29T09:50:54Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "cd6c9cae",
+      "title": "Deliveroo finally solves Cheryl’s milk problem",
+      "url": "https://www.famouscampaigns.com/2026/10/deliveroo-finally-solves-cheryls-milk-problem/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Cheryl is back in her pyjamas and out of milk. Deliveroo has revived the singer’s viral complaint about fame to launch Tesco on its app across 75 UK towns and cities. Created by The Romans, the film revisits her much-memed confession: “I…",
+      "fullSummary": "Cheryl is back in her pyjamas and out of milk. Deliveroo has revived the singer’s viral complaint about fame to launch Tesco on its app across 75 UK towns and cities. Created by The Romans, the film revisits her much-memed confession: “I can’t nip to the garage in my pyjamas anymore for a pint of […]",
+      "tags": [
+        "Celebrity",
+        "Food & Drink",
+        "PR",
+        "Social Media",
+        "Film & TV"
+      ],
+      "rawTags": [
+        "Celebrity",
+        "Food & Drink",
+        "PR",
+        "Social Media"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/10/cheryl-deliveroo.mp4",
+      "author": "James Herring",
+      "category": "Celebrity",
+      "publishedAt": "2026-10-28T16:54:40Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-29T09:50:54Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "b53ee594",
+      "title": "Ribánszky Ágota lesz az ELLE főszerkesztő-helyettese",
+      "url": "https://kreativ.hu/cikk/ribanszky-agota-lesz-az-elle-foszerkeszto-helyettese",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "November 1-jétől Ribánszky Ágota tölti be az ELLE Magyarország főszerkesztő-helyettesi pozícióját.",
+      "fullSummary": "November 1-jétől Ribánszky Ágota tölti be az ELLE Magyarország főszerkesztő-helyettesi pozícióját.",
+      "tags": [
+        "Szemelyi Hir",
+        "Elle",
+        "Foszerkeszto Helyettes",
+        "Ribanszky Agota",
+        "Media"
+      ],
+      "rawTags": [
+        "szemelyi-hir",
+        "elle",
+        "foszerkeszto-helyettes",
+        "ribanszky-agota",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/r/i/b/a/n/ribanszky-agota-png-0-20261028-608-25-811-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-10-28T14:30:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-29T09:50:54Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "0ff9a870",
+      "title": "Filutás Anna lett a Sziget Zrt. új vezetője",
+      "url": "https://kreativ.hu/cikk/sziget-fesztival-igazgato-filutas-anna-kadar-tamas-gerendai-karoly-szemelyi-hir",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A tavaly év végi tulajdonosváltást követően átalakult a Sziget Fesztivált szervező Sziget Zrt. vezetési struktúrája: a stratégiai irányításért új igazgatóság felel, a cégvezetői és főszervezői…",
+      "fullSummary": "A tavaly év végi tulajdonosváltást követően átalakult a Sziget Fesztivált szervező Sziget Zrt. vezetési struktúrája: a stratégiai irányításért új igazgatóság felel, a cégvezetői és főszervezői feladatokat pedig Filutás Anna veszi át Kádár Tamástól, aki 15 év után adja át a pozíciót.",
+      "tags": [
+        "Szemelyi Hir",
+        "Fesztival",
+        "Sziget",
+        "Igazgato",
+        "Kadar Tamas",
+        "Gerendai Karoly"
+      ],
+      "rawTags": [
+        "szemelyi-hir",
+        "fesztival",
+        "sziget",
+        "igazgato",
+        "kadar-tamas",
+        "gerendai-karoly",
+        "filutas-anna",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/s/z/i/g/e/sziget-filutas-anna-0-20261028-601-5-802-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-10-28T13:21:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-29T09:50:54Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "2a7ac5c1",
+      "title": "„Öt munkanap alatt nem lehet helyrehozni 16 év piaci torzulásait a kommunikációs közbeszerzésekben”",
+      "url": "https://kreativ.hu/cikk/kozbeszerzes-szabaly-modositas-fair-tender-nru-nkoh-maksz-mprsz-mrsz-maresz-pmsz-dimsz-ort-iab-hungary",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A kommunikációs szakmai szövetségek üdvözlik a piaci verseny és az átláthatóság helyreállításának szándékát, de hosszabb véleményezési határidőt és részletes szakmai egyeztetést kérnek a…",
+      "fullSummary": "A kommunikációs szakmai szövetségek üdvözlik a piaci verseny és az átláthatóság helyreállításának szándékát, de hosszabb véleményezési határidőt és részletes szakmai egyeztetést kérnek a rendezvényszervezési, valamint a kommunikációs és médiabeszerzési tenderekhez. A nyolc szervezet közös levelére reagálva a kiíró Nemzeti Rendezvényszervező Ügynökség (NRÜ) két személyes találkozót kezdeményezett a jövő hét elejére.",
+      "tags": [
+        "Pmsz",
+        "Maresz",
+        "Kozbeszerzes",
+        "Tender",
+        "Mrsz",
+        "Maksz"
+      ],
+      "rawTags": [
+        "pmsz",
+        "maresz",
+        "kozbeszerzes",
+        "tender",
+        "mrsz",
+        "maksz",
+        "mprsz",
+        "ort"
+      ],
+      "image": "https://kreativ.hu/img-cache/j/a/s/o/n/jason-mavrommatis-9ap357mj8s-unsplash-0-20261028-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-10-28T12:33:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-29T09:50:54Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "9a3402f8",
+      "title": "Sávos reklámadó jön 2027-től: 7,5 százalék lehet a legmagasabb kulcs",
+      "url": "https://kreativ.hu/cikk/media-reklam-ado-torvenyjavaslat-hirdetes-reklamado-2027-2026",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A reklámadó részletszabályait is tartalmazza az Országgyűlés elé benyújtott adótörvény-módosítási javaslat. A tervezet szerint 2027. január 1-jétől a reklámközzétevőknek sávosan progresszív adózással…",
+      "fullSummary": "A reklámadó részletszabályait is tartalmazza az Országgyűlés elé benyújtott adótörvény-módosítási javaslat. A tervezet szerint 2027. január 1-jétől a reklámközzétevőknek sávosan progresszív adózással kell számolniuk: az adóalap első 500 millió forintos része után továbbra is nulla százalék lenne az adó, a legmagasabb sávban viszont 7,5 százalékos kulcs lépne életbe. A reklám megrendelőire 2,5 százalékos adómérték vonatkozna, miközben a…",
+      "tags": [
+        "Ado",
+        "Advertising",
+        "Media",
+        "Reklamado",
+        "Torvenyjavaslat",
+        "2026"
+      ],
+      "rawTags": [
+        "ado",
+        "reklam",
+        "media",
+        "hirdetes",
+        "reklamado",
+        "torvenyjavaslat",
+        "2026",
+        "2027"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/a/r/k/u/markus-winkler-ber3q-zehd4-unsplash-0-20261028-920-690-90-zc.webp",
+      "author": "Tiszóczi Roland",
+      "category": "",
+      "publishedAt": "2026-10-28T10:37:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-29T09:50:54Z",
+      "enrichAttempts": 1
+    },
     {
       "id": "570ca80b",
       "title": "Columbia takes aim at tech billionaires with survival bunker giveaway",
@@ -86,7 +338,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Több mint húszéves nemzetközi tapasztalattal rendelkező szakember, Tamás Krisztina veszi át az ACG rendezvénydivíziójának vezetését. A korábban ATP- és WTA-tenisztornák, valamint a Red Bull, a…",
-      "fullSummary": "Több mint húszéves nemzetközi tapasztalattal rendelkező szakember, Tamás Krisztina veszi át az ACG rendezvénydivíziójának vezetését. A korábban ATP- és WTA-tenisztornák, valamint a Red Bull, a Longines és a FIFA nagyszabású eseményeinek megvalósításában közreműködő szakember feladata az üzletág stratégiai és kreatív fejlesztése lesz.",
+      "fullSummary": "Több mint húszéves nemzetközi tapasztalattal rendelkező szakember, Tamás Krisztina veszi át az ACG rendezvénydivíziójának vezetését. A korábban ATP- és WTA-tenisztornák, valamint a Red Bull, a…",
       "tags": [
         "Szemelyi Hir",
         "Rendezveny",
@@ -103,7 +355,7 @@
         "tamas-krisztina",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/t/a/m/a/s/tamas-krisztina-acg-jpeg-0-20261028-800-600-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/t/a/m/a/s/tamas-krisztina-acg-jpeg-0-20261028-451-5-602-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-10-28T09:15:00Z",
@@ -119,7 +371,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Szlovénia nemcsak természeti szépségeivel, hanem tudatosan épített országimázsával is kitűnik a turisztikai célpontok közül: a sportot, a gasztronómiát és a fenntarthatóságot egységes történetté…",
-      "fullSummary": "Szlovénia nemcsak természeti szépségeivel, hanem tudatosan épített országimázsával is kitűnik a turisztikai célpontok közül: a sportot, a gasztronómiát és a fenntarthatóságot egységes történetté formálja. A szlovén példákon keresztül azt járom körül, hogyan válhatnak egy ország adottságai megkülönböztető márkaértékké, és milyen tanulságokat érdemes ebből Magyarországnak is levonnia. Martinovic-Benkő Lívia véleménycikke.",
+      "fullSummary": "Szlovénia nemcsak természeti szépségeivel, hanem tudatosan épített országimázsával is kitűnik a turisztikai célpontok közül: a sportot, a gasztronómiát és a fenntarthatóságot egységes történetté…",
       "tags": [
         "Kommunikacio",
         "Magyarorszag",
@@ -177,7 +429,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Egy év alatt több mint 50 millió, mesterséges intelligenciával generált, spamnek vagy silány tartalomnak minősített zeneszámot távolított el ajánlórendszereiből a Spotify. A streamingplatform az…",
-      "fullSummary": "Egy év alatt több mint 50 millió, mesterséges intelligenciával generált, spamnek vagy silány tartalomnak minősített zeneszámot távolított el ajánlórendszereiből a Spotify. A streamingplatform az előadók védelme és a hallgatók tájékoztatása érdekében AI-jelöléseket, előadói hitelesítést és új profilvédelmi eszközöket is bevezetett.",
+      "fullSummary": "Egy év alatt több mint 50 millió, mesterséges intelligenciával generált, spamnek vagy silány tartalomnak minősített zeneszámot távolított el ajánlórendszereiből a Spotify. A streamingplatform az…",
       "tags": [
         "Music",
         "Ajanlas",
@@ -192,7 +444,7 @@
         "ai",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/g/a/b/r/i/gabriel-gurrola-2uuhmzechdc-unsplash-0-20261028-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/g/a/b/r/i/gabriel-gurrola-2uuhmzechdc-unsplash-0-20261028-690-920-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-10-28T08:09:00Z",
@@ -208,7 +460,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Press Gazette havonta frissülő elemzése szerint a világ ötven legnagyobb angol nyelvű hírportáljának felénél több mint húsz százalékos forgalomcsökkenés volt szeptemberben az előző év azonos…",
-      "fullSummary": "A Press Gazette havonta frissülő elemzése szerint a világ ötven legnagyobb angol nyelvű hírportáljának felénél több mint húsz százalékos forgalomcsökkenés volt szeptemberben az előző év azonos időszakához képest. Az Euronews viszont közel megduplázta a havi látogatottságát.",
+      "fullSummary": "A Press Gazette havonta frissülő elemzése szerint a világ ötven legnagyobb angol nyelvű hírportáljának felénél több mint húsz százalékos forgalomcsökkenés volt szeptemberben az előző év azonos…",
       "tags": [
         "Kutatas",
         "Riport",
@@ -223,7 +475,7 @@
         "hirportal",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/p/e/x/e/l/pexels-ono-kosuki-5999976-0-20261027-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/p/e/x/e/l/pexels-ono-kosuki-5999976-0-20261027-690-920-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-10-28T08:04:00Z",
@@ -266,7 +518,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Grayling Group bejelentette új vezetői testületét, amely 2026. november 2-től irányítja a nemzetközi kommunikációs csoportot. A vezetőség megújulása egyben névváltást is jelöl, ugyanezen naptól…",
-      "fullSummary": "A Grayling Group bejelentette új vezetői testületét, amely 2026. november 2-től irányítja a nemzetközi kommunikációs csoportot. A vezetőség megújulása egyben névváltást is jelöl, ugyanezen naptól kezdve az Accordience Grayling Group néven folytatja működését.",
+      "fullSummary": "A Grayling Group bejelentette új vezetői testületét, amely 2026. november 2-től irányítja a nemzetközi kommunikációs csoportot. A vezetőség megújulása egyben névváltást is jelöl, ugyanezen naptól…",
       "tags": [
         "Szemelyi Hirek",
         "Grayling",
@@ -279,7 +531,7 @@
         "vezetocsere",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-157268392-jpeg-20261027-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-157268392-jpeg-20261027-549-75-733-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-10-27T15:04:00Z",
@@ -427,7 +679,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Szakmai beszélgetéseknek is otthont ad a Budapest International Film Festival (BIFF). Hétfőn három blokkból álló eseményen többek között az átalakuló Nemzeti Filmintézetről (NFI) és pályázati…",
-      "fullSummary": "Szakmai beszélgetéseknek is otthont ad a Budapest International Film Festival (BIFF). Hétfőn három blokkból álló eseményen többek között az átalakuló Nemzeti Filmintézetről (NFI) és pályázati rendszerről is beszéltek. Úgy tűnik novemberben áll fel az NFI új vezetése.",
+      "fullSummary": "Szakmai beszélgetéseknek is otthont ad a Budapest International Film Festival (BIFF). Hétfőn három blokkból álló eseményen többek között az átalakuló Nemzeti Filmintézetről (NFI) és pályázati…",
       "tags": [
         "Film & TV",
         "Palyazatok",
@@ -446,7 +698,7 @@
         "filmreform-2026",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/f/i/l/m/r/filmref-20261027-549-75-733-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/f/i/l/m/r/filmref-20261027-920-690-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-10-27T12:04:00Z",
@@ -490,7 +742,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A 43. héten a 18-59-es korcsoportban megtört a Sztárban Sztár menetelése, és az RTL Híradó lett a legnézettebb – a showműsor így a második helyre szorult. A múlt héten elstartolt Ázsia Expressz pedig…",
-      "fullSummary": "A 43. héten a 18-59-es korcsoportban megtört a Sztárban Sztár menetelése, és az RTL Híradó lett a legnézettebb – a showműsor így a második helyre szorult. A múlt héten elstartolt Ázsia Expressz pedig a teljes lakosság műsortoplistájában máris a második lett.",
+      "fullSummary": "A 43. héten a 18-59-es korcsoportban megtört a Sztárban Sztár menetelése, és az RTL Híradó lett a legnézettebb – a showműsor így a második helyre szorult. A múlt héten elstartolt Ázsia Expressz pedig…",
       "tags": [
         "Tv2",
         "Nezettseg",
@@ -503,7 +755,7 @@
         "rtl",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/3/3/9/6/0/339604326-602712028547090-3481085620119465685-n-png-20261027-169-5-226-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/3/3/9/6/0/339604326-602712028547090-3481085620119465685-n-png-20261027-300-225-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-10-27T08:44:00Z",
@@ -11463,256 +11715,6 @@
       "author": "Mel Henson",
       "category": "Creative",
       "publishedAt": "2026-09-04T11:45:58Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "3a166ae3",
-      "title": "Ad of the Day: Thomas’ persuades Cecily Strong to join the morning people",
-      "url": "https://www.thedrum.com/news/ad-of-the-day-thomas-persuades-cecily-strong-to-join-the-morning-people",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "For Cecily Strong, years of late nights spent recording the hit NBC entertainment show Saturday Night Live mean she’s grown to love her duvet in the morning – and very little will tempt her out…",
-      "fullSummary": "For Cecily Strong, years of late nights spent recording the hit NBC entertainment show Saturday Night Live mean she’s grown to love her duvet in the morning – and very little will tempt her out…",
-      "tags": [
-        "Creative",
-        "Creative Work",
-        "Advertising"
-      ],
-      "rawTags": [
-        "Creative work",
-        "Ad of the Day",
-        "Creative"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/pr-imagest-c-kitchen-with-lockup.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Mel Henson",
-      "category": "Creative",
-      "publishedAt": "2026-09-03T11:08:49Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "185acb69",
-      "title": "Ad of the Day: Michael J Fox and Harrison Ford make Parkinson’s less awkward",
-      "url": "https://www.thedrum.com/news/ad-of-the-day-michael-j-fox-and-harrison-ford-make-parkinson-s-advice-genuinely-funny",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "Most people have no idea what to say when a friend tells them they have Parkinson’s. Michael J Fox and Harrison Ford have some advice: don’t make it weird. That’s the deceptively simple premise…",
-      "fullSummary": "Most people have no idea what to say when a friend tells them they have Parkinson’s. Michael J Fox and Harrison Ford have some advice: don’t make it weird. That’s the deceptively simple premise…",
-      "tags": [
-        "Creative",
-        "Advertising"
-      ],
-      "rawTags": [
-        "Ad of the Day",
-        "Creative"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/michael-j-fox-and-harrison-ford-parkinsons-the-drum.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Mel Henson",
-      "category": "Creative",
-      "publishedAt": "2026-09-02T13:35:45Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "a8b5f08a",
-      "title": "Ad of the Day: Canva’s crafty pigeon returns for another handmade adventure",
-      "url": "https://www.thedrum.com/news/ad-of-the-day-canva-s-crafty-pigeon-returns-for-another-handmade-adventure",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "The design platform Canva is simple, accessible and enjoyable to use, so it’s fitting that its new ad is, too. Interestingly, however, it hasn’t used its own highly advanced AI capabilities to make…",
-      "fullSummary": "The design platform Canva is simple, accessible and enjoyable to use, so it’s fitting that its new ad is, too. Interestingly, however, it hasn’t used its own highly advanced AI capabilities to make…",
-      "tags": [
-        "Creative",
-        "Advertising",
-        "AI",
-        "Design",
-        "Diversity"
-      ],
-      "rawTags": [
-        "Ad of the Day",
-        "Creative"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/9afafd09-6c03-43cc-907b-c69e4daa8f30.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Mel Henson",
-      "category": "Creative",
-      "publishedAt": "2026-09-01T11:00:42Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "48ed01ac",
-      "title": "A #reklám már kevés: amit az influenszermarketing jogi kockázatairól 2026-ban tudni kell",
-      "url": "https://kreativ.hu/cikk/a-reklam-mar-keves-amit-egy-mediaugynoksegnek-2026-ban-tudnia-kell-az-influenszermarketing-jogi-kockazatairol",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Az influenszermarketing mára a reklámpiac egyik mindennapos eszközévé vált. A jogi környezet és a Gazdasági Versenyhivatal gyakorlata is egyre kiforrottabb. A kampányban részt vevő hirdető,…",
-      "fullSummary": "Az influenszermarketing mára a reklámpiac egyik mindennapos eszközévé vált. A jogi környezet és a Gazdasági Versenyhivatal gyakorlata is egyre kiforrottabb. A kampányban részt vevő hirdető,…",
-      "tags": [
-        "Advertising",
-        "Kockazat",
-        "Mediaugynokseg",
-        "Jog",
-        "Influenszermarketing",
-        "Media"
-      ],
-      "rawTags": [
-        "reklam",
-        "kockazat",
-        "mediaugynokseg",
-        "jog",
-        "influenszermarketing",
-        "media"
-      ],
-      "image": null,
-      "author": "Dr. Pusztay Petra",
-      "category": "",
-      "publishedAt": "2026-08-27T07:33:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "12e8c832",
-      "title": "Indul a nevezés a Lollipopra! Idén is keressük a legjobb márkaélményeket, eseményeket és aktivációkat",
-      "url": "https://kreativ.hu/cikk/btl-verseny-pr-lollipop-nevezes",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Elindult a nevezés a legjobb promóciós megoldásokat, márkamegjelenéseket, aktivációkat és eseményeket díjazó BTL reklámversenyünkre. Az első nevezési határidő október 19, de legkésőbb október 29-ig…",
-      "fullSummary": "Elindult a nevezés a legjobb promóciós megoldásokat, márkamegjelenéseket, aktivációkat és eseményeket díjazó BTL reklámversenyünkre. Az első nevezési határidő október 19, de legkésőbb október 29-ig…",
-      "tags": [
-        "Btl",
-        "Verseny",
-        "PR",
-        "Lollipop",
-        "Awards",
-        "Advertising"
-      ],
-      "rawTags": [
-        "btl",
-        "verseny",
-        "pr",
-        "lollipop",
-        "nevezes",
-        "reklam",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/l/o/l/l/i/lolli2026-v2-png-20260806-920-690-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-08-26T09:15:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "d0fbfabf",
-      "title": "Mohács: sorstragédia vagy tisztes helytállás? – Eltérő érdekek formálta kommunikáció",
-      "url": "https://kreativ.hu/cikk/mohacs-mohacs-500-interju-evfordulo-dr-varga-szabolcs-tortenesz-nemzeti-identitas-sorstragedia-helytallas-kommunikacio",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Hogyan alakítják a magyarság nemzeti identitását a mohácsi csata körül kialakult narratívák, és milyen érdekek mentén születtek meg e különböző értelmezések? Miként jött létre ezekből a reformkor…",
-      "fullSummary": "Hogyan alakítják a magyarság nemzeti identitását a mohácsi csata körül kialakult narratívák, és milyen érdekek mentén születtek meg e különböző értelmezések? Miként jött létre ezekből a reformkor…",
-      "tags": [
-        "Kommunikacio",
-        "Interju",
-        "Mohacs",
-        "Evfordulo",
-        "Tortenesz",
-        "Mohacs 500"
-      ],
-      "rawTags": [
-        "kommunikacio",
-        "interju",
-        "mohacs",
-        "evfordulo",
-        "tortenesz",
-        "mohacs-500",
-        "dr-varga-szabolcs",
-        "nemzeti-identitas"
-      ],
-      "image": null,
-      "author": "Tiszóczi Roland",
-      "category": "",
-      "publishedAt": "2026-08-24T08:15:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "787911e0",
-      "title": "Spiro explains why throwing away ideas can lead to great experiential",
-      "url": "https://www.thedrum.com/opinion/spiro-explains-why-the-secret-to-great-experiential-is-having-the-courage-to-throw-away-ideas",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "For The Drum’s regular feature Secret Sauce, Carley Faircloth-Kilmurray of Spiro says for experiential to work, its creative must answer the right question. There’s a moment every experiential agency…",
-      "fullSummary": "For The Drum’s regular feature Secret Sauce, Carley Faircloth-Kilmurray of Spiro says for experiential to work, its creative must answer the right question. There’s a moment every experiential agency…",
-      "tags": [
-        "Agencies",
-        "Agency Performance",
-        "Experiential",
-        "Strategy",
-        "Agency Culture",
-        "Secret Sauce"
-      ],
-      "rawTags": [
-        "Agency performance",
-        "Agency",
-        "Experiential",
-        "Brand strategy",
-        "Agency culture",
-        "Secret Sauce",
-        "Summer of Agency Love",
-        "Marketing Services",
-        "Events",
-        "Agencies"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/spiro.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Carley Faircloth-Kilmurray",
-      "category": "Agencies",
-      "publishedAt": "2026-08-24T07:00:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "23d18348",
-      "title": "Tony Walford: Is your agency really ready for a sale? Here’s what buyers want to see",
-      "url": "https://www.thedrum.com/opinion/is-your-agency-really-ready-for-a-sale-here-s-what-buyers-want-to-see",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "M&A advisor Tony Walford explains why timing the market matters less than making sure your agency is genuinely ready to sell. As the UK tumbles towards the first autumn statement under new prime…",
-      "fullSummary": "M&A advisor Tony Walford explains why timing the market matters less than making sure your agency is genuinely ready to sell. As the UK tumbles towards the first autumn statement under new prime…",
-      "tags": [
-        "Agencies",
-        "Agency Models",
-        "Agency Leadership",
-        "Summer Of Agency Love",
-        "Mergers And Acquisitions"
-      ],
-      "rawTags": [
-        "Agency models",
-        "Agency leadership",
-        "Summer of Agency Love",
-        "Mergers and acquisitions",
-        "Agencies"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/adobestock-1944860601.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Tony Walford",
-      "category": "Agencies",
-      "publishedAt": "2026-08-20T09:22:53Z",
       "datePrecise": true,
       "firstSeenAt": "2026-09-13T23:14:17Z",
       "enrichAttempts": 1
