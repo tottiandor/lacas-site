@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T09:50:54Z",
+  "generatedAt": "2026-10-30T09:55:09Z",
   "itemCount": 400,
   "sources": [
     {
@@ -9,7 +9,7 @@
       "accent": "#00d1b2",
       "status": "error",
       "error": "failed to fetch https://www.thedrum.com/: HTTP Error 403: Forbidden",
-      "count": 36
+      "count": 31
     },
     {
       "id": "kreativ",
@@ -18,7 +18,7 @@
       "accent": "#e8453c",
       "status": "ok",
       "error": null,
-      "count": 22
+      "count": 25
     },
     {
       "id": "creativereview",
@@ -49,6 +49,262 @@
     }
   ],
   "items": [
+    {
+      "id": "a2a8bfe9",
+      "title": "Független Közmédia Testület: megújult a közmédia felügyelőbizottsága",
+      "url": "https://kreativ.hu/cikk/kozmedia-felugyelobizottsag-fuggetlen-kozmedia-testulet",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Megújult a közmédia felügyelőbizottsága, elnöke Borosné Szüts Ildikó, a Budapest Gyógyfürdői és Hévizei Zrt. vezérigazgatója lett.",
+      "fullSummary": "Megújult a közmédia felügyelőbizottsága, elnöke Borosné Szüts Ildikó, a Budapest Gyógyfürdői és Hévizei Zrt. vezérigazgatója lett.",
+      "tags": [
+        "Kozmedia",
+        "Felugyelobizottsag",
+        "Media"
+      ],
+      "rawTags": [
+        "kozmedia",
+        "felugyelobizottsag",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/f/u/g/g/e/fuggetlen-kozmedia-testulet-fkt-logo-cimlapra-v2-20261030-673-504-75-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-10-30T09:30:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-30T09:55:09Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "ffc66ecf",
+      "title": "Reklámadó 2.0.: negyedére csökkenhet a reklámadó által érintett médiacégek köre, jelentős adóveszteség nélkül",
+      "url": "https://kreativ.hu/cikk/reklamado-whitereport-mediacegek",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "217 helyett már csak mintegy 55 médiacég és néhány platformcég lehet reklámadó-köteles 2027-ben, de az új sávos adózás miatt az állam potenciális bevétele ettől még nem feltétlenül csökken. A…",
+      "fullSummary": "217 helyett már csak mintegy 55 médiacég és néhány platformcég lehet reklámadó-köteles 2027-ben, de az új sávos adózás miatt az állam potenciális bevétele ettől még nem feltétlenül csökken. A reklámadófizetés mértéke a globális digitális platformok irányába nőtt – a magyarországi cégként működő tartalomszolgáltatók ugyanakkor kevésbé tudják elkerülni az adófizetést. A Whitereport elemzése.",
+      "tags": [
+        "Reklamado",
+        "Whitereport",
+        "Mediacegek",
+        "Advertising",
+        "Media",
+        "Business"
+      ],
+      "rawTags": [
+        "reklamado",
+        "whitereport",
+        "mediacegek",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/t/h/e/-/b/the-blowup-rjeweq9e2dk-unsplash-1-20261030-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-10-30T09:05:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-30T09:55:09Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "c6ffd383",
+      "title": "A MedCom eredményei és a díjátadó képei",
+      "url": "https://kreativ.hu/cikk/medcom-dijatado",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Lezajlott a PPH Media egészségügyi/gyógyszeripari marketingmegoldások elismerésére kiírt versenyének díjátadója. Íme az eredmények és a díjátadó képei!",
+      "fullSummary": "Lezajlott a PPH Media egészségügyi/gyógyszeripari marketingmegoldások elismerésére kiírt versenyének díjátadója. Íme az eredmények és a díjátadó képei!",
+      "tags": [
+        "Dijatado",
+        "Verseny",
+        "Medcom",
+        "Media",
+        "Health"
+      ],
+      "rawTags": [
+        "dijatado",
+        "verseny",
+        "medcom"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/e/d/c/-/medc-20261029-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-10-29T15:09:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-30T09:55:09Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "c832c6b6",
+      "title": "Megvannak az OVA idei eredményei",
+      "url": "https://kreativ.hu/cikk/ova-dijatado",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Október 28-án a Mixát Udvarban adtuk át a Kreatív audió-videó központú versenyének, az Online Video Audio Awards (OVA) díjait. A díjátadón a zsűri több különdíjat is kiosztott, és megválasztotta az…",
+      "fullSummary": "Október 28-án a Mixát Udvarban adtuk át a Kreatív audió-videó központú versenyének, az Online Video Audio Awards (OVA) díjait. A díjátadón a zsűri több különdíjat is kiosztott, és megválasztotta az év videós tartalmát is. Az eredmények listája és a díjátadó képei.",
+      "tags": [
+        "Ova",
+        "Ova 2026",
+        "Verseny",
+        "Awards"
+      ],
+      "rawTags": [
+        "ova",
+        "ova-2026",
+        "verseny"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/8/a/3/4/a8a3430-20261029-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-10-29T14:11:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-30T09:55:09Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "c690e5ab",
+      "title": "Az IAB Hungary idén is díjazza a legjobb szakdolgozatokat",
+      "url": "https://kreativ.hu/cikk/iab-hungary-szakdolgozat-palyazat",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Az IAB Hungary nyolcadik alkalommal hirdeti meg pályázatát, amelynek keretében a digitális marketing és média témában született legjobb szakdolgozatokat jutalmazza.",
+      "fullSummary": "Az IAB Hungary nyolcadik alkalommal hirdeti meg pályázatát, amelynek keretében a digitális marketing és média témában született legjobb szakdolgozatokat jutalmazza.",
+      "tags": [
+        "Awards",
+        "Szakdolgozat",
+        "Iab Hungary",
+        "Advertising",
+        "Media"
+      ],
+      "rawTags": [
+        "palyazat",
+        "szakdolgozat",
+        "iab-hungary",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/i/a/b/-/l/iab-legjobb-szakdolgozat-2026-nevezes-fotomontazs-logoval-20261029-920-690-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-10-29T12:02:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-30T09:55:09Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "1db4a96c",
+      "title": "Fehér Renáta a Libri-Bookline új Marketing & Growth igazgatója",
+      "url": "https://kreativ.hu/cikk/libri-bookline-marketing-growth-igazgato-feher-renata",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Új szervezeti struktúrával erősíti marketing- és kereskedelmi működését a Libri-Bookline. A vállalat a marketinget szorosabban kapcsolja össze az üzleti célokkal, kiemelt figyelmet fordítva az online…",
+      "fullSummary": "Új szervezeti struktúrával erősíti marketing- és kereskedelmi működését a Libri-Bookline. A vállalat a marketinget szorosabban kapcsolja össze az üzleti célokkal, kiemelt figyelmet fordítva az online értékesítésre és a digitális vásárlói élmény fejlesztésére. Az újonnan létrehozott Marketing & Growth területet októbertől Fehér Renáta vezeti, aki korábban a Vodafone-nál, legutóbb pedig az RTLMagyarországnál szerzett vezetői tapasztalatokat.",
+      "tags": [
+        "Marketing",
+        "Libri Bookline",
+        "Advertising"
+      ],
+      "rawTags": [
+        "marketing",
+        "libri-bookline",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/l/i/b/r/i/librifeherrenata-20261029-690-920-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-10-29T11:31:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-30T09:55:09Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "10aa7434",
+      "title": "McDonald’s celebrates the takeaway that never makes it home intact",
+      "url": "https://www.famouscampaigns.com/2026/10/mcdonalds-celebrates-the-takeaway-that-never-makes-it-home-intact/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "McDonald’s is celebrating the struggle to get a takeaway home without eating it first, in a campaign about customers who simply can’t wait to tuck in. Created by Oniria/TBWA and produced by Barraco Films, the work follows hungry fans…",
+      "fullSummary": "McDonald’s is celebrating the struggle to get a takeaway home without eating it first, in a campaign about customers who simply can’t wait to tuck in. Created by Oniria/TBWA and produced by Barraco Films, the work follows hungry fans putting their first bite ahead of whatever else they’re trying to do. At the drive-thru, on […]",
+      "tags": [
+        "Advertising",
+        "Food & Drink",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "Advertising",
+        "Food & Drink"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/10/mcdonalds-wait-tbwa.mp4",
+      "author": "Staff",
+      "category": "Advertising",
+      "publishedAt": "2026-10-29T11:11:21Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-30T09:55:09Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "0b22fc46",
+      "title": "A Jófogás és a Vatera is az Atmediához igazolt",
+      "url": "https://kreativ.hu/cikk/atmedia-jofogas-vatera",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Jófogás és a Vatera reklámértékesítését is az Atmedia Csoport végzi 2027 januárjától. Az együttműködéssel az Atmedia sportban és lifestyle-ban erős portfóliója most kiegészül az e-commerce…",
+      "fullSummary": "A Jófogás és a Vatera reklámértékesítését is az Atmedia Csoport végzi 2027 januárjától. Az együttműködéssel az Atmedia sportban és lifestyle-ban erős portfóliója most kiegészül az e-commerce szegmenssel.",
+      "tags": [
+        "Vatera",
+        "Atmedia",
+        "Jofogas",
+        "Advertising",
+        "Retail",
+        "Sport"
+      ],
+      "rawTags": [
+        "vatera",
+        "atmedia",
+        "jofogas",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/p/e/x/e/l/pexels-artempodrez-5716053-0-20261029-690-920-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-10-29T10:34:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-30T09:55:09Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "e41582b0",
+      "title": "A bankolástól a generációs szlengig: nyelvében él a reklám?",
+      "url": "https://kreativ.hu/cikk/reklamnyelv-solyom-reka-petho-jozsef",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Olykor kifejezetten nagy összegeket is hajlandóak vagyunk kifizetni a streamingen és videómegosztókon, csak azért, hogy ne lássunk reklámokat, egy-egy kampány, akár egyetlen jól eltalált szlogen…",
+      "fullSummary": "Olykor kifejezetten nagy összegeket is hajlandóak vagyunk kifizetni a streamingen és videómegosztókon, csak azért, hogy ne lássunk reklámokat, egy-egy kampány, akár egyetlen jól eltalált szlogen mégis képes akár évtizedekre beégni a popkultúrába. Önálló életre kel az utcán, az irodákban vagy a családi asztalnál. Milyen szerepe van ebben a nyelvnek? Hogyan működik a reklám-nyelv dinamika? Miként alakítják egymást? Két nyelvészt, dr. Sólyom Rékát,…",
+      "tags": [
+        "Advertising",
+        "Nyelv",
+        "Campaigns",
+        "Film & TV"
+      ],
+      "rawTags": [
+        "reklam",
+        "nyelv"
+      ],
+      "image": "https://kreativ.hu/img-cache/p/e/x/e/l/pexels-uday-veeru-2148554804-38149593-0-20261029-920-690-90-zc.webp",
+      "author": "Fuchs Viktória",
+      "category": "",
+      "publishedAt": "2026-10-29T10:02:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-30T09:55:09Z",
+      "enrichAttempts": 1
+    },
     {
       "id": "fcbcf5b9",
       "title": "Columbia Sportswear — Don’t Panic Room",
@@ -82,7 +338,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Újabb névvel bővült a közmédia vezérigazgatói posztjáért indulók köre: a SorozatWiki információi szerint Horváth Dori Gábor, a Chello Central Europe és a Viacom Global Hungary korábbi vezetője is…",
-      "fullSummary": "Újabb névvel bővült a közmédia vezérigazgatói posztjáért indulók köre: a SorozatWiki információi szerint Horváth Dori Gábor, a Chello Central Europe és a Viacom Global Hungary korábbi vezetője is megpályázza a pozíciót.",
+      "fullSummary": "Újabb névvel bővült a közmédia vezérigazgatói posztjáért indulók köre: a SorozatWiki információi szerint Horváth Dori Gábor, a Chello Central Europe és a Viacom Global Hungary korábbi vezetője is…",
       "tags": [
         "Film & TV",
         "Awards",
@@ -99,7 +355,7 @@
         "jelolt",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/7/3/2/8/6/732863387-1305085548448553-2193538020299231651-n-jfif-0-20261029-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/7/3/2/8/6/732863387-1305085548448553-2193538020299231651-n-jfif-0-20261029-690-920-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-10-29T09:08:00Z",
@@ -204,7 +460,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A tavaly év végi tulajdonosváltást követően átalakult a Sziget Fesztivált szervező Sziget Zrt. vezetési struktúrája: a stratégiai irányításért új igazgatóság felel, a cégvezetői és főszervezői…",
-      "fullSummary": "A tavaly év végi tulajdonosváltást követően átalakult a Sziget Fesztivált szervező Sziget Zrt. vezetési struktúrája: a stratégiai irányításért új igazgatóság felel, a cégvezetői és főszervezői feladatokat pedig Filutás Anna veszi át Kádár Tamástól, aki 15 év után adja át a pozíciót.",
+      "fullSummary": "A tavaly év végi tulajdonosváltást követően átalakult a Sziget Fesztivált szervező Sziget Zrt. vezetési struktúrája: a stratégiai irányításért új igazgatóság felel, a cégvezetői és főszervezői…",
       "tags": [
         "Szemelyi Hir",
         "Fesztival",
@@ -233,13 +489,13 @@
     },
     {
       "id": "2a7ac5c1",
-      "title": "„Öt munkanap alatt nem lehet helyrehozni 16 év piaci torzulásait a kommunikációs közbeszerzésekben”",
+      "title": "Öt munkanap alatt nem lehet helyrehozni 16 év piaci torzulásait a kommunikációs közbeszerzésekben",
       "url": "https://kreativ.hu/cikk/kozbeszerzes-szabaly-modositas-fair-tender-nru-nkoh-maksz-mprsz-mrsz-maresz-pmsz-dimsz-ort-iab-hungary",
       "source": "kreativ",
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A kommunikációs szakmai szövetségek üdvözlik a piaci verseny és az átláthatóság helyreállításának szándékát, de hosszabb véleményezési határidőt és részletes szakmai egyeztetést kérnek a…",
-      "fullSummary": "A kommunikációs szakmai szövetségek üdvözlik a piaci verseny és az átláthatóság helyreállításának szándékát, de hosszabb véleményezési határidőt és részletes szakmai egyeztetést kérnek a rendezvényszervezési, valamint a kommunikációs és médiabeszerzési tenderekhez. A nyolc szervezet közös levelére reagálva a kiíró Nemzeti Rendezvényszervező Ügynökség (NRÜ) két személyes találkozót kezdeményezett a jövő hét elejére.",
+      "fullSummary": "A kommunikációs szakmai szövetségek üdvözlik a piaci verseny és az átláthatóság helyreállításának szándékát, de hosszabb véleményezési határidőt és részletes szakmai egyeztetést kérnek a…",
       "tags": [
         "Pmsz",
         "Maresz",
@@ -258,7 +514,7 @@
         "mprsz",
         "ort"
       ],
-      "image": "https://kreativ.hu/img-cache/j/a/s/o/n/jason-mavrommatis-9ap357mj8s-unsplash-0-20261028-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/j/a/s/o/n/jason-mavrommatis-9ap357mj8s-unsplash-0-20261028-690-920-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-10-28T12:33:00Z",
@@ -274,7 +530,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A reklámadó részletszabályait is tartalmazza az Országgyűlés elé benyújtott adótörvény-módosítási javaslat. A tervezet szerint 2027. január 1-jétől a reklámközzétevőknek sávosan progresszív adózással…",
-      "fullSummary": "A reklámadó részletszabályait is tartalmazza az Országgyűlés elé benyújtott adótörvény-módosítási javaslat. A tervezet szerint 2027. január 1-jétől a reklámközzétevőknek sávosan progresszív adózással kell számolniuk: az adóalap első 500 millió forintos része után továbbra is nulla százalék lenne az adó, a legmagasabb sávban viszont 7,5 százalékos kulcs lépne életbe. A reklám megrendelőire 2,5 százalékos adómérték vonatkozna, miközben a…",
+      "fullSummary": "A reklámadó részletszabályait is tartalmazza az Országgyűlés elé benyújtott adótörvény-módosítási javaslat. A tervezet szerint 2027. január 1-jétől a reklámközzétevőknek sávosan progresszív adózással…",
       "tags": [
         "Ado",
         "Advertising",
@@ -355,7 +611,7 @@
         "tamas-krisztina",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/t/a/m/a/s/tamas-krisztina-acg-jpeg-0-20261028-451-5-602-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/t/a/m/a/s/tamas-krisztina-acg-jpeg-0-20261028-800-600-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-10-28T09:15:00Z",
@@ -444,7 +700,7 @@
         "ai",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/g/a/b/r/i/gabriel-gurrola-2uuhmzechdc-unsplash-0-20261028-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/g/a/b/r/i/gabriel-gurrola-2uuhmzechdc-unsplash-0-20261028-920-690-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-10-28T08:09:00Z",
@@ -11473,248 +11729,6 @@
       "author": "The Drum",
       "category": "Commerce Media",
       "publishedAt": "2026-09-07T13:49:04Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "7628ac77",
-      "title": "Mark Ritson: Digital marketing’s endgame was always automation. Strategy matters again",
-      "url": "https://www.thedrum.com/opinion/mark-ritson-google-has-automated-the-weakest-part-of-modern-marketing",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "Google’s AI Max migration takes another set of controls out of marketers’ hands. Mark Ritson thinks that could ultimately be good news. On September 1, Google started moving the digital furniture.…",
-      "fullSummary": "Google’s AI Max migration takes another set of controls out of marketers’ hands. Mark Ritson thinks that could ultimately be good news. On September 1, Google started moving the digital furniture.…",
-      "tags": [
-        "Marketing",
-        "Branding",
-        "Digital Marketing",
-        "Professional Services",
-        "AI",
-        "Strategy"
-      ],
-      "rawTags": [
-        "Brand",
-        "Digital Marketing",
-        "Marketing",
-        "Professional Services"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/adobestock-289055016.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Mark Ritson",
-      "category": "Marketing",
-      "publishedAt": "2026-09-07T10:52:43Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "1e9bc382",
-      "title": "What The Drum Awards for B2B tell us about B2B",
-      "url": "https://www.thedrum.com/news/what-the-drum-awards-for-b2b-told-us-about-b2b",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "On the same day in London and New York, we ran our shortlist shows and read the state of the industry from more than 500 entries to The Drum Awards for B2B. Congratulations to everyone who made the…",
-      "fullSummary": "On the same day in London and New York, we ran our shortlist shows and read the state of the industry from more than 500 entries to The Drum Awards for B2B. Congratulations to everyone who made the…",
-      "tags": [
-        "B2B",
-        "The Drum Awards",
-        "Branding",
-        "B2B World Fest",
-        "Awards"
-      ],
-      "rawTags": [
-        "The Drum Awards",
-        "Brand",
-        "B2B World Fest",
-        "B2B",
-        "B2B"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/b2b-awards-v2.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Reuben Webb",
-      "category": "B2B",
-      "publishedAt": "2026-09-07T09:27:06Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "196a4fde",
-      "title": "Mi van, ha az AI csak szimulálja, hogy tudatos? És ha azt játssza meg, hogy nem az?",
-      "url": "https://kreativ.hu/cikk/mi-van-ha-az-ai-csak-szimulalja-hogy-tudatos-es-ha-azt-jatssza-meg-hogy-nem-az",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Napjaink AI-kutatásának és a vele kapcsolatos kollektív fantáziálásnak az egyik hot topikja, hogy a mesterséges intelligencia fejlődésével kialakul-e a gépekben valamiféle tudatosság. Esetleg…",
-      "fullSummary": "Napjaink AI-kutatásának és a vele kapcsolatos kollektív fantáziálásnak az egyik hot topikja, hogy a mesterséges intelligencia fejlődésével kialakul-e a gépekben valamiféle tudatosság. Esetleg…",
-      "tags": [
-        "AI",
-        "Vita",
-        "Tudatossag",
-        "Media"
-      ],
-      "rawTags": [
-        "mesterseges-intelligencia",
-        "vita",
-        "tudatossag",
-        "media"
-      ],
-      "image": null,
-      "author": "Moldvay Tamás",
-      "category": "",
-      "publishedAt": "2026-09-07T08:50:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "7916fbda",
-      "title": "The inspiration 2010 – 2026. Thank You for Being Part of it.",
-      "url": "https://theinspiration.com/2026/09/the-inspiration-2010-2026-thank-you-for-being-part-of-it/",
-      "source": "theinspiration",
-      "sourceName": "The Inspiration",
-      "accent": "#f5b301",
-      "summary": "",
-      "fullSummary": "",
-      "tags": [
-        "Advertising"
-      ],
-      "rawTags": [
-        "Advertising"
-      ],
-      "image": "https://theinspiration.com/wp-content/uploads/ripins-750x536.webp",
-      "author": "Daniel Ingvartsen",
-      "category": "Advertising",
-      "publishedAt": "2026-09-07T07:58:18Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "36a28a91",
-      "title": "The Whale museum that looks like a giant whale diving into the sea",
-      "url": "https://www.famouscampaigns.com/2026/09/the-whale-museum-that-looks-like-a-giant-whale-diving-into-the-sea/",
-      "source": "famouscampaigns",
-      "sourceName": "Famous Campaigns",
-      "accent": "#7c5cff",
-      "summary": "A whale-shaped museum is taking form on the northern coast of Norway, with The Whale set to open in Andenes in June next year. Designed by Danish architecture studio Dorte Mandrup, the new knowledge and experience centre will use…",
-      "fullSummary": "A whale-shaped museum is taking form on the northern coast of Norway, with The Whale set to open in Andenes in June next year. Designed by Danish architecture studio Dorte Mandrup, the new knowledge and experience centre will use architecture, science, art and sound to explore whales and the oceans they inhabit. Its sweeping concrete […]",
-      "tags": [
-        "COOH",
-        "Environmental",
-        "Design"
-      ],
-      "rawTags": [
-        "COOH",
-        "Environmental"
-      ],
-      "image": null,
-      "author": "Staff",
-      "category": "COOH",
-      "publishedAt": "2026-09-07T07:21:20Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "816a80cd",
-      "title": "How Grindr and Spotify are shaking up brand partnerships",
-      "url": "https://www.creativereview.co.uk/grindr-google-maps-spotify-brand-partnerships/",
-      "source": "creativereview",
-      "sourceName": "Creative Review",
-      "accent": "#ff4d4d",
-      "summary": "Madonna’s recent Grindr takeover represents a watershed in the use of platforms such as Grindr, Spotify and Google Maps, with brands no longer buying media and instead joining online communities",
-      "fullSummary": "Madonna’s recent Grindr takeover represents a watershed in the use of platforms such as Grindr, Spotify and Google Maps, with brands no longer buying media and instead joining online communities",
-      "tags": [
-        "Branding",
-        "Music",
-        "Media"
-      ],
-      "rawTags": [],
-      "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/08/GRINDR-AND-MADONNA-TEAM-UP-FOR-LEGENDARY-TIMES-SQUARE-PERFORMANCE_.jpg",
-      "author": "Lucie Greene",
-      "category": "",
-      "publishedAt": "2026-09-07T02:42:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "ec92da0e",
-      "title": "Michael J. Fox and Harrison Ford tackle the awkward side of Parkinson’s",
-      "url": "https://www.famouscampaigns.com/2026/09/michael-j-fox-and-harrison-ford-tackle-the-awkward-side-of-parkinsons/",
-      "source": "famouscampaigns",
-      "sourceName": "Famous Campaigns",
-      "accent": "#7c5cff",
-      "summary": "The Michael J. Fox Foundation has reunited Michael J. Fox and Harrison Ford for “So…Your Friend Has Parkinson’s”, a new brand awareness campaign that uses humour to tackle a deceptively difficult question: how do you show up a friend…",
-      "fullSummary": "The Michael J. Fox Foundation has reunited Michael J. Fox and Harrison Ford for “So…Your Friend Has Parkinson’s”, a new brand awareness campaign that uses humour to tackle a deceptively difficult question: how do you show up a friend living with Parkinson’s? The idea builds on the pair’s chemistry in Apple TV’s Shrinking, where Ford […]",
-      "tags": [
-        "Celebrity",
-        "Health & Beauty",
-        "Branding",
-        "Campaigns"
-      ],
-      "rawTags": [
-        "Celebrity",
-        "Health & Beauty"
-      ],
-      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/parkinsons-harrison-ford-michael-j-fox.mp4",
-      "author": "James Herring",
-      "category": "Celebrity",
-      "publishedAt": "2026-09-05T10:04:49Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "e5c3a6ad",
-      "title": "Pokémon turns its Poké Ball into a bookable sleep pod",
-      "url": "https://www.famouscampaigns.com/2026/09/pokemon-turns-the-poke-ball-into-a-human-sized-sleep-pod-hotel/",
-      "source": "famouscampaigns",
-      "sourceName": "Famous Campaigns",
-      "accent": "#7c5cff",
-      "summary": "Pokémon Sleep has teamed up with Japanese hospitality brand Not A Hotel to turn one of gaming’s most recognisable objects into a human-sized sleeping pod, with a giant Poké Ball set to land in Hokkaido, Japan, this September. In the…",
-      "fullSummary": "Pokémon Sleep has teamed up with Japanese hospitality brand Not A Hotel to turn one of gaming’s most recognisable objects into a human-sized sleeping pod, with a giant Poké Ball set to land in Hokkaido, Japan, this September. In the fictional world, Poké Balls are places for Pokémon to rest. Here, the pocket-sized object has […]",
-      "tags": [
-        "Entertainment",
-        "Experiential",
-        "Branding",
-        "Gaming"
-      ],
-      "rawTags": [
-        "Entertainment",
-        "Experiential"
-      ],
-      "image": null,
-      "author": "Staff",
-      "category": "Entertainment",
-      "publishedAt": "2026-09-05T09:27:28Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "4f493ccd",
-      "title": "Ad of the Day: Toyota sends Alice and its new Yaris Cross down hybrid-powered rabbit hole",
-      "url": "https://www.thedrum.com/news/toyota-sends-alice-and-its-new-yaris-cross-down-a-hybrid-powered-rabbit-hole",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "What would Alice in Wonderland look like if Lewis Carroll were writing it today? According to Toyota, the Mad Hatter would be a DJ, the White Rabbit a mysterious girl in a symbolic jacket and the…",
-      "fullSummary": "What would Alice in Wonderland look like if Lewis Carroll were writing it today? According to Toyota, the Mad Hatter would be a DJ, the White Rabbit a mysterious girl in a symbolic jacket and the…",
-      "tags": [
-        "Creative",
-        "Advertising"
-      ],
-      "rawTags": [
-        "Ad of the Day",
-        "Creative"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/toyota-yaris-1.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Mel Henson",
-      "category": "Creative",
-      "publishedAt": "2026-09-04T11:45:58Z",
       "datePrecise": true,
       "firstSeenAt": "2026-09-13T23:14:17Z",
       "enrichAttempts": 1
