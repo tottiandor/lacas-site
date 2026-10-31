@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T09:55:09Z",
+  "generatedAt": "2026-10-31T09:30:57Z",
   "itemCount": 400,
   "sources": [
     {
@@ -9,7 +9,7 @@
       "accent": "#00d1b2",
       "status": "error",
       "error": "failed to fetch https://www.thedrum.com/: HTTP Error 403: Forbidden",
-      "count": 31
+      "count": 28
     },
     {
       "id": "kreativ",
@@ -18,7 +18,7 @@
       "accent": "#e8453c",
       "status": "ok",
       "error": null,
-      "count": 25
+      "count": 22
     },
     {
       "id": "creativereview",
@@ -27,7 +27,7 @@
       "accent": "#ff4d4d",
       "status": "error",
       "error": "failed to fetch https://www.creativereview.co.uk/feed/: HTTP Error 403: Forbidden",
-      "count": 15
+      "count": 14
     },
     {
       "id": "theinspiration",
@@ -49,6 +49,95 @@
     }
   ],
   "items": [
+    {
+      "id": "41973046",
+      "title": "Megszűnik a Nemzeti Sportrádió, saját gyártásba kerül a Petőfi Rádió",
+      "url": "https://kreativ.hu/cikk/megszunik-a-nemzeti-sportradio-sajat-gyartasba-kerul-a-petofi-radio",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Független Közmédia Testület jóváhagyásával megszűnik a Nemzeti Sportrádió, de a Kossuth Rádió hallgatói továbbra is naponta kapnak sporthíreket. Továbbá belső gyártásba kerül és változatlan stábbal…",
+      "fullSummary": "A Független Közmédia Testület jóváhagyásával megszűnik a Nemzeti Sportrádió, de a Kossuth Rádió hallgatói továbbra is naponta kapnak sporthíreket. Továbbá belső gyártásba kerül és változatlan stábbal működik tovább a Petőfi Rádió. Közben a közmédia évente több, mint kétmilliárd forintot takarít meg.",
+      "tags": [
+        "Kossuth Radio",
+        "Petofi Radio",
+        "Fuggetlen Kozmedia Testulet",
+        "Nemzeti Sportradio",
+        "Media",
+        "Sport"
+      ],
+      "rawTags": [
+        "kossuth-radio",
+        "petofi-radio",
+        "fuggetlen-kozmedia-testulet",
+        "nemzeti-sportradio",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/s/m/o/r/a/smorazanm-microphone-1562354-1920-1-20261030-920-690-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-10-30T15:11:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-31T09:30:57Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "45fa075d",
+      "title": "Meghosszabbítottuk a Pixel Perfect Awards nevezési határidejét",
+      "url": "https://kreativ.hu/cikk/pixel-perfect-awards-nevezesi-hatarido-hosszabbitas",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Pixel Perfect Awards célja, hogy megmutassa, hogyan lehet egy új technológiát, új megközelítést a márkák és a kommunikáció szolgálatába állítani, és hogy egy régebbi, már-már elfeledett területnek…",
+      "fullSummary": "A Pixel Perfect Awards célja, hogy megmutassa, hogyan lehet egy új technológiát, új megközelítést a márkák és a kommunikáció szolgálatába állítani, és hogy egy régebbi, már-már elfeledett területnek hogyan lehet új életet adni. Az utolsó nevezési határidő: november 10.",
+      "tags": [
+        "Hosszabbitas",
+        "Nevezesi Hatarido",
+        "Pixel Perfect Awards",
+        "Verseny",
+        "Branding",
+        "Awards"
+      ],
+      "rawTags": [
+        "hosszabbitas",
+        "nevezesi-hatarido",
+        "pixel-perfect-awards",
+        "verseny"
+      ],
+      "image": "https://kreativ.hu/img-cache/p/p/a/2/0/ppa2026-online-nevezes1-okt29-edm-header-640x360-0-20261030-640-480-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-10-30T12:20:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-31T09:30:57Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "c6b5aab5",
+      "title": "A logóforradalom elmarad, de a szabályok alapjaiban változtak meg",
+      "url": "https://kreativ.hu/cikk/logo-logoforradalom-interju-goczey-luca",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Bár a mesterséges intelligencia és a minimal trend miatt komoly stílusváltás zajlik a vizuális kommunikációban, a logók valódi átalakulása a felszín alatt történik. Egyetlen grafikai jel már nem…",
+      "fullSummary": "Bár a mesterséges intelligencia és a minimal trend miatt komoly stílusváltás zajlik a vizuális kommunikációban, a logók valódi átalakulása a felszín alatt történik. Egyetlen grafikai jel már nem bírja el a teljes márkaidentitás terhét: rugalmas, többdimenziós struktúrákra van szükség. Gőczey Lucával, a Studio STOKI társalapítójával és grafikusával arról beszélgettünk, mikor van szükség radikális újratervezés helyett csupán „rehabilitációra”,…",
+      "tags": [
+        "Branding",
+        "Advertising",
+        "AI"
+      ],
+      "rawTags": [
+        "logo",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/p/e/t/e/r/peter-behrens-aeg-1907-0-20261030-920-690-90-zc.webp",
+      "author": "Fuchs Viktória",
+      "category": "",
+      "publishedAt": "2026-10-30T11:04:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-10-31T09:30:57Z",
+      "enrichAttempts": 1
+    },
     {
       "id": "a2a8bfe9",
       "title": "Független Közmédia Testület: megújult a közmédia felügyelőbizottsága",
@@ -84,7 +173,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "217 helyett már csak mintegy 55 médiacég és néhány platformcég lehet reklámadó-köteles 2027-ben, de az új sávos adózás miatt az állam potenciális bevétele ettől még nem feltétlenül csökken. A…",
-      "fullSummary": "217 helyett már csak mintegy 55 médiacég és néhány platformcég lehet reklámadó-köteles 2027-ben, de az új sávos adózás miatt az állam potenciális bevétele ettől még nem feltétlenül csökken. A reklámadófizetés mértéke a globális digitális platformok irányába nőtt – a magyarországi cégként működő tartalomszolgáltatók ugyanakkor kevésbé tudják elkerülni az adófizetést. A Whitereport elemzése.",
+      "fullSummary": "217 helyett már csak mintegy 55 médiacég és néhány platformcég lehet reklámadó-köteles 2027-ben, de az új sávos adózás miatt az állam potenciális bevétele ettől még nem feltétlenül csökken. A…",
       "tags": [
         "Reklamado",
         "Whitereport",
@@ -128,7 +217,7 @@
         "verseny",
         "medcom"
       ],
-      "image": "https://kreativ.hu/img-cache/m/e/d/c/-/medc-20261029-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/m/e/d/c/-/medc-20261029-549-75-733-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-10-29T15:09:00Z",
@@ -144,7 +233,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Október 28-án a Mixát Udvarban adtuk át a Kreatív audió-videó központú versenyének, az Online Video Audio Awards (OVA) díjait. A díjátadón a zsűri több különdíjat is kiosztott, és megválasztotta az…",
-      "fullSummary": "Október 28-án a Mixát Udvarban adtuk át a Kreatív audió-videó központú versenyének, az Online Video Audio Awards (OVA) díjait. A díjátadón a zsűri több különdíjat is kiosztott, és megválasztotta az év videós tartalmát is. Az eredmények listája és a díjátadó képei.",
+      "fullSummary": "Október 28-án a Mixát Udvarban adtuk át a Kreatív audió-videó központú versenyének, az Online Video Audio Awards (OVA) díjait. A díjátadón a zsűri több különdíjat is kiosztott, és megválasztotta az…",
       "tags": [
         "Ova",
         "Ova 2026",
@@ -156,7 +245,7 @@
         "ova-2026",
         "verseny"
       ],
-      "image": "https://kreativ.hu/img-cache/a/8/a/3/4/a8a3430-20261029-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/8/a/3/4/a8a3430-20261029-549-75-733-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-10-29T14:11:00Z",
@@ -186,7 +275,7 @@
         "iab-hungary",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/i/a/b/-/l/iab-legjobb-szakdolgozat-2026-nevezes-fotomontazs-logoval-20261029-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/i/a/b/-/l/iab-legjobb-szakdolgozat-2026-nevezes-fotomontazs-logoval-20261029-599-25-799-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-10-29T12:02:00Z",
@@ -202,7 +291,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Új szervezeti struktúrával erősíti marketing- és kereskedelmi működését a Libri-Bookline. A vállalat a marketinget szorosabban kapcsolja össze az üzleti célokkal, kiemelt figyelmet fordítva az online…",
-      "fullSummary": "Új szervezeti struktúrával erősíti marketing- és kereskedelmi működését a Libri-Bookline. A vállalat a marketinget szorosabban kapcsolja össze az üzleti célokkal, kiemelt figyelmet fordítva az online értékesítésre és a digitális vásárlói élmény fejlesztésére. Az újonnan létrehozott Marketing & Growth területet októbertől Fehér Renáta vezeti, aki korábban a Vodafone-nál, legutóbb pedig az RTLMagyarországnál szerzett vezetői tapasztalatokat.",
+      "fullSummary": "Új szervezeti struktúrával erősíti marketing- és kereskedelmi működését a Libri-Bookline. A vállalat a marketinget szorosabban kapcsolja össze az üzleti célokkal, kiemelt figyelmet fordítva az online…",
       "tags": [
         "Marketing",
         "Libri Bookline",
@@ -255,7 +344,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Jófogás és a Vatera reklámértékesítését is az Atmedia Csoport végzi 2027 januárjától. Az együttműködéssel az Atmedia sportban és lifestyle-ban erős portfóliója most kiegészül az e-commerce…",
-      "fullSummary": "A Jófogás és a Vatera reklámértékesítését is az Atmedia Csoport végzi 2027 januárjától. Az együttműködéssel az Atmedia sportban és lifestyle-ban erős portfóliója most kiegészül az e-commerce szegmenssel.",
+      "fullSummary": "A Jófogás és a Vatera reklámértékesítését is az Atmedia Csoport végzi 2027 januárjától. Az együttműködéssel az Atmedia sportban és lifestyle-ban erős portfóliója most kiegészül az e-commerce…",
       "tags": [
         "Vatera",
         "Atmedia",
@@ -286,7 +375,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Olykor kifejezetten nagy összegeket is hajlandóak vagyunk kifizetni a streamingen és videómegosztókon, csak azért, hogy ne lássunk reklámokat, egy-egy kampány, akár egyetlen jól eltalált szlogen…",
-      "fullSummary": "Olykor kifejezetten nagy összegeket is hajlandóak vagyunk kifizetni a streamingen és videómegosztókon, csak azért, hogy ne lássunk reklámokat, egy-egy kampány, akár egyetlen jól eltalált szlogen mégis képes akár évtizedekre beégni a popkultúrába. Önálló életre kel az utcán, az irodákban vagy a családi asztalnál. Milyen szerepe van ebben a nyelvnek? Hogyan működik a reklám-nyelv dinamika? Miként alakítják egymást? Két nyelvészt, dr. Sólyom Rékát,…",
+      "fullSummary": "Olykor kifejezetten nagy összegeket is hajlandóak vagyunk kifizetni a streamingen és videómegosztókon, csak azért, hogy ne lássunk reklámokat, egy-egy kampány, akár egyetlen jól eltalált szlogen…",
       "tags": [
         "Advertising",
         "Nyelv",
@@ -297,7 +386,7 @@
         "reklam",
         "nyelv"
       ],
-      "image": "https://kreativ.hu/img-cache/p/e/x/e/l/pexels-uday-veeru-2148554804-38149593-0-20261029-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/p/e/x/e/l/pexels-uday-veeru-2148554804-38149593-0-20261029-690-920-90-zc.webp",
       "author": "Fuchs Viktória",
       "category": "",
       "publishedAt": "2026-10-29T10:02:00Z",
@@ -355,7 +444,7 @@
         "jelolt",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/7/3/2/8/6/732863387-1305085548448553-2193538020299231651-n-jfif-0-20261029-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/7/3/2/8/6/732863387-1305085548448553-2193538020299231651-n-jfif-0-20261029-920-690-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-10-29T09:08:00Z",
@@ -489,7 +578,7 @@
     },
     {
       "id": "2a7ac5c1",
-      "title": "Öt munkanap alatt nem lehet helyrehozni 16 év piaci torzulásait a kommunikációs közbeszerzésekben",
+      "title": "„Öt munkanap alatt nem lehet helyrehozni 16 év piaci torzulásait a kommunikációs közbeszerzésekben”",
       "url": "https://kreativ.hu/cikk/kozbeszerzes-szabaly-modositas-fair-tender-nru-nkoh-maksz-mprsz-mrsz-maresz-pmsz-dimsz-ort-iab-hungary",
       "source": "kreativ",
       "sourceName": "Kreatív",
@@ -514,7 +603,7 @@
         "mprsz",
         "ort"
       ],
-      "image": "https://kreativ.hu/img-cache/j/a/s/o/n/jason-mavrommatis-9ap357mj8s-unsplash-0-20261028-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/j/a/s/o/n/jason-mavrommatis-9ap357mj8s-unsplash-0-20261028-920-690-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-10-28T12:33:00Z",
@@ -11658,80 +11747,6 @@
       "datePrecise": true,
       "firstSeenAt": "2026-09-13T23:14:17Z",
       "enrichAttempts": 0
-    },
-    {
-      "id": "b6d5b8de",
-      "title": "Mark Malloy directs cinematic retirement film",
-      "url": "https://www.creativereview.co.uk/mlc-princess-the-heist-mark-molloy-retirement-film/",
-      "source": "creativereview",
-      "sourceName": "Creative Review",
-      "accent": "#ff4d4d",
-      "summary": "Created by Princess, The Heist sees the Australian superannuation firm MLC make a pitch for hatching a post-work life masterplan",
-      "fullSummary": "Created by Princess, The Heist sees the Australian superannuation firm MLC make a pitch for hatching a post-work life masterplan",
-      "tags": [
-        "Film & TV"
-      ],
-      "rawTags": [],
-      "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/09/MLC_The-Heist.jpg",
-      "author": "Adam Woodward",
-      "category": "",
-      "publishedAt": "2026-09-08T02:17:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "ab1a5410",
-      "title": "Comic Relief satirises our indifference to childhood poverty in new campaign",
-      "url": "https://www.creativereview.co.uk/comic-relief-satirises-our-indifference-to-childhood-poverty-in-new-campaign/",
-      "source": "creativereview",
-      "sourceName": "Creative Review",
-      "accent": "#ff4d4d",
-      "summary": "A new PSA from the charity, developed in collaboration with Quality Meats, employs absurdist humour to encourage audiences to reflect on their reasons for not helping to end childhood poverty",
-      "fullSummary": "A new PSA from the charity, developed in collaboration with Quality Meats, employs absurdist humour to encourage audiences to reflect on their reasons for not helping to end childhood poverty",
-      "tags": [
-        "Campaigns",
-        "Health"
-      ],
-      "rawTags": [],
-      "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/09/ComicRelief2.jpg",
-      "author": "Daniel Milroy Maher",
-      "category": "",
-      "publishedAt": "2026-09-08T02:09:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "42654b6e",
-      "title": "The Drum Live 2026: Here’s what’s on our editorial agenda",
-      "url": "https://www.thedrum.com/news/the-drum-live-2026-ai-brand-building-and-the-future-cmo-take-centre-stage",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "Come inside The Drum’s London newsroom later this month for two days of candid conversations with leaders from Unilever, Salesforce, Channel 4, Diageo, Mars, Berghaus and more. What does the CMO of…",
-      "fullSummary": "Come inside The Drum’s London newsroom later this month for two days of candid conversations with leaders from Unilever, Salesforce, Channel 4, Diageo, Mars, Berghaus and more. What does the CMO of…",
-      "tags": [
-        "Commerce Media",
-        "Technology",
-        "Media",
-        "Marketing",
-        "The Drum Live"
-      ],
-      "rawTags": [
-        "Commerce Media",
-        "Technology",
-        "Media",
-        "Marketing",
-        "The Drum Live"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/screenshot-2026-09-07-115227.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "The Drum",
-      "category": "Commerce Media",
-      "publishedAt": "2026-09-07T13:49:04Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
     }
   ]
 }
