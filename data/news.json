@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T09:30:57Z",
+  "generatedAt": "2026-11-01T10:21:54Z",
   "itemCount": 400,
   "sources": [
     {
@@ -9,7 +9,7 @@
       "accent": "#00d1b2",
       "status": "error",
       "error": "failed to fetch https://www.thedrum.com/: HTTP Error 403: Forbidden",
-      "count": 28
+      "count": 27
     },
     {
       "id": "kreativ",
@@ -27,7 +27,7 @@
       "accent": "#ff4d4d",
       "status": "error",
       "error": "failed to fetch https://www.creativereview.co.uk/feed/: HTTP Error 403: Forbidden",
-      "count": 14
+      "count": 12
     },
     {
       "id": "theinspiration",
@@ -50,6 +50,59 @@
   ],
   "items": [
     {
+      "id": "62c3fc2b",
+      "title": "Colgate turns toothpaste foam into vampire fangs for Halloween",
+      "url": "https://www.famouscampaigns.com/2026/10/colgate-turns-toothpaste-foam-into-vampire-fangs-for-halloween/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "With the average child reportedly consuming 144 teaspoons of sugar at Halloween, Colgate has turned toothpaste foam into vampire fangs to remind families that brushing should be part of the night’s routine. Created by VML, the campaign…",
+      "fullSummary": "With the average child reportedly consuming 144 teaspoons of sugar at Halloween, Colgate has turned toothpaste foam into vampire fangs to remind families that brushing should be part of the night’s routine. Created by VML, the campaign features close-ups of children whose toothpaste froth forms Halloween looks. One sports a pair of dripping white fangs, […]",
+      "tags": [
+        "Advertising",
+        "Health & Beauty",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "Advertising",
+        "Health & Beauty"
+      ],
+      "image": null,
+      "author": "James Herring",
+      "category": "Advertising",
+      "publishedAt": "2026-10-31T13:15:07Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-01T10:21:54Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "dea13be6",
+      "title": "Visit Norway trolls Trump’s toilet insult – showcasing its most scenic loos",
+      "url": "https://www.famouscampaigns.com/2026/10/visit-norway-trolls-trumps-toilet-insult-with-its-most-scenic-loos/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Visit Norway has responded to Donald Trump calling the nation a “shit house country” by showing tourists just how good its toilets are. The tourist board turned the president’s insult into a showcase of spectacular public loos, pairing…",
+      "fullSummary": "Visit Norway has responded to Donald Trump calling the nation a “shit house country” by showing tourists just how good its toilets are. The tourist board turned the president’s insult into a showcase of spectacular public loos, pairing striking architecture with fjords, mountains and coastal views in a post captioned “the world’s most beautiful and […]",
+      "tags": [
+        "PR",
+        "Social Media",
+        "Travel"
+      ],
+      "rawTags": [
+        "PR",
+        "Social Media",
+        "Travel"
+      ],
+      "image": null,
+      "author": "James Herring",
+      "category": "PR",
+      "publishedAt": "2026-10-31T12:39:51Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-01T10:21:54Z",
+      "enrichAttempts": 0
+    },
+    {
       "id": "41973046",
       "title": "Megszűnik a Nemzeti Sportrádió, saját gyártásba kerül a Petőfi Rádió",
       "url": "https://kreativ.hu/cikk/megszunik-a-nemzeti-sportradio-sajat-gyartasba-kerul-a-petofi-radio",
@@ -57,7 +110,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Független Közmédia Testület jóváhagyásával megszűnik a Nemzeti Sportrádió, de a Kossuth Rádió hallgatói továbbra is naponta kapnak sporthíreket. Továbbá belső gyártásba kerül és változatlan stábbal…",
-      "fullSummary": "A Független Közmédia Testület jóváhagyásával megszűnik a Nemzeti Sportrádió, de a Kossuth Rádió hallgatói továbbra is naponta kapnak sporthíreket. Továbbá belső gyártásba kerül és változatlan stábbal működik tovább a Petőfi Rádió. Közben a közmédia évente több, mint kétmilliárd forintot takarít meg.",
+      "fullSummary": "A Független Közmédia Testület jóváhagyásával megszűnik a Nemzeti Sportrádió, de a Kossuth Rádió hallgatói továbbra is naponta kapnak sporthíreket. Továbbá belső gyártásba kerül és változatlan stábbal…",
       "tags": [
         "Kossuth Radio",
         "Petofi Radio",
@@ -89,7 +142,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Pixel Perfect Awards célja, hogy megmutassa, hogyan lehet egy új technológiát, új megközelítést a márkák és a kommunikáció szolgálatába állítani, és hogy egy régebbi, már-már elfeledett területnek…",
-      "fullSummary": "A Pixel Perfect Awards célja, hogy megmutassa, hogyan lehet egy új technológiát, új megközelítést a márkák és a kommunikáció szolgálatába állítani, és hogy egy régebbi, már-már elfeledett területnek hogyan lehet új életet adni. Az utolsó nevezési határidő: november 10.",
+      "fullSummary": "A Pixel Perfect Awards célja, hogy megmutassa, hogyan lehet egy új technológiát, új megközelítést a márkák és a kommunikáció szolgálatába állítani, és hogy egy régebbi, már-már elfeledett területnek…",
       "tags": [
         "Hosszabbitas",
         "Nevezesi Hatarido",
@@ -120,7 +173,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Bár a mesterséges intelligencia és a minimal trend miatt komoly stílusváltás zajlik a vizuális kommunikációban, a logók valódi átalakulása a felszín alatt történik. Egyetlen grafikai jel már nem…",
-      "fullSummary": "Bár a mesterséges intelligencia és a minimal trend miatt komoly stílusváltás zajlik a vizuális kommunikációban, a logók valódi átalakulása a felszín alatt történik. Egyetlen grafikai jel már nem bírja el a teljes márkaidentitás terhét: rugalmas, többdimenziós struktúrákra van szükség. Gőczey Lucával, a Studio STOKI társalapítójával és grafikusával arról beszélgettünk, mikor van szükség radikális újratervezés helyett csupán „rehabilitációra”,…",
+      "fullSummary": "Bár a mesterséges intelligencia és a minimal trend miatt komoly stílusváltás zajlik a vizuális kommunikációban, a logók valódi átalakulása a felszín alatt történik. Egyetlen grafikai jel már nem…",
       "tags": [
         "Branding",
         "Advertising",
@@ -11688,62 +11741,6 @@
       "author": "James Herring",
       "category": "Retail",
       "publishedAt": "2026-09-08T08:45:28Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "ec2a7e9b",
-      "title": "4 ways to turn data deluge into decision-making fuel",
-      "url": "https://www.thedrum.com/news/4-ways-to-turn-data-deluge-into-decision-making-fuel",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "Organizations have more data than ever, but it often needs to be channeled better. Analytic Partners’ Preeti Croke unpacks key lessons from this year’s industry events to reveal how to make data flow…",
-      "fullSummary": "Organizations have more data than ever, but it often needs to be channeled better. Analytic Partners’ Preeti Croke unpacks key lessons from this year’s industry events to reveal how to make data flow…",
-      "tags": [
-        "Marketing",
-        "AI",
-        "Other",
-        "Strategy",
-        "Advertising Effectiveness",
-        "Measurement & ROI"
-      ],
-      "rawTags": [
-        "Artificial Intelligence",
-        "Other",
-        "Brand strategy",
-        "Advertising effectiveness",
-        "Measurement & ROI",
-        "Partner Insights",
-        "Marketing Services",
-        "Data & Privacy",
-        "Marketing",
-        "Sponsored"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/adobestock-2148045340.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Preeti Croke",
-      "category": "Marketing",
-      "publishedAt": "2026-09-08T08:00:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "b98e9fd2",
-      "title": "Inside the creative–strat relationship",
-      "url": "https://www.creativereview.co.uk/inside-the-creative-strat-relationship/",
-      "source": "creativereview",
-      "sourceName": "Creative Review",
-      "accent": "#ff4d4d",
-      "summary": "We talk to BBH London's CCO Felipe Serradourada Guimaraes and deputy CSO Saskia Jones about what makes their working partnership tick",
-      "fullSummary": "We talk to BBH London's CCO Felipe Serradourada Guimaraes and deputy CSO Saskia Jones about what makes their working partnership tick",
-      "tags": [],
-      "rawTags": [],
-      "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/09/SH06_001_UI.png",
-      "author": "Eliza Williams",
-      "category": "",
-      "publishedAt": "2026-09-08T02:30:00Z",
       "datePrecise": true,
       "firstSeenAt": "2026-09-13T23:14:17Z",
       "enrichAttempts": 0
