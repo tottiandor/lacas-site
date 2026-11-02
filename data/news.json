@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T10:21:54Z",
+  "generatedAt": "2026-11-02T10:54:36Z",
   "itemCount": 400,
   "sources": [
     {
@@ -9,7 +9,7 @@
       "accent": "#00d1b2",
       "status": "error",
       "error": "failed to fetch https://www.thedrum.com/: HTTP Error 403: Forbidden",
-      "count": 27
+      "count": 26
     },
     {
       "id": "kreativ",
@@ -18,7 +18,7 @@
       "accent": "#e8453c",
       "status": "ok",
       "error": null,
-      "count": 22
+      "count": 25
     },
     {
       "id": "creativereview",
@@ -27,7 +27,7 @@
       "accent": "#ff4d4d",
       "status": "error",
       "error": "failed to fetch https://www.creativereview.co.uk/feed/: HTTP Error 403: Forbidden",
-      "count": 12
+      "count": 11
     },
     {
       "id": "theinspiration",
@@ -49,6 +49,131 @@
     }
   ],
   "items": [
+    {
+      "id": "855ecb74",
+      "title": "Ha azt hisszük, az AI mindent le tud modellezni, máris egy Truman Show-ban élünk",
+      "url": "https://kreativ.hu/cikk/viragh-miklos-fifty5blue-kantar-media-ai-mesterseges-intelligencia-merhetoseg-marketing",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A ChatGPT-ben megjelent hirdetések és a generatív mesterséges intelligencia térnyerése gyökeresen átalakítja a reklámpiacot, miközben lényegileg nehezíti meg a hirdetések pontos mérését. A zárt…",
+      "fullSummary": "A ChatGPT-ben megjelent hirdetések és a generatív mesterséges intelligencia térnyerése gyökeresen átalakítja a reklámpiacot, miközben lényegileg nehezíti meg a hirdetések pontos mérését. A zárt platformok és az algoritmusok által működtetett fekete dobozok korában a túlhajszolt adatfetisizmus helyett az emberi intuícióra és a valódi elköteleződésre kellene helyezni a nagyobb hangsúlyt – véli Virágh Miklós, a Fifty5Blue Hungary médiapiaci és…",
+      "tags": [
+        "Marketing",
+        "AI",
+        "Kantar Media",
+        "Merhetoseg",
+        "Viragh Miklos",
+        "Fifty5blue"
+      ],
+      "rawTags": [
+        "marketing",
+        "mesterseges-intelligencia",
+        "kantar-media",
+        "merhetoseg",
+        "viragh-miklos",
+        "ai",
+        "fifty5blue",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/v/i/r/a/g/viragh-miklos-levagott-kep-minta-20261102-920-690-90-zc.webp",
+      "author": "Tiszóczi Roland",
+      "category": "",
+      "publishedAt": "2026-11-02T10:33:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-02T10:54:36Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "58b21e53",
+      "title": "Vida Ferenc az Instyle és az Instyle MEN élén folytatja",
+      "url": "https://kreativ.hu/cikk/vida-ferenc-instyle-instylemen-marquard",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Több év után visszatér a Marquard Grouphoz Vida Ferenc, ezúttal két meghatározó magazin vezetőjeként. Korábbi pozíciójában Ribánszky Ágota váltja.",
+      "fullSummary": "Több év után visszatér a Marquard Grouphoz Vida Ferenc, ezúttal két meghatározó magazin vezetőjeként. Korábbi pozíciójában Ribánszky Ágota váltja.",
+      "tags": [
+        "Marquard Media",
+        "Instyle",
+        "Vida Ferenc",
+        "Instyle Men",
+        "Media"
+      ],
+      "rawTags": [
+        "marquard-media",
+        "instyle",
+        "vida-ferenc",
+        "instyle-men",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/v/i/d/a/-/vida-ferenc-marquard-1-20261102-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-02T09:52:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-02T10:54:36Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "e76f35d6",
+      "title": "A politikai függetlenség helyreállítása is az új MTI-vezérigazgató feladata lesz",
+      "url": "https://kreativ.hu/cikk/mti-magyar-tavirati-iroda-fkt-fuggetlen-kozmedia-testulet-vezerigazgato-palyazat",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Részletes szakmai koncepciót és számonkérhető vállalásokat vár a Független Közmédia Testület az MTI leendő vezérigazgatójától. A pályázóknak többek között a hírügynökség politikai függetlenségének…",
+      "fullSummary": "Részletes szakmai koncepciót és számonkérhető vállalásokat vár a Független Közmédia Testület az MTI leendő vezérigazgatójától. A pályázóknak többek között a hírügynökség politikai függetlenségének biztosítására, a közbizalom helyreállítására, a digitális fejlesztésekre és az önálló gazdálkodás kialakítására is konkrét terveket kell bemutatniuk.",
+      "tags": [
+        "Awards",
+        "Mti",
+        "Vezerigazgato",
+        "Fuggetlen Kozmedia Testulet",
+        "Fkt",
+        "Magyar Tavirati Iroda"
+      ],
+      "rawTags": [
+        "palyazat",
+        "mti",
+        "vezerigazgato",
+        "fuggetlen-kozmedia-testulet",
+        "fkt",
+        "magyar-tavirati-iroda",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/t/i/-/e/mti-epulete-a-naphegyen-budapest-0-20261102-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-02T09:45:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-02T10:54:36Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "68f61678",
+      "title": "Canva lets you erase your ex, then undo it when they text",
+      "url": "https://www.famouscampaigns.com/2026/11/canva-lets-you-erase-your-ex-then-undo-it-when-they-text/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Erasing your ex is easy. Keeping them out of the picture is another matter. Canva’s new ad follows a woman deleting former boyfriends from her photos, until an “I miss you” text prompts her to hit Undo. ‘Erase Your Ex’ leads a new North…",
+      "fullSummary": "Erasing your ex is easy. Keeping them out of the picture is another matter. Canva’s new ad follows a woman deleting former boyfriends from her photos, until an “I miss you” text prompts her to hit Undo. ‘Erase Your Ex’ leads a new North American brand campaign from Goodby Silverstein & Partners, built around the […]",
+      "tags": [
+        "Advertising",
+        "Technology"
+      ],
+      "rawTags": [
+        "Advertising",
+        "Technology"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/11/What-Will-You-Canva-Today-_-Erase-Your-Ex.mp4",
+      "author": "Staff",
+      "category": "Advertising",
+      "publishedAt": "2026-11-01T11:44:53Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-02T10:54:36Z",
+      "enrichAttempts": 0
+    },
     {
       "id": "62c3fc2b",
       "title": "Colgate turns toothpaste foam into vampire fangs for Halloween",
@@ -270,7 +395,7 @@
         "verseny",
         "medcom"
       ],
-      "image": "https://kreativ.hu/img-cache/m/e/d/c/-/medc-20261029-549-75-733-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/m/e/d/c/-/medc-20261029-920-690-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-10-29T15:09:00Z",
@@ -298,7 +423,7 @@
         "ova-2026",
         "verseny"
       ],
-      "image": "https://kreativ.hu/img-cache/a/8/a/3/4/a8a3430-20261029-549-75-733-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/8/a/3/4/a8a3430-20261029-920-690-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-10-29T14:11:00Z",
@@ -439,7 +564,7 @@
         "reklam",
         "nyelv"
       ],
-      "image": "https://kreativ.hu/img-cache/p/e/x/e/l/pexels-uday-veeru-2148554804-38149593-0-20261029-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/p/e/x/e/l/pexels-uday-veeru-2148554804-38149593-0-20261029-920-690-90-zc.webp",
       "author": "Fuchs Viktória",
       "category": "",
       "publishedAt": "2026-10-29T10:02:00Z",
@@ -497,7 +622,7 @@
         "jelolt",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/7/3/2/8/6/732863387-1305085548448553-2193538020299231651-n-jfif-0-20261029-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/7/3/2/8/6/732863387-1305085548448553-2193538020299231651-n-jfif-0-20261029-690-920-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-10-29T09:08:00Z",
@@ -621,7 +746,7 @@
         "filutas-anna",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/s/z/i/g/e/sziget-filutas-anna-0-20261028-601-5-802-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/s/z/i/g/e/sziget-filutas-anna-0-20261028-920-690-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-10-28T13:21:00Z",
@@ -2498,7 +2623,7 @@
         "2026",
         "verseny"
       ],
-      "image": "https://kreativ.hu/img-cache/p/p/a/2/0/ppa2026-online-nevezes1-okt19-edm-header-640x360-0-20261019-640-480-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/p/p/a/2/0/ppa2026-online-nevezes1-okt19-edm-header-640x360-0-20261019-360-75-481-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-10-19T09:04:00Z",
@@ -11622,128 +11747,6 @@
       "datePrecise": true,
       "firstSeenAt": "2026-09-13T23:14:17Z",
       "enrichAttempts": 1
-    },
-    {
-      "id": "41f298b1",
-      "title": "Kiri Masters: Why good retailers make bad adtech decisions",
-      "url": "https://www.thedrum.com/news/why-good-retailers-make-bad-ad-tech-decisions",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "The Drum’s commerce media columnist, Kiri Masters, learns that while there has never been more good technology available to a retail media network, the organizational appetite to install it is the…",
-      "fullSummary": "The Drum’s commerce media columnist, Kiri Masters, learns that while there has never been more good technology available to a retail media network, the organizational appetite to install it is the…",
-      "tags": [
-        "Commerce Media",
-        "Retail",
-        "Branding",
-        "Retail Media",
-        "Media"
-      ],
-      "rawTags": [
-        "Retail",
-        "Brand",
-        "Retail media",
-        "Commerce Media"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/adobestock-2000124029.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Kiri Masters",
-      "category": "Commerce Media",
-      "publishedAt": "2026-09-08T09:45:16Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "b108c357",
-      "title": "Sport has entered the chat: what brands can learn from the Summer of Sport",
-      "url": "https://www.thedrum.com/news/sport-has-entered-the-chat-what-brands-can-learn-from-the-summer-of-sport",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "This year’s biggest ever Summer of sport reveals how modern fandom is changing – from the rise of more human, personality-led content to the growing importance of private sharing. What do these…",
-      "fullSummary": "This year’s biggest ever Summer of sport reveals how modern fandom is changing – from the rise of more human, personality-led content to the growing importance of private sharing. What do these…",
-      "tags": [
-        "Marketing",
-        "Sport",
-        "Social Media",
-        "Other",
-        "Partner Insights",
-        "Sports Marketing"
-      ],
-      "rawTags": [
-        "Sport",
-        "Social Media",
-        "Other",
-        "Partner Insights",
-        "Sports Marketing",
-        "Marketing",
-        "Fifa World Cup",
-        "Sponsored"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/untitled-design-7-1788261452.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Maria Greaves",
-      "category": "Marketing",
-      "publishedAt": "2026-09-08T09:28:48Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "f24559fe",
-      "title": "The bravest thing in B2B, or the craziest?",
-      "url": "https://www.thedrum.com/news/the-bravest-thing-in-b2b-or-the-craziest",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "I watched a video on LinkedIn the likes of which I had never seen there. It took me back to the squirm comedy of Ricky Gervais’s The Office. Only this wasn’t edgy comedy made for TV, this was edgy…",
-      "fullSummary": "I watched a video on LinkedIn the likes of which I had never seen there. It took me back to the squirm comedy of Ricky Gervais’s The Office. Only this wasn’t edgy comedy made for TV, this was edgy…",
-      "tags": [
-        "B2B",
-        "Branding",
-        "Creative Work",
-        "Creative",
-        "Film & TV"
-      ],
-      "rawTags": [
-        "Brand",
-        "Creative work",
-        "B2B",
-        "B2B",
-        "Creative"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/hqdefault-1788515168.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Reuben Webb",
-      "category": "B2B",
-      "publishedAt": "2026-09-08T09:00:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "d8789c05",
-      "title": "IKEA turns its tongue-twisting product names into a test",
-      "url": "https://www.famouscampaigns.com/2026/09/ikea-turns-its-tongue-twisting-product-names-into-a-test/",
-      "source": "famouscampaigns",
-      "sourceName": "Famous Campaigns",
-      "accent": "#7c5cff",
-      "summary": "IKEA has turned one of its most recognisable brand quirks into a Back-to-School TikTok challenge, asking people to prove they can pronounce its famously tricky Swedish product names. Created by Ogilvy Amsterdam, The Swedish Test taps into…",
-      "fullSummary": "IKEA has turned one of its most recognisable brand quirks into a Back-to-School TikTok challenge, asking people to prove they can pronounce its famously tricky Swedish product names. Created by Ogilvy Amsterdam, The Swedish Test taps into the voice-recognition challenges that have become a familiar TikTok format. Players start with names such as LACK and […]",
-      "tags": [
-        "Retail",
-        "Social Media",
-        "Branding"
-      ],
-      "rawTags": [
-        "Retail",
-        "Social Media"
-      ],
-      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/ikea-pronounce.mp4",
-      "author": "James Herring",
-      "category": "Retail",
-      "publishedAt": "2026-09-08T08:45:28Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
     }
   ]
 }
