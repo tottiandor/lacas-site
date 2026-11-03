@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T10:54:36Z",
+  "generatedAt": "2026-11-03T10:45:08Z",
   "itemCount": 400,
   "sources": [
     {
@@ -9,7 +9,7 @@
       "accent": "#00d1b2",
       "status": "error",
       "error": "failed to fetch https://www.thedrum.com/: HTTP Error 403: Forbidden",
-      "count": 26
+      "count": 23
     },
     {
       "id": "kreativ",
@@ -50,6 +50,260 @@
   ],
   "items": [
     {
+      "id": "41e87ec3",
+      "title": "A bézs 50 árnyalata...",
+      "url": "https://kreativ.hu/cikk/somogyi-marton-a-bezs-50-arnyalata",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Avagy miért hatásosabb egy legelésző tehén videója, mint egy átlagos tévéreklám. Somogyi Márton, a Dot Creative szövegírójának kreatívipari vádirata.",
+      "fullSummary": "Avagy miért hatásosabb egy legelésző tehén videója, mint egy átlagos tévéreklám. Somogyi Márton, a Dot Creative szövegírójának kreatívipari vádirata.",
+      "tags": [
+        "Advertising",
+        "Kreativipar"
+      ],
+      "rawTags": [
+        "reklam",
+        "kreativipar"
+      ],
+      "image": "https://kreativ.hu/img-cache/c/i/k/k/-/cikk-illu-0-20261103-920-690-90-zc.webp",
+      "author": "Somogyi Márton",
+      "category": "",
+      "publishedAt": "2026-11-03T09:46:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-03T10:45:08Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "e7829b0e",
+      "title": "Tizenötezer nézővel zárt a III. Budapest International Film Festival (BIFF)",
+      "url": "https://kreativ.hu/cikk/tizenotezer-nezovel-zart-a-harmadik-biff",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "15 ezer néző, 45 film, 63 vetítés a Corvin moziban és különböző budapesti helyszíneken: nagy sikerrel és 25 teltházas vetítéssel rendezték meg az idei BIFF-et. A fesztivál idén a szakmai progamokban…",
+      "fullSummary": "15 ezer néző, 45 film, 63 vetítés a Corvin moziban és különböző budapesti helyszíneken: nagy sikerrel és 25 teltházas vetítéssel rendezték meg az idei BIFF-et. A fesztivál idén a szakmai progamokban is tovább erősített.",
+      "tags": [
+        "Filmfesztival",
+        "Biff",
+        "Popkult",
+        "Film & TV"
+      ],
+      "rawTags": [
+        "filmfesztival",
+        "budapest-international-film-festival",
+        "biff",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/b/i/f/f/3/biff3-20261103-920-690-90-zc.webp",
+      "author": "S. D.",
+      "category": "",
+      "publishedAt": "2026-11-03T08:56:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-03T10:45:08Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "74fcdd7f",
+      "title": "John Lewis swaps cash for a ‘Gran Cave’ in Christmas ad",
+      "url": "https://www.famouscampaigns.com/2026/11/john-lewis-swaps-cash-for-a-gran-cave-in-christmas-ad/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "John Lewis has enlisted Dame Kristin Scott Thomas and a talking toy dog for its 2026 Christmas advert, following a grandmother who abandons cash-filled envelopes to build her grandchildren a ‘Gran Cave’. Created by Saatchi & Saatchi, the…",
+      "fullSummary": "John Lewis has enlisted Dame Kristin Scott Thomas and a talking toy dog for its 2026 Christmas advert, following a grandmother who abandons cash-filled envelopes to build her grandchildren a ‘Gran Cave’. Created by Saatchi & Saatchi, the three-minute film tackles a familiar gifting dilemma: when you don’t know what someone wants, money feels like […]",
+      "tags": [
+        "Advertising"
+      ],
+      "rawTags": [
+        "Advertising"
+      ],
+      "image": null,
+      "author": "James Herring",
+      "category": "Advertising",
+      "publishedAt": "2026-11-03T07:04:16Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-03T10:45:08Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "e9f17779",
+      "title": "Új, független online sportrádió indult",
+      "url": "https://kreativ.hu/cikk/online-sportradio-sportos",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "November 2-án elindult a SportOS – Online Sportrádió, amelyen sporthírek, beszélgetések, programajánlók és sok zene várja a hallgatókat a nap 24 órájában.",
+      "fullSummary": "November 2-án elindult a SportOS – Online Sportrádió, amelyen sporthírek, beszélgetések, programajánlók és sok zene várja a hallgatókat a nap 24 órájában.",
+      "tags": [
+        "Sport",
+        "Online Radio",
+        "Media",
+        "Music"
+      ],
+      "rawTags": [
+        "sport",
+        "online-radio",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/s/p/o/r/t/sportos-radio-logo-png-20261102-920-690-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-11-02T13:50:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-03T10:45:08Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "8d50057a",
+      "title": "Marvel Studios — Seoul Drone Show",
+      "url": "https://theinspiration.com/2026/11/marvel-studios-seoul-drone-show/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "Marvel turned the Seoul skyline into a giant cinematic screen to build hype for Avengers: Doomsday. Using 2,000 synchronised drones above the Han River, the studio brought some of its most iconic characters and moments to life in a…",
+      "fullSummary": "Marvel turned the Seoul skyline into a giant cinematic screen to build hype for Avengers: Doomsday. Using 2,000 synchronised drones above the Han River, the studio brought some of its most iconic characters and moments to life in a spectacular light show. But the real showstopper was the transformation of Iron Man into Doctor Doom […]",
+      "tags": [
+        "Advertising",
+        "Art",
+        "Movies",
+        "Film & TV"
+      ],
+      "rawTags": [
+        "Advertising",
+        "Art",
+        "Movies"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/cq9o6q8d6wyh1-750x536.webp",
+      "author": "René Kammersgaard",
+      "category": "Advertising",
+      "publishedAt": "2026-11-02T13:14:05Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-03T10:45:08Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "6234877d",
+      "title": "Shelter’s Christmas ad is not a Christmas ad",
+      "url": "https://www.famouscampaigns.com/2026/11/shelters-christmas-ad-is-not-a-christmas-ad/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "A mother and daughter are counting down to something in Shelter’s Christmas advert. But the moment they’re waiting for isn’t Christmas Day. It’s getting the keys to a safe home. Created by Meanwhile and produced by Magna Studios, the…",
+      "fullSummary": "A mother and daughter are counting down to something in Shelter’s Christmas advert. But the moment they’re waiting for isn’t Christmas Day. It’s getting the keys to a safe home. Created by Meanwhile and produced by Magna Studios, the two-minute film launches the charity’s Winter Appeal. It follows the pair through what initially looks like […]",
+      "tags": [
+        "Advertising",
+        "Cause Related",
+        "Christmas"
+      ],
+      "rawTags": [
+        "Advertising",
+        "Cause Related",
+        "Christmas"
+      ],
+      "image": null,
+      "author": "James Herring",
+      "category": "Advertising",
+      "publishedAt": "2026-11-02T13:13:53Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-03T10:45:08Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "ad33ad5f",
+      "title": "NMHH: csökkent a létszám, megszűnt két igazgatóság, érkezett két új elnökhelyettes",
+      "url": "https://kreativ.hu/cikk/nmhh-megszunik-ket-igazgatosag-munkaba-all-a-ket-uj-elnokhelyettes",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Nemzeti Média- és Hírközlési Hatóság (NMHH) 2026. november elsejével megszüntette az Elemzési valamint a Médiapiaci Együttműködési és Kutatási Igazgatóságot. Az ott dolgozók, valamint további egy…",
+      "fullSummary": "A Nemzeti Média- és Hírközlési Hatóság (NMHH) 2026. november elsejével megszüntette az Elemzési valamint a Médiapiaci Együttműködési és Kutatási Igazgatóságot. Az ott dolgozók, valamint további egy igazgató szerződésének felbontásával összesen 15 fővel csökkent a Hatóság 766 fős létszáma.",
+      "tags": [
+        "Nmhh",
+        "Vezetok",
+        "Hatosag",
+        "Media"
+      ],
+      "rawTags": [
+        "nmhh",
+        "vezetok",
+        "hatosag",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-1909159340-jpeg-20261102-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-02T13:11:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-03T10:45:08Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "d9b2e5f1",
+      "title": "61 milliárddal kevesebb juthat a közmédiának 2027-ben – Frissítve",
+      "url": "https://kreativ.hu/cikk/kozmedia-koltsegvetes-visszaeses-csokkentes-mti-hirugynokseg",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A kormány 2027-es költségvetési javaslata 80 milliárd forint közszolgálati hozzájárulással számol, ami 61,3 milliárd forinttal marad el az idei támogatástól. Az MTI külön előirányzatot nem kap: a…",
+      "fullSummary": "A kormány 2027-es költségvetési javaslata 80 milliárd forint közszolgálati hozzájárulással számol, ami 61,3 milliárd forinttal marad el az idei támogatástól. Az MTI külön előirányzatot nem kap: a hírügynökség és a közmédia többi része egyetlen soron osztozik.",
+      "tags": [
+        "Koltsegvetes",
+        "Mti",
+        "Hirugynokseg",
+        "Kozmedia",
+        "Csokkentes",
+        "Visszaeses"
+      ],
+      "rawTags": [
+        "koltsegvetes",
+        "mti",
+        "hirugynokseg",
+        "kozmedia",
+        "csokkentes",
+        "visszaeses",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/t/v/a/-/mtva-0-20261102-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-02T11:54:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-03T10:45:08Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "005eff62",
+      "title": "Újabb névvel bővült a közmédia vezérigazgatói posztjáért indulók köre",
+      "url": "https://kreativ.hu/cikk/kozmedia-vezerigazgato-palyazat-herman-peter-pierre",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Herman Péter, az RTL korábbi kreatív igazgatója is indul a közmédia vezérigazgatói pályázatán.",
+      "fullSummary": "Herman Péter, az RTL korábbi kreatív igazgatója is indul a közmédia vezérigazgatói pályázatán.",
+      "tags": [
+        "Awards",
+        "Vezerigazgato",
+        "Kozmedia",
+        "Herman Peter",
+        "Media"
+      ],
+      "rawTags": [
+        "palyazat",
+        "vezerigazgato",
+        "kozmedia",
+        "herman-peter",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/h/e/r/m/a/herman-peter-20261102-920-690-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-11-02T11:33:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-03T10:45:08Z",
+      "enrichAttempts": 1
+    },
+    {
       "id": "855ecb74",
       "title": "Ha azt hisszük, az AI mindent le tud modellezni, máris egy Truman Show-ban élünk",
       "url": "https://kreativ.hu/cikk/viragh-miklos-fifty5blue-kantar-media-ai-mesterseges-intelligencia-merhetoseg-marketing",
@@ -57,7 +311,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A ChatGPT-ben megjelent hirdetések és a generatív mesterséges intelligencia térnyerése gyökeresen átalakítja a reklámpiacot, miközben lényegileg nehezíti meg a hirdetések pontos mérését. A zárt…",
-      "fullSummary": "A ChatGPT-ben megjelent hirdetések és a generatív mesterséges intelligencia térnyerése gyökeresen átalakítja a reklámpiacot, miközben lényegileg nehezíti meg a hirdetések pontos mérését. A zárt platformok és az algoritmusok által működtetett fekete dobozok korában a túlhajszolt adatfetisizmus helyett az emberi intuícióra és a valódi elköteleződésre kellene helyezni a nagyobb hangsúlyt – véli Virágh Miklós, a Fifty5Blue Hungary médiapiaci és…",
+      "fullSummary": "A ChatGPT-ben megjelent hirdetések és a generatív mesterséges intelligencia térnyerése gyökeresen átalakítja a reklámpiacot, miközben lényegileg nehezíti meg a hirdetések pontos mérését. A zárt…",
       "tags": [
         "Marketing",
         "AI",
@@ -107,7 +361,7 @@
         "instyle-men",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/v/i/d/a/-/vida-ferenc-marquard-1-20261102-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/v/i/d/a/-/vida-ferenc-marquard-1-20261102-690-920-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-02T09:52:00Z",
@@ -123,7 +377,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Részletes szakmai koncepciót és számonkérhető vállalásokat vár a Független Közmédia Testület az MTI leendő vezérigazgatójától. A pályázóknak többek között a hírügynökség politikai függetlenségének…",
-      "fullSummary": "Részletes szakmai koncepciót és számonkérhető vállalásokat vár a Független Közmédia Testület az MTI leendő vezérigazgatójától. A pályázóknak többek között a hírügynökség politikai függetlenségének biztosítására, a közbizalom helyreállítására, a digitális fejlesztésekre és az önálló gazdálkodás kialakítására is konkrét terveket kell bemutatniuk.",
+      "fullSummary": "Részletes szakmai koncepciót és számonkérhető vállalásokat vár a Független Közmédia Testület az MTI leendő vezérigazgatójától. A pályázóknak többek között a hírügynökség politikai függetlenségének…",
       "tags": [
         "Awards",
         "Mti",
@@ -141,7 +395,7 @@
         "magyar-tavirati-iroda",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/m/t/i/-/e/mti-epulete-a-naphegyen-budapest-0-20261102-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/m/t/i/-/e/mti-epulete-a-naphegyen-budapest-0-20261102-684-75-913-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-02T09:45:00Z",
@@ -251,12 +505,40 @@
         "nemzeti-sportradio",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/s/m/o/r/a/smorazanm-microphone-1562354-1920-1-20261030-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/s/m/o/r/a/smorazanm-microphone-1562354-1920-1-20261030-690-920-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-10-30T15:11:00Z",
       "datePrecise": true,
       "firstSeenAt": "2026-10-31T09:30:57Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "705db10a",
+      "title": "Petőfivel hódította meg a szeptembert a Vates és a One Magyarország",
+      "url": "https://kreativ.hu/cikk/one-magyarorszag-vates-irodalmi-palyazat",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Mi köti össze Petőfi Sándort, a kortárs költészetet és az internetet? A One Magyarország és a Vates közös rendhagyó irodalmi pályázata megmutatta, hogyan találkozhat a költői hagyomány a…",
+      "fullSummary": "Mi köti össze Petőfi Sándort, a kortárs költészetet és az internetet? A One Magyarország és a Vates közös rendhagyó irodalmi pályázata megmutatta, hogyan találkozhat a költői hagyomány a digitális korral. A felhívásra háromszáz pályamű érkezett – most bemutatjuk a szakmai zsűri által kiválasztott győzteseket és verseiket.",
+      "tags": [
+        "Irodalmi Palyazat",
+        "One Magyarorszag",
+        "Advertising",
+        "Awards"
+      ],
+      "rawTags": [
+        "irodalmi-palyazat",
+        "one-magyarorszag",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/k/r/e/a/t/kreativ-cikk-vates-kep-0-20261030-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-10-30T14:57:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-03T10:45:08Z",
       "enrichAttempts": 1
     },
     {
@@ -335,7 +617,7 @@
         "felugyelobizottsag",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/f/u/g/g/e/fuggetlen-kozmedia-testulet-fkt-logo-cimlapra-v2-20261030-673-504-75-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/f/u/g/g/e/fuggetlen-kozmedia-testulet-fkt-logo-cimlapra-v2-20261030-379-5-506-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-10-30T09:30:00Z",
@@ -366,7 +648,7 @@
         "mediacegek",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/t/h/e/-/b/the-blowup-rjeweq9e2dk-unsplash-1-20261030-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/t/h/e/-/b/the-blowup-rjeweq9e2dk-unsplash-1-20261030-690-920-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-10-30T09:05:00Z",
@@ -395,7 +677,7 @@
         "verseny",
         "medcom"
       ],
-      "image": "https://kreativ.hu/img-cache/m/e/d/c/-/medc-20261029-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/m/e/d/c/-/medc-20261029-549-75-733-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-10-29T15:09:00Z",
@@ -11486,264 +11768,6 @@
       "author": "Erin Lutenski",
       "category": "Marketing",
       "publishedAt": "2026-09-09T09:00:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "f91e54c1",
-      "title": "Az AI-láthatóság nem varázslat: mítoszok helyett kérdésekből épül stratégia",
-      "url": "https://kreativ.hu/cikk/az-ai-lathatosag-nem-varazslat-mitoszok-helyett-kerdesekbol-epul-strategia",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Az AI-láthatóság körül rövid idő alatt meglepően sok biztos recept jelent meg. Elég egy llms.txt, száz AI-cikk, egy első hely a Google-ben vagy néhány látványos képernyőkép, és már kész is az új…",
-      "fullSummary": "Az AI-láthatóság körül rövid idő alatt meglepően sok biztos recept jelent meg. Elég egy llms.txt, száz AI-cikk, egy első hely a Google-ben vagy néhány látványos képernyőkép, és már kész is az új…",
-      "tags": [
-        "Markak",
-        "AI",
-        "Lathatosag",
-        "Az AI Szemevel",
-        "Advertising",
-        "Strategy"
-      ],
-      "rawTags": [
-        "markak",
-        "mesterseges-intelligencia",
-        "lathatosag",
-        "az-ai-szemevel",
-        "reklam"
-      ],
-      "image": "https://kreativ.hu/img-cache/c/h/a/t/g/chatgpt-image-2026-szept-8-11-07-43-png-0-20260908-920-690-90-zc.webp",
-      "author": "Krankovics Béla",
-      "category": "",
-      "publishedAt": "2026-09-09T08:30:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "88612045",
-      "title": "AG1 puts creatine’s airport problem straight into the tray",
-      "url": "https://www.famouscampaigns.com/2026/09/ag1-puts-creatines-airport-problem-straight-into-the-tray/",
-      "source": "famouscampaigns",
-      "sourceName": "Famous Campaigns",
-      "accent": "#7c5cff",
-      "summary": "AG1 has turned the awkward optics of travelling with loose creatine powder into an airport OOH campaign for AG1 Pro, placing ads inside security trays and across terminals in Denver, Austin and Seattle. The idea takes a familiar bit of…",
-      "fullSummary": "AG1 has turned the awkward optics of travelling with loose creatine powder into an airport OOH campaign for AG1 Pro, placing ads inside security trays and across terminals in Denver, Austin and Seattle. The idea takes a familiar bit of consumer behaviour and puts the message at the exact moment it becomes uncomfortable. One TSA […]",
-      "tags": [
-        "Advertising",
-        "COOH",
-        "Campaigns",
-        "OOH"
-      ],
-      "rawTags": [
-        "Advertising",
-        "COOH"
-      ],
-      "image": null,
-      "author": "Staff",
-      "category": "Advertising",
-      "publishedAt": "2026-09-09T08:11:37Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "9ee9123a",
-      "title": "Boots celebrates life’s ‘brutiful’ moments with new brand platform",
-      "url": "https://www.creativereview.co.uk/boots-celebrates-lifes-brutiful-moments-with-new-brand-platform/",
-      "source": "creativereview",
-      "sourceName": "Creative Review",
-      "accent": "#ff4d4d",
-      "summary": "From grey hairs to hot flushes, the campaign from Boots reminds customers to trust in its expertise for all of life’s ups and downs",
-      "fullSummary": "From grey hairs to hot flushes, the campaign from Boots reminds customers to trust in its expertise for all of life’s ups and downs",
-      "tags": [
-        "Branding",
-        "Campaigns"
-      ],
-      "rawTags": [],
-      "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/09/Boots-60s-TV-still-2.jpg",
-      "author": "Daniel Milroy Maher",
-      "category": "",
-      "publishedAt": "2026-09-09T07:27:44Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "11d45c55",
-      "title": "The changing face of B2B",
-      "url": "https://www.creativereview.co.uk/b2b-advertising-change-park-and-battery/",
-      "source": "creativereview",
-      "sourceName": "Creative Review",
-      "accent": "#ff4d4d",
-      "summary": "CR meets the co-founders of Park & Battery agency to discuss all things B2B – from how to encourage brands to embrace change to the use of AI for customer insight",
-      "fullSummary": "CR meets the co-founders of Park & Battery agency to discuss all things B2B – from how to encourage brands to embrace change to the use of AI for customer insight",
-      "tags": [
-        "AI",
-        "Agencies",
-        "Branding",
-        "Strategy",
-        "B2B"
-      ],
-      "rawTags": [],
-      "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/08/TFS_DangerousFoods_HR_notext_cmyk_gator.jpg",
-      "author": "Eliza Williams",
-      "category": "",
-      "publishedAt": "2026-09-09T02:59:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "a82e8165",
-      "title": "Stephen Mai on ADHD and the creative process",
-      "url": "https://www.creativereview.co.uk/stephen-mai-adhd-creative-process/",
-      "source": "creativereview",
-      "sourceName": "Creative Review",
-      "accent": "#ff4d4d",
-      "summary": "The former CMO of Goalhanger, LadBible and Boiler Room explains what an ADHD diagnosis revealed about 20 years of hyperfocus, pattern recognition and burning out on schedule",
-      "fullSummary": "The former CMO of Goalhanger, LadBible and Boiler Room explains what an ADHD diagnosis revealed about 20 years of hyperfocus, pattern recognition and burning out on schedule",
-      "tags": [
-        "Diversity"
-      ],
-      "rawTags": [],
-      "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/08/SM-CR-COLLAGE-ADHD.png",
-      "author": "Stephen Mai",
-      "category": "",
-      "publishedAt": "2026-09-09T02:56:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "9ee87b47",
-      "title": "Nominate a rising star to win a free ticket to B2B World Fest",
-      "url": "https://www.thedrum.com/news/do-you-remember-your-first-major-industry-event",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "The Drum is giving one up-and-coming marketer from a brand or agency the chance to join us in Miami this November with a free ticket worth $2,995. Reuben Webb explains why attending your first event…",
-      "fullSummary": "The Drum is giving one up-and-coming marketer from a brand or agency the chance to join us in Miami this November with a free ticket worth $2,995. Reuben Webb explains why attending your first event…",
-      "tags": [
-        "Branding",
-        "B2B World Fest",
-        "B2B",
-        "Agencies"
-      ],
-      "rawTags": [
-        "Brand",
-        "B2B World Fest",
-        "B2B"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/screenshot-2026-09-04-at-16-48-26.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Reuben Webb",
-      "category": "",
-      "publishedAt": "2026-09-08T16:18:25Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "4051d785",
-      "title": "The Infinite Storefront: When Did Everything Become Shoppable?",
-      "url": "https://www.thedrum.com/tv/video/the-infinite-storefront-when-did-everything-become-shoppable",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "Shopping used to happen in shops. Now it can happen on our sofas, in our social feeds, through creators and even on our TVs. Host Jenni Baker explores the impact with leaders from Dollar General,…",
-      "fullSummary": "Shopping used to happen in shops. Now it can happen on our sofas, in our social feeds, through creators and even on our TVs. Host Jenni Baker explores the impact with leaders from Dollar General,…",
-      "tags": [
-        "Retail"
-      ],
-      "rawTags": [],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/img-9766.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "",
-      "category": "",
-      "publishedAt": "2026-09-08T14:58:43Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "26809f47",
-      "title": "From fitness tracker to health coach: how AI is redefining wellness tech",
-      "url": "https://www.thedrum.com/news/from-fitness-tracker-to-health-coach-how-ai-is-redefining-wellness-tech",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "As consumers embrace more holistic health, brands are rethinking how tech supports wellbeing. Turning intelligence into meaningful guidance is a challenge set to be faced by every sector. Google’s…",
-      "fullSummary": "As consumers embrace more holistic health, brands are rethinking how tech supports wellbeing. Turning intelligence into meaningful guidance is a challenge set to be faced by every sector. Google’s…",
-      "tags": [
-        "AI",
-        "Partner Insights",
-        "Branding",
-        "Health"
-      ],
-      "rawTags": [
-        "Artificial Intelligence",
-        "Partner Insights"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/thedrum-health.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Maria Greaves",
-      "category": "",
-      "publishedAt": "2026-09-08T14:51:36Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "24dcf627",
-      "title": "Ad of the Day: Stanley Tucci skips the shoot to enjoy Birra Moretti’s simple pleasures",
-      "url": "https://www.thedrum.com/news/stanley-tucci-skips-the-shoot-to-enjoy-birra-moretti-s-simple-pleasures",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "What works better? High production values, golden-hour light, lush landscapes and lingering product shots? Or celebs having a fantastic time with their friends, shot on a handheld phone and made for…",
-      "fullSummary": "What works better? High production values, golden-hour light, lush landscapes and lingering product shots? Or celebs having a fantastic time with their friends, shot on a handheld phone and made for shares and likes? Lucky Generals has found a smart way to combine the two with the latest commercial for Birra Moretti, part of its acclaimed ‘Enjoy Life’s Simple Pleasures’ brand platform. It opens on a rustic, sun-dappled table, bubbles rising in…",
-      "tags": [
-        "Creative",
-        "Advertising"
-      ],
-      "rawTags": [
-        "Ad of the Day",
-        "Creative"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/screenshot-2026-09-08-113412.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Mel Henson",
-      "category": "Creative",
-      "publishedAt": "2026-09-08T10:56:41Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-14T09:52:42Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "2efed149",
-      "title": "Andrew Tindall: Humans can’t spot AI ads. Can AI rate human ones?",
-      "url": "https://www.thedrum.com/opinion/andrew-tindall-humans-can-t-spot-ai-ads-can-ai-spot-good-human-ones",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "Andrew Tindall compares human and AI testing across ten major ads and finds the machines are surprisingly good at spotting winners and losers, provided they’re allowed to admit uncertainty. As…",
-      "fullSummary": "Andrew Tindall compares human and AI testing across ten major ads and finds the machines are surprisingly good at spotting winners and losers, provided they’re allowed to admit uncertainty. As…",
-      "tags": [
-        "Marketing",
-        "Branding",
-        "Tindall On Effectiveness",
-        "Marketing Services",
-        "AI"
-      ],
-      "rawTags": [
-        "Brand",
-        "Tindall on Effectiveness",
-        "Marketing Services",
-        "Marketing"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/screenshot-2026-09-08-111713.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Andrew Tindall",
-      "category": "Marketing",
-      "publishedAt": "2026-09-08T10:51:44Z",
       "datePrecise": true,
       "firstSeenAt": "2026-09-13T23:14:17Z",
       "enrichAttempts": 1
