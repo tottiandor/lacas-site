@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T10:45:08Z",
+  "generatedAt": "2026-11-04T10:47:14Z",
   "itemCount": 400,
   "sources": [
     {
@@ -9,7 +9,7 @@
       "accent": "#00d1b2",
       "status": "error",
       "error": "failed to fetch https://www.thedrum.com/: HTTP Error 403: Forbidden",
-      "count": 23
+      "count": 18
     },
     {
       "id": "kreativ",
@@ -27,7 +27,7 @@
       "accent": "#ff4d4d",
       "status": "error",
       "error": "failed to fetch https://www.creativereview.co.uk/feed/: HTTP Error 403: Forbidden",
-      "count": 11
+      "count": 8
     },
     {
       "id": "theinspiration",
@@ -49,6 +49,267 @@
     }
   ],
   "items": [
+    {
+      "id": "d8e160e4",
+      "title": "Eljárást indított a Médiatanács a HÍR TV, a Hír FM, a Kossuth Rádió és az M1 ellen",
+      "url": "https://kreativ.hu/cikk/eljarast-inditott-a-mediatanacs-a-hir-tv-a-hir-fm-a-kossuth-radio-es-az-m1-ellen-1",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A testület szerint a HÍR TV-n és a Hír FM-en sugárzott Paláver műsorvezetője nem határolódott el kellő határozottsággal attól, hogy egy betelefonáló „genetikai selejtnek” nevezte a…",
+      "fullSummary": "A testület szerint a HÍR TV-n és a Hír FM-en sugárzott Paláver műsorvezetője nem határolódott el kellő határozottsággal attól, hogy egy betelefonáló „genetikai selejtnek” nevezte a miniszterelnököt. A Kossuth Rádióval szembeni, korábban indított eljárást gyűlöletkeltés vizsgálatával is kiegészítették, az M1-nek pedig jogsértés miatt közleményt kell közzétennie.",
+      "tags": [
+        "Media",
+        "Film & TV"
+      ],
+      "rawTags": [
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/n/m/h/h/-/nmhh-logo-800x480-0-20261104-800-600-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-04T09:48:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-04T10:47:14Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "65099726",
+      "title": "Új vezetők a Madách Színház és az Új Színház élén",
+      "url": "https://kreativ.hu/cikk/uj-vezetok-a-madach-szinhaz-es-az-uj-szinhaz-elen",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Szabó Péter Szilveszter lesz a Madách Színház, Csiby Gergely pedig az Új Színház ügyvezetője január 31-től.",
+      "fullSummary": "Szabó Péter Szilveszter lesz a Madách Színház, Csiby Gergely pedig az Új Színház ügyvezetője január 31-től.",
+      "tags": [
+        "Awards",
+        "Igazgato",
+        "Uj Szinhaz",
+        "Nyertes",
+        "Madach Szinhaz",
+        "Popkult"
+      ],
+      "rawTags": [
+        "palyazat",
+        "igazgato",
+        "uj-szinhaz",
+        "nyertes",
+        "madach-szinhaz",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/2/0/2/0/-/2020-10-19-0-20261104-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-04T09:10:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-04T10:47:14Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "e3f5f819",
+      "title": "Kulturális buborékok helyett közös alkotói terek – Klipszakmai beszélgetések",
+      "url": "https://kreativ.hu/cikk/kulturalis-buborekok-helyett-kozos-alkotoi-terek-marketingeszkoz-vagy-onallo-muveszeti-produktum-a-videoklip",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Idén tízéves lett a Magyar Klipszemle: a jubileumra programsorozattal készültek a szervezők, melynek csúcspontjaként adták át az idei díjakat (lásd kapcsolódó cikkünket). A díjátadó előtti napon…",
+      "fullSummary": "Idén tízéves lett a Magyar Klipszemle: a jubileumra programsorozattal készültek a szervezők, melynek csúcspontjaként adták át az idei díjakat (lásd kapcsolódó cikkünket). A díjátadó előtti napon szakmai fórumot rendezett a Klipegylet, a magyarországi videoklip-készítő szakma közösségi és érdekképviseleti szervezete, Milliós nézettség, nulla támogatás? – címmel. Önálló alkotás, vagy zenei marketing-eszköz? Hol ér össze a reklám és a zenei klip?…",
+      "tags": [
+        "Videoklip",
+        "Klipszemle",
+        "Klipegylet",
+        "Popkult"
+      ],
+      "rawTags": [
+        "videoklip",
+        "klipszemle",
+        "klipegylet",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/k/l/i/p/e/klipegylet-dugattyus-10-28-32-20261103-920-690-90-zc.webp",
+      "author": "Schäffer Dániel",
+      "category": "",
+      "publishedAt": "2026-11-04T08:25:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-04T10:47:14Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "ebb6ee6f",
+      "title": "Kiosztották a 10. Magyar Klipszemle díjait",
+      "url": "https://kreativ.hu/cikk/kiosztottak-a-10-magyar-klipszemle-dijait",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Beton. Hofi Tarr Béla című klipje vitte el a fődíjat a 10. Magyar Klipszemlén, de Pogány Induló, Mehringer és 6363 videóinak alkotói is a díjazottak között szerepelnek.",
+      "fullSummary": "Beton. Hofi Tarr Béla című klipje vitte el a fődíjat a 10. Magyar Klipszemlén, de Pogány Induló, Mehringer és 6363 videóinak alkotói is a díjazottak között szerepelnek.",
+      "tags": [
+        "Dijatado",
+        "Videoklip",
+        "Klipszemle",
+        "Popkult"
+      ],
+      "rawTags": [
+        "dijatado",
+        "videoklip",
+        "klipszemle",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/k/l/i/p/-/klip-png-20261103-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-04T07:55:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-04T10:47:14Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "e510d6d8",
+      "title": "Kia sculpts Nadal a car from tennis-court clay",
+      "url": "https://www.famouscampaigns.com/2026/11/kia-builds-nadal-a-car-from-tennis-court-clay/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Kia has given Rafael Nadal a car made from the surface that made him famous: a full-size clay model of its EV4 GT, using material taken from tennis courts where he played. The tribute marks a partnership that began in 2004, before Nadal…",
+      "fullSummary": "Kia has given Rafael Nadal a car made from the surface that made him famous: a full-size clay model of its EV4 GT, using material taken from tennis courts where he played. The tribute marks a partnership that began in 2004, before Nadal won his first Grand Slam, and draws on a creative connection between […]",
+      "tags": [
+        "Automotive"
+      ],
+      "rawTags": [
+        "Automotive"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/11/KingOfClay_BTS_68s_16x9_FullHD-1.mp4",
+      "author": "Staff",
+      "category": "Automotive",
+      "publishedAt": "2026-11-03T15:37:55Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-04T10:47:14Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "28c6fe9d",
+      "title": "ZAJ: új podcastot indított a Müpa a zenei kulisszatitkokról",
+      "url": "https://kreativ.hu/cikk/mupa-podcast-zaj",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "ZAJ címmel indított új, kéthetente jelentkező podcastsorozatot a Müpa a 2026/27-es évadban. A műsor célja, hogy közérthetően, szórakoztató formában mutassa be a zenei világ olyan hátterét és…",
+      "fullSummary": "ZAJ címmel indított új, kéthetente jelentkező podcastsorozatot a Müpa a 2026/27-es évadban. A műsor célja, hogy közérthetően, szórakoztató formában mutassa be a zenei világ olyan hátterét és összefüggéseit, amelyek a közönség számára gyakran rejtve maradnak.",
+      "tags": [
+        "Mupa",
+        "Podcast",
+        "Advertising",
+        "Media"
+      ],
+      "rawTags": [
+        "mupa",
+        "podcast",
+        "reklam",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/u/p/a/-/mupa-zaj-podcast-forras-mupa-800-20261103-800-600-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-11-03T15:15:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-04T10:47:14Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "24eb7df2",
+      "title": "Egyesíti marketing- és kommunikációs területeit az RTL Magyarország",
+      "url": "https://kreativ.hu/cikk/rtl-magyarorszag-marketing-kommunikacio",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "November elsejétől egységes Marketing és Kommunikációs Igazgatóságot hoz létre az RTL Magyarország. Az új szervezet a televíziós csatornák, az RTL+ streamingplatform és a műsorok marketingje mellett…",
+      "fullSummary": "November elsejétől egységes Marketing és Kommunikációs Igazgatóságot hoz létre az RTL Magyarország. Az új szervezet a televíziós csatornák, az RTL+ streamingplatform és a műsorok marketingje mellett a vállalati, a B2B és a belső kommunikációt is összefogja. Az igazgatóságot Baráth Péter vezeti, Gonda Gáspár Chief Corporate Affairs Officer irányítása alatt.",
+      "tags": [
+        "Kommunikacio",
+        "Marketing",
+        "RTL Magyarorszag",
+        "Media",
+        "Film & TV"
+      ],
+      "rawTags": [
+        "kommunikacio",
+        "marketing",
+        "rtl-magyarorszag",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/b/a/r/a/t/barathpeter-szabo-reka-foto-kicsi-20261103-920-690-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-11-03T13:15:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-04T10:47:14Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "188475a6",
+      "title": "Jude Bellingham strips off for Calvin Klein’s latest campaign",
+      "url": "https://www.famouscampaigns.com/2026/11/jude-bellingham-strips-off-for-calvin-kleins-latest-campaign/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Jude Bellingham is the latest star to strip down for Calvin Klein, fronting a new underwear campaign shot by photographer Oliver Hadlee Pearch. Revealed on 2 November, the campaign features the footballer in the brand’s Icon Cotton Stretch…",
+      "fullSummary": "Jude Bellingham is the latest star to strip down for Calvin Klein, fronting a new underwear campaign shot by photographer Oliver Hadlee Pearch. Revealed on 2 November, the campaign features the footballer in the brand’s Icon Cotton Stretch underwear. Photographed in Madrid last summer, the shoot centres on “the icon underneath”, an idea linking confidence […]",
+      "tags": [
+        "Advertising",
+        "Celebrity",
+        "Fashion",
+        "Branding",
+        "Campaigns",
+        "Photography"
+      ],
+      "rawTags": [
+        "Advertising",
+        "Celebrity",
+        "Fashion"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/11/bellingham-calvin-klein.mp4",
+      "author": "Staff",
+      "category": "Advertising",
+      "publishedAt": "2026-11-03T13:08:11Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-04T10:47:14Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "eb370d0f",
+      "title": "Legfeljebb 160 dolgozót érinthet a közmédia csoportos létszámleépítése",
+      "url": "https://kreativ.hu/cikk/kozmedia-mrtv-csoportos-letszamleepites-tamogatas-koltsegvetes",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Megkezdődtek az egyeztetések a munkavállalói képviselőkkel a közmédiánál tervezett csoportos létszámcsökkentésről. Az átalakítás legfeljebb 160 munkavállalót érinthet, a végleges létszámról a…",
+      "fullSummary": "Megkezdődtek az egyeztetések a munkavállalói képviselőkkel a közmédiánál tervezett csoportos létszámcsökkentésről. Az átalakítás legfeljebb 160 munkavállalót érinthet, a végleges létszámról a november végéig tartó tárgyalások eredménye alapján döntenek.",
+      "tags": [
+        "Koltsegvetes",
+        "Tamogatas",
+        "Kozmedia",
+        "Letszamleepites",
+        "Mrtv",
+        "Csoportos"
+      ],
+      "rawTags": [
+        "koltsegvetes",
+        "tamogatas",
+        "kozmedia",
+        "letszamleepites",
+        "mrtv",
+        "csoportos",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/y/o/u/n/g/young-adult-dealing-with-imposter-syndrome-0-20261103-690-920-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-03T11:45:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-04T10:47:14Z",
+      "enrichAttempts": 1
+    },
     {
       "id": "41e87ec3",
       "title": "A bézs 50 árnyalata...",
@@ -82,7 +343,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "15 ezer néző, 45 film, 63 vetítés a Corvin moziban és különböző budapesti helyszíneken: nagy sikerrel és 25 teltházas vetítéssel rendezték meg az idei BIFF-et. A fesztivál idén a szakmai progamokban…",
-      "fullSummary": "15 ezer néző, 45 film, 63 vetítés a Corvin moziban és különböző budapesti helyszíneken: nagy sikerrel és 25 teltházas vetítéssel rendezték meg az idei BIFF-et. A fesztivál idén a szakmai progamokban is tovább erősített.",
+      "fullSummary": "15 ezer néző, 45 film, 63 vetítés a Corvin moziban és különböző budapesti helyszíneken: nagy sikerrel és 25 teltházas vetítéssel rendezték meg az idei BIFF-et. A fesztivál idén a szakmai progamokban…",
       "tags": [
         "Filmfesztival",
         "Biff",
@@ -95,7 +356,7 @@
         "biff",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/b/i/f/f/3/biff3-20261103-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/b/i/f/f/3/biff3-20261103-549-75-733-90-zc.webp",
       "author": "S. D.",
       "category": "",
       "publishedAt": "2026-11-03T08:56:00Z",
@@ -146,7 +407,7 @@
         "online-radio",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/s/p/o/r/t/sportos-radio-logo-png-20261102-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/s/p/o/r/t/sportos-radio-logo-png-20261102-676-5-902-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-11-02T13:50:00Z",
@@ -211,13 +472,13 @@
     },
     {
       "id": "ad33ad5f",
-      "title": "NMHH: csökkent a létszám, megszűnt két igazgatóság, érkezett két új elnökhelyettes",
+      "title": "NMHH: megszűnik két igazgatóság, munkába áll a két új elnökhelyettes",
       "url": "https://kreativ.hu/cikk/nmhh-megszunik-ket-igazgatosag-munkaba-all-a-ket-uj-elnokhelyettes",
       "source": "kreativ",
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Nemzeti Média- és Hírközlési Hatóság (NMHH) 2026. november elsejével megszüntette az Elemzési valamint a Médiapiaci Együttműködési és Kutatási Igazgatóságot. Az ott dolgozók, valamint további egy…",
-      "fullSummary": "A Nemzeti Média- és Hírközlési Hatóság (NMHH) 2026. november elsejével megszüntette az Elemzési valamint a Médiapiaci Együttműködési és Kutatási Igazgatóságot. Az ott dolgozók, valamint további egy igazgató szerződésének felbontásával összesen 15 fővel csökkent a Hatóság 766 fős létszáma.",
+      "fullSummary": "A Nemzeti Média- és Hírközlési Hatóság (NMHH) 2026. november elsejével megszüntette az Elemzési valamint a Médiapiaci Együttműködési és Kutatási Igazgatóságot. Az ott dolgozók, valamint további egy…",
       "tags": [
         "Nmhh",
         "Vezetok",
@@ -230,7 +491,7 @@
         "hatosag",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-1909159340-jpeg-20261102-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-1909159340-jpeg-20261102-549-75-733-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-02T13:11:00Z",
@@ -246,7 +507,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A kormány 2027-es költségvetési javaslata 80 milliárd forint közszolgálati hozzájárulással számol, ami 61,3 milliárd forinttal marad el az idei támogatástól. Az MTI külön előirányzatot nem kap: a…",
-      "fullSummary": "A kormány 2027-es költségvetési javaslata 80 milliárd forint közszolgálati hozzájárulással számol, ami 61,3 milliárd forinttal marad el az idei támogatástól. Az MTI külön előirányzatot nem kap: a hírügynökség és a közmédia többi része egyetlen soron osztozik.",
+      "fullSummary": "A kormány 2027-es költségvetési javaslata 80 milliárd forint közszolgálati hozzájárulással számol, ami 61,3 milliárd forinttal marad el az idei támogatástól. Az MTI külön előirányzatot nem kap: a…",
       "tags": [
         "Koltsegvetes",
         "Mti",
@@ -264,7 +525,7 @@
         "visszaeses",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/m/t/v/a/-/mtva-0-20261102-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/m/t/v/a/-/mtva-0-20261102-690-920-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-02T11:54:00Z",
@@ -295,7 +556,7 @@
         "herman-peter",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/h/e/r/m/a/herman-peter-20261102-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/h/e/r/m/a/herman-peter-20261102-541-5-722-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-11-02T11:33:00Z",
@@ -361,7 +622,7 @@
         "instyle-men",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/v/i/d/a/-/vida-ferenc-marquard-1-20261102-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/v/i/d/a/-/vida-ferenc-marquard-1-20261102-920-690-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-02T09:52:00Z",
@@ -521,7 +782,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Mi köti össze Petőfi Sándort, a kortárs költészetet és az internetet? A One Magyarország és a Vates közös rendhagyó irodalmi pályázata megmutatta, hogyan találkozhat a költői hagyomány a…",
-      "fullSummary": "Mi köti össze Petőfi Sándort, a kortárs költészetet és az internetet? A One Magyarország és a Vates közös rendhagyó irodalmi pályázata megmutatta, hogyan találkozhat a költői hagyomány a digitális korral. A felhívásra háromszáz pályamű érkezett – most bemutatjuk a szakmai zsűri által kiválasztott győzteseket és verseiket.",
+      "fullSummary": "Mi köti össze Petőfi Sándort, a kortárs költészetet és az internetet? A One Magyarország és a Vates közös rendhagyó irodalmi pályázata megmutatta, hogyan találkozhat a költői hagyomány a…",
       "tags": [
         "Irodalmi Palyazat",
         "One Magyarorszag",
@@ -648,7 +909,7 @@
         "mediacegek",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/t/h/e/-/b/the-blowup-rjeweq9e2dk-unsplash-1-20261030-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/t/h/e/-/b/the-blowup-rjeweq9e2dk-unsplash-1-20261030-920-690-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-10-30T09:05:00Z",
@@ -11491,283 +11752,6 @@
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-10T02:03:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "61d5daba",
-      "title": "A Nemzeti Sportrádió főszerkesztőjét is kirúgta a közmédia új vezetése",
-      "url": "https://kreativ.hu/cikk/a-nemzeti-sportradio-foszerkesztojet-is-kirugta-a-kozmedia-uj-vezetese",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Ballai Attilát nem sokkal azután küldték el, hogy júliusban Szöllősi Györgyöt, a Nemzeti Sport főszerkesztőjét, sportújságírót, Orbán Viktor bizalmasát is felmentették.",
-      "fullSummary": "Ballai Attilát nem sokkal azután küldték el, hogy júliusban Szöllősi Györgyöt, a Nemzeti Sport főszerkesztőjét, sportújságírót, Orbán Viktor bizalmasát is felmentették.",
-      "tags": [
-        "Kozmedia",
-        "Nemzeti Sport",
-        "Foszerkeszto",
-        "Kirugas",
-        "Nemzeti Sportradio",
-        "Media"
-      ],
-      "rawTags": [
-        "kozmedia",
-        "nemzeti-sport",
-        "foszerkeszto",
-        "kirugas",
-        "nemzeti-sportradio",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/b/a/l/l/a/ballai-attila-20260909-250-187-5-90-zc.webp",
-      "author": "T. R.",
-      "category": "",
-      "publishedAt": "2026-09-09T14:43:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "dd3d341d",
-      "title": "Ad of the Day: Brad Pitt no match for 16 judgmental dogs in new De’Longhi spot",
-      "url": "https://www.thedrum.com/news/ad-of-the-day-brad-pitt-no-match-for-16-judgmental-dogs-in-new-de-longhi-spot",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "What do you do when your brand ambassador is one of the coolest actors in Hollywood? The answer, according to De’Longhi, is to zig when others would zag. Its latest commercial in the long-running…",
-      "fullSummary": "What do you do when your brand ambassador is one of the coolest actors in Hollywood? The answer, according to De’Longhi, is to zig when others would zag. Its latest commercial in the long-running ‘Perfetto’ series features Brad Pitt at his rumpled, bleary-eyed worst, with a series of vignettes showing how he looks first thing in the morning. It also brings back the gorgeous labrador that made an appearance at the end of the last iteration and…",
-      "tags": [
-        "Creative",
-        "Advertising",
-        "Branding"
-      ],
-      "rawTags": [
-        "Ad of the Day",
-        "Creative"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/28d6c109-dc13-4a06-8c18-aa53e86b8fd2.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Mel Henson",
-      "category": "Creative",
-      "publishedAt": "2026-09-09T12:07:06Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-14T09:52:42Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "b6fca54f",
-      "title": "AI hírbemondó olvassa majd a híreket? Új korszak kezdődhet a magyar online médiában",
-      "url": "https://kreativ.hu/cikk/ai-ai-hirbemondo-mesterseges-intelligencia-videos-tartalmak-hirek-online-media",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A mesterséges intelligencia segítségével automatizált szövegírás, képgenerálás és videókészítés után megjelenhet az AI hírbemondó is a hazai médiapiacon. A technológia egy online cikkből néhány perc…",
-      "fullSummary": "A mesterséges intelligencia segítségével automatizált szövegírás, képgenerálás és videókészítés után megjelenhet az AI hírbemondó is a hazai médiapiacon. A technológia egy online cikkből néhány perc…",
-      "tags": [
-        "AI",
-        "Online Media",
-        "Hirek",
-        "Videos Tartalmak",
-        "AI Hirbemondo",
-        "Media"
-      ],
-      "rawTags": [
-        "mesterseges-intelligencia",
-        "online-media",
-        "hirek",
-        "ai",
-        "videos-tartalmak",
-        "ai-hirbemondo",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/a/i/x/-/s/aix-studio-ai-avatar-hirbemondo-png-0-20260909-920-690-90-zc.webp",
-      "author": "T. R.",
-      "category": "",
-      "publishedAt": "2026-09-09T11:13:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "89aedb20",
-      "title": "‘Make me uncomfortable!’: the brief behind Boots’ bold new platform",
-      "url": "https://www.thedrum.com/news/boots-turns-trust-into-action-with-give-it-some-boots",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "“Make me feel uncomfortable!” That was Charlotte Lock’s first brief to WPP after taking over as Boots CMO in November 2025 – a surprising instruction, perhaps, from a brand that has spent more than…",
-      "fullSummary": "“Make me feel uncomfortable!” That was Charlotte Lock’s first brief to WPP after taking over as Boots CMO in November 2025 – a surprising instruction, perhaps, from a brand that has spent more than…",
-      "tags": [
-        "Creative",
-        "Creative Work",
-        "The CMO Role",
-        "Anatomy Of An Ad",
-        "Agencies",
-        "Branding"
-      ],
-      "rawTags": [
-        "Creative work",
-        "The CMO Role",
-        "Creative",
-        "Anatomy of an Ad"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/boots-60s-tv-still-4.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Mel Henson",
-      "category": "Creative",
-      "publishedAt": "2026-09-09T11:10:52Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "65c40cb6",
-      "title": "Julie Seal: I think you are all too chicken to admit this AI ad is great",
-      "url": "https://www.thedrum.com/opinion/julie-seal-i-think-you-are-all-too-chicken-to-admit-ai-can-help",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "Julie Seal talks to filmmaker Nick Tasker about his AI-made unicycling chicken ad and asks why UK agencies still seem so reluctant to embrace the technologyOne of Republic of Imagination’s esteemed…",
-      "fullSummary": "Julie Seal talks to filmmaker Nick Tasker about his AI-made unicycling chicken ad and asks why UK agencies still seem so reluctant to embrace the technologyOne of Republic of Imagination’s esteemed creative director and filmmaker collaborators, the delightful Nick Tasker, last week made a spec commercial about a hen riding a unicycle. It was, frankly, glorious. The shots were well chosen and charming. The DOP did some lovely stuff. There were…",
-      "tags": [
-        "Technology",
-        "AI",
-        "Agencies"
-      ],
-      "rawTags": [
-        "Technology",
-        "Artificial Intelligence",
-        "Agency",
-        "Technology",
-        "Agencies"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/screenshot-2026-09-09-112325.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Julie Seal",
-      "category": "Technology",
-      "publishedAt": "2026-09-09T10:38:20Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-14T09:52:42Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "cb36905e",
-      "title": "Független hangok ünnepe – jön a tizedik Independent Label Fair",
-      "url": "https://kreativ.hu/cikk/independent-label-fairt-tizedik-zene-fuggetlen-kiado-fizikai-vinyl-limitalt-magyar-zene-haza",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Tizedik alkalommal rendezik meg a hazai független zenei színtér legfontosabb éves találkozóját.",
-      "fullSummary": "Tizedik alkalommal rendezik meg a hazai független zenei színtér legfontosabb éves találkozóját.",
-      "tags": [
-        "Music",
-        "Kiado",
-        "Fuggetlen",
-        "Magyar Zene Haza",
-        "Fizikai",
-        "Vinyl"
-      ],
-      "rawTags": [
-        "zene",
-        "kiado",
-        "fuggetlen",
-        "magyar-zene-haza",
-        "fizikai",
-        "vinyl",
-        "independent-label-fairt",
-        "tizedik"
-      ],
-      "image": "https://kreativ.hu/img-cache/i/l/f/-/2/ilf-2025-kredit-zoltai-andras-independent-label-fair-1-20260909-920-690-90-zc.webp",
-      "author": "T. R.",
-      "category": "",
-      "publishedAt": "2026-09-09T10:12:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "837f6a5d",
-      "title": "‘Facts and feelings’: Dara Treseder’s AI marketing playbook for Autodesk",
-      "url": "https://www.thedrum.com/news/facts-and-feelings-dara-treseder-s-ai-marketing-playbook-for-autodesk",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "Dara Treseder is four years into a mandate to overhaul Autodesk’s brand and modernize its marketing operation. When she first joined in 2022, her response to that brief was to double down on brand.…",
-      "fullSummary": "Dara Treseder is four years into a mandate to overhaul Autodesk’s brand and modernize its marketing operation. When she first joined in 2022, her response to that brief was to double down on brand.…",
-      "tags": [
-        "B2B",
-        "Autodesk",
-        "Marketing",
-        "AI",
-        "Branding"
-      ],
-      "rawTags": [
-        "Autodesk",
-        "B2B",
-        "Marketing"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/screenshot-2026-09-08-152951.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Jennifer Faull",
-      "category": "B2B",
-      "publishedAt": "2026-09-09T10:00:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "e08e0144",
-      "title": "Craig Dempster has already built one B2B giant; now he’s doing it again",
-      "url": "https://www.thedrum.com/opinion/craig-dempster-has-already-built-one-b2b-giant-now-he-s-doing-it-again",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "He grew Merkle into a $2bn global powerhouse, retired for barely a year and is now back, chasing a second billion-dollar business built around the rise of the chief revenue officer. The Drum meets a…",
-      "fullSummary": "He grew Merkle into a $2bn global powerhouse, retired for barely a year and is now back, chasing a second billion-dollar business built around the rise of the chief revenue officer. The Drum meets a…",
-      "tags": [
-        "B2B",
-        "Agencies",
-        "Agency Leadership",
-        "Marketing",
-        "Business"
-      ],
-      "rawTags": [
-        "Agency",
-        "Agency leadership",
-        "B2B",
-        "B2B",
-        "Marketing"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/rob-the-games-afoot-1788685966.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Rob Morrice",
-      "category": "B2B",
-      "publishedAt": "2026-09-09T09:41:38Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "a7fa2916",
-      "title": "Neutrality has two tests, but vendors keep answering the easy one",
-      "url": "https://www.thedrum.com/opinion/neutrality-has-two-tests-and-vendors-keep-answering-the-easy-one",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "Buy a data platform these days and the neutrality statement all but writes itself. The catch is which question it bothers to answer. Erin Lutenski on the test that no amount of encryption can pass.…",
-      "fullSummary": "Buy a data platform these days and the neutrality statement all but writes itself. The catch is which question it bothers to answer. Erin Lutenski on the test that no amount of encryption can pass.…",
-      "tags": [
-        "Marketing",
-        "Branding",
-        "Martech",
-        "B2B"
-      ],
-      "rawTags": [
-        "Brand",
-        "Martech",
-        "B2B",
-        "Marketing"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/chatgpt-image-sep-4-2026-09-38-14-am.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Erin Lutenski",
-      "category": "Marketing",
-      "publishedAt": "2026-09-09T09:00:00Z",
       "datePrecise": true,
       "firstSeenAt": "2026-09-13T23:14:17Z",
       "enrichAttempts": 1
