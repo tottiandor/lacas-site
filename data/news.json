@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T10:47:14Z",
+  "generatedAt": "2026-11-05T10:45:05Z",
   "itemCount": 400,
   "sources": [
     {
@@ -9,7 +9,7 @@
       "accent": "#00d1b2",
       "status": "error",
       "error": "failed to fetch https://www.thedrum.com/: HTTP Error 403: Forbidden",
-      "count": 18
+      "count": 12
     },
     {
       "id": "kreativ",
@@ -50,6 +50,216 @@
   ],
   "items": [
     {
+      "id": "91bf2b12",
+      "title": "Továbbra is a TV2 vezeti a nézettségi versenyt",
+      "url": "https://kreativ.hu/cikk/tovabbra-is-a-tv2-vezeti-az-oszi-nezettsegi-versenyt-oktoberben-ujra-a-dobogo-legfelso-fokan-vegzett-a-csatorna",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A televíziós piac legizgalmasabb időszaka mindig az őszi tévés főszezon, amikor a tévénézők rengeteg új saját gyártású műsor közül válogathatnak, így mindig nagy verseny zajlik a csatornák között a…",
+      "fullSummary": "A televíziós piac legizgalmasabb időszaka mindig az őszi tévés főszezon, amikor a tévénézők rengeteg új saját gyártású műsor közül válogathatnak, így mindig nagy verseny zajlik a csatornák között a nézők figyelméért. A verseny ellenére októberben ismét nagy fölénnyel állhatott a TV2 a dobogó legfelső fokára. A nézők első számú választása az őszi szezon második hónapjában is a TV2 és a TV2 Csoport volt mindkét kiemelt korcsoportban (A18-59, A4+),…",
+      "tags": [
+        "Film & TV",
+        "Tv2",
+        "Nezettseg",
+        "Tamogatott Tartalom"
+      ],
+      "rawTags": [
+        "televizio",
+        "tv2",
+        "nezettseg",
+        "tamogatott-tartalom"
+      ],
+      "image": "https://kreativ.hu/img-cache/1/7/9/3/8/1793870373-pph-temp-7ufqjn-20261105-717-537-75-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-05T09:03:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-05T10:45:05Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "852acbf9",
+      "title": "Starbucks draws its Christmas campaign by hand, one cup at a time",
+      "url": "https://www.famouscampaigns.com/2026/11/starbucks-draws-its-christmas-campaign-by-hand-one-cup-at-a-time/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Starbucks has turned its Christmas cups into a stage for a tiny band of hand-drawn musicians in “Perfect Harmony”, a festive campaign created with Anomaly. Artist Geoff McFetridge drew every element of the animated world by hand using…",
+      "fullSummary": "Starbucks has turned its Christmas cups into a stage for a tiny band of hand-drawn musicians in “Perfect Harmony”, a festive campaign created with Anomaly. Artist Geoff McFetridge drew every element of the animated world by hand using Sharpies on Starbucks cups. Returning for a second consecutive year, he also created the illustrations for the […]",
+      "tags": [
+        "Christmas",
+        "Campaigns",
+        "Music"
+      ],
+      "rawTags": [
+        "Christmas"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/11/Perfect-Harmony-_-The-Starbucks-Coffee-Company.mp4",
+      "author": "James Herring",
+      "category": "Christmas",
+      "publishedAt": "2026-11-04T19:05:29Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-05T10:45:05Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "c2662073",
+      "title": "Megújult a brandguide.hu: ingyenes márkaépítő eszközök vállalkozóknak",
+      "url": "https://kreativ.hu/cikk/megujult-a-brandguide-hu-ingyenes-markaepito-eszkozok-vallalkozoknak",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A vállalkozók AI-jal gyártanak szöveget, hirdetést, képet, és ha nincs leírva, kik ők és kinek szólnak, az eredmény bárkié lehet. Az AI nem ellenség, csak nem ismeri a márka alapjait. Ezt kell neki…",
+      "fullSummary": "A vállalkozók AI-jal gyártanak szöveget, hirdetést, képet, és ha nincs leírva, kik ők és kinek szólnak, az eredmény bárkié lehet. Az AI nem ellenség, csak nem ismeri a márka alapjait. Ezt kell neki megtanítani.",
+      "tags": [
+        "Eszkoz",
+        "Serfozo Peter",
+        "Markaepito",
+        "Brandguide Hu",
+        "Brandstratega",
+        "Advertising"
+      ],
+      "rawTags": [
+        "eszkoz",
+        "serfozo-peter",
+        "markaepito",
+        "brandguide-hu",
+        "brandstratega",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/s/e/r/f/o/serfozo-peter-20261104-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-04T16:10:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-05T10:45:05Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "de195db0",
+      "title": "Argos taps into Christmas gifts nostalgia",
+      "url": "https://www.famouscampaigns.com/2026/11/argos-taps-into-christmas-gifts-nostalgia/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Argos is taking a trip through the family photo album for a Christmas outdoor campaign that pairs nostalgic childhood presents with the gifts we might want today. Created by T&P, the billboards put “Christmas Past” beside “Christmas…",
+      "fullSummary": "Argos is taking a trip through the family photo album for a Christmas outdoor campaign that pairs nostalgic childhood presents with the gifts we might want today. Created by T&P, the billboards put “Christmas Past” beside “Christmas Present”, connecting familiar festive snapshots with modern upgrades. A child clutching a portable CD player is paired with […]",
+      "tags": [
+        "Advertising",
+        "Christmas",
+        "OOH",
+        "Retail",
+        "Campaigns",
+        "Music"
+      ],
+      "rawTags": [
+        "Advertising",
+        "Christmas",
+        "OOH",
+        "Retail"
+      ],
+      "image": null,
+      "author": "James Herring",
+      "category": "Advertising",
+      "publishedAt": "2026-11-04T12:33:16Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-05T10:45:05Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "b2bfcf30",
+      "title": "Kézzel készült válasz a deepfake-korszakra: új arculattal érkezik a 23. Verzió Filmfesztivál",
+      "url": "https://kreativ.hu/cikk/uj-arculattal-erkezik-a-23-verzio",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Miközben az AI-generált képek egyre nehezebben különböztethetők meg a valóságtól, a 23. Verzió Nemzetközi Emberi Jogi Dokumentumfilm Fesztivál „do it yourself” arculattal kérdez rá arra, mennyire…",
+      "fullSummary": "Miközben az AI-generált képek egyre nehezebben különböztethetők meg a valóságtól, a 23. Verzió Nemzetközi Emberi Jogi Dokumentumfilm Fesztivál „do it yourself” arculattal kérdez rá arra, mennyire hihetünk annak, amit látunk. A november 16–25. között Budapesten és nyolc vidéki városban megrendezett fesztivál kommunikációja is megújult: idén a fiatalabb közönség, a rövid videós formátumok és az új médiaegyüttműködések kerülnek a középpontba.",
+      "tags": [
+        "Uj Arculat",
+        "Verzio",
+        "23",
+        "Popkult",
+        "AI",
+        "Branding"
+      ],
+      "rawTags": [
+        "uj-arculat",
+        "verzio",
+        "23",
+        "nemzetkozi-emberi-jogi-dokumentumfilm-fesztival",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/v/e/r/z/i/verzio-cover-01-20261104-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-04T12:33:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-05T10:45:05Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "c9759c5e",
+      "title": "British Airways turns puddles into ads for winter sun",
+      "url": "https://www.famouscampaigns.com/2026/11/british-airways-turns-puddles-into-ads-for-winter-sun/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "British Airways is finding a reason to book a holiday in the puddles beneath our feet. Its new outdoor campaign, created by Uncommon, uses reflections of rain-soaked Britain to deliver a simple reminder: “It’s always sunny somewhere.”…",
+      "fullSummary": "British Airways is finding a reason to book a holiday in the puddles beneath our feet. Its new outdoor campaign, created by Uncommon, uses reflections of rain-soaked Britain to deliver a simple reminder: “It’s always sunny somewhere.” Called ‘Puddles’, the series captures everyday British life through reflections in standing water. Each photograph also catches a […]",
+      "tags": [
+        "Advertising",
+        "OOH",
+        "Travel",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "Advertising",
+        "OOH",
+        "Travel"
+      ],
+      "image": null,
+      "author": "Staff",
+      "category": "Advertising",
+      "publishedAt": "2026-11-04T12:09:31Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-05T10:45:05Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "5e4f04f6",
+      "title": "Négy magyar kötődésű munka jutott be az ADCE Awards döntőjébe",
+      "url": "https://kreativ.hu/cikk/ket-magyar-kotodesu-munka-jutott-be-az-adce-awards-dontojebe",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Négy magyar vonatkozású projekt szerepel az Art Directors Club of Europe (ADCE) 35. európai reklám- és designversenyének finalistái között. A Mediator Group egy munkája, az MMS Communications Hungary…",
+      "fullSummary": "Négy magyar vonatkozású projekt szerepel az Art Directors Club of Europe (ADCE) 35. európai reklám- és designversenyének finalistái között. A Mediator Group egy munkája, az MMS Communications Hungary két projektje, melyek egyikén a WellPR és az ARfected is dolgozott, valamint egy a Sea-Eye számára készült projekt került be a döntőbe, mely utóbbi munkán két budapesti kreatív ügynökség, az Umbrella Collective és a White Rabbit közreműködött.",
+      "tags": [
+        "Awards",
+        "Adce",
+        "Donto",
+        "Advertising",
+        "Design",
+        "Media"
+      ],
+      "rawTags": [
+        "shortlist",
+        "adce",
+        "donto",
+        "awards",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/d/c/e/-/adce-2027-finalists-1-png-20261104-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-04T12:03:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-05T10:45:05Z",
+      "enrichAttempts": 1
+    },
+    {
       "id": "d8e160e4",
       "title": "Eljárást indított a Médiatanács a HÍR TV, a Hír FM, a Kossuth Rádió és az M1 ellen",
       "url": "https://kreativ.hu/cikk/eljarast-inditott-a-mediatanacs-a-hir-tv-a-hir-fm-a-kossuth-radio-es-az-m1-ellen-1",
@@ -57,7 +267,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A testület szerint a HÍR TV-n és a Hír FM-en sugárzott Paláver műsorvezetője nem határolódott el kellő határozottsággal attól, hogy egy betelefonáló „genetikai selejtnek” nevezte a…",
-      "fullSummary": "A testület szerint a HÍR TV-n és a Hír FM-en sugárzott Paláver műsorvezetője nem határolódott el kellő határozottsággal attól, hogy egy betelefonáló „genetikai selejtnek” nevezte a miniszterelnököt. A Kossuth Rádióval szembeni, korábban indított eljárást gyűlöletkeltés vizsgálatával is kiegészítették, az M1-nek pedig jogsértés miatt közleményt kell közzétennie.",
+      "fullSummary": "A testület szerint a HÍR TV-n és a Hír FM-en sugárzott Paláver műsorvezetője nem határolódott el kellő határozottsággal attól, hogy egy betelefonáló „genetikai selejtnek” nevezte a…",
       "tags": [
         "Media",
         "Film & TV"
@@ -114,7 +324,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Idén tízéves lett a Magyar Klipszemle: a jubileumra programsorozattal készültek a szervezők, melynek csúcspontjaként adták át az idei díjakat (lásd kapcsolódó cikkünket). A díjátadó előtti napon…",
-      "fullSummary": "Idén tízéves lett a Magyar Klipszemle: a jubileumra programsorozattal készültek a szervezők, melynek csúcspontjaként adták át az idei díjakat (lásd kapcsolódó cikkünket). A díjátadó előtti napon szakmai fórumot rendezett a Klipegylet, a magyarországi videoklip-készítő szakma közösségi és érdekképviseleti szervezete, Milliós nézettség, nulla támogatás? – címmel. Önálló alkotás, vagy zenei marketing-eszköz? Hol ér össze a reklám és a zenei klip?…",
+      "fullSummary": "Idén tízéves lett a Magyar Klipszemle: a jubileumra programsorozattal készültek a szervezők, melynek csúcspontjaként adták át az idei díjakat (lásd kapcsolódó cikkünket). A díjátadó előtti napon…",
       "tags": [
         "Videoklip",
         "Klipszemle",
@@ -156,7 +366,7 @@
         "klipszemle",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/k/l/i/p/-/klip-png-20261103-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/k/l/i/p/-/klip-png-20261103-549-75-733-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-04T07:55:00Z",
@@ -195,7 +405,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "ZAJ címmel indított új, kéthetente jelentkező podcastsorozatot a Müpa a 2026/27-es évadban. A műsor célja, hogy közérthetően, szórakoztató formában mutassa be a zenei világ olyan hátterét és…",
-      "fullSummary": "ZAJ címmel indított új, kéthetente jelentkező podcastsorozatot a Müpa a 2026/27-es évadban. A műsor célja, hogy közérthetően, szórakoztató formában mutassa be a zenei világ olyan hátterét és összefüggéseit, amelyek a közönség számára gyakran rejtve maradnak.",
+      "fullSummary": "ZAJ címmel indított új, kéthetente jelentkező podcastsorozatot a Müpa a 2026/27-es évadban. A műsor célja, hogy közérthetően, szórakoztató formában mutassa be a zenei világ olyan hátterét és…",
       "tags": [
         "Mupa",
         "Podcast",
@@ -208,7 +418,7 @@
         "reklam",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/m/u/p/a/-/mupa-zaj-podcast-forras-mupa-800-20261103-800-600-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/m/u/p/a/-/mupa-zaj-podcast-forras-mupa-800-20261103-451-5-602-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-11-03T15:15:00Z",
@@ -224,7 +434,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "November elsejétől egységes Marketing és Kommunikációs Igazgatóságot hoz létre az RTL Magyarország. Az új szervezet a televíziós csatornák, az RTL+ streamingplatform és a műsorok marketingje mellett…",
-      "fullSummary": "November elsejétől egységes Marketing és Kommunikációs Igazgatóságot hoz létre az RTL Magyarország. Az új szervezet a televíziós csatornák, az RTL+ streamingplatform és a műsorok marketingje mellett a vállalati, a B2B és a belső kommunikációt is összefogja. Az igazgatóságot Baráth Péter vezeti, Gonda Gáspár Chief Corporate Affairs Officer irányítása alatt.",
+      "fullSummary": "November elsejétől egységes Marketing és Kommunikációs Igazgatóságot hoz létre az RTL Magyarország. Az új szervezet a televíziós csatornák, az RTL+ streamingplatform és a műsorok marketingje mellett…",
       "tags": [
         "Kommunikacio",
         "Marketing",
@@ -238,7 +448,7 @@
         "rtl-magyarorszag",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/b/a/r/a/t/barathpeter-szabo-reka-foto-kicsi-20261103-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/b/a/r/a/t/barathpeter-szabo-reka-foto-kicsi-20261103-690-920-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-11-03T13:15:00Z",
@@ -284,7 +494,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Megkezdődtek az egyeztetések a munkavállalói képviselőkkel a közmédiánál tervezett csoportos létszámcsökkentésről. Az átalakítás legfeljebb 160 munkavállalót érinthet, a végleges létszámról a…",
-      "fullSummary": "Megkezdődtek az egyeztetések a munkavállalói képviselőkkel a közmédiánál tervezett csoportos létszámcsökkentésről. Az átalakítás legfeljebb 160 munkavállalót érinthet, a végleges létszámról a november végéig tartó tárgyalások eredménye alapján döntenek.",
+      "fullSummary": "Megkezdődtek az egyeztetések a munkavállalói képviselőkkel a közmédiánál tervezett csoportos létszámcsökkentésről. Az átalakítás legfeljebb 160 munkavállalót érinthet, a végleges létszámról a…",
       "tags": [
         "Koltsegvetes",
         "Tamogatas",
@@ -327,7 +537,7 @@
         "reklam",
         "kreativipar"
       ],
-      "image": "https://kreativ.hu/img-cache/c/i/k/k/-/cikk-illu-0-20261103-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/c/i/k/k/-/cikk-illu-0-20261103-690-920-90-zc.webp",
       "author": "Somogyi Márton",
       "category": "",
       "publishedAt": "2026-11-03T09:46:00Z",
@@ -407,7 +617,7 @@
         "online-radio",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/s/p/o/r/t/sportos-radio-logo-png-20261102-676-5-902-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/s/p/o/r/t/sportos-radio-logo-png-20261102-920-690-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-11-02T13:50:00Z",
@@ -11555,203 +11765,6 @@
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-10T09:05:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "7bafe5b0",
-      "title": "What Notting Hill carnival teaches us about beauty’s inclusivity problem",
-      "url": "https://www.thedrum.com/news/what-notting-hill-carnival-teaches-us-about-beauty-s-inclusivity-problem",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "Notting Hill Carnival is a masterclass in what inclusive beauty really looks like. Here&Now 365’s Preet Khanna argues that brands need to go beyond diverse casting and prove their credentials through…",
-      "fullSummary": "Notting Hill Carnival is a masterclass in what inclusive beauty really looks like. Here&Now 365’s Preet Khanna argues that brands need to go beyond diverse casting and prove their credentials through…",
-      "tags": [
-        "Brand Purpose",
-        "Other",
-        "Strategy",
-        "Creative Work",
-        "Partner Insights",
-        "Marketing Services"
-      ],
-      "rawTags": [
-        "Brand purpose",
-        "Other",
-        "Brand strategy",
-        "Creative work",
-        "Partner Insights",
-        "Marketing Services",
-        "Branding",
-        "Diversity & Inclusion",
-        "Sponsored"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/vatika-kv-grid-1.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Manish Tiwari",
-      "category": "",
-      "publishedAt": "2026-09-10T08:43:24Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "6e12d9a5",
-      "title": "Whistles updates its identity to mark 50 years",
-      "url": "https://www.creativereview.co.uk/whistles-identity-brand-platform-50-years/",
-      "source": "creativereview",
-      "sourceName": "Creative Review",
-      "accent": "#ff4d4d",
-      "summary": "The fashion brand marks its 50th anniversary with a refreshed identity and campaign built on curiosity, collaboration and 50 real customers ﻿",
-      "fullSummary": "The fashion brand marks its 50th anniversary with a refreshed identity and campaign built on curiosity, collaboration and 50 real customers ﻿",
-      "tags": [
-        "Branding",
-        "Campaigns",
-        "Fashion"
-      ],
-      "rawTags": [],
-      "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/09/Whistles_DFAOM_OOHMockups_Dominique2featured.jpg",
-      "author": "Rebecca Fulleylove",
-      "category": "",
-      "publishedAt": "2026-09-10T08:00:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "47a3b2b7",
-      "title": "„Kicsit olyan, mint oroszul tanulni a második világháború után”",
-      "url": "https://kreativ.hu/cikk/kicsit-olyan-mint-oroszul-tanulni-a-masodik-vilaghaboru-utan",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A játék –, és dokumentumfilmnél még nagyban vitatkoznak róla, a reklám viszont már egyre otthonosabban kezeli az AI-eszközöket a gyártásban. Az biztosnak tűnik, hogy a filmiparban már nem csak…",
-      "fullSummary": "A játék –, és dokumentumfilmnél még nagyban vitatkoznak róla, a reklám viszont már egyre otthonosabban kezeli az AI-eszközöket a gyártásban. Az biztosnak tűnik, hogy a filmiparban már nem csak…",
-      "tags": [
-        "Film & TV",
-        "Umbrella",
-        "Acg",
-        "Filmgyartas",
-        "Filmipar",
-        "AI"
-      ],
-      "rawTags": [
-        "film",
-        "umbrella",
-        "acg",
-        "filmgyartas",
-        "filmipar",
-        "ai",
-        "promptmonsters",
-        "popkult"
-      ],
-      "image": "https://kreativ.hu/img-cache/p/r/o/m/p/promptmonsters-reel-2026-00-0-20260910-920-690-90-zc.webp",
-      "author": "Schäffer Dániel",
-      "category": "",
-      "publishedAt": "2026-09-10T07:07:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "5cc0536b",
-      "title": "A Pécsi Iskola művészeti irányzatát mutatja be a Hungarian Art & Business új időszaki kiállítása",
-      "url": "https://kreativ.hu/cikk/a-pecsi-iskola-muveszeti-iranyzatat-mutatja-be-a-hungarian-art-business-uj-idoszaki-kiallitasa",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A SzínPhonia. A Pécsi Iskola. A Művészeti Kar 30 éve című tárlat a Pécshez és a Pécsi Tudományegyetem Művészeti Karának szellemi közegéhez kapcsolódó, több generáción átívelő alkotói kapcsolatokon…",
-      "fullSummary": "A SzínPhonia. A Pécsi Iskola. A Művészeti Kar 30 éve című tárlat a Pécshez és a Pécsi Tudományegyetem Művészeti Karának szellemi közegéhez kapcsolódó, több generáción átívelő alkotói kapcsolatokon…",
-      "tags": [
-        "Pecs",
-        "Kiallitas",
-        "Hungarian Art Business",
-        "Popkult"
-      ],
-      "rawTags": [
-        "pecs",
-        "kiallitas",
-        "hungarian-art-business",
-        "popkult"
-      ],
-      "image": "https://kreativ.hu/img-cache/h/a/b/-/s/hab-szinphonia4-20260910-920-690-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-10T03:52:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "434d8eac",
-      "title": "Clash Royale comes of age",
-      "url": "https://www.creativereview.co.uk/clash-royale-comes-of-age/",
-      "source": "creativereview",
-      "sourceName": "Creative Review",
-      "accent": "#ff4d4d",
-      "summary": "Supercell, the publisher and developer behind Clash Royale, has torn up the mobile ads playbook and is instead using brand-building to develop a cultural franchise",
-      "fullSummary": "Supercell, the publisher and developer behind Clash Royale, has torn up the mobile ads playbook and is instead using brand-building to develop a cultural franchise",
-      "tags": [
-        "Branding",
-        "Media"
-      ],
-      "rawTags": [],
-      "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/09/UCS_CR-HeroBalloon-BTS-6.jpg",
-      "author": "Paul Weedon",
-      "category": "",
-      "publishedAt": "2026-09-10T02:50:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "2c64b2ab",
-      "title": "Graham Wood explores the “everyday and the magickal” in new book",
-      "url": "https://www.creativereview.co.uk/graham-wood-book-also-editions-peter-maybury/",
-      "source": "creativereview",
-      "sourceName": "Creative Review",
-      "accent": "#ff4d4d",
-      "summary": "Wood's project is published by Also editions, a new Dublin-based imprint from artist, designer and academic Peter Maybury, which aims to publish 16 titles by the end of this year",
-      "fullSummary": "Wood's project is published by Also editions, a new Dublin-based imprint from artist, designer and academic Peter Maybury, which aims to publish 16 titles by the end of this year",
-      "tags": [
-        "Design"
-      ],
-      "rawTags": [],
-      "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/09/Always-travelling-cover-flat-jpg.jpg",
-      "author": "Eliza Williams",
-      "category": "",
-      "publishedAt": "2026-09-10T02:41:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "49fda78c",
-      "title": "CSR Award: már nem elég csak jót tenni",
-      "url": "https://kreativ.hu/cikk/csr-award-nem-eleg-jot-tenni-mutassatok-is-meg-milyen-hatast-ertek-el-1",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Indul a Doing Good – CSR Award 2026, a PPH Media társadalmi felelősségvállalást támogató szakmai versenye.",
-      "fullSummary": "Indul a Doing Good – CSR Award 2026, a PPH Media társadalmi felelősségvállalást támogató szakmai versenye.",
-      "tags": [
-        "Verseny",
-        "Csr",
-        "Pph Media",
-        "Doing Good",
-        "Media",
-        "Awards"
-      ],
-      "rawTags": [
-        "verseny",
-        "csr",
-        "pph-media",
-        "doing-good"
-      ],
-      "image": "https://kreativ.hu/img-cache/c/s/r/2/0/csr2026-1920x720-png-20260901-920-690-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-10T02:03:00Z",
       "datePrecise": true,
       "firstSeenAt": "2026-09-13T23:14:17Z",
       "enrichAttempts": 1
