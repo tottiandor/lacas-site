@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T10:45:05Z",
+  "generatedAt": "2026-11-06T10:45:16Z",
   "itemCount": 400,
   "sources": [
     {
@@ -9,7 +9,7 @@
       "accent": "#00d1b2",
       "status": "error",
       "error": "failed to fetch https://www.thedrum.com/: HTTP Error 403: Forbidden",
-      "count": 12
+      "count": 11
     },
     {
       "id": "kreativ",
@@ -27,7 +27,7 @@
       "accent": "#ff4d4d",
       "status": "error",
       "error": "failed to fetch https://www.creativereview.co.uk/feed/: HTTP Error 403: Forbidden",
-      "count": 8
+      "count": 5
     },
     {
       "id": "theinspiration",
@@ -50,6 +50,411 @@
   ],
   "items": [
     {
+      "id": "3e32fcfb",
+      "title": "Heidi Klum Halloween Costume",
+      "url": "https://theinspiration.com/2026/11/heidi-klum-halloween-costume/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "",
+      "fullSummary": "",
+      "tags": [
+        "Design"
+      ],
+      "rawTags": [
+        "Design"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/heidi-klum-halloween-2026-main-5.jpg-20261106095416-ebp8-750x536.webp",
+      "author": "Daniel Ingvartsen",
+      "category": "Design",
+      "publishedAt": "2026-11-06T08:55:16Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-06T10:45:16Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "d9715210",
+      "title": "John Lewis Christmas Advert 2026",
+      "url": "https://theinspiration.com/2026/11/john-lewis-christmas-advert-2026/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "",
+      "fullSummary": "",
+      "tags": [
+        "Advertising"
+      ],
+      "rawTags": [
+        "Advertising"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/2SR7VIP2UITFJTHXZ7AIFVZTNI-20261106095141-mepk-750x536.avif",
+      "author": "Daniel Ingvartsen",
+      "category": "Advertising",
+      "publishedAt": "2026-11-06T08:51:48Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-06T10:45:16Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "adaec347",
+      "title": "Barbour x Wallace & Gromit — Barbour Christmas Film 2026",
+      "url": "https://theinspiration.com/2026/11/barbour-x-wallace-gromit-barbour-christmas-film-2026/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "",
+      "fullSummary": "",
+      "tags": [
+        "Advertising",
+        "Film & TV"
+      ],
+      "rawTags": [
+        "Advertising"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/imadfxfgddfgges.webp",
+      "author": "Daniel Ingvartsen",
+      "category": "Advertising",
+      "publishedAt": "2026-11-06T08:43:38Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-06T10:45:16Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "1f3fc02b",
+      "title": "Új és visszatérő műsorokkal és sorozatokkal készül az RTL 2027-re",
+      "url": "https://kreativ.hu/cikk/uj-es-visszatero-musorokkal-es-sorozatokkal-keszul-az-rtl-2027-re",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Hotel Blöff, Az ígéret és Aranyszív címmel új produkciókat indít az RTL, folytatódik A mi kis falunk, Az Árulók és visszatér a Sztárbox. A Big Picture konferencián bemutatott tartalmi stratégia a…",
+      "fullSummary": "Hotel Blöff, Az ígéret és Aranyszív címmel új produkciókat indít az RTL, folytatódik A mi kis falunk, Az Árulók és visszatér a Sztárbox. A Big Picture konferencián bemutatott tartalmi stratégia a lineáris televíziózás és a streaming mellett a képernyőn túl is tovább élő tartalmi univerzumokra is épít.",
+      "tags": [
+        "Tartalom",
+        "RTL",
+        "Big Picture",
+        "Musorkinalat",
+        "2027",
+        "Media"
+      ],
+      "rawTags": [
+        "tartalom",
+        "rtl",
+        "big-picture",
+        "musorkinalat",
+        "2027",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/r/t/l/-/h/rtl-hotel-bloff-0-20261106-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-06T08:38:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-06T10:45:16Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "497c63b0",
+      "title": "Marks & Spencer might just have won Christmas with its beardless Santa",
+      "url": "https://www.famouscampaigns.com/2026/11/ms-might-just-have-won-christmas-with-its-beardless-santa/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "M&S has unveiled its 2026 Christmas advert, starring James Norton as a beardless Santa and Lucy Punch as the Mrs Claus who persuades him to shave. It’s early days, but the retailer might just have won Christmas. Marks & Spencers has cast…",
+      "fullSummary": "M&S has unveiled its 2026 Christmas advert, starring James Norton as a beardless Santa and Lucy Punch as the Mrs Claus who persuades him to shave. It’s early days, but the retailer might just have won Christmas. Marks & Spencers has cast James Norton as a clean-shaven, occasionally shirtless Santa in its 2026 Christmas advert, […]",
+      "tags": [
+        "Christmas",
+        "Advertising",
+        "Retail"
+      ],
+      "rawTags": [
+        "Christmas"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/11/The-Home-Of-Christmas-_-MS-Christmas-2026.mp4",
+      "author": "James Herring",
+      "category": "Christmas",
+      "publishedAt": "2026-11-06T08:33:11Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-06T10:45:16Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "410f631f",
+      "title": "Azurák Csaba lesz az ATV Egyenes Beszéd új műsorvezetője",
+      "url": "https://kreativ.hu/cikk/azurak-csaba-lesz-az-atv-egyenes-beszed-uj-musorvezetoje",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "2027 januárjától Azurák Csaba vezeti az ATV közéleti vitaműsorát, amelynek Szöllősi Györgyi mellett lesz a házigazdája. A több mint 25 éves médiatapasztalattal rendelkező riporter az ATV felkérését…",
+      "fullSummary": "2027 januárjától Azurák Csaba vezeti az ATV közéleti vitaműsorát, amelynek Szöllősi Györgyi mellett lesz a házigazdája. A több mint 25 éves médiatapasztalattal rendelkező riporter az ATV felkérését szakmai kihívásnak és egyfajta hazatérésnek tekinti.",
+      "tags": [
+        "Atv",
+        "Egyenes Beszed",
+        "Musorvezeto",
+        "Azurak Csaba",
+        "Media"
+      ],
+      "rawTags": [
+        "atv",
+        "egyenes-beszed",
+        "musorvezeto",
+        "azurak-csaba",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/z/u/r/a/azurak-atv-egyenes-beszed-cimlap-20261106-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-06T07:51:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-06T10:45:16Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "e5a2a714",
+      "title": "Átalakul a Network4 és a One együttműködése - három új csatorna is érkezik",
+      "url": "https://kreativ.hu/cikk/4ig-one-streaming-televizios-piac-csatornak-tv",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Bejelentéssel jött a 4IG a Big Pciture televíziós konferencia napján: a One és a Network4 együttműködése a hagyományos televízióscsatornák terjesztésén túl a streamingre is kiterjed. A One TV…",
+      "fullSummary": "Bejelentéssel jött a 4IG a Big Pciture televíziós konferencia napján: a One és a Network4 együttműködése a hagyományos televízióscsatornák terjesztésén túl a streamingre is kiterjed. A One TV Family előfizetői külön díj nélkül kapnak hozzáférést a Network4 Go szolgáltatáshoz. Emellett három új, prémium tematikus csatorna is megjelenik a One kínálatában.",
+      "tags": [
+        "One",
+        "Stream",
+        "4ig",
+        "Network4",
+        "Media",
+        "Film & TV"
+      ],
+      "rawTags": [
+        "one",
+        "stream",
+        "4ig",
+        "network4",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/n/e/t/w/o/network4-media-group-portfolio-png-20261105-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-06T07:12:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-06T10:45:16Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "8969690b",
+      "title": "Médiatanács: csekély bevételért kockáztatja a független média gazdasági alapjait a reklámadó",
+      "url": "https://kreativ.hu/cikk/mediatanacs-csekely-bevetelert-kockaztatja-a-fuggetlen-media-gazdasagi-alapjait-a-feleleszteni-kivant-adoteher-3",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Médiatanács arra kéri az Országgyűlést, hogy törölje az adótörvény-javaslatból a reklámadó újbóli bevezetését.",
+      "fullSummary": "A Médiatanács arra kéri az Országgyűlést, hogy törölje az adótörvény-javaslatból a reklámadó újbóli bevezetését.",
+      "tags": [
+        "Nmhh",
+        "Mediatanacs",
+        "Reklamado",
+        "Advertising",
+        "Media",
+        "Business"
+      ],
+      "rawTags": [
+        "nmhh",
+        "mediatanacs",
+        "reklamado",
+        "reklam",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-2040314636-jpeg-0-20261106-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-05T17:14:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-06T10:45:16Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "1d02dfc2",
+      "title": "Az Atmedia veszi át a Sweet.tv értékesítését az RTL Saleshouse-tól",
+      "url": "https://kreativ.hu/cikk/az-atmedia-veszi-at-a-sweet-tv-ertekesiteset-az-rtl-saleshouse-tol",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "2027. január 1-jétől az Atmedia Csoport veszi át a hatvenhét csatornával rendelkező, reklámfinanszírozott streaming platform értékesítését.",
+      "fullSummary": "2027. január 1-jétől az Atmedia Csoport veszi át a hatvenhét csatornával rendelkező, reklámfinanszírozott streaming platform értékesítését.",
+      "tags": [
+        "Film & TV",
+        "Saleshouse",
+        "Sweet TV",
+        "Media",
+        "Advertising"
+      ],
+      "rawTags": [
+        "streaming",
+        "saleshouse",
+        "sweet-tv",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-480622257-jpeg-20261106-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-05T15:46:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-06T10:45:16Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "71f7b9ee",
+      "title": "Krug Emília a Network4-hez igazol",
+      "url": "https://kreativ.hu/cikk/krug-emilia-a-network4-media-grouphoz-igazol",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A hírt a Big Picture konferencián jelentette be Borsány-Gyenes András, a Network4 Media Group elnök-vezérigazgatója.",
+      "fullSummary": "A hírt a Big Picture konferencián jelentette be Borsány-Gyenes András, a Network4 Media Group elnök-vezérigazgatója.",
+      "tags": [
+        "Krug Emilia",
+        "Network4 Media Group",
+        "Media"
+      ],
+      "rawTags": [
+        "krug-emilia",
+        "network4-media-group",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/k/r/u/g/-/krug-emilia-0-20261105-690-920-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-05T13:57:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-06T10:45:16Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "a9eaef88",
+      "title": "Inside London’s unlikely love affair with Lime bike jousting",
+      "url": "https://www.famouscampaigns.com/2026/11/inside-londons-unlikely-love-affair-with-lime-bike-jousting/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "When two knights charged at each other on hire bikes in a Hackney park, Lime found itself issuing a clarification few press officers could have anticipated. “Lime bikes are designed for getting around the city, not for jousting.” By…",
+      "fullSummary": "When two knights charged at each other on hire bikes in a Hackney park, Lime found itself issuing a clarification few press officers could have anticipated. “Lime bikes are designed for getting around the city, not for jousting.” By Halloween, the knights were back for round two and British GQ was covering what the spectators […]",
+      "tags": [
+        "Behind The Campaign",
+        "Design",
+        "Careers"
+      ],
+      "rawTags": [
+        "Behind the Campaign"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/11/lime-bike-joust.mp4",
+      "author": "James Herring",
+      "category": "Behind the Campaign",
+      "publishedAt": "2026-11-05T12:57:28Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-06T10:45:16Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "29869d5f",
+      "title": "Új műsorokkal, sportjogokkal és digitális fejlesztésekkel készül 2027-re a TV2 Csoport",
+      "url": "https://kreativ.hu/cikk/uj-musorokkal-sportjogokkal-es-digitalis-fejlesztesekkel-keszul-2027-re-a-tv2-csoport",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Big Picture 2027 konferencián jelentette be következő évi terveit a médiavállalat, amely saját gyártású szórakoztató műsorok, nemzetközi formátumok, a prémium sportközvetítések és a digitális…",
+      "fullSummary": "A Big Picture 2027 konferencián jelentette be következő évi terveit a médiavállalat, amely saját gyártású szórakoztató műsorok, nemzetközi formátumok, a prémium sportközvetítések és a digitális tartalomfogyasztás fejlesztésére építi stratégiáját.",
+      "tags": [
+        "Strategy",
+        "Tv2",
+        "Csatorna",
+        "Televizios Piac",
+        "Big Picture",
+        "Media"
+      ],
+      "rawTags": [
+        "strategia",
+        "tv2",
+        "csatorna",
+        "televizios-piac",
+        "big-picture",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/o/k/k/a/mokka-csoport-email-20261105-549-75-733-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-05T12:51:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-06T10:45:16Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "3de4699c",
+      "title": "Ingyenesen elérhető fizetős anyagok? Milyen veszélyeket rejtenek a Meta tervezett változtatásai?",
+      "url": "https://kreativ.hu/cikk/meta-uzleti-feltetelek-szabalyozas-versenyhivat-vizsgalat-eu-kiadok",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Meta egy hónapja csendben kilátásba helyezte üzleti feltételeinek megváltoztatását. Az indítványozott változtatások hatása: a norvég médiacégek bíróság elé vitték, a brit versenyhivatal…",
+      "fullSummary": "A Meta egy hónapja csendben kilátásba helyezte üzleti feltételeinek megváltoztatását. Az indítványozott változtatások hatása: a norvég médiacégek bíróság elé vitték, a brit versenyhivatal vizsgálódik, az európai kiadók Brüsszeltől várnak segítséget. Miről szól a változtatási javaslat, miért váltott ki hatalmas visszhangot, és miért érinti nem csupán a médiacégeket, de az összes vállalkozást, amely bármilyen online anyagot terjeszt: elemzéseket,…",
+      "tags": [
+        "Szabalyozas",
+        "Eu",
+        "Vizsgalat",
+        "Meta",
+        "Kiadok",
+        "Uzleti Feltetelek"
+      ],
+      "rawTags": [
+        "szabalyozas",
+        "eu",
+        "vizsgalat",
+        "meta",
+        "kiadok",
+        "uzleti-feltetelek",
+        "versenyhivat",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/j/u/l/i/o/julio-lopez-kuatffyjqq4-unsplash-20261105-920-690-90-zc.webp",
+      "author": "Földesi Zsolt",
+      "category": "",
+      "publishedAt": "2026-11-05T11:00:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-06T10:45:16Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "756f718b",
+      "title": "Egyre nagyobb kihívás elé állítják a hazai médiapiacot a globális platformok",
+      "url": "https://kreativ.hu/cikk/egyre-nagyobb-kihivas-ele-allitjak-a-hazai-mediapiacot-a-globalis-platformok",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A globális óriásplatformok növekvő médiapiaci súlya, valamint a hirdetési bevételek egyre jelentősebb külföldre áramlása komoly kihívás elé állítja a hazai szereplőket – mutat rá a Nemzeti Média- és…",
+      "fullSummary": "A globális óriásplatformok növekvő médiapiaci súlya, valamint a hirdetési bevételek egyre jelentősebb külföldre áramlása komoly kihívás elé állítja a hazai szereplőket – mutat rá a Nemzeti Média- és Hírközlési Hatóság (NMHH) friss Médiapiaci Jelentése. Rádiózásban és közösségi médiában is erősek vagyunk.",
+      "tags": [
+        "Advertising",
+        "Social Media",
+        "Media",
+        "Nmhh",
+        "Globalis Trendek",
+        "Business"
+      ],
+      "rawTags": [
+        "reklam",
+        "kozossegi-media",
+        "media",
+        "nmhh",
+        "globalis-trendek"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/p/i/a/c/mpiac-jelentes-1105-20261105-549-75-733-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-05T10:58:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-06T10:45:16Z",
+      "enrichAttempts": 1
+    },
+    {
       "id": "91bf2b12",
       "title": "Továbbra is a TV2 vezeti a nézettségi versenyt",
       "url": "https://kreativ.hu/cikk/tovabbra-is-a-tv2-vezeti-az-oszi-nezettsegi-versenyt-oktoberben-ujra-a-dobogo-legfelso-fokan-vegzett-a-csatorna",
@@ -57,7 +462,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A televíziós piac legizgalmasabb időszaka mindig az őszi tévés főszezon, amikor a tévénézők rengeteg új saját gyártású műsor közül válogathatnak, így mindig nagy verseny zajlik a csatornák között a…",
-      "fullSummary": "A televíziós piac legizgalmasabb időszaka mindig az őszi tévés főszezon, amikor a tévénézők rengeteg új saját gyártású műsor közül válogathatnak, így mindig nagy verseny zajlik a csatornák között a nézők figyelméért. A verseny ellenére októberben ismét nagy fölénnyel állhatott a TV2 a dobogó legfelső fokára. A nézők első számú választása az őszi szezon második hónapjában is a TV2 és a TV2 Csoport volt mindkét kiemelt korcsoportban (A18-59, A4+),…",
+      "fullSummary": "A televíziós piac legizgalmasabb időszaka mindig az őszi tévés főszezon, amikor a tévénézők rengeteg új saját gyártású műsor közül válogathatnak, így mindig nagy verseny zajlik a csatornák között a…",
       "tags": [
         "Film & TV",
         "Tv2",
@@ -111,7 +516,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A vállalkozók AI-jal gyártanak szöveget, hirdetést, képet, és ha nincs leírva, kik ők és kinek szólnak, az eredmény bárkié lehet. Az AI nem ellenség, csak nem ismeri a márka alapjait. Ezt kell neki…",
-      "fullSummary": "A vállalkozók AI-jal gyártanak szöveget, hirdetést, képet, és ha nincs leírva, kik ők és kinek szólnak, az eredmény bárkié lehet. Az AI nem ellenség, csak nem ismeri a márka alapjait. Ezt kell neki megtanítani.",
+      "fullSummary": "A vállalkozók AI-jal gyártanak szöveget, hirdetést, képet, és ha nincs leírva, kik ők és kinek szólnak, az eredmény bárkié lehet. Az AI nem ellenség, csak nem ismeri a márka alapjait. Ezt kell neki…",
       "tags": [
         "Eszkoz",
         "Serfozo Peter",
@@ -128,7 +533,7 @@
         "brandstratega",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/s/e/r/f/o/serfozo-peter-20261104-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/s/e/r/f/o/serfozo-peter-20261104-669-892-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-04T16:10:00Z",
@@ -175,7 +580,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Miközben az AI-generált képek egyre nehezebben különböztethetők meg a valóságtól, a 23. Verzió Nemzetközi Emberi Jogi Dokumentumfilm Fesztivál „do it yourself” arculattal kérdez rá arra, mennyire…",
-      "fullSummary": "Miközben az AI-generált képek egyre nehezebben különböztethetők meg a valóságtól, a 23. Verzió Nemzetközi Emberi Jogi Dokumentumfilm Fesztivál „do it yourself” arculattal kérdez rá arra, mennyire hihetünk annak, amit látunk. A november 16–25. között Budapesten és nyolc vidéki városban megrendezett fesztivál kommunikációja is megújult: idén a fiatalabb közönség, a rövid videós formátumok és az új médiaegyüttműködések kerülnek a középpontba.",
+      "fullSummary": "Miközben az AI-generált képek egyre nehezebben különböztethetők meg a valóságtól, a 23. Verzió Nemzetközi Emberi Jogi Dokumentumfilm Fesztivál „do it yourself” arculattal kérdez rá arra, mennyire…",
       "tags": [
         "Uj Arculat",
         "Verzio",
@@ -191,7 +596,7 @@
         "nemzetkozi-emberi-jogi-dokumentumfilm-fesztival",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/v/e/r/z/i/verzio-cover-01-20261104-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/v/e/r/z/i/verzio-cover-01-20261104-690-920-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-04T12:33:00Z",
@@ -235,7 +640,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Négy magyar vonatkozású projekt szerepel az Art Directors Club of Europe (ADCE) 35. európai reklám- és designversenyének finalistái között. A Mediator Group egy munkája, az MMS Communications Hungary…",
-      "fullSummary": "Négy magyar vonatkozású projekt szerepel az Art Directors Club of Europe (ADCE) 35. európai reklám- és designversenyének finalistái között. A Mediator Group egy munkája, az MMS Communications Hungary két projektje, melyek egyikén a WellPR és az ARfected is dolgozott, valamint egy a Sea-Eye számára készült projekt került be a döntőbe, mely utóbbi munkán két budapesti kreatív ügynökség, az Umbrella Collective és a White Rabbit közreműködött.",
+      "fullSummary": "Négy magyar vonatkozású projekt szerepel az Art Directors Club of Europe (ADCE) 35. európai reklám- és designversenyének finalistái között. A Mediator Group egy munkája, az MMS Communications Hungary…",
       "tags": [
         "Awards",
         "Adce",
@@ -251,7 +656,7 @@
         "awards",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/a/d/c/e/-/adce-2027-finalists-1-png-20261104-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/d/c/e/-/adce-2027-finalists-1-png-20261104-690-920-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-04T12:03:00Z",
@@ -11352,419 +11757,6 @@
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-11T08:54:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "5f3bd488",
-      "title": "Calzedonia gives a New York cab a leggy makeover",
-      "url": "https://www.famouscampaigns.com/2026/09/calzedonia-gives-a-new-york-cab-a-leggy-makeover/",
-      "source": "famouscampaigns",
-      "sourceName": "Famous Campaigns",
-      "accent": "#7c5cff",
-      "summary": "Calzedonia is taking its tights onto the streets of New York for Fashion Week, turning a yellow cab into a moving legwear ad while opening a SoHo pop-up. The Italian fashion brand’s most eye-catching move is a custom taxi with a pair of…",
-      "fullSummary": "Calzedonia is taking its tights onto the streets of New York for Fashion Week, turning a yellow cab into a moving legwear ad while opening a SoHo pop-up. The Italian fashion brand’s most eye-catching move is a custom taxi with a pair of three-dimensional legs emerging from its roof. It is joined by a large-format […]",
-      "tags": [
-        "COOH",
-        "Branding",
-        "Fashion"
-      ],
-      "rawTags": [
-        "COOH"
-      ],
-      "image": null,
-      "author": "Staff",
-      "category": "COOH",
-      "publishedAt": "2026-09-11T08:50:41Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "69745c61",
-      "title": "Szabó György visszalépett az NMHH és a Médiatanács elnöki pályázatától",
-      "url": "https://kreativ.hu/cikk/szabo-gyorgy-visszalepett-az-nmhh-es-a-mediatanacs-elnoki-palyazatatol",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A médiamenedzser azután vonta vissza pályázatát, hogy az Országgyűlés a Független Közmédia Testület tagjává választotta. Szabó György a második ismert jelentkező, aki kiszállt az NMHH és a…",
-      "fullSummary": "A médiamenedzser azután vonta vissza pályázatát, hogy az Országgyűlés a Független Közmédia Testület tagjává választotta. Szabó György a második ismert jelentkező, aki kiszállt az NMHH és a…",
-      "tags": [
-        "Nmhh",
-        "Mediatanacs",
-        "Szabo Gyorgy",
-        "Visszalepes",
-        "Media",
-        "Awards"
-      ],
-      "rawTags": [
-        "nmhh",
-        "mediatanacs",
-        "szabo-gyorgy",
-        "visszalepes",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/s/z/a/b/o/szabo-gyorgy-fb-0-20260911-920-690-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-11T08:14:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "d5915ed1",
-      "title": "Dulcie Cowling: What happens to creativity when life moves online?",
-      "url": "https://www.thedrum.com/opinion/dulcie-cowling-what-happens-to-creativity-when-life-moves-online",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "As AI becomes more embedded in creative work, and the Zoom calls stack up, Dulcie Cowling argues the value of being around other people may only increase. Recently, I was on a work Zoom call when I…",
-      "fullSummary": "As AI becomes more embedded in creative work, and the Zoom calls stack up, Dulcie Cowling argues the value of being around other people may only increase. Recently, I was on a work Zoom call when I…",
-      "tags": [
-        "Marketing",
-        "Branding",
-        "Agency Culture",
-        "Marketing Services",
-        "AI"
-      ],
-      "rawTags": [
-        "Brand",
-        "Agency culture",
-        "Marketing Services",
-        "Marketing"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/screenshot-2026-09-10-151734.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Dulcie Cowling",
-      "category": "Marketing",
-      "publishedAt": "2026-09-11T07:30:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "1897c453",
-      "title": "New Alzheimer’s Research UK campaign strikes optimistic tone",
-      "url": "https://www.creativereview.co.uk/alzheimers-research-uk-the-first-campaign-beyond/",
-      "source": "creativereview",
-      "sourceName": "Creative Review",
-      "accent": "#ff4d4d",
-      "summary": "Beyond’s new work for the charity, centred around a single-shot hero film, asks what if the first person cured of Alzheimer’s is alive today?",
-      "fullSummary": "Beyond’s new work for the charity, centred around a single-shot hero film, asks what if the first person cured of Alzheimer’s is alive today?",
-      "tags": [
-        "Campaigns",
-        "Film & TV",
-        "Health"
-      ],
-      "rawTags": [],
-      "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/09/Alzheimers-Research-UK-The-First-One-ad.jpg",
-      "author": "Adam Woodward",
-      "category": "",
-      "publishedAt": "2026-09-11T02:15:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "418bf6f3",
-      "title": "Will AI labels answer the concerns around using the tech in creativity?",
-      "url": "https://www.creativereview.co.uk/will-ai-labels-answer-the-concerns-around-using-the-tech-in-creativity/",
-      "source": "creativereview",
-      "sourceName": "Creative Review",
-      "accent": "#ff4d4d",
-      "summary": "While transparency in the use of AI can only be a good thing, platforms penalising its use in creativity risks judging the tools rather than the work, says Johnny Rohrbach, co-founder of Silverside",
-      "fullSummary": "While transparency in the use of AI can only be a good thing, platforms penalising its use in creativity risks judging the tools rather than the work, says Johnny Rohrbach, co-founder of Silverside",
-      "tags": [
-        "AI"
-      ],
-      "rawTags": [
-        "Artificial Intelligence"
-      ],
-      "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/09/shutterstock_2668435643.jpg",
-      "author": "Johnny Rohrbach",
-      "category": "Artificial Intelligence",
-      "publishedAt": "2026-09-11T02:08:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "9f1fa3a7",
-      "title": "Tisztelet vagy tragédiamarketing? 9/11 reklámtörténeti öröksége",
-      "url": "https://kreativ.hu/cikk/9-11-usa-terrortamadas-25-eve-jubileum-reklamok",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A 2001. szeptember 11-i terrortámadás nemcsak a hírmédiát és a popkultúrát változtatta meg, hanem a reklámipart is új kérdések elé állította: megszólalhat-e egy márka egy közös tragédiáról, és ha…",
-      "fullSummary": "A 2001. szeptember 11-i terrortámadás nemcsak a hírmédiát és a popkultúrát változtatta meg, hanem a reklámipart is új kérdések elé állította: megszólalhat-e egy márka egy közös tragédiáról, és ha…",
-      "tags": [
-        "USA",
-        "9 11",
-        "Reklamtortenet",
-        "Terrortamadas",
-        "Megemlekezes",
-        "25 Ev"
-      ],
-      "rawTags": [
-        "usa",
-        "9-11",
-        "reklamtortenet",
-        "terrortamadas",
-        "megemlekezes",
-        "25-ev",
-        "reklam",
-        "popkult"
-      ],
-      "image": "https://kreativ.hu/img-cache/9/-/1/1/-/9-11-getty-3-png-20260911-920-690-90-zc.webp",
-      "author": "Lakos Boglárka",
-      "category": "",
-      "publishedAt": "2026-09-10T22:22:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "e56fb500",
-      "title": "Judge of the day: Maryna Semioshyna says brand identity should be woven into the architecture",
-      "url": "https://www.thedrum.com/news/judge-of-the-day-maryna-semioshyna-says-brand-identity-should-be-woven-into-the-architecture",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "HOURS' co-founder and chief creative officer and Drum Awards Festival juror on gameplay-driven design, authenticity over trend-chasing, and why Roblox demands a different kind of brand thinking.\"True…",
-      "fullSummary": "HOURS' co-founder and chief creative officer and Drum Awards Festival juror on gameplay-driven design, authenticity over trend-chasing, and why Roblox demands a different kind of brand thinking.\"True…",
-      "tags": [
-        "Marketing",
-        "The Drum Awards",
-        "Agencies",
-        "The Drum Awards Festival",
-        "Judge Of The Day",
-        "Marketing Services"
-      ],
-      "rawTags": [
-        "The Drum Awards",
-        "Agency",
-        "The Drum Awards Festival",
-        "Judge of the Day",
-        "Marketing Services",
-        "Marketing"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/maryna-semioshyna.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Margo Waldrop",
-      "category": "Marketing",
-      "publishedAt": "2026-09-10T16:43:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "327418fe",
-      "title": "Négyen a European Marketer of the Year 2026 hazai shortlistjén",
-      "url": "https://kreativ.hu/cikk/negyen-a-european-marketer-of-the-year-2026-hazai-shortlistjen",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Az MMSZ által felkért szakmai zsűri idén négy hazai marketingvezetőt jelölt a European Marketer of the Year – Nominee of Hungary díj shortlistjére: Balogh Barbarát, a VELUX globális márkaalelnökét,…",
-      "fullSummary": "Az MMSZ által felkért szakmai zsűri idén négy hazai marketingvezetőt jelölt a European Marketer of the Year – Nominee of Hungary díj shortlistjére: Balogh Barbarát, a VELUX globális márkaalelnökét,…",
-      "tags": [
-        "Marketing",
-        "European Marketer Of The Year",
-        "Advertising",
-        "Media",
-        "Branding",
-        "Awards"
-      ],
-      "rawTags": [
-        "marketing",
-        "european-marketer-of-the-year",
-        "reklam",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/e/m/o/t/y/emoty-nominees-20260910-920-690-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-10T12:50:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "01a379d7",
-      "title": "The Drum’s Indie 100: World’s top independent agencies in 2026 revealed",
-      "url": "https://www.thedrum.com/news/the-drum-indie-100-the-world-s-top-independent-agencies-in-2026-revealed",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "Our global ranking of the indies setting the pace across creativity, client satisfaction and industry recognition, now underpinned by a more rigorous methodology than ever before, is here. Find out…",
-      "fullSummary": "Our global ranking of the indies setting the pace across creativity, client satisfaction and industry recognition, now underpinned by a more rigorous methodology than ever before, is here. Find out…",
-      "tags": [
-        "Agencies",
-        "Summer Of Agency Love",
-        "Independent Agencies"
-      ],
-      "rawTags": [
-        "Summer of Agency Love",
-        "Agencies",
-        "Independent agencies"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/r2.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "The Drum",
-      "category": "Agencies",
-      "publishedAt": "2026-09-10T12:29:07Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "0961dd17",
-      "title": "Ad of the Day: Tubi matches movies to moods in biggest ever global campaign",
-      "url": "https://www.thedrum.com/news/tubi-matches-movies-to-moods-in-its-biggest-ever-global-campaign",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "Over 110 million people around the world tune in to Tubi every month, settling down on the sofa or passing the time on the subway, according to the Fox Corporation-owned free streaming service. Now,…",
-      "fullSummary": "Over 110 million people around the world tune in to Tubi every month, settling down on the sofa or passing the time on the subway, according to the Fox Corporation-owned free streaming service. Now, the ad-funded platform has launched its own blockbuster campaign, ‘Find Any Feeling For Free,’ breaking its own record for the number of creative assets it is putting out across the US and its growing international markets. A suite of nine 15-second…",
-      "tags": [
-        "Creative",
-        "Creative Work",
-        "Advertising",
-        "Campaigns",
-        "Film & TV"
-      ],
-      "rawTags": [
-        "Creative work",
-        "Ad of the Day",
-        "Creative"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/tubi.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Mel Henson",
-      "category": "Creative",
-      "publishedAt": "2026-09-10T12:14:33Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-14T09:52:42Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "9fd8026e",
-      "title": "MedCom 2026: összeállt az idei shortlist",
-      "url": "https://kreativ.hu/cikk/medcom-2026-osszeallt-az-idei-shortlist-1",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Az online értékelés lezajlott, kiderült, mely egészségügyi/gyógyszeripari marketingmegoldások kerültek a legjobbak közé.",
-      "fullSummary": "Az online értékelés lezajlott, kiderült, mely egészségügyi/gyógyszeripari marketingmegoldások kerültek a legjobbak közé.",
-      "tags": [
-        "Egeszsegugy",
-        "Gyogyszeripar",
-        "Verseny",
-        "Medcom",
-        "Health",
-        "Awards"
-      ],
-      "rawTags": [
-        "egeszsegugy",
-        "gyogyszeripar",
-        "verseny",
-        "medcom"
-      ],
-      "image": "https://kreativ.hu/img-cache/m/e/d/c/o/medcom2-png-0-20260910-813-609-75-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-10T10:46:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "0edf188d",
-      "title": "Queer horrorvígjátékkal, Nemes László történelmi drámájával érkezik a harmadik BIFF",
-      "url": "https://kreativ.hu/cikk/45-filmmel-jon-a-harmadik-biff",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Idén is az év nemzetközi filmtermésének legizgalmasabb darabjait gyűjtötte össze a BIFF - III. Budapest International Film Festival 2026.",
-      "fullSummary": "Idén is az év nemzetközi filmtermésének legizgalmasabb darabjait gyűjtötte össze a BIFF - III. Budapest International Film Festival 2026.",
-      "tags": [
-        "Filmfesztival",
-        "Biff",
-        "Popkult",
-        "Film & TV"
-      ],
-      "rawTags": [
-        "filmfesztival",
-        "biff",
-        "popkult"
-      ],
-      "image": "https://kreativ.hu/img-cache/b/i/f/f/2/biff2026-cover-b-png-20260910-549-75-733-90-zc.webp",
-      "author": "S. D.",
-      "category": "",
-      "publishedAt": "2026-09-10T10:17:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "98ee2297",
-      "title": "Paddy Gilmore: Snickers, you’re not you when you’re this hungry for relevance",
-      "url": "https://www.thedrum.com/opinion/paddy-gilmore-snickers-you-re-not-you-when-you-re-this-hungry-for-relevance",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "Snickers has spent 16 years building one of advertising’s most effective platforms. Paddy Gilmore asks why its latest AI execution feels so much weaker. Unless you’ve been living under a stone for…",
-      "fullSummary": "Snickers has spent 16 years building one of advertising’s most effective platforms. Paddy Gilmore asks why its latest AI execution feels so much weaker. Unless you’ve been living under a stone for…",
-      "tags": [
-        "Marketing",
-        "Branding",
-        "Strategy",
-        "Funny Matters",
-        "Marketing Services",
-        "AI"
-      ],
-      "rawTags": [
-        "Brand",
-        "Brand strategy",
-        "Funny Matters",
-        "Marketing Services",
-        "Marketing"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/picture1-1789031204.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Paddy Gilmore",
-      "category": "Marketing",
-      "publishedAt": "2026-09-10T09:40:33Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "269b51fc",
-      "title": "Telefon felett eltöltött órák igen, egy elszívott spangli nem?",
-      "url": "https://kreativ.hu/cikk/fuggoseg-temakorben-mutat-segitseghez-vezeto-utat-a-mediaunio-kampanya",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A Médiaunió Alapítvány 2025 őszén indította el a Függőség 7 jele című kezdeményezést, amely a tinédzserkori szerhasználat és a viselkedési függőségek kockázataira hívta fel a figyelmet. A kampány…",
-      "fullSummary": "A Médiaunió Alapítvány 2025 őszén indította el a Függőség 7 jele című kezdeményezést, amely a tinédzserkori szerhasználat és a viselkedési függőségek kockázataira hívta fel a figyelmet. A kampány…",
-      "tags": [
-        "Fuggoseg",
-        "Jatekfuggoseg",
-        "Mediaunio",
-        "Drogfuggoseg",
-        "Alkoholbetegseg",
-        "Advertising"
-      ],
-      "rawTags": [
-        "fuggoseg",
-        "jatekfuggoseg",
-        "mediaunio",
-        "drogfuggoseg",
-        "alkoholbetegseg",
-        "reklam",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/m/u/2/6/-/mu26-4-png-20260910-690-920-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-10T09:05:00Z",
       "datePrecise": true,
       "firstSeenAt": "2026-09-13T23:14:17Z",
       "enrichAttempts": 1
