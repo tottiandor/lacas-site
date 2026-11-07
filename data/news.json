@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T10:45:16Z",
+  "generatedAt": "2026-11-07T09:58:15Z",
   "itemCount": 400,
   "sources": [
     {
@@ -9,7 +9,7 @@
       "accent": "#00d1b2",
       "status": "error",
       "error": "failed to fetch https://www.thedrum.com/: HTTP Error 403: Forbidden",
-      "count": 11
+      "count": 6
     },
     {
       "id": "kreativ",
@@ -27,7 +27,7 @@
       "accent": "#ff4d4d",
       "status": "error",
       "error": "failed to fetch https://www.creativereview.co.uk/feed/: HTTP Error 403: Forbidden",
-      "count": 5
+      "count": 3
     },
     {
       "id": "theinspiration",
@@ -49,6 +49,211 @@
     }
   ],
   "items": [
+    {
+      "id": "69e7d665",
+      "title": "Változtatna a rendezvénytenderezés új állami szabályain a MaReSz",
+      "url": "https://kreativ.hu/cikk/allam-tender-rendezveny-maresz-kozbeszerzes",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Az új rendezvényszervezési közbeszerzési rendszer feltételeiről egyeztetett a MaReSz a Nemzeti Kommunikációs Hivatallal és a Nemzeti Rendezvényszervező Ügynökséggel. A szakmai szövetség több ponton…",
+      "fullSummary": "Az új rendezvényszervezési közbeszerzési rendszer feltételeiről egyeztetett a MaReSz a Nemzeti Kommunikációs Hivatallal és a Nemzeti Rendezvényszervező Ügynökséggel. A szakmai szövetség több ponton módosítaná a tervezett konstrukciót, amely szerint legfeljebb tíz rendezvényügynökség versenyezhetne az egyes állami megbízásokért. A november 4-i találkozón több mint 300 kérdést és észrevételt tekintettek át.",
+      "tags": [
+        "Maresz",
+        "Kozbeszerzes",
+        "Tender",
+        "Allam",
+        "Rendezveny",
+        "Advertising"
+      ],
+      "rawTags": [
+        "maresz",
+        "kozbeszerzes",
+        "tender",
+        "allam",
+        "rendezveny",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/4/8/8/0/3/488037078-1049472957217496-5344778420956587820-n-0-20261106-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-06T17:06:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-07T09:58:15Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "e92c317c",
+      "title": "Analóg kreativitással hódít egy stop-motion karácsonyi kampány",
+      "url": "https://kreativ.hu/cikk/analog-kreativitas-a-mesterseges-intelligencia-koraban-ime-egy-stop-motion-karacsonyi-kampany",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Egyedi kézzel készült animációval jelentkezett karácsonyi kampányában az e.l.f. Beauty amerikai kozmetikai vállalat.",
+      "fullSummary": "Egyedi kézzel készült animációval jelentkezett karácsonyi kampányában az e.l.f. Beauty amerikai kozmetikai vállalat.",
+      "tags": [
+        "Advertising",
+        "Analog",
+        "Karacsony",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "reklam",
+        "reklamfilm",
+        "analog",
+        "karacsony"
+      ],
+      "image": "https://kreativ.hu/img-cache/1/0/8/0/x/1080x608-webp-20261106-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-06T15:59:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-07T09:58:15Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "524f72c7",
+      "title": "Kié a tévés arc? Egyre élesebb a verseny a médiapiaci tehetségekért",
+      "url": "https://kreativ.hu/cikk/big-picture-2027-kerekasztal-beszelgetes-munkaeropiac-media-bodacz-balazs-kozmedia-magyar-adam-hirtv-berecz-peter-atv",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A televíziós piac átrendeződése nemcsak a csatornák és a műsorstruktúrák versenyét élezte ki, hanem a szakemberekért, a képernyős személyiségekért és a fiatal tehetségekért folytatott küzdelmet is.…",
+      "fullSummary": "A televíziós piac átrendeződése nemcsak a csatornák és a műsorstruktúrák versenyét élezte ki, hanem a szakemberekért, a képernyős személyiségekért és a fiatal tehetségekért folytatott küzdelmet is. Miközben olyan ismert televíziós arcok váltanak munkahelyet, mint Rónai Egon, Krug Emília vagy Azurák Csaba, a piaci szereplőknek egyszerre kell megtartaniuk meghatározó munkatársaikat, új generációt kinevelniük és alkalmazkodniuk a megváltozó…",
+      "tags": [
+        "Media",
+        "Hirtv",
+        "Atv",
+        "Kozmedia",
+        "Munkaeropiac",
+        "Beszelgetes"
+      ],
+      "rawTags": [
+        "media",
+        "hirtv",
+        "atv",
+        "kozmedia",
+        "munkaeropiac",
+        "beszelgetes",
+        "magyar-adam",
+        "kerekasztal"
+      ],
+      "image": "https://kreativ.hu/img-cache/i/m/g/-/2/img-20261105-172555-v2-20261106-920-690-90-zc.webp",
+      "author": "Tiszóczi Roland",
+      "category": "",
+      "publishedAt": "2026-11-06T13:14:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-07T09:58:15Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "6a0162fb",
+      "title": "Bemutatkozik a Doing Good - CSR AWARD zsűrije",
+      "url": "https://kreativ.hu/cikk/bemutatkozik-a-doing-good-csr-award-zsurije",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Közgazdász, kommunikációs szakember és emberi jogi aktivita is helyet foglal a PPH Media CSR versenyének zsűrijében. Közeleg a második nevezési határidő!",
+      "fullSummary": "Közgazdász, kommunikációs szakember és emberi jogi aktivita is helyet foglal a PPH Media CSR versenyének zsűrijében. Közeleg a második nevezési határidő!",
+      "tags": [
+        "Doing Good Csr Award",
+        "Doing Good 2026",
+        "Verseny",
+        "Media",
+        "Awards"
+      ],
+      "rawTags": [
+        "doing-good-csr-award",
+        "doing-good-2026",
+        "verseny"
+      ],
+      "image": "https://kreativ.hu/img-cache/c/s/r/2/0/csr2026-640x480-lista-png-20261106-640-480-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-06T12:12:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-07T09:58:15Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "ee296b30",
+      "title": "Jaguar pairs Florence Pugh with Annie Leibovitz for Type 01 campaign",
+      "url": "https://www.famouscampaigns.com/2026/11/jaguar-pairs-florence-pugh-with-annie-leibovitz-for-type-01-campaign/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Jaguar has brought together Florence Pugh and photographer Annie Leibovitz for a new portrait campaign celebrating its Type 01 electric car. The British actor, Jaguar’s first ambassador for its new era, shares the frame with the luxury…",
+      "fullSummary": "Jaguar has brought together Florence Pugh and photographer Annie Leibovitz for a new portrait campaign celebrating its Type 01 electric car. The British actor, Jaguar’s first ambassador for its new era, shares the frame with the luxury grand tourer in a series that gives both subjects equal billing. Leibovitz approached the shoot as a meeting […]",
+      "tags": [
+        "Automotive",
+        "Celebrity",
+        "Campaigns",
+        "Photography",
+        "Fashion"
+      ],
+      "rawTags": [
+        "Automotive",
+        "Celebrity"
+      ],
+      "image": null,
+      "author": "Staff",
+      "category": "Automotive",
+      "publishedAt": "2026-11-06T12:08:34Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-07T09:58:15Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "07516c8f",
+      "title": "Stabilo’s highlighter pens are now for your lips",
+      "url": "https://www.famouscampaigns.com/2026/11/stabilos-highlighter-pens-are-now-for-your-lips/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Stabilo and Kiko Milano have turned the familiar Boss Mini highlighter into a collection of lip products, taking a stationery cupboard staple into the beauty aisle. The collaboration borrows the highlighter’s distinctive shape for five lip…",
+      "fullSummary": "Stabilo and Kiko Milano have turned the familiar Boss Mini highlighter into a collection of lip products, taking a stationery cupboard staple into the beauty aisle. The collaboration borrows the highlighter’s distinctive shape for five lip colours, with shade names that nod to writing: Fine Print (brown), Afterthought (mauve), Don’t Quote Me (orange), On My […]",
+      "tags": [
+        "Health & Beauty"
+      ],
+      "rawTags": [
+        "Health & Beauty"
+      ],
+      "image": null,
+      "author": "Staff",
+      "category": "Health & Beauty",
+      "publishedAt": "2026-11-06T11:48:25Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-07T09:58:15Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "ab861ff6",
+      "title": "A Florence Lifestyle Agency lett a Matild Palace PR ügynöksége",
+      "url": "https://kreativ.hu/cikk/florence-lifestyle-agency-matild-palace-pr-ugynokseg",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Florence Lifestyle Agency nyerte a Matild Palace PR-tenderét. A megbízás a budapesti luxusszálloda mellett a hozzá tartozó outletek: a COVA Budapest, a Spago Budapest by Wolfgang Puck és a The…",
+      "fullSummary": "A Florence Lifestyle Agency nyerte a Matild Palace PR-tenderét. A megbízás a budapesti luxusszálloda mellett a hozzá tartozó outletek: a COVA Budapest, a Spago Budapest by Wolfgang Puck és a The Duchess kommunikációjára is kiterjed.",
+      "tags": [
+        "Matild Palace",
+        "Florence Lifestyle Agency",
+        "Advertising",
+        "Agencies"
+      ],
+      "rawTags": [
+        "matild-palace",
+        "florence-lifestyle-agency",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/e/x/t/e/r/exterior-matild-palace-a-luxury-collection-hotel-budapest-1-20261106-920-690-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-11-06T10:52:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-07T09:58:15Z",
+      "enrichAttempts": 1
+    },
     {
       "id": "3e32fcfb",
       "title": "Heidi Klum Halloween Costume",
@@ -127,7 +332,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Hotel Blöff, Az ígéret és Aranyszív címmel új produkciókat indít az RTL, folytatódik A mi kis falunk, Az Árulók és visszatér a Sztárbox. A Big Picture konferencián bemutatott tartalmi stratégia a…",
-      "fullSummary": "Hotel Blöff, Az ígéret és Aranyszív címmel új produkciókat indít az RTL, folytatódik A mi kis falunk, Az Árulók és visszatér a Sztárbox. A Big Picture konferencián bemutatott tartalmi stratégia a lineáris televíziózás és a streaming mellett a képernyőn túl is tovább élő tartalmi univerzumokra is épít.",
+      "fullSummary": "Hotel Blöff, Az ígéret és Aranyszív címmel új produkciókat indít az RTL, folytatódik A mi kis falunk, Az Árulók és visszatér a Sztárbox. A Big Picture konferencián bemutatott tartalmi stratégia a…",
       "tags": [
         "Tartalom",
         "RTL",
@@ -144,7 +349,7 @@
         "2027",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/r/t/l/-/h/rtl-hotel-bloff-0-20261106-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/r/t/l/-/h/rtl-hotel-bloff-0-20261106-621-75-829-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-06T08:38:00Z",
@@ -185,7 +390,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "2027 januárjától Azurák Csaba vezeti az ATV közéleti vitaműsorát, amelynek Szöllősi Györgyi mellett lesz a házigazdája. A több mint 25 éves médiatapasztalattal rendelkező riporter az ATV felkérését…",
-      "fullSummary": "2027 januárjától Azurák Csaba vezeti az ATV közéleti vitaműsorát, amelynek Szöllősi Györgyi mellett lesz a házigazdája. A több mint 25 éves médiatapasztalattal rendelkező riporter az ATV felkérését szakmai kihívásnak és egyfajta hazatérésnek tekinti.",
+      "fullSummary": "2027 januárjától Azurák Csaba vezeti az ATV közéleti vitaműsorát, amelynek Szöllősi Györgyi mellett lesz a házigazdája. A több mint 25 éves médiatapasztalattal rendelkező riporter az ATV felkérését…",
       "tags": [
         "Atv",
         "Egyenes Beszed",
@@ -200,7 +405,7 @@
         "azurak-csaba",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/a/z/u/r/a/azurak-atv-egyenes-beszed-cimlap-20261106-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/z/u/r/a/azurak-atv-egyenes-beszed-cimlap-20261106-630-75-841-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-06T07:51:00Z",
@@ -216,7 +421,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Bejelentéssel jött a 4IG a Big Pciture televíziós konferencia napján: a One és a Network4 együttműködése a hagyományos televízióscsatornák terjesztésén túl a streamingre is kiterjed. A One TV…",
-      "fullSummary": "Bejelentéssel jött a 4IG a Big Pciture televíziós konferencia napján: a One és a Network4 együttműködése a hagyományos televízióscsatornák terjesztésén túl a streamingre is kiterjed. A One TV Family előfizetői külön díj nélkül kapnak hozzáférést a Network4 Go szolgáltatáshoz. Emellett három új, prémium tematikus csatorna is megjelenik a One kínálatában.",
+      "fullSummary": "Bejelentéssel jött a 4IG a Big Pciture televíziós konferencia napján: a One és a Network4 együttműködése a hagyományos televízióscsatornák terjesztésén túl a streamingre is kiterjed. A One TV…",
       "tags": [
         "One",
         "Stream",
@@ -232,7 +437,7 @@
         "network4",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/n/e/t/w/o/network4-media-group-portfolio-png-20261105-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/n/e/t/w/o/network4-media-group-portfolio-png-20261105-549-75-733-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-06T07:12:00Z",
@@ -264,7 +469,7 @@
         "reklam",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-2040314636-jpeg-0-20261106-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-2040314636-jpeg-0-20261106-690-920-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-05T17:14:00Z",
@@ -294,7 +499,7 @@
         "sweet-tv",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-480622257-jpeg-20261106-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-480622257-jpeg-20261106-549-75-733-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-05T15:46:00Z",
@@ -362,7 +567,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Big Picture 2027 konferencián jelentette be következő évi terveit a médiavállalat, amely saját gyártású szórakoztató műsorok, nemzetközi formátumok, a prémium sportközvetítések és a digitális…",
-      "fullSummary": "A Big Picture 2027 konferencián jelentette be következő évi terveit a médiavállalat, amely saját gyártású szórakoztató műsorok, nemzetközi formátumok, a prémium sportközvetítések és a digitális tartalomfogyasztás fejlesztésére építi stratégiáját.",
+      "fullSummary": "A Big Picture 2027 konferencián jelentette be következő évi terveit a médiavállalat, amely saját gyártású szórakoztató műsorok, nemzetközi formátumok, a prémium sportközvetítések és a digitális…",
       "tags": [
         "Strategy",
         "Tv2",
@@ -379,7 +584,7 @@
         "big-picture",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/m/o/k/k/a/mokka-csoport-email-20261105-549-75-733-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/m/o/k/k/a/mokka-csoport-email-20261105-920-690-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-05T12:51:00Z",
@@ -395,7 +600,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Meta egy hónapja csendben kilátásba helyezte üzleti feltételeinek megváltoztatását. Az indítványozott változtatások hatása: a norvég médiacégek bíróság elé vitték, a brit versenyhivatal…",
-      "fullSummary": "A Meta egy hónapja csendben kilátásba helyezte üzleti feltételeinek megváltoztatását. Az indítványozott változtatások hatása: a norvég médiacégek bíróság elé vitték, a brit versenyhivatal vizsgálódik, az európai kiadók Brüsszeltől várnak segítséget. Miről szól a változtatási javaslat, miért váltott ki hatalmas visszhangot, és miért érinti nem csupán a médiacégeket, de az összes vállalkozást, amely bármilyen online anyagot terjeszt: elemzéseket,…",
+      "fullSummary": "A Meta egy hónapja csendben kilátásba helyezte üzleti feltételeinek megváltoztatását. Az indítványozott változtatások hatása: a norvég médiacégek bíróság elé vitték, a brit versenyhivatal…",
       "tags": [
         "Szabalyozas",
         "Eu",
@@ -11558,205 +11763,6 @@
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-11T10:41:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "48a0bfdc",
-      "title": "Oscar Quine: What might Freud make of marketing’s poo obsession?",
-      "url": "https://www.thedrum.com/opinion/oscar-quine-what-freud-might-make-of-marketing-s-poo-obsession",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "Oscar Quine surveys advertising’s current obsession with the ‘number two’ and asks whether all that toilet humor tells us something about the culture producing it. Recently, retailer Marks and…",
-      "fullSummary": "Oscar Quine surveys advertising’s current obsession with the ‘number two’ and asks whether all that toilet humor tells us something about the culture producing it. Recently, retailer Marks and…",
-      "tags": [
-        "Marketing",
-        "Branding",
-        "Strategy",
-        "Creative Thinking",
-        "Marketing Services",
-        "Advertising"
-      ],
-      "rawTags": [
-        "Brand",
-        "Brand strategy",
-        "Creative thinking",
-        "Marketing Services",
-        "Marketing"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/adobestock-1479991301.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Oscar Quine",
-      "category": "Marketing",
-      "publishedAt": "2026-09-11T10:40:24Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "5a4a422a",
-      "title": "Broken Britain billboard returns to ask how Britain can fix itself",
-      "url": "https://www.famouscampaigns.com/2026/09/broken-britain-billboard-returns-to-ask-how-britain-can-fix-itself/",
-      "source": "famouscampaigns",
-      "sourceName": "Famous Campaigns",
-      "accent": "#7c5cff",
-      "summary": "The viral Broken Britain billboard has returned with a sequel in Whitechapel that turns its original diagnosis of national division into a question about what comes next. Unbreak Britain is a 48-sheet public artwork created by Elliott…",
-      "fullSummary": "The viral Broken Britain billboard has returned with a sequel in Whitechapel that turns its original diagnosis of national division into a question about what comes next. Unbreak Britain is a 48-sheet public artwork created by Elliott Starr, founder and Creative Partner at Belief Studio, with David Johnston of design studio Accept & Proceed and […]",
-      "tags": [
-        "Cause Related",
-        "COOH",
-        "OOH"
-      ],
-      "rawTags": [
-        "Cause Related",
-        "COOH"
-      ],
-      "image": null,
-      "author": "Staff",
-      "category": "Cause Related",
-      "publishedAt": "2026-09-11T10:25:19Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "99eea454",
-      "title": "Advertising Week sets $100m creator-brand dealmaking target with Dhar Mann",
-      "url": "https://www.thedrum.com/news/advertising-week-sets-100m-creator-brand-dealmaking-target-with-dhar-mann",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "The event’s inaugural chief creator officer has designed four days of programming intended to move marketers and influencers beyond panels and networking – and towards commercial partnerships.…",
-      "fullSummary": "The event’s inaugural chief creator officer has designed four days of programming intended to move marketers and influencers beyond panels and networking – and towards commercial partnerships.…",
-      "tags": [
-        "Marketing",
-        "Advertising Week",
-        "Creator Marketing",
-        "Advertising",
-        "Branding",
-        "Design"
-      ],
-      "rawTags": [
-        "Advertising Week",
-        "Creator marketing",
-        "Marketing"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/dharadvertisingweekcrop.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "The Drum",
-      "category": "Marketing",
-      "publishedAt": "2026-09-11T10:19:10Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "4559f574",
-      "title": "Meta smart glasses mocked by fake notices on London Underground",
-      "url": "https://www.famouscampaigns.com/2026/09/meta-smart-glasses-mocked-by-fake-notices-on-london-underground/",
-      "source": "famouscampaigns",
-      "sourceName": "Famous Campaigns",
-      "accent": "#7c5cff",
-      "summary": "London’s backlash against camera-equipped smart glasses has reached the Tube, with spoof stickers styled as official TfL safety notices appearing inside Underground carriages and warning wearers that “everyone thinks you look like a…",
-      "fullSummary": "London’s backlash against camera-equipped smart glasses has reached the Tube, with spoof stickers styled as official TfL safety notices appearing inside Underground carriages and warning wearers that “everyone thinks you look like a massive nonce”. The stickers borrow the visual language of public transport signage, complete with TfL blue, a simplified glasses icon and a […]",
-      "tags": [
-        "COOH",
-        "Technology"
-      ],
-      "rawTags": [
-        "COOH",
-        "Technology"
-      ],
-      "image": null,
-      "author": "Staff",
-      "category": "COOH",
-      "publishedAt": "2026-09-11T10:11:28Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "84ff6c6d",
-      "title": "Mark Ritson on why marketers should stop pretending they know the ROI",
-      "url": "https://www.thedrum.com/news/mark-ritson-stop-pretending-you-can-prove-the-roi-of-brand-investment",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "How do you convince a CFO to approve millions in long-term brand investment when you cannot yet prove exactly what the return will be? That is the question Lauren, a senior brand and marketing…",
-      "fullSummary": "How do you convince a CFO to approve millions in long-term brand investment when you cannot yet prove exactly what the return will be? That is the question Lauren, a senior brand and marketing…",
-      "tags": [
-        "Marketing",
-        "Branding",
-        "Strategy",
-        "Marketing Services",
-        "Ritson’s Remedies",
-        "Business"
-      ],
-      "rawTags": [
-        "Brand",
-        "Brand strategy",
-        "Marketing Services",
-        "Ritson’s Remedies",
-        "Marketing"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/copy-of-youtube-thumbnails-2.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "John McCarthy",
-      "category": "Marketing",
-      "publishedAt": "2026-09-11T09:18:31Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "eac1a689",
-      "title": "IKEA helps fix Skyrim’s clutter problem",
-      "url": "https://www.famouscampaigns.com/2026/09/ikea-helps-fix-skyrims-clutter-problem/",
-      "source": "famouscampaigns",
-      "sourceName": "Famous Campaigns",
-      "accent": "#7c5cff",
-      "summary": "IKEA has entered The Elder Scrolls V: Skyrim with KALLAX Storageborn, a free downloadable companion (voiced by Matt Berry) that solves one of the role-playing game’s oldest annoyances: carrying too much stuff. Created by Mother with…",
-      "fullSummary": "IKEA has entered The Elder Scrolls V: Skyrim with KALLAX Storageborn, a free downloadable companion (voiced by Matt Berry) that solves one of the role-playing game’s oldest annoyances: carrying too much stuff. Created by Mother with Kinggath Creations, the campaign turns IKEA’s storage credentials into an actual piece of gameplay rather than simply placing the […]",
-      "tags": [
-        "Entertainment",
-        "Gaming"
-      ],
-      "rawTags": [
-        "Entertainment",
-        "Gaming"
-      ],
-      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/KALLAX-STORAGEBORN-a-free-creation-for-The-Elder-Scrolls-V_-Skyrim™-from-IKEA.mp4",
-      "author": "James Herring",
-      "category": "Entertainment",
-      "publishedAt": "2026-09-11T09:08:39Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "16171782",
-      "title": "Martí Zoltán visszavonta jelöltségét a Független Közmédia Testületbe",
-      "url": "https://kreativ.hu/cikk/marti-zoltan-visszavonta-jeloltseget-a-fuggetlen-kozmedia-testuletbe",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A KDNP által jelölt médiaszakember azután lépett vissza, hogy az Országgyűlés Művelődési Bizottsága két alkalommal sem támogatta a megválasztását. Ezzel Martí Zoltán az első FKT-jelölt, aki maga…",
-      "fullSummary": "A KDNP által jelölt médiaszakember azután lépett vissza, hogy az Országgyűlés Művelődési Bizottsága két alkalommal sem támogatta a megválasztását. Ezzel Martí Zoltán az első FKT-jelölt, aki maga…",
-      "tags": [
-        "Jelolt",
-        "Visszalepes",
-        "Fuggetlen Kozmedia Testulet",
-        "Media"
-      ],
-      "rawTags": [
-        "jelolt",
-        "visszalepes",
-        "fuggetlen-kozmedia-testulet",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/m/a/r/t/i/marti-zoltan-fb-0-20260911-810-607-5-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-11T08:54:00Z",
       "datePrecise": true,
       "firstSeenAt": "2026-09-13T23:14:17Z",
       "enrichAttempts": 1
