@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T09:58:15Z",
+  "generatedAt": "2026-11-08T10:11:28Z",
   "itemCount": 400,
   "sources": [
     {
@@ -9,7 +9,7 @@
       "accent": "#00d1b2",
       "status": "error",
       "error": "failed to fetch https://www.thedrum.com/: HTTP Error 403: Forbidden",
-      "count": 6
+      "count": 3
     },
     {
       "id": "kreativ",
@@ -57,7 +57,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Az új rendezvényszervezési közbeszerzési rendszer feltételeiről egyeztetett a MaReSz a Nemzeti Kommunikációs Hivatallal és a Nemzeti Rendezvényszervező Ügynökséggel. A szakmai szövetség több ponton…",
-      "fullSummary": "Az új rendezvényszervezési közbeszerzési rendszer feltételeiről egyeztetett a MaReSz a Nemzeti Kommunikációs Hivatallal és a Nemzeti Rendezvényszervező Ügynökséggel. A szakmai szövetség több ponton módosítaná a tervezett konstrukciót, amely szerint legfeljebb tíz rendezvényügynökség versenyezhetne az egyes állami megbízásokért. A november 4-i találkozón több mint 300 kérdést és észrevételt tekintettek át.",
+      "fullSummary": "Az új rendezvényszervezési közbeszerzési rendszer feltételeiről egyeztetett a MaReSz a Nemzeti Kommunikációs Hivatallal és a Nemzeti Rendezvényszervező Ügynökséggel. A szakmai szövetség több ponton…",
       "tags": [
         "Maresz",
         "Kozbeszerzes",
@@ -119,7 +119,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A televíziós piac átrendeződése nemcsak a csatornák és a műsorstruktúrák versenyét élezte ki, hanem a szakemberekért, a képernyős személyiségekért és a fiatal tehetségekért folytatott küzdelmet is.…",
-      "fullSummary": "A televíziós piac átrendeződése nemcsak a csatornák és a műsorstruktúrák versenyét élezte ki, hanem a szakemberekért, a képernyős személyiségekért és a fiatal tehetségekért folytatott küzdelmet is. Miközben olyan ismert televíziós arcok váltanak munkahelyet, mint Rónai Egon, Krug Emília vagy Azurák Csaba, a piaci szereplőknek egyszerre kell megtartaniuk meghatározó munkatársaikat, új generációt kinevelniük és alkalmazkodniuk a megváltozó…",
+      "fullSummary": "A televíziós piac átrendeződése nemcsak a csatornák és a műsorstruktúrák versenyét élezte ki, hanem a szakemberekért, a képernyős személyiségekért és a fiatal tehetségekért folytatott küzdelmet is.…",
       "tags": [
         "Media",
         "Hirtv",
@@ -234,7 +234,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Florence Lifestyle Agency nyerte a Matild Palace PR-tenderét. A megbízás a budapesti luxusszálloda mellett a hozzá tartozó outletek: a COVA Budapest, a Spago Budapest by Wolfgang Puck és a The…",
-      "fullSummary": "A Florence Lifestyle Agency nyerte a Matild Palace PR-tenderét. A megbízás a budapesti luxusszálloda mellett a hozzá tartozó outletek: a COVA Budapest, a Spago Budapest by Wolfgang Puck és a The Duchess kommunikációjára is kiterjed.",
+      "fullSummary": "A Florence Lifestyle Agency nyerte a Matild Palace PR-tenderét. A megbízás a budapesti luxusszálloda mellett a hozzá tartozó outletek: a COVA Budapest, a Spago Budapest by Wolfgang Puck és a The…",
       "tags": [
         "Matild Palace",
         "Florence Lifestyle Agency",
