@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T10:11:28Z",
+  "generatedAt": "2026-11-09T11:22:36Z",
   "itemCount": 400,
   "sources": [
     {
@@ -49,6 +49,121 @@
     }
   ],
   "items": [
+    {
+      "id": "046ba4a0",
+      "title": "Greggs opens five-star hotel suite with a sausage roll hotline",
+      "url": "https://www.famouscampaigns.com/2026/11/greggs-gives-five-star-room-service-a-sausage-roll-hotline/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Greggs is opening a permanent suite at Newcastle’s five-star Hotel Gotham where guests can pick up a gold rotary phone, ring for a sausage roll and have it delivered to the door on a silver platter. The Greggs Suite opens on Thursday 12…",
+      "fullSummary": "Greggs is opening a permanent suite at Newcastle’s five-star Hotel Gotham where guests can pick up a gold rotary phone, ring for a sausage roll and have it delivered to the door on a silver platter. The Greggs Suite opens on Thursday 12 November, the same day Hotel Gotham welcomes its first guests to the […]",
+      "tags": [
+        "Food & Drink",
+        "PR"
+      ],
+      "rawTags": [
+        "Food & Drink",
+        "PR"
+      ],
+      "image": null,
+      "author": "Staff",
+      "category": "Food & Drink",
+      "publishedAt": "2026-11-09T11:20:03Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-09T11:22:36Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "3dd81b84",
+      "title": "Visszakozott a Meta: egyelőre nem férhetnek hozzá robotjai a weboldalak védett tartalmaihoz",
+      "url": "https://kreativ.hu/cikk/visszakozott-a-meta-egyelore-nem-ferhetnek-hozza-robotjai-a-ceges-weboldalak-vedett-tartalmaihoz",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Egyelőre nem lépnek életbe azok a Meta által tervezett üzleti feltételek, amelyek lehetővé tették volna, hogy a vállalat AI-robotokkal hozzáférjen az üzleti felhasználók weboldalainak akár…",
+      "fullSummary": "Egyelőre nem lépnek életbe azok a Meta által tervezett üzleti feltételek, amelyek lehetővé tették volna, hogy a vállalat AI-robotokkal hozzáférjen az üzleti felhasználók weboldalainak akár regisztrációhoz vagy előfizetéshez kötött tartalmaihoz is. A módosítások a médiacégek mellett többek között valamennyi olyan vállalkozást érinthették volna, amely üzleti vagy oktatási célú, korlátozott hozzáférésű tartalmakat tesz közzé.",
+      "tags": [
+        "Szabalyozas",
+        "Marketing",
+        "Eu",
+        "Meres",
+        "Vizsgalat",
+        "Meta"
+      ],
+      "rawTags": [
+        "szabalyozas",
+        "marketing",
+        "eu",
+        "meres",
+        "vizsgalat",
+        "meta",
+        "halasztas",
+        "kiadok"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/a/r/i/i/mariia-berezovsky-wr6qhgdws-y-unsplash-1-0-20261109-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-09T10:45:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-09T11:22:36Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "038f6369",
+      "title": "Sony brings back its 1979 Walkman headphones for the Spotify generation",
+      "url": "https://www.famouscampaigns.com/2026/11/sony-brings-back-its-1979-walkman-headphones-for-the-spotify-generation/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Sony has brought back the headphones that came with the first Walkman in 1979, right down to the orange foam ear pads. Follow the wire on the new MDR-3R, though, and you’ll find a USB-C plug for your phone. The slim metal headband is back,…",
+      "fullSummary": "Sony has brought back the headphones that came with the first Walkman in 1979, right down to the orange foam ear pads. Follow the wire on the new MDR-3R, though, and you’ll find a USB-C plug for your phone. The slim metal headband is back, the pads come in orange or blue, and even the […]",
+      "tags": [
+        "Products",
+        "Technology",
+        "Music"
+      ],
+      "rawTags": [
+        "Products",
+        "Technology"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/11/INTRODUCING-_-Sony-MDR-3R-Retro-Wired-On-Ear-Headphones-1.mp4",
+      "author": "James Herring",
+      "category": "Products",
+      "publishedAt": "2026-11-09T10:31:46Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-09T11:22:36Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "91329f92",
+      "title": "AI-kategóriával újít az idei Filmszemle",
+      "url": "https://kreativ.hu/cikk/ai-kategoriaval-ujit-az-idei-filmszemle",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Elindult a nevezés a 46. Filmszemlére: a tavaly újraindult seregszemle 2027. február 1-7. között újra a Corvin moziban lesz. Idén AI-szekciót indítanak a szervezők, melynek elsődleges célja hogy…",
+      "fullSummary": "Elindult a nevezés a 46. Filmszemlére: a tavaly újraindult seregszemle 2027. február 1-7. között újra a Corvin moziban lesz. Idén AI-szekciót indítanak a szervezők, melynek elsődleges célja hogy megmutassa, hol tart ma a mozgóképes meterséges intelligencia. A Filmszemle mozijegyeinek ára 2027-ben is 1000 forint.",
+      "tags": [
+        "Filmszemle",
+        "Filmfesztival",
+        "Popkult",
+        "AI",
+        "Awards"
+      ],
+      "rawTags": [
+        "filmszemle",
+        "filmfesztival",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/s/z/e/m/l/szemle-20261109-920-690-90-zc.webp",
+      "author": "S. D.",
+      "category": "",
+      "publishedAt": "2026-11-09T09:22:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-09T11:22:36Z",
+      "enrichAttempts": 1
+    },
     {
       "id": "69e7d665",
       "title": "Változtatna a rendezvénytenderezés új állami szabályain a MaReSz",
@@ -246,7 +361,7 @@
         "florence-lifestyle-agency",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/e/x/t/e/r/exterior-matild-palace-a-luxury-collection-hotel-budapest-1-20261106-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/e/x/t/e/r/exterior-matild-palace-a-luxury-collection-hotel-budapest-1-20261106-690-920-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-11-06T10:52:00Z",
@@ -499,7 +614,7 @@
         "sweet-tv",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-480622257-jpeg-20261106-549-75-733-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-480622257-jpeg-20261106-920-690-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-05T15:46:00Z",
@@ -680,7 +795,7 @@
         "nezettseg",
         "tamogatott-tartalom"
       ],
-      "image": "https://kreativ.hu/img-cache/1/7/9/3/8/1793870373-pph-temp-7ufqjn-20261105-717-537-75-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/b/o/r/i/t/borito-nagy-1-20261104-1620-0-902-cr-png-20261105-717-537-75-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-05T09:03:00Z",
@@ -2672,7 +2787,7 @@
         "doing-good-2026",
         "verseny"
       ],
-      "image": "https://kreativ.hu/img-cache/p/i/s/t/y/pistyur-vera-20261026-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/p/i/s/t/y/pistyur-vera-20261026-690-920-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-10-27T08:05:00Z",
@@ -11637,132 +11752,6 @@
       "author": "Margo Waldrop",
       "category": "Marketing",
       "publishedAt": "2026-09-11T15:26:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "acee4581",
-      "title": "Hosszabbítás: decemberig marad Grósz Judit a közmédiáért felelős miniszteri biztos",
-      "url": "https://kreativ.hu/cikk/hosszabbitas-decemberig-marad-grosz-judit-a-kozmediaert-felelos-miniszteri-biztos",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "December 8-ig meghosszabbította Tarr Zoltán Grósz Judit közmédiáért felelős miniszteri biztosi megbízatását. A szeptember 10-én közzétett döntés nem tartalmaz indoklást a három hónapos…",
-      "fullSummary": "December 8-ig meghosszabbította Tarr Zoltán Grósz Judit közmédiáért felelős miniszteri biztosi megbízatását. A szeptember 10-én közzétett döntés nem tartalmaz indoklást a három hónapos…",
-      "tags": [
-        "Kozmedia",
-        "Grosz Judit",
-        "Media",
-        "Politics"
-      ],
-      "rawTags": [
-        "kozmedia",
-        "grosz-judit",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/g/r/o/s/z/grosz-judit-portre-0-20260911-690-920-90-zc.webp",
-      "author": "L. B.",
-      "category": "",
-      "publishedAt": "2026-09-11T13:45:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "c4f84c84",
-      "title": "Ad of the Day: Ikea takes its Kallax storage system into the gaming world",
-      "url": "https://www.thedrum.com/news/ad-of-the-day-ikea-takes-its-kallax-storage-system-into-the-gaming-world",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "Skyrim is one of the world’s most played games. But for 15 years, fans have experienced the same problem – the so-called ‘encumbrance mechanic’ that slows players down if they have too many items.…",
-      "fullSummary": "Skyrim is one of the world’s most played games. But for 15 years, fans have experienced the same problem – the so-called ‘encumbrance mechanic’ that slows players down if they have too many items.…",
-      "tags": [
-        "Creative",
-        "Creative Work",
-        "Ikea",
-        "Mother",
-        "Advertising",
-        "Gaming"
-      ],
-      "rawTags": [
-        "Creative work",
-        "Ikea",
-        "Mother",
-        "Ad of the Day",
-        "Creative"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/screenshot-2026-09-11-122051.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Jennifer Faull",
-      "category": "Creative",
-      "publishedAt": "2026-09-11T11:59:42Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "24f4d3e5",
-      "title": "Bongor szokatlan formátumban: albumfilm érkezik októberben Extázis Uncut címmel",
-      "url": "https://kreativ.hu/cikk/bongor-extazis-uncut-albumfilm-oktober-premier-mozi",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Október 8-án kerül a hazai mozikba az Extázis Uncut, amely bongor Fonogram-díjas konceptalbumának dalait egy összefüggő filmes történet részeivé alakítja. A dokumentarista és fikciós elemeket vegyítő…",
-      "fullSummary": "Október 8-án kerül a hazai mozikba az Extázis Uncut, amely bongor Fonogram-díjas konceptalbumának dalait egy összefüggő filmes történet részeivé alakítja. A dokumentarista és fikciós elemeket vegyítő…",
-      "tags": [
-        "Film & TV",
-        "Premier",
-        "Bongor",
-        "Extazis",
-        "Albumfilm",
-        "Popkult"
-      ],
-      "rawTags": [
-        "mozi",
-        "premier",
-        "bongor",
-        "extazis",
-        "albumfilm",
-        "popkult"
-      ],
-      "image": "https://kreativ.hu/img-cache/e/x/t/a/z/extazis-uncut-plakat-0-20260911-609-812-90-zc.webp",
-      "author": "L. B.",
-      "category": "",
-      "publishedAt": "2026-09-11T11:55:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "733f8019",
-      "title": "Közélet strandpapucsban (és esőkabátban): ma indul a DE!HOGYNEM Feszt Balatonalmádiban",
-      "url": "https://kreativ.hu/cikk/kozelet-strandpapucsban-es-esokabatban-indul-a-de-hogynem-feszt-balatonalmadiban",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A közmédia jövőjéről, a médiaszabályozásról, a kultúra finanszírozásáról és a tartalomgyártók felelősségéről is beszélgetnek a ma kezdődő DE!HOGYNEM Feszten. A DE! Akcióközösség balatonalmádi…",
-      "fullSummary": "A közmédia jövőjéről, a médiaszabályozásról, a kultúra finanszírozásáról és a tartalomgyártók felelősségéről is beszélgetnek a ma kezdődő DE!HOGYNEM Feszten. A DE! Akcióközösség balatonalmádi…",
-      "tags": [
-        "Ajanlo",
-        "Fesztival",
-        "Programok",
-        "Kozelet",
-        "Media",
-        "Popkult"
-      ],
-      "rawTags": [
-        "ajanlo",
-        "fesztival",
-        "programok",
-        "kozelet",
-        "media",
-        "popkult"
-      ],
-      "image": "https://kreativ.hu/img-cache/d/e/-/h/o/de-hogynem-programok-png-0-20260911-609-812-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-11T10:41:00Z",
       "datePrecise": true,
       "firstSeenAt": "2026-09-13T23:14:17Z",
       "enrichAttempts": 1
