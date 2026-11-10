@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T11:22:36Z",
+  "generatedAt": "2026-11-10T11:01:53Z",
   "itemCount": 400,
   "sources": [
     {
@@ -9,7 +9,7 @@
       "accent": "#00d1b2",
       "status": "error",
       "error": "failed to fetch https://www.thedrum.com/: HTTP Error 403: Forbidden",
-      "count": 3
+      "count": 2
     },
     {
       "id": "kreativ",
@@ -50,6 +50,182 @@
   ],
   "items": [
     {
+      "id": "877fabdd",
+      "title": "Országos kutatás vizsgálja a mozizási szokásokat",
+      "url": "https://kreativ.hu/cikk/orszagos-kutatas-vizsgalja-a-mozizasi-szokasokat",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A magyar nézők filmválasztási szempontjait, mozibajárási szokásait és a streaminggel kapcsolatos döntéseit méri fel az a december 2-ig tartó országos kutatás, amelyet a Mozinet filmforgalmazó és a…",
+      "fullSummary": "A magyar nézők filmválasztási szempontjait, mozibajárási szokásait és a streaminggel kapcsolatos döntéseit méri fel az a december 2-ig tartó országos kutatás, amelyet a Mozinet filmforgalmazó és a Budapest Film indított.",
+      "tags": [
+        "Kutatas",
+        "Kerdoiv",
+        "Film & TV",
+        "Budapest Film",
+        "Nrc Marketingkutato",
+        "Mozinet"
+      ],
+      "rawTags": [
+        "kutatas",
+        "kerdoiv",
+        "mozi",
+        "budapest-film",
+        "nrc-marketingkutato",
+        "mozinet",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-180509013-jpeg-20261110-920-690-90-zc.webp",
+      "author": "S. D.",
+      "category": "",
+      "publishedAt": "2026-11-10T09:29:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-10T11:01:53Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "0704d14c",
+      "title": "MIRI warns the race to build artificial superintelligence could end humanity",
+      "url": "https://www.famouscampaigns.com/2026/11/miri-warns-the-race-to-build-artificial-superintelligence-could-end-humanity/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Most of us have clicked ‘accept’ without reading the terms and conditions. In ‘Do Not Accept’, a new campaign from the Machine Intelligence Research Institute (MIRI) and London agency Don’t Panic, the small print concerns the future of…",
+      "fullSummary": "Most of us have clicked ‘accept’ without reading the terms and conditions. In ‘Do Not Accept’, a new campaign from the Machine Intelligence Research Institute (MIRI) and London agency Don’t Panic, the small print concerns the future of humanity. And someone else is doing the clicking. The clauses spell out what MIRI believes is at […]",
+      "tags": [
+        "Cause Related",
+        "Agencies",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "Cause Related"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/11/AI-companies-are-building-our-future-on-their-own-terms.mp4",
+      "author": "James Herring",
+      "category": "Cause Related",
+      "publishedAt": "2026-11-10T09:27:30Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-10T11:01:53Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "3224651f",
+      "title": "Saját AI-modelleket fejleszt a Disney az Adobe-val",
+      "url": "https://kreativ.hu/cikk/sajat-ai-modelleket-fejleszt-a-disney-az-adobe-val",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A technológiát a Disney a filmstúdió munkafolyamataiban, a vidámparkjainak és óceánjáróinak fejlesztésében is használja. Ezzel párhuzamosan a Disney arra kérte egyes vezetőit, hogy érjenek el…",
+      "fullSummary": "A technológiát a Disney a filmstúdió munkafolyamataiban, a vidámparkjainak és óceánjáróinak fejlesztésében is használja. Ezzel párhuzamosan a Disney arra kérte egyes vezetőit, hogy érjenek el 20%-os éves költségmegtakarítást.",
+      "tags": [
+        "Disney",
+        "Adobe",
+        "AI",
+        "Advertising"
+      ],
+      "rawTags": [
+        "disney",
+        "adobe",
+        "ai",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-436742818-editorial-use-only-jpeg-20261110-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-10T07:51:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-10T11:01:53Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "b96971ef",
+      "title": "„Az AI feladatokat vesz át, nem munkaköröket”",
+      "url": "https://kreativ.hu/cikk/aleph-hungary-mesterseges-intelligencia-marketingkommunikacio",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Percek alatt elkészülő videó- és hangspotok, pontosabb kampánytervezés, a kisebb hirdetők számára is elérhető hatékonyság: Bianca Vlaston, az Aleph regionális növekedési igazgatója és az Aleph…",
+      "fullSummary": "Percek alatt elkészülő videó- és hangspotok, pontosabb kampánytervezés, a kisebb hirdetők számára is elérhető hatékonyság: Bianca Vlaston, az Aleph regionális növekedési igazgatója és az Aleph Hungary ügyvezető igazgatója szerint az AI a feje tetejére állítja a marketingkommunikációt. Arról is beszélt, miért nem a munkahelyeket, hanem a feladatokat váltja ki a technológia, miért kell mindig a „fékek és ellensúlyok” rendszere, és miért nem bízná…",
+      "tags": [
+        "AI",
+        "Marketingkommunikacio",
+        "Aleph",
+        "Tamogatott Tartalom",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "mesterseges-intelligencia",
+        "marketingkommunikacio",
+        "aleph",
+        "tamogatott-tartalom"
+      ],
+      "image": "https://kreativ.hu/img-cache/l/i/n/k/e/linkedin-banner-2-1920x730-png-0-20261106-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-10T07:07:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-10T11:01:53Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "5189c0e2",
+      "title": "WATCH: Waitrose ad reunites Keira Knightley and Joe Wilkinson for Christmas sequel",
+      "url": "https://www.famouscampaigns.com/2026/11/waitrose-ad-reunites-keira-knightley-and-joe-wilkinson-for-christmas-sequel/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Last Christmas, Joe Wilkinson won Keira Knightley’s heart with a turkey pie. In Waitrose’s 2026 Christmas ad, The Perfect Gift 2, she’s about to marry someone else. Phil’s going to need a beef Wellington. Knightley plays herself again in…",
+      "fullSummary": "Last Christmas, Joe Wilkinson won Keira Knightley’s heart with a turkey pie. In Waitrose’s 2026 Christmas ad, The Perfect Gift 2, she’s about to marry someone else. Phil’s going to need a beef Wellington. Knightley plays herself again in the sequel to last year’s festive romcom, which introduced the pair at the Waitrose cheese […]",
+      "tags": [
+        "Christmas"
+      ],
+      "rawTags": [
+        "Christmas"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/11/The-Perfect-Gift-2-_-Christmas-Advert-2026-_-Waitrose.mp4",
+      "author": "James Herring",
+      "category": "Christmas",
+      "publishedAt": "2026-11-10T00:01:18Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-10T11:01:53Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "2d8091e4",
+      "title": "Pár hét múlva megszűnik a One fizetős földfelszíni tévéje",
+      "url": "https://kreativ.hu/cikk/par-het-mulva-megszunik-a-one-fizetos-foldfelszini-teveje",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "December 1-jétől megszűnik a One Magyarország fizetős földfelszíni televíziós szolgáltatása, de az ingyenesen fogható mindigTV-csatornák továbbra is elérhetők maradnak. A változás ugyanakkor az…",
+      "fullSummary": "December 1-jétől megszűnik a One Magyarország fizetős földfelszíni televíziós szolgáltatása, de az ingyenesen fogható mindigTV-csatornák továbbra is elérhetők maradnak. A változás ugyanakkor az online hozzáférést is érinti: megszűnik a One Földfelszíni Applikáció.",
+      "tags": [
+        "Online",
+        "Film & TV",
+        "Nmhh",
+        "One",
+        "Mindigtv Premium",
+        "Mindigtv"
+      ],
+      "rawTags": [
+        "online",
+        "tv",
+        "nmhh",
+        "streaming",
+        "one",
+        "mindigtv-premium",
+        "mindigtv",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/e/r/i/k/-/erik-mclean-u-vu-r6qyyu-unsplash-0-20261109-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-09T12:52:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-10T11:01:53Z",
+      "enrichAttempts": 1
+    },
+    {
       "id": "046ba4a0",
       "title": "Greggs opens five-star hotel suite with a sausage roll hotline",
       "url": "https://www.famouscampaigns.com/2026/11/greggs-gives-five-star-room-service-a-sausage-roll-hotline/",
@@ -75,6 +251,37 @@
       "enrichAttempts": 0
     },
     {
+      "id": "5cc778c4",
+      "title": "Ön sem olvasta el a saját briefjét?",
+      "url": "https://kreativ.hu/cikk/brief-ai-ugynokseg-velemeny-hello-agency",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "„Lassan ott tartunk, hogy AI beszélget AI-jal, de én ezt nem hagyom. Nem azért, mert borzalmasan környezetszennyező vagy mert elbutítja az embereket, hanem azért, mert egyszerűen rossz munkához…",
+      "fullSummary": "„Lassan ott tartunk, hogy AI beszélget AI-jal, de én ezt nem hagyom. Nem azért, mert borzalmasan környezetszennyező vagy mert elbutítja az embereket, hanem azért, mert egyszerűen rossz munkához vezet. (Jó, meg azért is, mert környezetszennyező és elbutít.)” Véleménycikk Hargitai Ágitól, a Hello Agency senior kreatív stratégájától, aki napi szinten szembesül az AI ügynökségi életre tett hatásaival.",
+      "tags": [
+        "Strategy",
+        "Advertising",
+        "Agencies",
+        "Brief",
+        "AI"
+      ],
+      "rawTags": [
+        "strategia",
+        "reklam",
+        "ugynokseg",
+        "brief",
+        "ai"
+      ],
+      "image": "https://kreativ.hu/img-cache/3/8/9/0/c/3890caa7e6d6c93be8fc6b07041773b8-png-0-20261109-920-690-90-zc.webp",
+      "author": "Hargitai Ágnes",
+      "category": "",
+      "publishedAt": "2026-11-09T10:49:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-10T11:01:53Z",
+      "enrichAttempts": 1
+    },
+    {
       "id": "3dd81b84",
       "title": "Visszakozott a Meta: egyelőre nem férhetnek hozzá robotjai a weboldalak védett tartalmaihoz",
       "url": "https://kreativ.hu/cikk/visszakozott-a-meta-egyelore-nem-ferhetnek-hozza-robotjai-a-ceges-weboldalak-vedett-tartalmaihoz",
@@ -82,7 +289,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Egyelőre nem lépnek életbe azok a Meta által tervezett üzleti feltételek, amelyek lehetővé tették volna, hogy a vállalat AI-robotokkal hozzáférjen az üzleti felhasználók weboldalainak akár…",
-      "fullSummary": "Egyelőre nem lépnek életbe azok a Meta által tervezett üzleti feltételek, amelyek lehetővé tették volna, hogy a vállalat AI-robotokkal hozzáférjen az üzleti felhasználók weboldalainak akár regisztrációhoz vagy előfizetéshez kötött tartalmaihoz is. A módosítások a médiacégek mellett többek között valamennyi olyan vállalkozást érinthették volna, amely üzleti vagy oktatási célú, korlátozott hozzáférésű tartalmakat tesz közzé.",
+      "fullSummary": "Egyelőre nem lépnek életbe azok a Meta által tervezett üzleti feltételek, amelyek lehetővé tették volna, hogy a vállalat AI-robotokkal hozzáférjen az üzleti felhasználók weboldalainak akár…",
       "tags": [
         "Szabalyozas",
         "Marketing",
@@ -143,7 +350,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Elindult a nevezés a 46. Filmszemlére: a tavaly újraindult seregszemle 2027. február 1-7. között újra a Corvin moziban lesz. Idén AI-szekciót indítanak a szervezők, melynek elsődleges célja hogy…",
-      "fullSummary": "Elindult a nevezés a 46. Filmszemlére: a tavaly újraindult seregszemle 2027. február 1-7. között újra a Corvin moziban lesz. Idén AI-szekciót indítanak a szervezők, melynek elsődleges célja hogy megmutassa, hol tart ma a mozgóképes meterséges intelligencia. A Filmszemle mozijegyeinek ára 2027-ben is 1000 forint.",
+      "fullSummary": "Elindult a nevezés a 46. Filmszemlére: a tavaly újraindult seregszemle 2027. február 1-7. között újra a Corvin moziban lesz. Idén AI-szekciót indítanak a szervezők, melynek elsődleges célja hogy…",
       "tags": [
         "Filmszemle",
         "Filmfesztival",
@@ -156,7 +363,7 @@
         "filmfesztival",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/s/z/e/m/l/szemle-20261109-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/s/z/e/m/l/szemle-20261109-549-75-733-90-zc.webp",
       "author": "S. D.",
       "category": "",
       "publishedAt": "2026-11-09T09:22:00Z",
@@ -189,7 +396,7 @@
         "rendezveny",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/4/8/8/0/3/488037078-1049472957217496-5344778420956587820-n-0-20261106-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/4/8/8/0/3/488037078-1049472957217496-5344778420956587820-n-0-20261106-690-920-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-06T17:06:00Z",
@@ -218,7 +425,7 @@
         "analog",
         "karacsony"
       ],
-      "image": "https://kreativ.hu/img-cache/1/0/8/0/x/1080x608-webp-20261106-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/1/0/8/0/x/1080x608-webp-20261106-549-75-733-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-06T15:59:00Z",
@@ -282,7 +489,7 @@
         "doing-good-2026",
         "verseny"
       ],
-      "image": "https://kreativ.hu/img-cache/c/s/r/2/0/csr2026-640x480-lista-png-20261106-640-480-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/c/s/r/2/0/csr2026-640x480-lista-png-20261106-360-75-481-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-06T12:12:00Z",
@@ -464,7 +671,7 @@
         "2027",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/r/t/l/-/h/rtl-hotel-bloff-0-20261106-621-75-829-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/r/t/l/-/h/rtl-hotel-bloff-0-20261106-920-690-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-06T08:38:00Z",
@@ -11557,204 +11764,6 @@
       "datePrecise": true,
       "firstSeenAt": "2026-09-14T09:52:42Z",
       "enrichAttempts": 0
-    },
-    {
-      "id": "0c43fb95",
-      "title": "„Minden fotó egy olyan tragédiát közöl, ami már bevégeztetett”",
-      "url": "https://kreativ.hu/cikk/minden-foto-egy-olyan-tragediat-kozol-ami-mar-bevegeztetett",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Nagyjából egymillió fénykép szerepel Kardos Sándor Kossuth-díjas operatőr, filmrendező privátfotó-gyűjteményében, a Hórusz Archívumban, amelynek feldolgozását, digitalizálását a mai napig ő…",
-      "fullSummary": "Nagyjából egymillió fénykép szerepel Kardos Sándor Kossuth-díjas operatőr, filmrendező privátfotó-gyűjteményében, a Hórusz Archívumban, amelynek feldolgozását, digitalizálását a mai napig ő…",
-      "tags": [
-        "Photography",
-        "Archivum",
-        "Archiv Foto",
-        "Kardos Sandor",
-        "Horusz Archivum",
-        "Popkult"
-      ],
-      "rawTags": [
-        "foto",
-        "archivum",
-        "fotografia",
-        "archiv-foto",
-        "kardos-sandor",
-        "horusz-archivum",
-        "popkult"
-      ],
-      "image": "https://kreativ.hu/img-cache/k/a/r/d/o/kardos-sandor-png-20260624-792-594-90-zc.webp",
-      "author": "Szerdahelyi Krisztina",
-      "category": "",
-      "publishedAt": "2026-09-14T06:44:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-15T03:24:26Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "251ee8b4",
-      "title": "Your shopper strategy was distinctive. Then it hit social",
-      "url": "https://www.thedrum.com/opinion/your-shopper-strategy-was-distinctive-then-it-hit-social",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "Social algorithms favor formats that already work, explains Marcus Foley of Tommy. So how can shopper marketers maintain a distinct brand identity across platforms? Put 24 pieces of food content on…",
-      "fullSummary": "Social algorithms favor formats that already work, explains Marcus Foley of Tommy. So how can shopper marketers maintain a distinct brand identity across platforms? Put 24 pieces of food content on one slide and something strange happens. Different brands, creators and products, yet a familiarity: an influencer facing camera, homogenized white marble-effect kitchen behind them, similar framing, edit, pace and recipe reveal. Individually, every…",
-      "tags": [
-        "Marketing",
-        "Social Media",
-        "Branding",
-        "Digital Social Media",
-        "Strategy",
-        "Food & Drink"
-      ],
-      "rawTags": [
-        "Social Media",
-        "Brand",
-        "Brand identity",
-        "Digital / social media",
-        "Brand strategy",
-        "Marketing",
-        "Food & Drink"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/karsten-winegeart-1789047411.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Marcus Foley",
-      "category": "Marketing",
-      "publishedAt": "2026-09-14T06:00:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-14T09:52:42Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "90c6cb16",
-      "title": "A gyermekbarát internet kihívásairól szólt a Média- és Internetkonferencia",
-      "url": "https://kreativ.hu/cikk/a-gyermekbarat-internet-kihivasairol-szolt-a-xvi-media-es-internetkonferencia",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A Nemzetközi Gyermekmentő Szolgálat, mint Magyarország Safer Internet Centere, 16. alkalommal rendezte meg Média- és Internetkonferenciáját szeptember 10-én és 11-én a Magyar Telekom Székházban.",
-      "fullSummary": "A Nemzetközi Gyermekmentő Szolgálat, mint Magyarország Safer Internet Centere, 16. alkalommal rendezte meg Média- és Internetkonferenciáját szeptember 10-én és 11-én a Magyar Telekom Székházban.",
-      "tags": [
-        "Internet",
-        "Konferencia",
-        "Media"
-      ],
-      "rawTags": [
-        "internet",
-        "konferencia",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/m/e/d/i/a/mediakonferencia-20260914-549-75-733-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-14T05:26:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-15T03:24:26Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "e363a95a",
-      "title": "Amsterdam’s Brandt gallery celebrates 10th anniversary with major rebrand",
-      "url": "https://www.creativereview.co.uk/amsterdam-brandt-gallery-rebrand/",
-      "source": "creativereview",
-      "sourceName": "Creative Review",
-      "accent": "#ff4d4d",
-      "summary": "Working with Bureau Brandt, the gallery has undergone a significant transformation, including a change of name and a new visual approach",
-      "fullSummary": "Working with Bureau Brandt, the gallery has undergone a significant transformation, including a change of name and a new visual approach",
-      "tags": [
-        "Branding"
-      ],
-      "rawTags": [],
-      "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/09/CS_Brandt_Gallery_30.png",
-      "author": "Daniel Milroy Maher",
-      "category": "",
-      "publishedAt": "2026-09-14T02:51:49Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-14T05:01:49Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "8478b8c4",
-      "title": "A new Nigerian design language",
-      "url": "https://www.creativereview.co.uk/a-new-nigerian-design-language/",
-      "source": "creativereview",
-      "sourceName": "Creative Review",
-      "accent": "#ff4d4d",
-      "summary": "Jordan Belonwu, founder of Lagos-based design studio Belonwus, explains how vernacular typography, cultural memory and everyday Nigerian rituals have become the foundation of its work",
-      "fullSummary": "Jordan Belonwu, founder of Lagos-based design studio Belonwus, explains how vernacular typography, cultural memory and everyday Nigerian rituals have become the foundation of its work",
-      "tags": [
-        "Design",
-        "Typography"
-      ],
-      "rawTags": [],
-      "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/09/BELONWUS_Owo_10.jpg",
-      "author": "Ugonna-Ora Owoh",
-      "category": "",
-      "publishedAt": "2026-09-14T02:04:53Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-14T05:01:49Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "b8c6763b",
-      "title": "Savage X Fenty casts giant lingerie shadows over New York",
-      "url": "https://www.famouscampaigns.com/2026/09/savage-x-fenty-casts-giant-lingerie-shadows-over-new-york/",
-      "source": "famouscampaigns",
-      "sourceName": "Famous Campaigns",
-      "accent": "#7c5cff",
-      "summary": "Savage X Fenty has taken over New York Fashion Week with a CGI outdoor campaign that suspends giant lingerie above Manhattan streets, using sunlight to cast oversized bra and underwear shadows across the road below. The brand has enlarged…",
-      "fullSummary": "Savage X Fenty has taken over New York Fashion Week with a CGI outdoor campaign that suspends giant lingerie above Manhattan streets, using sunlight to cast oversized bra and underwear shadows across the road below. The brand has enlarged the product into street-scale structures whose shadows become the advertising. The sun casts Savage X […]",
-      "tags": [
-        "Fashion",
-        "OOH",
-        "Branding",
-        "Campaigns"
-      ],
-      "rawTags": [
-        "Fashion",
-        "OOH"
-      ],
-      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/fenty-shadows.mp4",
-      "author": "Staff",
-      "category": "Fashion",
-      "publishedAt": "2026-09-13T13:07:42Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "0b70c912",
-      "title": "Judge of the day: Nikos Lemanis says brand and performance are the heart and lungs of growth",
-      "url": "https://www.thedrum.com/news/judge-of-the-day-nikos-lemanis-says-brand-and-performance-are-the-heart-and-lungs-of-growth",
-      "source": "thedrum",
-      "sourceName": "The Drum",
-      "accent": "#00d1b2",
-      "summary": "Luxid's strategy director and Drum B2B juror, on B2B's image problem, behavioral science and why insight alone doesn't help a client. Nikos Lemanis has no time for the idea that brand and performance…",
-      "fullSummary": "Luxid's strategy director and Drum B2B juror, on B2B's image problem, behavioral science and why insight alone doesn't help a client. Nikos Lemanis has no time for the idea that brand and performance…",
-      "tags": [
-        "Marketing",
-        "The Drum Awards",
-        "Agencies",
-        "The Drum B2B Awards",
-        "Judge Of The Day",
-        "Marketing Services"
-      ],
-      "rawTags": [
-        "The Drum Awards",
-        "Agency",
-        "The Drum B2B Awards",
-        "Judge of the Day",
-        "Marketing Services",
-        "Marketing"
-      ],
-      "image": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/nikos-lemanis.png?w=1280&ar=default&fit=crop&crop=faces&auto=format",
-      "author": "Margo Waldrop",
-      "category": "Marketing",
-      "publishedAt": "2026-09-11T15:26:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-13T23:14:17Z",
-      "enrichAttempts": 1
     }
   ]
 }
