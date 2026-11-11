@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T11:01:53Z",
+  "generatedAt": "2026-11-11T10:47:21Z",
   "itemCount": 400,
   "sources": [
     {
@@ -9,7 +9,7 @@
       "accent": "#00d1b2",
       "status": "error",
       "error": "failed to fetch https://www.thedrum.com/: HTTP Error 403: Forbidden",
-      "count": 2
+      "count": 0
     },
     {
       "id": "kreativ",
@@ -27,7 +27,7 @@
       "accent": "#ff4d4d",
       "status": "error",
       "error": "failed to fetch https://www.creativereview.co.uk/feed/: HTTP Error 403: Forbidden",
-      "count": 3
+      "count": 1
     },
     {
       "id": "theinspiration",
@@ -50,6 +50,295 @@
   ],
   "items": [
     {
+      "id": "4d09570e",
+      "title": "Hat magyar lakodalomba kalauzol a TV Paprika új sorozata",
+      "url": "https://kreativ.hu/cikk/hat-magyar-lakodalomba-kalauzol-a-tv-paprika-uj-sorozata",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "November 15-én indul a TV Paprika hatrészes gasztro-reality sorozata, a Lagziország, amelyben Bede Róbert séf hat pár esküvőjén keresztül mutatja be a magyar lakodalmak gasztronómiai és kulturális…",
+      "fullSummary": "November 15-én indul a TV Paprika hatrészes gasztro-reality sorozata, a Lagziország, amelyben Bede Róbert séf hat pár esküvőjén keresztül mutatja be a magyar lakodalmak gasztronómiai és kulturális hagyományait.",
+      "tags": [
+        "TV Paprika",
+        "Amc Global Media Central Europe",
+        "Lagziorszag",
+        "Media",
+        "Film & TV"
+      ],
+      "rawTags": [
+        "tv-paprika",
+        "amc-global-media-central-europe",
+        "lagziorszag",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/l/a/g/z/i/lagziorszag-logo-png0-20261111-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-11T10:11:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-11T10:47:21Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "919ca659",
+      "title": "Rimmel turns a Westfield escalator into a giant slide",
+      "url": "https://www.famouscampaigns.com/2026/11/rimmel-turns-a-westfield-escalator-into-a-giant-slide/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "More than 8,000 shoppers took the quick way down at Westfield London last week after Rimmel turned one of the shopping centre’s escalators into a giant red slide to launch its Oh My Gloss! Slip Stick. Shoppers could ride the escalator up,…",
+      "fullSummary": "More than 8,000 shoppers took the quick way down at Westfield London last week after Rimmel turned one of the shopping centre’s escalators into a giant red slide to launch its Oh My Gloss! Slip Stick. Shoppers could ride the escalator up, grab a mat and slide back down past John Lewis. The Slip Stick […]",
+      "tags": [
+        "Experiential",
+        "Health & Beauty",
+        "Retail"
+      ],
+      "rawTags": [
+        "Experiential",
+        "Health & Beauty"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/11/coty_rimmel__oh_my_gloss_slip_stick_@_westfield-720p.mp4",
+      "author": "Staff",
+      "category": "Experiential",
+      "publishedAt": "2026-11-11T09:20:16Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-11T10:47:21Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "974431c8",
+      "title": "Megérkezett az INOTA 2026 aftermovie-ja",
+      "url": "https://kreativ.hu/cikk/megerkezett-az-inota-2026-aftermovie-ja",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Több fesztiválozóval és új helyszínekkel bővült idén a kortárs fényművészeti és a techno fesztivál.",
+      "fullSummary": "Több fesztiválozóval és új helyszínekkel bővült idén a kortárs fényművészeti és a techno fesztivál.",
+      "tags": [
+        "Fenyfesztival",
+        "Inotai Hoeromu",
+        "Inota Fesztival",
+        "Popkult"
+      ],
+      "rawTags": [
+        "fenyfesztival",
+        "inotai-hoeromu",
+        "inota-fesztival",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/0/-/1/e/9/0-1e9a8260-0-20261111-920-690-90-zc.webp",
+      "author": "S. D.",
+      "category": "",
+      "publishedAt": "2026-11-11T09:07:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-11T10:47:21Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "53c06eac",
+      "title": "Greenpeace sinks an ‘Attenboulder’ to keep trawlers at bay",
+      "url": "https://www.famouscampaigns.com/2026/11/greenpeace-sinks-an-attenboulder-to-keep-trawlers-at-bay/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Greenpeace UK has unveiled a giant limestone boulder carved in the likeness of Sir David Attenborough. Its intended home is the bottom of the North Sea, where campaigners want it to complete a barrier against bottom trawling. The…",
+      "fullSummary": "Greenpeace UK has unveiled a giant limestone boulder carved in the likeness of Sir David Attenborough. Its intended home is the bottom of the North Sea, where campaigners want it to complete a barrier against bottom trawling. The ‘Attenboulder’ made its debut on 10 November aboard the Greenpeace ship Arctic Sunrise on the Thames. With […]",
+      "tags": [
+        "Cause Related",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "Cause Related"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/11/AQP2tziSkG8GsSdWAmrf_1_hc51kfQ9325P0U9Iueel8y4_fZJonJOser4W-NddF0niPBffIYlCfhkbrNTvImruxUnBmkxAD36P7-cU.mp4",
+      "author": "James Herring",
+      "category": "Cause Related",
+      "publishedAt": "2026-11-11T08:53:25Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-11T10:47:21Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "e9f1dd31",
+      "title": "A köztévé jövője nem a Família Kft. ismétlése – állítja a megbízott programigazgató",
+      "url": "https://kreativ.hu/cikk/szeleczky-adam-kozteve-programigazgato-duna-mtva-mrtv-interju-televizio",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Szeleczky Ádám, a köztévé megbízott programigazgatója, a Duna ideiglenes csatornaigazgatója a Kreatívnak adott interjúban az átmeneti időszak kihívásairól, a hírszolgáltatás felfüggesztéséről és…",
+      "fullSummary": "Szeleczky Ádám, a köztévé megbízott programigazgatója, a Duna ideiglenes csatornaigazgatója a Kreatívnak adott interjúban az átmeneti időszak kihívásairól, a hírszolgáltatás felfüggesztéséről és arról is beszélt: „nem megújítani kell a közmédiát, újat kell felépíteni!”. Elmondta, milyen szórakoztató, edukációs, lendületes műsorokkal lehetne széles közönséget megszólítani, ehhez milyen digitális platformokra és megerősített belső műhelyekre lenne…",
+      "tags": [
+        "Film & TV",
+        "Interju",
+        "Duna",
+        "Mtva",
+        "Kozteve",
+        "Programigazgato"
+      ],
+      "rawTags": [
+        "televizio",
+        "interju",
+        "duna",
+        "mtva",
+        "kozteve",
+        "programigazgato",
+        "szeleczky-adam",
+        "mrtv"
+      ],
+      "image": "https://kreativ.hu/img-cache/s/z/r/3/8/szr38380-20261110-920-690-90-zc.webp",
+      "author": "Tiszóczi Roland",
+      "category": "",
+      "publishedAt": "2026-11-11T08:37:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-11T10:47:21Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "019fbc15",
+      "title": "Három budapesti rádiós frekvenciát pályáztat meg a Médiatanács – minden esélyt megadnak a Klubrádiónak",
+      "url": "https://kreativ.hu/cikk/mediatanacs-nmhh-polyak-gabor-radio-frekvencia-palyazat-budapest",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Beszélgetős rádióknak szánna három fővárosi körzeti frekvenciát a Médiatanács, az első pályázati kiírás már 2027 elején megjelenhet. Polyák Gábor NMHH-elnök szerint a Klubrádió előtt is meg kell…",
+      "fullSummary": "Beszélgetős rádióknak szánna három fővárosi körzeti frekvenciát a Médiatanács, az első pályázati kiírás már 2027 elején megjelenhet. Polyák Gábor NMHH-elnök szerint a Klubrádió előtt is meg kell teremteni a lehetőséget, hogy ismét földfelszíni frekvenciához jusson, de a jogosultságot pályázat nélkül nem kaphatja meg.",
+      "tags": [
+        "Frekvencia",
+        "Awards",
+        "Budapest",
+        "Radio",
+        "Nmhh",
+        "Mediatanacs"
+      ],
+      "rawTags": [
+        "frekvencia",
+        "palyazat",
+        "budapest",
+        "radio",
+        "nmhh",
+        "mediatanacs",
+        "polyak-gabor",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/j/o/n/a/t/jonathan-velasquez-c1zn57gfdb0-unsplash0-20261111-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-11T08:03:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-11T10:47:21Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "cb9e19cc",
+      "title": "Edgar Wright turns a corner shop into a kung-fu showdown for Apple Pay",
+      "url": "https://www.famouscampaigns.com/2026/11/edgar-wright-turns-a-corner-shop-into-a-kung-fu-showdown-for-apple-pay/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "A man runs into a corner shop with a gang on his heels and grabs the nearest thing he can use as a weapon. The cashier slides him a card reader. So begins Edgar Wright’s new Apple Pay ad, in which you’re welcome to fight with the…",
+      "fullSummary": "A man runs into a corner shop with a gang on his heels and grabs the nearest thing he can use as a weapon. The cashier slides him a card reader. So begins Edgar Wright’s new Apple Pay ad, in which you’re welcome to fight with the groceries, provided you’ve paid for them first. The […]",
+      "tags": [
+        "Advertising"
+      ],
+      "rawTags": [
+        "Advertising"
+      ],
+      "image": null,
+      "author": "Staff",
+      "category": "Advertising",
+      "publishedAt": "2026-11-10T12:45:50Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-11T10:47:21Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "5bd8c032",
+      "title": "Ismét várja a pályázatokat a Városmarketing Gyémánt Díj",
+      "url": "https://kreativ.hu/cikk/ismet-varja-a-palyazatokat-a-varosmarketing-gyemant-dij",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A díj a szakszerű és eredményes városmarketing-megoldásokat ismeri el.",
+      "fullSummary": "A díj a szakszerű és eredményes városmarketing-megoldásokat ismeri el.",
+      "tags": [
+        "Varosmarketing",
+        "Marketing Szovetseg",
+        "Varosmarketing Dij",
+        "Advertising",
+        "Awards"
+      ],
+      "rawTags": [
+        "varosmarketing",
+        "marketing-szovetseg",
+        "varosmarketing-dij",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-781107427-jpeg-20261110-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-10T11:34:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-11T10:47:21Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "14ff576b",
+      "title": "A jövő elkezdődött (újra)",
+      "url": "https://kreativ.hu/cikk/a-jovo-elkezdodott-ujra-incze-kinga",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Minden új korszak elején azt mondjuk: ez ugyanaz, csak másképp. Vajon igaz-e ez az agentic korra? Rövid összefoglaló a technológia, piac és szabályozás örök körforgásáról a genAI korszak hajnalán.…",
+      "fullSummary": "Minden új korszak elején azt mondjuk: ez ugyanaz, csak másképp. Vajon igaz-e ez az agentic korra? Rövid összefoglaló a technológia, piac és szabályozás örök körforgásáról a genAI korszak hajnalán. Incze Kinga médiaszakértő elemzése.",
+      "tags": [
+        "Advertising",
+        "Hirdeto",
+        "Incze Kinga",
+        "AI"
+      ],
+      "rawTags": [
+        "reklam",
+        "hirdeto",
+        "incze-kinga"
+      ],
+      "image": "https://kreativ.hu/img-cache/f/o/r/t/e/fortepan-1079380-20261106-920-690-90-zc.webp",
+      "author": "Incze Kinga",
+      "category": "",
+      "publishedAt": "2026-11-10T11:04:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-11T10:47:21Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "654431bc",
+      "title": "Szoros a verseny az RTL és a TV2 között – 45. heti nézettség",
+      "url": "https://kreativ.hu/cikk/nezettseg-45-het-rtl-tv2",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A 45. héten az RTL műsorai voltak a legnézettebbek, bár a Sztárban Sztár fináléjára is sokan kíváncsiak voltak. A Megasztár viszont a 18-59-es korcsoportban kiesett a top 10 legnézettebb műsor…",
+      "fullSummary": "A 45. héten az RTL műsorai voltak a legnézettebbek, bár a Sztárban Sztár fináléjára is sokan kíváncsiak voltak. A Megasztár viszont a 18-59-es korcsoportban kiesett a top 10 legnézettebb műsor listájából. Főműsoridőben pedig a 18-59 évesek körében az RTL lényegében beérte a konkurens kereskedelmi csatornát.",
+      "tags": [
+        "Tv2",
+        "Nezettseg",
+        "RTL",
+        "Media"
+      ],
+      "rawTags": [
+        "tv2",
+        "nezettseg",
+        "rtl",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/s/z/g/-/6/szg-6450-jpg-20261110-690-920-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-11-10T10:47:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-11T10:47:21Z",
+      "enrichAttempts": 1
+    },
+    {
       "id": "877fabdd",
       "title": "Országos kutatás vizsgálja a mozizási szokásokat",
       "url": "https://kreativ.hu/cikk/orszagos-kutatas-vizsgalja-a-mozizasi-szokasokat",
@@ -57,7 +346,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A magyar nézők filmválasztási szempontjait, mozibajárási szokásait és a streaminggel kapcsolatos döntéseit méri fel az a december 2-ig tartó országos kutatás, amelyet a Mozinet filmforgalmazó és a…",
-      "fullSummary": "A magyar nézők filmválasztási szempontjait, mozibajárási szokásait és a streaminggel kapcsolatos döntéseit méri fel az a december 2-ig tartó országos kutatás, amelyet a Mozinet filmforgalmazó és a Budapest Film indított.",
+      "fullSummary": "A magyar nézők filmválasztási szempontjait, mozibajárási szokásait és a streaminggel kapcsolatos döntéseit méri fel az a december 2-ig tartó országos kutatás, amelyet a Mozinet filmforgalmazó és a…",
       "tags": [
         "Kutatas",
         "Kerdoiv",
@@ -75,7 +364,7 @@
         "mozinet",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-180509013-jpeg-20261110-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-180509013-jpeg-20261110-54975-733-90-zc.webp",
       "author": "S. D.",
       "category": "",
       "publishedAt": "2026-11-10T09:29:00Z",
@@ -116,7 +405,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A technológiát a Disney a filmstúdió munkafolyamataiban, a vidámparkjainak és óceánjáróinak fejlesztésében is használja. Ezzel párhuzamosan a Disney arra kérte egyes vezetőit, hogy érjenek el…",
-      "fullSummary": "A technológiát a Disney a filmstúdió munkafolyamataiban, a vidámparkjainak és óceánjáróinak fejlesztésében is használja. Ezzel párhuzamosan a Disney arra kérte egyes vezetőit, hogy érjenek el 20%-os éves költségmegtakarítást.",
+      "fullSummary": "A technológiát a Disney a filmstúdió munkafolyamataiban, a vidámparkjainak és óceánjáróinak fejlesztésében is használja. Ezzel párhuzamosan a Disney arra kérte egyes vezetőit, hogy érjenek el…",
       "tags": [
         "Disney",
         "Adobe",
@@ -129,7 +418,7 @@
         "ai",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-436742818-editorial-use-only-jpeg-20261110-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-436742818-editorial-use-only-jpeg-20261110-690-920-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-10T07:51:00Z",
@@ -145,7 +434,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Percek alatt elkészülő videó- és hangspotok, pontosabb kampánytervezés, a kisebb hirdetők számára is elérhető hatékonyság: Bianca Vlaston, az Aleph regionális növekedési igazgatója és az Aleph…",
-      "fullSummary": "Percek alatt elkészülő videó- és hangspotok, pontosabb kampánytervezés, a kisebb hirdetők számára is elérhető hatékonyság: Bianca Vlaston, az Aleph regionális növekedési igazgatója és az Aleph Hungary ügyvezető igazgatója szerint az AI a feje tetejére állítja a marketingkommunikációt. Arról is beszélt, miért nem a munkahelyeket, hanem a feladatokat váltja ki a technológia, miért kell mindig a „fékek és ellensúlyok” rendszere, és miért nem bízná…",
+      "fullSummary": "Percek alatt elkészülő videó- és hangspotok, pontosabb kampánytervezés, a kisebb hirdetők számára is elérhető hatékonyság: Bianca Vlaston, az Aleph regionális növekedési igazgatója és az Aleph…",
       "tags": [
         "AI",
         "Marketingkommunikacio",
@@ -159,7 +448,7 @@
         "aleph",
         "tamogatott-tartalom"
       ],
-      "image": "https://kreativ.hu/img-cache/l/i/n/k/e/linkedin-banner-2-1920x730-png-0-20261106-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/l/i/n/k/e/linkedin-banner-2-1920x730-png0-20261106-920-690-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-10T07:07:00Z",
@@ -191,6 +480,41 @@
       "enrichAttempts": 0
     },
     {
+      "id": "55f1bffb",
+      "title": "Televízió minden képernyőn – megjelent az új Kreatív",
+      "url": "https://kreativ.hu/cikk/televizio-minden-kepernyon-megjelent-az-uj-kreativ",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Ha november, akkor Big Picture és televízió – mi más lehetne a Kreatív 9-10. lapszámának témája, mint a tévéképernyő: a televíziós piac, a csatornák stratégiája, a műsorstruktúra változásai, és…",
+      "fullSummary": "Ha november, akkor Big Picture és televízió – mi más lehetne a Kreatív 9-10. lapszámának témája, mint a tévéképernyő: a televíziós piac, a csatornák stratégiája, a műsorstruktúra változásai, és műfajok palettája. Körképünkben kereskedelmi csatornákat kérdeztünk legnézettebb műsoraikról, közösségi médiájukról és a változó piaci helyzetről. Interjúkat olvashattok a változó közmédia új vezetőivel: Polyák Gáborral és Szeleczky Ádámmal. A trash…",
+      "tags": [
+        "Film & TV",
+        "Advertising",
+        "Media",
+        "Kozmedia",
+        "Magazin",
+        "Strategy"
+      ],
+      "rawTags": [
+        "televizio",
+        "reklam",
+        "kreativ",
+        "media",
+        "teve",
+        "kreativ-magazin",
+        "kozmedia",
+        "magazin"
+      ],
+      "image": "https://kreativ.hu/img-cache/k/r/e/a/t/kreativ-borito-2026-9-10-szerkesztett0-20261109-612-816-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-09T13:35:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-11T10:47:21Z",
+      "enrichAttempts": 1
+    },
+    {
       "id": "2d8091e4",
       "title": "Pár hét múlva megszűnik a One fizetős földfelszíni tévéje",
       "url": "https://kreativ.hu/cikk/par-het-mulva-megszunik-a-one-fizetos-foldfelszini-teveje",
@@ -198,7 +522,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "December 1-jétől megszűnik a One Magyarország fizetős földfelszíni televíziós szolgáltatása, de az ingyenesen fogható mindigTV-csatornák továbbra is elérhetők maradnak. A változás ugyanakkor az…",
-      "fullSummary": "December 1-jétől megszűnik a One Magyarország fizetős földfelszíni televíziós szolgáltatása, de az ingyenesen fogható mindigTV-csatornák továbbra is elérhetők maradnak. A változás ugyanakkor az online hozzáférést is érinti: megszűnik a One Földfelszíni Applikáció.",
+      "fullSummary": "December 1-jétől megszűnik a One Magyarország fizetős földfelszíni televíziós szolgáltatása, de az ingyenesen fogható mindigTV-csatornák továbbra is elérhetők maradnak. A változás ugyanakkor az…",
       "tags": [
         "Online",
         "Film & TV",
@@ -217,7 +541,7 @@
         "mindigtv",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/e/r/i/k/-/erik-mclean-u-vu-r6qyyu-unsplash-0-20261109-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/e/r/i/k/-/erik-mclean-u-vu-r6qyyu-unsplash0-20261109-690-920-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-09T12:52:00Z",
@@ -258,7 +582,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "„Lassan ott tartunk, hogy AI beszélget AI-jal, de én ezt nem hagyom. Nem azért, mert borzalmasan környezetszennyező vagy mert elbutítja az embereket, hanem azért, mert egyszerűen rossz munkához…",
-      "fullSummary": "„Lassan ott tartunk, hogy AI beszélget AI-jal, de én ezt nem hagyom. Nem azért, mert borzalmasan környezetszennyező vagy mert elbutítja az embereket, hanem azért, mert egyszerűen rossz munkához vezet. (Jó, meg azért is, mert környezetszennyező és elbutít.)” Véleménycikk Hargitai Ágitól, a Hello Agency senior kreatív stratégájától, aki napi szinten szembesül az AI ügynökségi életre tett hatásaival.",
+      "fullSummary": "„Lassan ott tartunk, hogy AI beszélget AI-jal, de én ezt nem hagyom. Nem azért, mert borzalmasan környezetszennyező vagy mert elbutítja az embereket, hanem azért, mert egyszerűen rossz munkához…",
       "tags": [
         "Strategy",
         "Advertising",
@@ -273,7 +597,7 @@
         "brief",
         "ai"
       ],
-      "image": "https://kreativ.hu/img-cache/3/8/9/0/c/3890caa7e6d6c93be8fc6b07041773b8-png-0-20261109-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/3/8/9/0/c/3890caa7e6d6c93be8fc6b07041773b8-png0-20261109-690-920-90-zc.webp",
       "author": "Hargitai Ágnes",
       "category": "",
       "publishedAt": "2026-11-09T10:49:00Z",
@@ -308,7 +632,7 @@
         "halasztas",
         "kiadok"
       ],
-      "image": "https://kreativ.hu/img-cache/m/a/r/i/i/mariia-berezovsky-wr6qhgdws-y-unsplash-1-0-20261109-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/m/a/r/i/i/mariia-berezovsky-wr6qhgdws-y-unsplash-10-20261109-920-690-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-09T10:45:00Z",
@@ -363,7 +687,7 @@
         "filmfesztival",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/s/z/e/m/l/szemle-20261109-549-75-733-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/s/z/e/m/l/szemle-20261109-920-690-90-zc.webp",
       "author": "S. D.",
       "category": "",
       "publishedAt": "2026-11-09T09:22:00Z",
@@ -1002,7 +1326,7 @@
         "nezettseg",
         "tamogatott-tartalom"
       ],
-      "image": "https://kreativ.hu/img-cache/b/o/r/i/t/borito-nagy-1-20261104-1620-0-902-cr-png-20261105-717-537-75-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/b/o/r/i/t/borito-nagy-1-20261104-1620-0-902-cr-png-20261105-717-53775-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-05T09:03:00Z",
@@ -1967,7 +2291,7 @@
         "pixel-perfect-awards",
         "verseny"
       ],
-      "image": "https://kreativ.hu/img-cache/p/p/a/2/0/ppa2026-online-nevezes1-okt29-edm-header-640x360-0-20261030-640-480-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/p/p/a/2/0/ppa2026-online-nevezes1-okt29-edm-header-640x3600-20261030-640-480-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-10-30T12:20:00Z",
@@ -11439,330 +11763,6 @@
       "publishedAt": "2026-09-15T08:53:11Z",
       "datePrecise": true,
       "firstSeenAt": "2026-09-16T03:22:31Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "c3cdf566",
-      "title": "The winners of the 2026 iPhone Photography Awards",
-      "url": "https://theinspiration.com/2026/09/the-winners-of-the-2026-iphone-photography-awards/",
-      "source": "theinspiration",
-      "sourceName": "The Inspiration",
-      "accent": "#f5b301",
-      "summary": "",
-      "fullSummary": "",
-      "tags": [
-        "Photography",
-        "Awards"
-      ],
-      "rawTags": [
-        "Photography"
-      ],
-      "image": "https://theinspiration.com/wp-content/uploads/863b5d724_Other-146152_21725-82472_1_1_5_IMG_0506-Andreas-Sohns-750x536.webp",
-      "author": "Daniel Ingvartsen",
-      "category": "Photography",
-      "publishedAt": "2026-09-15T07:16:28Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-16T03:22:31Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "7ead7680",
-      "title": "\"Megvárom, amíg elküldenek\" - Menesztették Schmidt Máriát, ideiglenesen bezár a Terror Háza",
-      "url": "https://kreativ.hu/cikk/menesztettek-schmidt-mariat-ideiglenesen-bezar-a-terror-haza",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A társadalmi kapcsolatokért és kultúráért felelős miniszter megszüntette Schmidt Mária főigazgatói megbízatását a Terror Háza Múzeumban. Az intézmény ideiglenesen bezár: a miniszteri közlés szerint…",
-      "fullSummary": "A társadalmi kapcsolatokért és kultúráért felelős miniszter megszüntette Schmidt Mária főigazgatói megbízatását a Terror Háza Múzeumban. Az intézmény ideiglenesen bezár: a miniszteri közlés szerint átvilágítják a kiállítás tartalmát, tisztázzák a kapcsolódó jogokat, és új működési kereteket alakítanak ki.",
-      "tags": [
-        "Bezaras",
-        "Terror Haza",
-        "Schmidt Maria",
-        "Menesztes",
-        "Popkult",
-        "Politics"
-      ],
-      "rawTags": [
-        "bezaras",
-        "terror-haza",
-        "schmidt-maria",
-        "menesztes",
-        "popkult"
-      ],
-      "image": "https://kreativ.hu/img-cache/d/-/p/r/g/d-prg20251104002-scaled-resized-970-0-20260915-546-75-729-90-zc.webp",
-      "author": "L. B.",
-      "category": "",
-      "publishedAt": "2026-09-15T07:15:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-16T03:22:31Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "65cf2ef3",
-      "title": "A Csendes barát Magyarország hivatalos nevezése a 2027-es Oscar-versenyben",
-      "url": "https://kreativ.hu/cikk/a-csendes-barat-magyarorszag-hivatalos-nevezese-a-2027-es-oscar-versenyben",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Enyedi Ildikó Csendes barát című filmjét nevezi Magyarország a legjobb nemzetközi film kategóriájában a 99. Oscar-díjra. A velencei filmfesztiválon hat díjjal elismert alkotás 2026 januárjában került…",
-      "fullSummary": "Enyedi Ildikó Csendes barát című filmjét nevezi Magyarország a legjobb nemzetközi film kategóriájában a 99. Oscar-díjra. A velencei filmfesztiválon hat díjjal elismert alkotás 2026 januárjában került…",
-      "tags": [
-        "Awards",
-        "Oscar Dij",
-        "Enyedi Ildiko",
-        "Csendes Barat",
-        "Popkult",
-        "Film & TV"
-      ],
-      "rawTags": [
-        "nevezes",
-        "oscar-dij",
-        "enyedi-ildiko",
-        "csendes-barat",
-        "popkult"
-      ],
-      "image": "https://kreativ.hu/img-cache/c/s/e/n/d/csendesbarat-foto-mozinet-0-20260914-690-920-90-zc.webp",
-      "author": "L. B.",
-      "category": "",
-      "publishedAt": "2026-09-14T15:21:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-15T03:24:26Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "8d8e6804",
-      "title": "„Ne szexualizáljátok a női sportot!” – kiakadtak Sydney Sweeney meztelen reklámján az olimpikonok",
-      "url": "https://kreativ.hu/cikk/sydney-sweeney-meztelen-reklam-novig-sportfogadas-kritika",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Az ausztrál olimpiai bajnok Ariarne Titmus szerint a színésznő sportfogadási kampánya „pofon minden nőnek”, aki az életét a sportnak szentelte. Több élsportoló is azt kifogásolja, hogy a reklám…",
-      "fullSummary": "Az ausztrál olimpiai bajnok Ariarne Titmus szerint a színésznő sportfogadási kampánya „pofon minden nőnek”, aki az életét a sportnak szentelte. Több élsportoló is azt kifogásolja, hogy a reklám…",
-      "tags": [
-        "Advertising",
-        "Sportfogadas",
-        "Kritika",
-        "Meztelen",
-        "Sydney Sweeney",
-        "Novig"
-      ],
-      "rawTags": [
-        "reklam",
-        "sportfogadas",
-        "kritika",
-        "meztelen",
-        "sydney-sweeney",
-        "novig"
-      ],
-      "image": "https://kreativ.hu/img-cache/s/y/d/n/e/sydney-sweeney-reklam-v2-0-20260914-360-480-90-zc.webp",
-      "author": "T. R.",
-      "category": "",
-      "publishedAt": "2026-09-14T13:12:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-15T03:24:26Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "6195dfca",
-      "title": "Átadták a 22. CineFest díjait",
-      "url": "https://kreativ.hu/cikk/atadtak-a-22-cinefest-dijait",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A francia Sarah Arnold első nagyjátékfilmje, a Túl sok vadállat nyerte a fesztivál fődíját, a Pressburger-díjat, míg Reisz Gábor negyedik filmje, a Földszint kapta a zsűri nagydíját, a Zukor-díjat,…",
-      "fullSummary": "A francia Sarah Arnold első nagyjátékfilmje, a Túl sok vadállat nyerte a fesztivál fődíját, a Pressburger-díjat, míg Reisz Gábor negyedik filmje, a Földszint kapta a zsűri nagydíját, a Zukor-díjat,…",
-      "tags": [
-        "Dijak",
-        "Filmfesztival",
-        "Cinefest",
-        "Popkult",
-        "Awards"
-      ],
-      "rawTags": [
-        "dijak",
-        "filmfesztival",
-        "cinefest",
-        "popkult"
-      ],
-      "image": "https://kreativ.hu/img-cache/f/o/l/d/s/foldszint-still-1-20260914-549-75-733-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-14T12:52:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-15T03:24:26Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "665e63ee",
-      "title": "OMHU — The Iconic Dupe",
-      "url": "https://theinspiration.com/2026/09/omhu-the-iconic-dupe/",
-      "source": "theinspiration",
-      "sourceName": "The Inspiration",
-      "accent": "#f5b301",
-      "summary": "OMHU’s iconic TEDDY sofa has become one of the most copied sofas online. Instead of fighting the dupes, OMHU decided to beat them at their own game. They created TEDY – a limited edition version of their own sofa with one “D” missing – and…",
-      "fullSummary": "OMHU’s iconic TEDDY sofa has become one of the most copied sofas online. Instead of fighting the dupes, OMHU decided to beat them at their own game. They created TEDY – a limited edition version of their own sofa with one “D” missing – and launched 100 pieces on the very platforms where the copies […]",
-      "tags": [
-        "Advertising",
-        "Design"
-      ],
-      "rawTags": [
-        "Advertising",
-        "Design"
-      ],
-      "image": "https://theinspiration.com/wp-content/uploads/Iconic-Dupe-Label-Front-Final-750x536.webp",
-      "author": "René Kammersgaard",
-      "category": "Advertising",
-      "publishedAt": "2026-09-14T11:03:38Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-15T03:24:26Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "db5851db",
-      "title": "A Viasat Nature-rel bővül a Network4 és az Atmedia Csoport együttműködése",
-      "url": "https://kreativ.hu/cikk/a-viasat-nature-rel-bovul-a-network4-es-az-atmedia-csoport-egyuttmukodese",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Novembertől a kereskedőház értékesíti a prémium ismeretterjesztő csatorna reklámfelületeit.",
-      "fullSummary": "Novembertől a kereskedőház értékesíti a prémium ismeretterjesztő csatorna reklámfelületeit.",
-      "tags": [
-        "Egyuttmukodes",
-        "Atmedia",
-        "Viasat Nature",
-        "Network4",
-        "Advertising",
-        "Media"
-      ],
-      "rawTags": [
-        "egyuttmukodes",
-        "atmedia",
-        "viasat-nature",
-        "network4",
-        "reklam",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/m/i/k/e/-/mike-van-den-bos-7hkdb6i3afk-unsplash-0-20260914-920-690-90-zc.webp",
-      "author": "T. R.",
-      "category": "",
-      "publishedAt": "2026-09-14T10:57:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-15T03:24:26Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "b79dc028",
-      "title": "Ne a csík húzza a repülőt! – Hogyan találjuk meg az AI valódi helyét a cégben?",
-      "url": "https://kreativ.hu/cikk/ne-a-csik-huzza-a-repulot-hogyan-talaljuk-meg-az-ai-valodi-helyet-a-cegben",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "„AI-ba kell fektetni, mert az mindent megold”; „a mesterséges intelligenciával minden gyorsabb és jobb lesz”; „az AI elveszi az emberek munkáját, de a profit nő” – számtalan ilyen gondolat…",
-      "fullSummary": "„AI-ba kell fektetni, mert az mindent megold”; „a mesterséges intelligenciával minden gyorsabb és jobb lesz”; „az AI elveszi az emberek munkáját, de a profit nő” – számtalan ilyen gondolat…",
-      "tags": [
-        "AI",
-        "Kpmg",
-        "Kreativipar",
-        "Advertising",
-        "Media",
-        "Business"
-      ],
-      "rawTags": [
-        "mesterseges-intelligencia",
-        "kpmg",
-        "kreativipar",
-        "ai",
-        "reklam",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/k/p/m/g/-/kpmg-online-cimlap-ai-modositas-png-20260914-920-690-90-zc.webp",
-      "author": "Ignácz Péter,Hodován Lili",
-      "category": "",
-      "publishedAt": "2026-09-14T09:11:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-14T09:52:42Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "cc69ad89",
-      "title": "Elhunyt Kardos Sándor",
-      "url": "https://kreativ.hu/cikk/elhunyt-kardos-sandor",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A Kossuth-díjas operatőr 82 éves volt.",
-      "fullSummary": "A Kossuth-díjas operatőr 82 éves volt.",
-      "tags": [
-        "Film & TV",
-        "Halalhir",
-        "Kardos Sandor",
-        "Horusz Archivum",
-        "Popkult"
-      ],
-      "rawTags": [
-        "film",
-        "halalhir",
-        "kardos-sandor",
-        "horusz-archivum",
-        "popkult"
-      ],
-      "image": "https://kreativ.hu/img-cache/k/a/r/d/o/kardos2-png-0-20260914-920-690-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-14T08:49:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-14T09:52:42Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "b3e77289",
-      "title": "Duolingo turns mispronounced fashion names into a NYFW collection",
-      "url": "https://www.famouscampaigns.com/2026/09/duolingo-turns-mispronounced-fashion-names-into-a-nyfw-collection/",
-      "source": "famouscampaigns",
-      "sourceName": "Famous Campaigns",
-      "accent": "#7c5cff",
-      "summary": "Duolingo brought its language-learning identity into New York Fashion Week with The Phonetic Collection, a seven-piece capsule created with New York designer Megan O’Cain that turns notoriously tricky fashion names into wearable…",
-      "fullSummary": "Duolingo brought its language-learning identity into New York Fashion Week with The Phonetic Collection, a seven-piece capsule created with New York designer Megan O’Cain that turns notoriously tricky fashion names into wearable pronunciation lessons. The SS27 collection takes names including Hermès, Givenchy, Jacquemus, Moschino, Loewe, Comme des Garçons and Issey Miyake and spells them out […]",
-      "tags": [
-        "Fashion",
-        "PR",
-        "Products",
-        "Design"
-      ],
-      "rawTags": [
-        "Fashion",
-        "PR",
-        "Products"
-      ],
-      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/Duolingo-SS27_-The-Phonetic-Collection.mp4",
-      "author": "James Herring",
-      "category": "Fashion",
-      "publishedAt": "2026-09-14T08:41:14Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-14T09:52:42Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "98b607dc",
-      "title": "Barbour gets lost in the countryside in latest campaign",
-      "url": "https://www.creativereview.co.uk/barbour-aw26-campaign-film/",
-      "source": "creativereview",
-      "sourceName": "Creative Review",
-      "accent": "#ff4d4d",
-      "summary": "Sienna Miller and Idris Elba take a cinematic detour across Scotland in the brand’s AW26 film created by The Sunshine Company",
-      "fullSummary": "Sienna Miller and Idris Elba take a cinematic detour across Scotland in the brand’s AW26 film created by The Sunshine Company",
-      "tags": [
-        "Branding",
-        "Campaigns",
-        "Film & TV"
-      ],
-      "rawTags": [],
-      "image": "https://d3e341ktepti6g.cloudfront.net/uploads/2026/09/The-Barbour-Way-screenshot-3.png",
-      "author": "Rebecca Fulleylove",
-      "category": "",
-      "publishedAt": "2026-09-14T08:24:02Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-14T09:52:42Z",
       "enrichAttempts": 0
     }
   ]
