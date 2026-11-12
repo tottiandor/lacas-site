@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T10:47:21Z",
+  "generatedAt": "2026-11-12T10:56:56Z",
   "itemCount": 400,
   "sources": [
     {
@@ -27,7 +27,7 @@
       "accent": "#ff4d4d",
       "status": "error",
       "error": "failed to fetch https://www.creativereview.co.uk/feed/: HTTP Error 403: Forbidden",
-      "count": 1
+      "count": 0
     },
     {
       "id": "theinspiration",
@@ -50,6 +50,272 @@
   ],
   "items": [
     {
+      "id": "0afe4f5d",
+      "title": "A kifutók mögötti romok: miért nem lett Magyarországból könnyűipari középhatalom?",
+      "url": "https://kreativ.hu/cikk/divatipar-konnyuipar-szoke-attila",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Miközben a hazai divatszcéna az elmúlt években a csillogó divathetekre, az influenszerek reptetésére és az állami ügynökségi modellre figyelt, a háttérben csendben porladt szét a komplett gyártási…",
+      "fullSummary": "Miközben a hazai divatszcéna az elmúlt években a csillogó divathetekre, az influenszerek reptetésére és az állami ügynökségi modellre figyelt, a háttérben csendben porladt szét a komplett gyártási infrastruktúra. A Not Allowed és a Terike from Budapest nyílt levele után most a gyártói oldal kifejti, miként látszik mindez az ő szempontjukból. Egy több mint 120 oldalas szakmai tanulmány társszerzőjével, Szőke Attila bőrdíszműipari szakemberrel…",
+      "tags": [
+        "Konnyuipar",
+        "Divatipar",
+        "Popkult",
+        "Agencies",
+        "Fashion"
+      ],
+      "rawTags": [
+        "konnyuipar",
+        "divatipar",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/u/t/o/m/automata-ovgyarto-gep-pecsen-20261112-920-690-90-zc.webp",
+      "author": "Fuchs Viktória",
+      "category": "",
+      "publishedAt": "2026-11-12T09:32:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-12T10:56:56Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "0e477154",
+      "title": "Kertész György is pályázik a közmédia élére",
+      "url": "https://kreativ.hu/cikk/kozmedia-palyazat-vezerigazgato-mrtv-kertesz-gyorgy",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Az Eurolex Consulting kommunikációs tanácsadó cég alapítója korábban dolgozott a Népszavánál és a Figyelőnél is, valamint ő indította el a német Manager Magazin magyar kiadását.",
+      "fullSummary": "Az Eurolex Consulting kommunikációs tanácsadó cég alapítója korábban dolgozott a Népszavánál és a Figyelőnél is, valamint ő indította el a német Manager Magazin magyar kiadását.",
+      "tags": [
+        "Awards",
+        "Kozmedia",
+        "Media"
+      ],
+      "rawTags": [
+        "palyazat",
+        "kozmedia",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/7/3/2/8/6/732863387-1305085548448553-2193538020299231651-n-jfif0-20261112-920-690-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-11-12T09:12:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-12T10:56:56Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "6255b47b",
+      "title": "Netflix — Find the Thing You Never Knew You Needed",
+      "url": "https://theinspiration.com/2026/11/netflix-find-the-thing-you-never-knew-you-needed/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "Netflix celebrates the unexpected shows and movies that turn into our next big obsession. In three films, an axolotl, an astronaut and a vampire each find themselves stepping outside their familiar routines after discovering something they…",
+      "fullSummary": "Netflix celebrates the unexpected shows and movies that turn into our next big obsession. In three films, an axolotl, an astronaut and a vampire each find themselves stepping outside their familiar routines after discovering something they never knew they needed. The campaign plays on the joy of stumbling across something completely unexpected — and the […]",
+      "tags": [
+        "Advertising",
+        "Film & TV"
+      ],
+      "rawTags": [
+        "Advertising"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/maxresdefault-20261112093159-zoyu-750x536.webp",
+      "author": "René Kammersgaard",
+      "category": "Advertising",
+      "publishedAt": "2026-11-12T08:32:11Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-12T10:56:56Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "8699e45b",
+      "title": "Három Red-díjat osztott ki a zsűri az idei RGB legjobb piaci munkáinak",
+      "url": "https://kreativ.hu/cikk/rgb-kreativ-design-award-2026-pro-dijazottak",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "November 11-én a Mixát Udvarban adtuk át a Kreatív nagy designversenyének díjait. Idén is két csoportban vártuk a pályaműveket, a piaci munkákat az RGB Pro, a diáknevezéseket az RGB Talent nevezési…",
+      "fullSummary": "November 11-én a Mixát Udvarban adtuk át a Kreatív nagy designversenyének díjait. Idén is két csoportban vártuk a pályaműveket, a piaci munkákat az RGB Pro, a diáknevezéseket az RGB Talent nevezési csoportban értékelte a zsűri. Mutatjuk az RGB Pro legjobbjait.",
+      "tags": [
+        "Rgb Kreativ Design Award",
+        "Rgb Pro",
+        "2026",
+        "Verseny",
+        "Design",
+        "Awards"
+      ],
+      "rawTags": [
+        "rgb-kreativ-design-award",
+        "rgb-pro",
+        "2026",
+        "verseny"
+      ],
+      "image": "https://kreativ.hu/img-cache/r/g/b/2/6/rgb26-admin-kep-1920x720px-101-01-png0-20261111-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-11T18:33:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-12T10:56:56Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "31ac7c0e",
+      "title": "RGB Kreatív Design Award: hat Red-díjat osztott ki a zsűri az idei legjobb diákmunkáknak",
+      "url": "https://kreativ.hu/cikk/rgb-kreativ-design-award-2026-talent-gyoztesek",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "November 11-én a Mixát Udvarban adtuk át a Kreatív nagy designversenyének díjait. Idén ismét két csoportban bírálta a szakmai zsűri a beérkezett pályaműveket, mutatjuk a diákmunkák, vagyis az RGB…",
+      "fullSummary": "November 11-én a Mixát Udvarban adtuk át a Kreatív nagy designversenyének díjait. Idén ismét két csoportban bírálta a szakmai zsűri a beérkezett pályaműveket, mutatjuk a diákmunkák, vagyis az RGB Talent legjobbjait.",
+      "tags": [
+        "Rgb Kreativ Design Award",
+        "Rgb Talent",
+        "2026",
+        "Verseny",
+        "Design",
+        "Awards"
+      ],
+      "rawTags": [
+        "rgb-kreativ-design-award",
+        "rgb-talent",
+        "2026",
+        "verseny"
+      ],
+      "image": "https://kreativ.hu/img-cache/r/g/b/2/6/rgb26-social-media-hirdetes-1080x1440px-talent-01-png0-20261111-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-11T18:33:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-12T10:56:56Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "9259643e",
+      "title": "Veiszer Alindával és Weyer Balázzsal közösen újítaná meg a közmédiát Fischer András",
+      "url": "https://kreativ.hu/cikk/veiszer-alinda-weyer-balazs-kozmedia-fischer-andras-palyazat-mtva",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Kreatív arról értesült, hogy Fischer András, a rendszerváltás utáni magyar médiapiac egyik meghatározó személyisége is beadja pályázatát a közmédia vezérigazgatói posztjára, mögötte pedig összeállt…",
+      "fullSummary": "A Kreatív arról értesült, hogy Fischer András, a rendszerváltás utáni magyar médiapiac egyik meghatározó személyisége is beadja pályázatát a közmédia vezérigazgatói posztjára, mögötte pedig összeállt egy ismert médiásokat is magába foglaló szakmai stáb.",
+      "tags": [
+        "Awards",
+        "Kozmedia",
+        "Mtva",
+        "Media"
+      ],
+      "rawTags": [
+        "palyazat",
+        "kozmedia",
+        "mtva",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/f/i/s/c/h/fischer-andras0-20261111-448-336-90-zc.webp",
+      "author": "Sz. Sz.",
+      "category": "",
+      "publishedAt": "2026-11-11T12:53:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-12T10:56:56Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "1b5a08d7",
+      "title": "Kóczián Péter és Jászberényi Sándor is az Indexhez igazol",
+      "url": "https://kreativ.hu/cikk/koczian-peter-es-jaszberenyi-sandor-is-az-indexhez-igazol",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Kóczián Péter napi hírmagyarázó műsort és heti nagyinterjúkat készít, Jászberényi Sándor pedig a világ konfliktuszónáiból tudósít majd rendszeresen az Indexen.",
+      "fullSummary": "Kóczián Péter napi hírmagyarázó műsort és heti nagyinterjúkat készít, Jászberényi Sándor pedig a világ konfliktuszónáiból tudósít majd rendszeresen az Indexen.",
+      "tags": [
+        "Szemelyi Hir",
+        "Index",
+        "Index Hu",
+        "Koczian Peter",
+        "Jaszberenyi Sandor",
+        "Media"
+      ],
+      "rawTags": [
+        "szemelyi-hir",
+        "index",
+        "index-hu",
+        "koczian-peter",
+        "jaszberenyi-sandor",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/i/n/d/e/x/index-logo-png0-20261111-46275-617-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-11T11:27:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-12T10:56:56Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "713fd5a2",
+      "title": "Szakáll nélküli Mikulással adja fel a leckét a karácsonyi kampányoknak a Marks & Spencer",
+      "url": "https://kreativ.hu/cikk/megborotvalkozott-mikulassal-inditja-a-karacsonyi-kampanyt-a-marks-spencer",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A brit vállalat legújabb, háromperces ünnepi filmjében James Norton alakítja a szakállától megváló Mikulást, Lucy Punch pedig azt a Mrs. Claus-t, aki rábeszéli férjét egy kis külső megújulásra.",
+      "fullSummary": "A brit vállalat legújabb, háromperces ünnepi filmjében James Norton alakítja a szakállától megváló Mikulást, Lucy Punch pedig azt a Mrs. Claus-t, aki rábeszéli férjét egy kis külső megújulásra.",
+      "tags": [
+        "Marks Spencer",
+        "Karacsony",
+        "Advertising",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "marks-spencer",
+        "karacsony",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/s/-/p/n/ms-png-20261111-54975-733-90-zc.webp",
+      "author": "S. D.",
+      "category": "",
+      "publishedAt": "2026-11-11T11:16:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-12T10:56:56Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "9654f3fe",
+      "title": "Indul az első budapesti DesignFest több mint 30 helyszínen",
+      "url": "https://kreativ.hu/cikk/designfest-budapest-brandepites-fesztival-mome-magyar-butor-es-faipari-szovetseg",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A november 12-től tizenhárom napos DesignFest keretében Budapest 30-nál is több helyszínén 55 program várja az érdeklődőket. A fesztivál első napjain kiemelt szerepet kapnak a termékfejlesztést,…",
+      "fullSummary": "A november 12-től tizenhárom napos DesignFest keretében Budapest 30-nál is több helyszínén 55 program várja az érdeklődőket. A fesztivál első napjain kiemelt szerepet kapnak a termékfejlesztést, tárgyalkotást és brandépítést ösztönző programok.",
+      "tags": [
+        "Budapest",
+        "Fesztival",
+        "Mome",
+        "Brandepites",
+        "Designfest",
+        "Magyar Butor Es Faipari Szovetseg"
+      ],
+      "rawTags": [
+        "budapest",
+        "fesztival",
+        "mome",
+        "brandepites",
+        "designfest",
+        "magyar-butor-es-faipari-szovetseg",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/d/f/-/f/b/df-fb-cover-v2-20261111-690-920-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-11T10:55:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-12T10:56:56Z",
+      "enrichAttempts": 1
+    },
+    {
       "id": "4d09570e",
       "title": "Hat magyar lakodalomba kalauzol a TV Paprika új sorozata",
       "url": "https://kreativ.hu/cikk/hat-magyar-lakodalomba-kalauzol-a-tv-paprika-uj-sorozata",
@@ -57,7 +323,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "November 15-én indul a TV Paprika hatrészes gasztro-reality sorozata, a Lagziország, amelyben Bede Róbert séf hat pár esküvőjén keresztül mutatja be a magyar lakodalmak gasztronómiai és kulturális…",
-      "fullSummary": "November 15-én indul a TV Paprika hatrészes gasztro-reality sorozata, a Lagziország, amelyben Bede Róbert séf hat pár esküvőjén keresztül mutatja be a magyar lakodalmak gasztronómiai és kulturális hagyományait.",
+      "fullSummary": "November 15-én indul a TV Paprika hatrészes gasztro-reality sorozata, a Lagziország, amelyben Bede Róbert séf hat pár esküvőjén keresztül mutatja be a magyar lakodalmak gasztronómiai és kulturális…",
       "tags": [
         "TV Paprika",
         "Amc Global Media Central Europe",
@@ -71,7 +337,7 @@
         "lagziorszag",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/l/a/g/z/i/lagziorszag-logo-png0-20261111-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/l/a/g/z/i/lagziorszag-logo-png0-20261111-690-920-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-11T10:11:00Z",
@@ -126,7 +392,7 @@
         "inota-fesztival",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/0/-/1/e/9/0-1e9a8260-0-20261111-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/0/-/1/e/9/0-1e9a8260-0-20261111-54975-733-90-zc.webp",
       "author": "S. D.",
       "category": "",
       "publishedAt": "2026-11-11T09:07:00Z",
@@ -166,7 +432,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Szeleczky Ádám, a köztévé megbízott programigazgatója, a Duna ideiglenes csatornaigazgatója a Kreatívnak adott interjúban az átmeneti időszak kihívásairól, a hírszolgáltatás felfüggesztéséről és…",
-      "fullSummary": "Szeleczky Ádám, a köztévé megbízott programigazgatója, a Duna ideiglenes csatornaigazgatója a Kreatívnak adott interjúban az átmeneti időszak kihívásairól, a hírszolgáltatás felfüggesztéséről és arról is beszélt: „nem megújítani kell a közmédiát, újat kell felépíteni!”. Elmondta, milyen szórakoztató, edukációs, lendületes műsorokkal lehetne széles közönséget megszólítani, ehhez milyen digitális platformokra és megerősített belső műhelyekre lenne…",
+      "fullSummary": "Szeleczky Ádám, a köztévé megbízott programigazgatója, a Duna ideiglenes csatornaigazgatója a Kreatívnak adott interjúban az átmeneti időszak kihívásairól, a hírszolgáltatás felfüggesztéséről és…",
       "tags": [
         "Film & TV",
         "Interju",
@@ -201,7 +467,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Beszélgetős rádióknak szánna három fővárosi körzeti frekvenciát a Médiatanács, az első pályázati kiírás már 2027 elején megjelenhet. Polyák Gábor NMHH-elnök szerint a Klubrádió előtt is meg kell…",
-      "fullSummary": "Beszélgetős rádióknak szánna három fővárosi körzeti frekvenciát a Médiatanács, az első pályázati kiírás már 2027 elején megjelenhet. Polyák Gábor NMHH-elnök szerint a Klubrádió előtt is meg kell teremteni a lehetőséget, hogy ismét földfelszíni frekvenciához jusson, de a jogosultságot pályázat nélkül nem kaphatja meg.",
+      "fullSummary": "Beszélgetős rádióknak szánna három fővárosi körzeti frekvenciát a Médiatanács, az első pályázati kiírás már 2027 elején megjelenhet. Polyák Gábor NMHH-elnök szerint a Klubrádió előtt is meg kell…",
       "tags": [
         "Frekvencia",
         "Awards",
@@ -220,7 +486,7 @@
         "polyak-gabor",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/j/o/n/a/t/jonathan-velasquez-c1zn57gfdb0-unsplash0-20261111-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/j/o/n/a/t/jonathan-velasquez-c1zn57gfdb0-unsplash0-20261111-690-920-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-11T08:03:00Z",
@@ -289,7 +555,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Minden új korszak elején azt mondjuk: ez ugyanaz, csak másképp. Vajon igaz-e ez az agentic korra? Rövid összefoglaló a technológia, piac és szabályozás örök körforgásáról a genAI korszak hajnalán.…",
-      "fullSummary": "Minden új korszak elején azt mondjuk: ez ugyanaz, csak másképp. Vajon igaz-e ez az agentic korra? Rövid összefoglaló a technológia, piac és szabályozás örök körforgásáról a genAI korszak hajnalán. Incze Kinga médiaszakértő elemzése.",
+      "fullSummary": "Minden új korszak elején azt mondjuk: ez ugyanaz, csak másképp. Vajon igaz-e ez az agentic korra? Rövid összefoglaló a technológia, piac és szabályozás örök körforgásáról a genAI korszak hajnalán.…",
       "tags": [
         "Advertising",
         "Hirdeto",
@@ -317,7 +583,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A 45. héten az RTL műsorai voltak a legnézettebbek, bár a Sztárban Sztár fináléjára is sokan kíváncsiak voltak. A Megasztár viszont a 18-59-es korcsoportban kiesett a top 10 legnézettebb műsor…",
-      "fullSummary": "A 45. héten az RTL műsorai voltak a legnézettebbek, bár a Sztárban Sztár fináléjára is sokan kíváncsiak voltak. A Megasztár viszont a 18-59-es korcsoportban kiesett a top 10 legnézettebb műsor listájából. Főműsoridőben pedig a 18-59 évesek körében az RTL lényegében beérte a konkurens kereskedelmi csatornát.",
+      "fullSummary": "A 45. héten az RTL műsorai voltak a legnézettebbek, bár a Sztárban Sztár fináléjára is sokan kíváncsiak voltak. A Megasztár viszont a 18-59-es korcsoportban kiesett a top 10 legnézettebb műsor…",
       "tags": [
         "Tv2",
         "Nezettseg",
@@ -330,7 +596,7 @@
         "rtl",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/s/z/g/-/6/szg-6450-jpg-20261110-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/s/z/g/-/6/szg-6450-jpg-20261110-920-690-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-11-10T10:47:00Z",
@@ -11501,266 +11767,6 @@
       "author": "James Herring",
       "category": "Advertising",
       "publishedAt": "2026-09-15T15:10:05Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-16T03:22:31Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "213f701e",
-      "title": "Vállalati ügyektől – a médiafenntarthatóságig",
-      "url": "https://kreativ.hu/cikk/vallalati-ugyektol-a-mediafenntarthatosagig",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Öt kategóriában várjuk a társadalmi, környezeti és üzleti felelősségvállalás legjobb példáit – a Doing Good – CSR Award első nevezési határideje: 2026. november 2. Mutatjuk milyen projektekkel…",
-      "fullSummary": "Öt kategóriában várjuk a társadalmi, környezeti és üzleti felelősségvállalás legjobb példáit – a Doing Good – CSR Award első nevezési határideje: 2026. november 2. Mutatjuk milyen projektekkel…",
-      "tags": [
-        "Verseny",
-        "Csr",
-        "Pph Media",
-        "Csr Award",
-        "Doing Good",
-        "Media"
-      ],
-      "rawTags": [
-        "verseny",
-        "csr",
-        "pph-media",
-        "csr-award",
-        "doing-good"
-      ],
-      "image": "https://kreativ.hu/img-cache/c/s/r/2/0/csr2026-1920x720-1-png-20260915-920-690-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-15T14:03:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-16T03:22:31Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "683b4586",
-      "title": "Nagy Gábor vezeti a MaReSz Rendezvényhelyszín tagozatát",
-      "url": "https://kreativ.hu/cikk/nagy-gabor-vezeti-a-maresz-rendezvenyhelyszin-tagozatat",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Az Eventrend Group alapító társtulajdonosa két évre kapott megbízást. Nagy Gábor Pál Biankát váltja a tagozat vezetésében.",
-      "fullSummary": "Az Eventrend Group alapító társtulajdonosa két évre kapott megbízást. Nagy Gábor Pál Biankát váltja a tagozat vezetésében.",
-      "tags": [
-        "Maresz",
-        "Karrierhir",
-        "Vezetovalasztas",
-        "Advertising"
-      ],
-      "rawTags": [
-        "maresz",
-        "karrierhir",
-        "vezetovalasztas",
-        "reklam"
-      ],
-      "image": "https://kreativ.hu/img-cache/n/a/g/y/-/nagy-gabor-eventrend-png-0-20260915-601-5-802-90-zc.webp",
-      "author": "L. B.",
-      "category": "",
-      "publishedAt": "2026-09-15T13:56:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-16T03:22:31Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "14397ee2",
-      "title": "Elhunyt Jürg Marquard, a magyar magazinpiac egykori meghatározó szereplője",
-      "url": "https://kreativ.hu/cikk/meghalt-jurg-marquard",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A svájci médiavállalkozó nyolcvanegy éves volt. Az általa alapított médiacsoport több évtizeden keresztül volt jelen Magyarországon: egykor a Magyar Hírlap és a Mai Nap, később pedig számos ismert…",
-      "fullSummary": "A svájci médiavállalkozó nyolcvanegy éves volt. Az általa alapított médiacsoport több évtizeden keresztül volt jelen Magyarországon: egykor a Magyar Hírlap és a Mai Nap, később pedig számos ismert…",
-      "tags": [
-        "Marquard",
-        "Marquard Media",
-        "Gyaszhir",
-        "Media"
-      ],
-      "rawTags": [
-        "marquard",
-        "marquard-media",
-        "gyaszhir",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/k/e/y/s/t/keystone-marquard-1993-png-20260915-920-690-90-zc.webp",
-      "author": "L. B.",
-      "category": "",
-      "publishedAt": "2026-09-15T13:12:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-16T03:22:31Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "9bc5db0b",
-      "title": "„Krónikus online doomscroller” vagy? Téged keres a Szingapúri Nemzeti Galéria",
-      "url": "https://kreativ.hu/cikk/doomscroll-brainrot-tiktok-rezidencia-szingapuri-nemzeti-muzeum",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Négy hónapos, fizetett TikTok-rezidenciaprogramot indít a Szingapúri Nemzeti Galéria. A jelentkezőknek nem kell ismert tartalomkészítőnek vagy művészeti szakértőnek lenniük: az intézmény elsősorban…",
-      "fullSummary": "Négy hónapos, fizetett TikTok-rezidenciaprogramot indít a Szingapúri Nemzeti Galéria. A jelentkezőknek nem kell ismert tartalomkészítőnek vagy művészeti szakértőnek lenniük: az intézmény elsősorban…",
-      "tags": [
-        "Muzeum",
-        "Kulturalis Marketing",
-        "Social Media",
-        "Popkult"
-      ],
-      "rawTags": [
-        "muzeum",
-        "kulturalis-marketing",
-        "tiktok",
-        "popkult"
-      ],
-      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-1238801064-jpeg-20260915-920-690-90-zc.webp",
-      "author": "L. B.",
-      "category": "",
-      "publishedAt": "2026-09-15T11:53:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-16T03:22:31Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "3147bdd8",
-      "title": "Díjazást kért az MLE Brüsszelben az AI által használt tartalmakért",
-      "url": "https://kreativ.hu/cikk/mle-europai-bizottsag-brusszel-ai-strategia-licenc-dijazas",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A Magyar Lapkiadók Egyesülete azt kéri az Európai Bizottságtól, hogy a készülő kulturális és kreatívipari AI-stratégia teremtsen átlátható felhasználási és működőképes licencelési feltételeket a…",
-      "fullSummary": "A Magyar Lapkiadók Egyesülete azt kéri az Európai Bizottságtól, hogy a készülő kulturális és kreatívipari AI-stratégia teremtsen átlátható felhasználási és működőképes licencelési feltételeket a…",
-      "tags": [
-        "Europai Bizottsag",
-        "AI",
-        "Mle",
-        "Magyar Lapkiadok Egyesulete",
-        "Media",
-        "Strategy"
-      ],
-      "rawTags": [
-        "europai-bizottsag",
-        "mesterseges-intelligencia",
-        "mle",
-        "magyar-lapkiadok-egyesulete",
-        "ai",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-68115641-jpeg-0-20260915-920-690-90-zc.webp",
-      "author": "L. B.",
-      "category": "",
-      "publishedAt": "2026-09-15T10:06:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-16T03:22:31Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "ffa9705c",
-      "title": "NOT A HOTEL — Pokémon Sleep",
-      "url": "https://theinspiration.com/2026/09/not-a-hotel-pokemon-sleep/",
-      "source": "theinspiration",
-      "sourceName": "The Inspiration",
-      "accent": "#f5b301",
-      "summary": "",
-      "fullSummary": "",
-      "tags": [
-        "Advertising",
-        "Design"
-      ],
-      "rawTags": [
-        "Advertising",
-        "Design"
-      ],
-      "image": "https://theinspiration.com/wp-content/uploads/pokemon1-750x536.webp",
-      "author": "René Kammersgaard",
-      "category": "Advertising",
-      "publishedAt": "2026-09-15T09:30:06Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-16T03:22:31Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "5a195254",
-      "title": "Savage X Fenty — Shadow",
-      "url": "https://theinspiration.com/2026/09/savage-x-fenty-shadow/",
-      "source": "theinspiration",
-      "sourceName": "The Inspiration",
-      "accent": "#f5b301",
-      "summary": "",
-      "fullSummary": "",
-      "tags": [
-        "Advertising",
-        "Fashion"
-      ],
-      "rawTags": [
-        "Advertising",
-        "Fashion"
-      ],
-      "image": "https://theinspiration.com/wp-content/uploads/savage-fenty4-750x536.webp",
-      "author": "René Kammersgaard",
-      "category": "Advertising",
-      "publishedAt": "2026-09-15T09:13:11Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-16T03:22:31Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "342178c9",
-      "title": "A Megasztár és a Házasság első látásra lettek a legnézettebb műsorok – 37. heti nézettségi adatok",
-      "url": "https://kreativ.hu/cikk/nezettsegi-adatok-37-het-rtl-tv2",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Már második hete, hogy az RTL és a TV2 elindította az őszi szezont, és bár múlt héten az RTL nézettsége több ponton lehagyta a TV2 nézettségét, a 37. héten már a Megasztár és a Házasság első látásra…",
-      "fullSummary": "Már második hete, hogy az RTL és a TV2 elindította az őszi szezont, és bár múlt héten az RTL nézettsége több ponton lehagyta a TV2 nézettségét, a 37. héten már a Megasztár és a Házasság első látásra…",
-      "tags": [
-        "Reality",
-        "Tv2",
-        "Nezettseg",
-        "RTL",
-        "Media"
-      ],
-      "rawTags": [
-        "reality",
-        "tv2",
-        "nezettseg",
-        "rtl",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/d/s/c/-/5/dsc-5798-0-20260915-920-690-90-zc.webp",
-      "author": "Fuchs Viktória",
-      "category": "",
-      "publishedAt": "2026-09-15T08:54:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-16T03:22:31Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "fb8e5185",
-      "title": "Why Kahlúa have recruited raving grandparents",
-      "url": "https://www.famouscampaigns.com/2026/09/why-kahlua-have-recruited-raving-grandparents/",
-      "source": "famouscampaigns",
-      "sourceName": "Famous Campaigns",
-      "accent": "#7c5cff",
-      "summary": "Kahlúa Coffee Cream is trying to drag cream liqueur out of the bedtime slot with Not A Nightcap, a new brand campaign from Wieden+Kennedy London that casts viral grandparents and turns a care home lounge into a rave. Directed by Ciesay,…",
-      "fullSummary": "Kahlúa Coffee Cream is trying to drag cream liqueur out of the bedtime slot with Not A Nightcap, a new brand campaign from Wieden+Kennedy London that casts viral grandparents and turns a care home lounge into a rave. Directed by Ciesay, the 30-second film stars Grimegran, Beau The Beard and Grandad Frank. Beau appears as […]",
-      "tags": [
-        "Advertising",
-        "Food & Drink",
-        "Branding",
-        "Campaigns"
-      ],
-      "rawTags": [
-        "Advertising",
-        "Food & Drink"
-      ],
-      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/New-Kahlua-Coffee-Cream-_-Its-Not-a-Nightcap.mp4",
-      "author": "James Herring",
-      "category": "Advertising",
-      "publishedAt": "2026-09-15T08:53:11Z",
       "datePrecise": true,
       "firstSeenAt": "2026-09-16T03:22:31Z",
       "enrichAttempts": 0
