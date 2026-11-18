@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T11:43:06Z",
+  "generatedAt": "2026-11-18T11:30:36Z",
   "itemCount": 400,
   "sources": [
     {
@@ -50,6 +50,293 @@
   ],
   "items": [
     {
+      "id": "ee42db54",
+      "title": "Baráth Krisztina vette át a leváltott TV2 Híradó főszerkesztőjének feladatait",
+      "url": "https://kreativ.hu/cikk/barath-krisztina-vette-at-a-levaltott-tv2-hirado-foszerkesztojenek-feladatait",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Adler László a csatornánál marad.",
+      "fullSummary": "Adler László a csatornánál marad.",
+      "tags": [
+        "Tv2",
+        "Foszerkeszto",
+        "Hirado",
+        "Szemelycsere",
+        "Media"
+      ],
+      "rawTags": [
+        "tv2",
+        "foszerkeszto",
+        "hirado",
+        "szemelycsere",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/t/v/2/-/2/tv2-20261118-920-690-90-zc.webp",
+      "author": "S. D.",
+      "category": "",
+      "publishedAt": "2026-11-18T09:52:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-18T11:30:36Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "0023a891",
+      "title": "Az ATV Start műsorvezetőjeként folytatja Murányi András",
+      "url": "https://kreativ.hu/cikk/az-atv-start-musorvezetojekent-folytatja-muranyi-andras",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A szakember az Indexnél 2026 júniusától októberig dolgozott. A távozás időzítése egybeesett Hont András vezérigazgatói kinevezésével, Murányi azonban saját kérésére, közös megegyezéssel…",
+      "fullSummary": "A szakember az Indexnél 2026 júniusától októberig dolgozott. A távozás időzítése egybeesett Hont András vezérigazgatói kinevezésével, Murányi azonban saját kérésére, közös megegyezéssel távozott.",
+      "tags": [
+        "Nepszabadsag",
+        "Index",
+        "Atv",
+        "Muranyi Andras",
+        "Media",
+        "Careers"
+      ],
+      "rawTags": [
+        "nepszabadsag",
+        "index",
+        "atv",
+        "muranyi-andras",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/u/r/r/2/murr2-png-20261118-800-600-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-18T07:36:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-18T11:30:36Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "7b584f7f",
+      "title": "Ponczók Attila első egész estés filmjével indult az idei Verzió",
+      "url": "https://kreativ.hu/cikk/verzio-dokumentumfilm-filmfesztival-doku-emberi-jogok",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Ponczók Attila filmje, a Papa nyitotta november 16-án a 23. Verzió Nemzetközi Emberi Jogi Dokumentumfilm Fesztivált. A négy éven át forgatott, saját családtörténetből kiinduló dokumentumfilm…",
+      "fullSummary": "Ponczók Attila filmje, a Papa nyitotta november 16-án a 23. Verzió Nemzetközi Emberi Jogi Dokumentumfilm Fesztivált. A négy éven át forgatott, saját családtörténetből kiinduló dokumentumfilm februárban elnyerte a 45. Magyar Filmszemle legjobb dokumentumfilmnek járó díját.",
+      "tags": [
+        "Emberi Jogok",
+        "Verzio",
+        "Popkult",
+        "Film & TV"
+      ],
+      "rawTags": [
+        "emberi-jogok",
+        "verzio",
+        "verzio-nemzetkozi-emberi-jogi-dokumentumfilm-fesztival",
+        "23-verzio-nemzetkozi-emberi-jogi-dokumentumfilm-fesztival",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/v/e/r/z/i/verzio261116-pozsonyir-megnyito-web-060-20261118-920-690-90-zc.webp",
+      "author": "S. D.",
+      "category": "",
+      "publishedAt": "2026-11-17T19:46:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-18T11:30:36Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "fd778b9d",
+      "title": "Fax, AI, plakátarc – könyvben kiadott bennfentes sztorikkal ünnepelt a Café Csoport",
+      "url": "https://kreativ.hu/cikk/jubileum-cafe-csoport-konyv-enpeldaul-reklam-reklamszakma",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Mi minden történt a magyar reklámszakmában az elmúlt 25 évben? Az „énpéldául” című kötet a Café Csoport alapításának 25. évfordulójára készült, amelybe 30 ismert szakember és alkotó írta meg…",
+      "fullSummary": "Mi minden történt a magyar reklámszakmában az elmúlt 25 évben? Az „énpéldául” című kötet a Café Csoport alapításának 25. évfordulójára készült, amelybe 30 ismert szakember és alkotó írta meg személyes történeteit a reklámszakmáról.",
+      "tags": [
+        "Cafe Csoport",
+        "Jubileum",
+        "Reklamszakma",
+        "Rekkamipar",
+        "Advertising",
+        "AI"
+      ],
+      "rawTags": [
+        "cafe-csoport",
+        "jubileum",
+        "reklamszakma",
+        "rekkamipar",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/e/n/p/e/l/enpeldaul-front-cafe25-20261117-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-17T19:18:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-18T11:30:36Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "725f3258",
+      "title": "The Ordinary wants your blood this Black Friday",
+      "url": "https://www.famouscampaigns.com/2026/11/the-ordinary-wants-your-blood-this-black-friday/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "The Ordinary is asking people to give blood instead of buying skincare this Black Friday, launching a donation drive under the banner “Not Everything We Need is For Sale”. Parent company DECIEM has closed its stores on Black Friday for the…",
+      "fullSummary": "The Ordinary is asking people to give blood instead of buying skincare this Black Friday, launching a donation drive under the banner “Not Everything We Need is For Sale”. Parent company DECIEM has closed its stores on Black Friday for the past seven years in protest against impulse purchases. This year, the shops will stay […]",
+      "tags": [
+        "Cause Related",
+        "Health & Beauty"
+      ],
+      "rawTags": [
+        "Cause Related",
+        "Health & Beauty"
+      ],
+      "image": null,
+      "author": "James Herring",
+      "category": "Cause Related",
+      "publishedAt": "2026-11-17T17:50:46Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-18T11:30:36Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "a2a7f9b5",
+      "title": "Az RTL Híradó megelőzte a Sztárban Sztár Gálát – 46. heti nézettség",
+      "url": "https://kreativ.hu/cikk/az-rtl-hirado-megelozte-a-sztarban-sztar-galat-46-heti-nezettseg",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A 46. héten a TV2 Csoport ismét magabiztos előnnyel nyerte a nézettségi versenyt, bár a két főcsatorna között főműsoridőben, a 18-59-es korcsoportban szoros volt az állás. A műsortoplista élén…",
+      "fullSummary": "A 46. héten a TV2 Csoport ismét magabiztos előnnyel nyerte a nézettségi versenyt, bár a két főcsatorna között főműsoridőben, a 18-59-es korcsoportban szoros volt az állás. A műsortoplista élén ezúttal a vasárnapi RTL Híradó végzett, megelőzve a Nemzetek Ligája-meccset és a Sztárban Sztár Gálát.",
+      "tags": [
+        "Tv2",
+        "Nezettseg",
+        "RTL",
+        "Media"
+      ],
+      "rawTags": [
+        "tv2",
+        "nezettseg",
+        "rtl",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/3/3/9/6/0/339604326-602712028547090-3481085620119465685-n-png-20261117-300-225-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-11-17T15:59:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-18T11:30:36Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "77256596",
+      "title": "Megalakult a Szentkirályi Balázs Alapítvány, tehetséggondozással is foglalkoznak majd",
+      "url": "https://kreativ.hu/cikk/g7-telex-szentkiralyi-balazs-alapitvany",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A G7 szerkesztősége és egykori munkatársai létrehozták a Szentkirályi Balázs Alapítványt, amely 2026-tól a portál 2023-ban elhunyt alapító-vezérigazgatójáról elnevezett újságírói díj gondozása…",
+      "fullSummary": "A G7 szerkesztősége és egykori munkatársai létrehozták a Szentkirályi Balázs Alapítványt, amely 2026-tól a portál 2023-ban elhunyt alapító-vezérigazgatójáról elnevezett újságírói díj gondozása mellett hazai tehetséggondozó műhelyként is működik majd.",
+      "tags": [
+        "Alapitvany",
+        "G7",
+        "Telex",
+        "Media",
+        "Awards"
+      ],
+      "rawTags": [
+        "alapitvany",
+        "g7",
+        "telex",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/7/0/3/3/0/703307713-1429129415900783-6866251679299751956-n0-20261117-920-690-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-11-17T15:18:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-18T11:30:36Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "d19ae031",
+      "title": "McDonald’s leaves Macaulay Culkin home alone in a restaurant",
+      "url": "https://www.famouscampaigns.com/2026/11/mcdonalds-leaves-macaulay-culkin-home-alone-in-a-restaurant/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Kevin McCallister has been abandoned again. McDonald’s has recruited Macaulay Culkin to reprise his Home Alone role, trapping him in a snowed-in restaurant to launch a festive meal inspired by the film. “Everyone disappeared, again,” says…",
+      "fullSummary": "Kevin McCallister has been abandoned again. McDonald’s has recruited Macaulay Culkin to reprise his Home Alone role, trapping him in a snowed-in restaurant to launch a festive meal inspired by the film. “Everyone disappeared, again,” says Culkin, before making himself at home, pretending to take orders and preparing food. Thirty-six years after the original film, […]",
+      "tags": [
+        "Christmas",
+        "Film & TV",
+        "Food & Drink"
+      ],
+      "rawTags": [
+        "Christmas"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/11/McDonalds-Home-Alone-Campaign.mp4",
+      "author": "Staff",
+      "category": "Christmas",
+      "publishedAt": "2026-11-17T14:51:14Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-18T11:30:36Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "45677599",
+      "title": "The Famous Q&A with ~ Gen Hoey from LEGO",
+      "url": "https://www.famouscampaigns.com/2026/11/the-famous-qa-with-gen-hoey-from-lego/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Genevieve Hoey is Senior Director, Global Creative at Our LEGO Agency and a firm believer in ideas that make people feel. With 20+ years creating award-winning work for the LEGO Group, Converse, Google, Nike and Booking.com, Gen champions…",
+      "fullSummary": "Genevieve Hoey is Senior Director, Global Creative at Our LEGO Agency and a firm believer in ideas that make people feel. With 20+ years creating award-winning work for the LEGO Group, Converse, Google, Nike and Booking.com, Gen champions brave ideas, sharp craft, culture and a healthy dose of mischief. The LEGO Holiday ad has just […]",
+      "tags": [
+        "Retail",
+        "The Famous Q&A",
+        "Agencies",
+        "Awards"
+      ],
+      "rawTags": [
+        "Retail",
+        "The Famous Q&A"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/10/DAFT-PUNK™-has-entered-the-LEGO®-universe.mp4",
+      "author": "James Herring",
+      "category": "Retail",
+      "publishedAt": "2026-11-17T13:57:11Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-18T11:30:36Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "f86b0606",
+      "title": "Fliegauf Benedek VR-filmjével és Török Ferenc rövidfilmjével jubilál a 15. ZSIFI",
+      "url": "https://kreativ.hu/cikk/budapesti-zsido-es-izraeli-filmfesztival-puskin-mozi",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "November 18. és 22. között tizenötödik alkalommal rendezik meg a Budapesti Zsidó és Izraeli Filmfesztivált (ZSIFI) a budapesti Puskin moziban. A JCC Budapest – Bálint Ház ötnapos eseményén játék-,…",
+      "fullSummary": "November 18. és 22. között tizenötödik alkalommal rendezik meg a Budapesti Zsidó és Izraeli Filmfesztivált (ZSIFI) a budapesti Puskin moziban. A JCC Budapest – Bálint Ház ötnapos eseményén játék-, dokumentum- és rövidfilmek mellett magyar alkotások és egy VR-installáció is helyet kapott.",
+      "tags": [
+        "Zsido Filmfesztival",
+        "Popkult",
+        "Gaming"
+      ],
+      "rawTags": [
+        "zsido-filmfesztival",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/9/0/0/9/8/900980208-1585129173636765-7653919399123003775-n-jfif-20261117-920-690-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-11-17T13:56:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-18T11:30:36Z",
+      "enrichAttempts": 1
+    },
+    {
       "id": "43f68745",
       "title": "Tizennégyen maradtak versenyben az új közmédia vezérigazgatói posztjáért",
       "url": "https://kreativ.hu/cikk/kozmedia-vezerigazgato-palyazat-magyar-radio-es-televizio-nonprofit-zrt",
@@ -57,7 +344,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Huszonhét jelentkezőből tizennégy pályázó felelt meg a kiírási feltételeknek a Magyar Rádió és Televízió Nonprofit Zrt. vezérigazgatói posztjára kiírt pályázaton – közölte a tulajdonosi jogokat…",
-      "fullSummary": "Huszonhét jelentkezőből tizennégy pályázó felelt meg a kiírási feltételeknek a Magyar Rádió és Televízió Nonprofit Zrt. vezérigazgatói posztjára kiírt pályázaton – közölte a tulajdonosi jogokat gyakorló Független Közmédia Testület (FKT). A jelölteket csütörtökön és pénteken hallgatják meg.",
+      "fullSummary": "Huszonhét jelentkezőből tizennégy pályázó felelt meg a kiírási feltételeknek a Magyar Rádió és Televízió Nonprofit Zrt. vezérigazgatói posztjára kiírt pályázaton – közölte a tulajdonosi jogokat…",
       "tags": [
         "Vezerigazgato",
         "Kozmedia",
@@ -70,7 +357,7 @@
         "kozmedia",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/7/3/2/8/6/732863387-1305085548448553-2193538020299231651-n-jfif0-20261117-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/7/3/2/8/6/732863387-1305085548448553-2193538020299231651-n-jfif0-20261117-690-920-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-11-17T10:21:00Z",
@@ -86,7 +373,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Egyetlen cégbe vonta össze négy korábbi üzletági vállalatát a Mito. A Mito Creative, a Mito Digital, a Mito Next és a Mito Performance jogi egyesítése 2026. július 1-jén zárult le, a másfél éves…",
-      "fullSummary": "Egyetlen cégbe vonta össze négy korábbi üzletági vállalatát a Mito. A Mito Creative, a Mito Digital, a Mito Next és a Mito Performance jogi egyesítése 2026. július 1-jén zárult le, a másfél éves átalakítás a 230 fős vállalat minden munkatársát érintette. A korábbi specializált működés után teljeskörűen integrált, iparági fókuszú ügyfélkiszolgálásra állt át. A váltás mögötti üzleti stratégiáról és az új működés első tapasztalatairól a Mito két…",
+      "fullSummary": "Egyetlen cégbe vonta össze négy korábbi üzletági vállalatát a Mito. A Mito Creative, a Mito Digital, a Mito Next és a Mito Performance jogi egyesítése 2026. július 1-jén zárult le, a másfél éves…",
       "tags": [
         "Mito",
         "Megujulas",
@@ -137,7 +424,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Összesen 1,5 milliárd forintot fizetett ki 2019 és 2026 között médiatervezésre és -vásárlásra a Nemzeti Média- és Hírközlési Hatóság (NMHH) a Balásy Gyula érdekeltségébe tartozó New Land Media…",
-      "fullSummary": "Összesen 1,5 milliárd forintot fizetett ki 2019 és 2026 között médiatervezésre és -vásárlásra a Nemzeti Média- és Hírközlési Hatóság (NMHH) a Balásy Gyula érdekeltségébe tartozó New Land Media Kft.-nek és Lounge Design Kft.-nek. A felek közötti levelezésekből kiderült, hogy a hatóság munkatársai hiába tiltakoztak, az ügynökségek elzárkóztak a Central Media felületeitől és a független lapoktól.",
+      "fullSummary": "Összesen 1,5 milliárd forintot fizetett ki 2019 és 2026 között médiatervezésre és -vásárlásra a Nemzeti Média- és Hírközlési Hatóság (NMHH) a Balásy Gyula érdekeltségébe tartozó New Land Media…",
       "tags": [
         "Nmhh",
         "Balasy Gyula",
@@ -150,7 +437,7 @@
         "new-land-media-kft",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/u/j/s/a/g/ujsagok-foto-nmhh-jpg0-20261117-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/u/j/s/a/g/ujsagok-foto-nmhh-jpg0-20261117-690-920-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-11-17T09:19:00Z",
@@ -166,7 +453,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A 2027-es évre, valamint opcionálisan 2028-ra szóló nyílt kommunikációs tendert hirdetett meg a Szerencsejáték Zrt. A moduláris felépítésű beszerzésben külön keresnek partnert a közösségi csatornák –…",
-      "fullSummary": "A 2027-es évre, valamint opcionálisan 2028-ra szóló nyílt kommunikációs tendert hirdetett meg a Szerencsejáték Zrt. A moduláris felépítésű beszerzésben külön keresnek partnert a közösségi csatornák – köztük a TippmixPro – kezelésére, valamint a stratégiai és a taktikai PR-feladatokra, a jelentkezési határidő azonban rendkívül szűk: november 19-ig várják a pályázatokat.",
+      "fullSummary": "A 2027-es évre, valamint opcionálisan 2028-ra szóló nyílt kommunikációs tendert hirdetett meg a Szerencsejáték Zrt. A moduláris felépítésű beszerzésben külön keresnek partnert a közösségi csatornák –…",
       "tags": [
         "PR Ugynokseg",
         "Szerencsejatek Zrt",
@@ -178,7 +465,7 @@
         "szerencsejatek-zrt",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/u/g/y/n/o/ugynoksegi-partnereket-keres-pr-es-kozossegi-media-feladatokra-a-szerencsejatek-zrt0-20261117-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/u/g/y/n/o/ugynoksegi-partnereket-keres-pr-es-kozossegi-media-feladatokra-a-szerencsejatek-zrt0-20261117-690-920-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-11-17T09:00:00Z",
@@ -194,7 +481,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Az Nvidia vezetőváltása körül kialakult rendkívüli helyzetben a vállalat kommunikációját egyre inkább a jogi szempontok határozhatják meg, miközben a háttérben egymással versengő érdekcsoportok…",
-      "fullSummary": "Az Nvidia vezetőváltása körül kialakult rendkívüli helyzetben a vállalat kommunikációját egyre inkább a jogi szempontok határozhatják meg, miközben a háttérben egymással versengő érdekcsoportok próbálják befolyásolni a nyilvánosságot. Chris Harihar válságkommunikációs szakértő szerint a történtek számos eleme egy jól ismert vállalati válságkezelési forgatókönyvet követ.",
+      "fullSummary": "Az Nvidia vezetőváltása körül kialakult rendkívüli helyzetben a vállalat kommunikációját egyre inkább a jogi szempontok határozhatják meg, miközben a háttérben egymással versengő érdekcsoportok…",
       "tags": [
         "Kommunikacio",
         "Valsag",
@@ -211,7 +498,7 @@
         "jensen-huang",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/m/a/r/i/i/mariia-berezovsky-0sqstxwhgnu-unsplash0-20261116-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/m/a/r/i/i/mariia-berezovsky-0sqstxwhgnu-unsplash0-20261116-690-920-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-16T15:53:00Z",
@@ -243,7 +530,7 @@
         "gamifikacio",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/k/o/z/p/e/kozpenzkereso1-png-20261116-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/k/o/z/p/e/kozpenzkereso1-png-20261116-54975-733-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-16T15:14:00Z",
@@ -284,7 +571,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Az NMHH 2027-es költségvetési tervezete szerint 4,6 milliárd forint állhat jövőre a Sajtóalap rendelkezésére. A keret a frekvenciapályázati bevételekből, a médiaszolgáltatási díjakból és egyéb…",
-      "fullSummary": "Az NMHH 2027-es költségvetési tervezete szerint 4,6 milliárd forint állhat jövőre a Sajtóalap rendelkezésére. A keret a frekvenciapályázati bevételekből, a médiaszolgáltatási díjakból és egyéb bevételekből áll össze.",
+      "fullSummary": "Az NMHH 2027-es költségvetési tervezete szerint 4,6 milliárd forint állhat jövőre a Sajtóalap rendelkezésére. A keret a frekvenciapályázati bevételekből, a médiaszolgáltatási díjakból és egyéb…",
       "tags": [
         "Koltsegvetes",
         "Nmhh",
@@ -301,7 +588,7 @@
         "sajtoalap",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/p/o/l/y/a/polyak-gabor-sajtoalap-v20-20261116-799-59925-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/p/o/l/y/a/polyak-gabor-sajtoalap-v20-20261116-45075-601-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-16T14:22:00Z",
@@ -345,7 +632,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Magyarországon körülbelül 23 ezer gyerek él állami gondozásban, az SOS Gyermekfalvak pedig két-háromszáznak viseli gondját. Mégsem múlik el úgy év, hogy az általuk megálmodott és létrehozott…",
-      "fullSummary": "Magyarországon körülbelül 23 ezer gyerek él állami gondozásban, az SOS Gyermekfalvak pedig két-háromszáznak viseli gondját. Mégsem múlik el úgy év, hogy az általuk megálmodott és létrehozott kampányok ne kapnák meg valamely verseny díjait. Idén Az első anyák napja, megnyerte a PREXA fődíját, az Újrarajzolt gyerekkor aranyat kapott társadalmi kommunikáció kategóriában, és storytelling kategóriában is aratott. A kampányok megálmodója pedig…",
+      "fullSummary": "Magyarországon körülbelül 23 ezer gyerek él állami gondozásban, az SOS Gyermekfalvak pedig két-háromszáznak viseli gondját. Mégsem múlik el úgy év, hogy az általuk megálmodott és létrehozott…",
       "tags": [
         "PR",
         "Gyermekvedelem",
@@ -394,7 +681,7 @@
         "fkt",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/f/u/g/g/e/fuggetlen-kozmedia-testulet-logoja-png0-20261113-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/f/u/g/g/e/fuggetlen-kozmedia-testulet-logoja-png0-20261113-920-690-90-zc.webp",
       "author": "L. B.",
       "category": "",
       "publishedAt": "2026-11-13T19:48:00Z",
@@ -11473,289 +11760,6 @@
       "datePrecise": true,
       "firstSeenAt": "2026-09-20T03:21:48Z",
       "enrichAttempts": 0
-    },
-    {
-      "id": "36e64188",
-      "title": "Fake Meta’s Smart Glass Posters",
-      "url": "https://theinspiration.com/2026/09/fake-metas-smart-glass-posters/",
-      "source": "theinspiration",
-      "sourceName": "The Inspiration",
-      "accent": "#f5b301",
-      "summary": "",
-      "fullSummary": "",
-      "tags": [
-        "Advertising"
-      ],
-      "rawTags": [
-        "Advertising"
-      ],
-      "image": "https://theinspiration.com/wp-content/uploads/lunettes-meta-metro-londres-affiches-3.jpg-750x536.webp",
-      "author": "Daniel Ingvartsen",
-      "category": "Advertising",
-      "publishedAt": "2026-09-18T20:16:08Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-19T03:21:20Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "9c42a68d",
-      "title": "Megnyílt a 26. ARC közérzeti kiállítás",
-      "url": "https://kreativ.hu/cikk/megnyilt-a-26-arc-kozerzeti-kiallitas",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A 26. ARC kiállítás idén is egy bárki számára nyitott, jeligés pályázat eredménye. A tárlat egy hónapon keresztül, szeptember 18-tól október 18-ig Újbudán, a 1111 Goldmann György tér 3. címen, a…",
-      "fullSummary": "A 26. ARC kiállítás idén is egy bárki számára nyitott, jeligés pályázat eredménye. A tárlat egy hónapon keresztül, szeptember 18-tól október 18-ig Újbudán, a 1111 Goldmann György tér 3. címen, a…",
-      "tags": [
-        "Arc",
-        "Kozerzeti Kiallitas",
-        "Popkult",
-        "Awards"
-      ],
-      "rawTags": [
-        "arc",
-        "kozerzeti-kiallitas",
-        "popkult"
-      ],
-      "image": "https://kreativ.hu/img-cache/a/r/c/-/2/arc-26-kv-kiallitas-2-0-20260918-690-920-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-18T15:23:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-19T03:21:20Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "e4b84919",
-      "title": "A MEME teljes tagsága alakítja ki a szervezet álláspontját a Médiatanács elnökjelöltjeiről",
-      "url": "https://kreativ.hu/cikk/magyar-elektornikus-musorszolgaltatok-egyesulete-mediatanacs-elnokjelolt",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A Magyar Elektronikus Műsorszolgáltatók Egyesülete (MEME) a Médiatanács elnökének kiválasztásában való szakmai részvétel átláthatósága érdekében nyilvánosságra hozza a pályázók értékelésére és a MEME…",
-      "fullSummary": "A Magyar Elektronikus Műsorszolgáltatók Egyesülete (MEME) a Médiatanács elnökének kiválasztásában való szakmai részvétel átláthatósága érdekében nyilvánosságra hozza a pályázók értékelésére és a MEME…",
-      "tags": [
-        "Mediatanacs",
-        "Meme",
-        "Elnokjeloltek",
-        "Media"
-      ],
-      "rawTags": [
-        "mediatanacs",
-        "meme",
-        "elnokjeloltek",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/j/r/y/d/e/jrydertr-chair-9905356-1920-0-20260918-690-920-90-zc.webp",
-      "author": "F. V.",
-      "category": "",
-      "publishedAt": "2026-09-18T14:45:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-19T03:21:20Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "ee7c5a07",
-      "title": "Közös közleményben bírálja a Media1-et a MEME, az MLE, az MTE és az ÖRT",
-      "url": "https://kreativ.hu/cikk/media1-meme-mle-tme-ort-kozlemeny-felszolitas-lejaratas",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A Magyar Elektronikus Műsorszolgáltatók Egyesülete (MEME), a Magyar Lapkiadók Egyesülete (MLE), a Magyarországi Tartalomszolgáltatók Egyesülete (MTE) és az Önszabályozó Reklám Testület (ÖRT) közös…",
-      "fullSummary": "A Magyar Elektronikus Műsorszolgáltatók Egyesülete (MEME), a Magyar Lapkiadók Egyesülete (MLE), a Magyarországi Tartalomszolgáltatók Egyesülete (MTE) és az Önszabályozó Reklám Testület (ÖRT) közös…",
-      "tags": [
-        "Meme",
-        "Mte",
-        "Mle",
-        "Ort",
-        "Media1",
-        "Media"
-      ],
-      "rawTags": [
-        "meme",
-        "mte",
-        "mle",
-        "ort",
-        "media1",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/7/7/4/9/7/774972030-27814809824837144-66156674060246803-n-png-0-20260918-690-920-90-zc.webp",
-      "author": "F. V.",
-      "category": "",
-      "publishedAt": "2026-09-18T14:18:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-19T03:21:20Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "d25fec78",
-      "title": "A MaReSz kizárta tagjai közül a Lounge Event Kft.-t",
-      "url": "https://kreativ.hu/cikk/maresz-lounge-kft-kizaras-etikai-kodex",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A Magyarországi Rendezvényszervezők és -szolgáltatók Szövetségének (MaReSz) Elnöksége 2026. szeptember 17-i határozatával kizárta tagjai közül a Lounge Event Kft.-t. Az Elnökség megállapítása szerint…",
-      "fullSummary": "A Magyarországi Rendezvényszervezők és -szolgáltatók Szövetségének (MaReSz) Elnöksége 2026. szeptember 17-i határozatával kizárta tagjai közül a Lounge Event Kft.-t. Az Elnökség megállapítása szerint…",
-      "tags": [
-        "Maresz",
-        "Lounge Event Kft",
-        "Advertising"
-      ],
-      "rawTags": [
-        "maresz",
-        "lounge-event-kft",
-        "reklam"
-      ],
-      "image": "https://kreativ.hu/img-cache/d/o/w/n/l/download-jfif-0-20260918-676-5-902-90-zc.webp",
-      "author": "F. V.",
-      "category": "",
-      "publishedAt": "2026-09-18T12:30:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-19T03:21:20Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "a6b4c1f7",
-      "title": "Andel — Climate Coverage",
-      "url": "https://theinspiration.com/2026/09/andel-climate-coverage/",
-      "source": "theinspiration",
-      "sourceName": "The Inspiration",
-      "accent": "#f5b301",
-      "summary": "Andel turned its own advertising space into a platform for climate journalism. As climate coverage continues to decline, Denmark’s largest green energy provider donated ad space in the country’s biggest newspapers to independent climate…",
-      "fullSummary": "Andel turned its own advertising space into a platform for climate journalism. As climate coverage continues to decline, Denmark’s largest green energy provider donated ad space in the country’s biggest newspapers to independent climate journalists — with no editorial influence. A simple shift from buying attention to giving attention turned media space itself into the […]",
-      "tags": [
-        "Advertising",
-        "Media",
-        "Sustainability"
-      ],
-      "rawTags": [
-        "Advertising"
-      ],
-      "image": "https://theinspiration.com/wp-content/uploads/OOH_001-750x536.webp",
-      "author": "René Kammersgaard",
-      "category": "Advertising",
-      "publishedAt": "2026-09-18T11:57:25Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-19T03:21:20Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "af46225b",
-      "title": "Társadalmi egyeztetés indult az új plakátszabályokról",
-      "url": "https://kreativ.hu/cikk/tarsadalmi-egyeztetes-indult-az-uj-plakatszabalyokrol",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A kormány a reklámzaj csökkentését és a reklámeszközök számának visszaszorítását célozza azzal a rendelettervezettel, amely több ponton szigorítaná a közterületi reklámok elhelyezésének szabályait. A…",
-      "fullSummary": "A kormány a reklámzaj csökkentését és a reklámeszközök számának visszaszorítását célozza azzal a rendelettervezettel, amely több ponton szigorítaná a közterületi reklámok elhelyezésének szabályait. A…",
-      "tags": [
-        "Advertising",
-        "Onkormanyzat",
-        "Torveny",
-        "Szigoritas",
-        "OOH",
-        "Hirdetesi Piac"
-      ],
-      "rawTags": [
-        "reklam",
-        "onkormanyzat",
-        "torveny",
-        "szigoritas",
-        "oriasplakat",
-        "hirdetesi-piac",
-        "tarsadalmi-egyeztetes",
-        "plakattorveny"
-      ],
-      "image": "https://kreativ.hu/img-cache/c/i/t/y/l/citylight-kezdo-2-0-20260918-920-690-90-zc.webp",
-      "author": "T. R.",
-      "category": "",
-      "publishedAt": "2026-09-18T10:45:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-19T03:21:20Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "854ad2fd",
-      "title": "95 százalékkal estek vissza az állami reklámköltések a kormányváltás után",
-      "url": "https://kreativ.hu/cikk/95-szazalekkal-estek-vissza-az-allami-reklamkoltesek-a-kormanyvaltas-utan",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A választás utáni három hónapban az állami cégek és intézmények 95 százalékkal kevesebbet költöttek hirdetésekre, mint az első negyedévben, de a magánhirdetőknél is komolyabb átrendeződés látszik,…",
-      "fullSummary": "A választás utáni három hónapban az állami cégek és intézmények 95 százalékkal kevesebbet költöttek hirdetésekre, mint az első negyedévben, de a magánhirdetőknél is komolyabb átrendeződés látszik,…",
-      "tags": [
-        "Advertising",
-        "Politics"
-      ],
-      "rawTags": [
-        "reklam"
-      ],
-      "image": "https://kreativ.hu/img-cache/p/e/x/e/l/pexels-peter-dyllong-2158803154-36519146-0-20260918-920-690-90-zc.webp",
-      "author": "F. V.",
-      "category": "",
-      "publishedAt": "2026-09-18T10:11:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-19T03:21:20Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "cf9fb706",
-      "title": "Mélyebben a socialről: szakmai vodcastot indított a DEEP",
-      "url": "https://kreativ.hu/cikk/one-deeper-uj-vodcast-deep-creative-collective-hadacs-balint-interju",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Új szakmai videópodcastot indított a The Deep Creative Collective: a ONE DEEPER kreativitásról, kultúráról és kommunikációról szóló beszélgetésekkel ígér betekintést az iparág formálóinak…",
-      "fullSummary": "Új szakmai videópodcastot indított a The Deep Creative Collective: a ONE DEEPER kreativitásról, kultúráról és kommunikációról szóló beszélgetésekkel ígér betekintést az iparág formálóinak…",
-      "tags": [
-        "Uj Musor",
-        "Podcast",
-        "Deep Cc",
-        "Advertising"
-      ],
-      "rawTags": [
-        "uj-musor",
-        "podcast",
-        "deep-cc",
-        "reklam"
-      ],
-      "image": "https://kreativ.hu/img-cache/o/n/e/-/d/one-deeper-cover-png-0-20260918-920-690-90-zc.webp",
-      "author": "Lakos Boglárka",
-      "category": "",
-      "publishedAt": "2026-09-18T08:45:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-19T03:21:20Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "1d2634f5",
-      "title": "Elkészült a Lenny Kravitzről mintázott Ken baba",
-      "url": "https://kreativ.hu/cikk/barbie-baba-ken-mattel-lenny-kravitz",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A gyűjtői Lenny Kravitz Ken figura a „Blue Electric Light Tour” koncertturné; valamint a többszörösen díjazott énekes, dalszerző, zenész, lemezproducer, színész és designer páratlan pályafutása előtt…",
-      "fullSummary": "A gyűjtői Lenny Kravitz Ken figura a „Blue Electric Light Tour” koncertturné; valamint a többszörösen díjazott énekes, dalszerző, zenész, lemezproducer, színész és designer páratlan pályafutása előtt…",
-      "tags": [
-        "Lenny Kravitz",
-        "Mattel",
-        "Barbie Baba",
-        "Popkult",
-        "Design"
-      ],
-      "rawTags": [
-        "lenny-kravitz",
-        "mattel",
-        "barbie-baba",
-        "popkult"
-      ],
-      "image": "https://kreativ.hu/img-cache/l/e/n/n/y/lenny-2-0-20260918-690-920-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-18T08:43:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-19T03:21:20Z",
-      "enrichAttempts": 1
     }
   ]
 }
