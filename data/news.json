@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T11:30:36Z",
+  "generatedAt": "2026-11-19T11:29:49Z",
   "itemCount": 400,
   "sources": [
     {
@@ -50,6 +50,382 @@
   ],
   "items": [
     {
+      "id": "26c5d2b2",
+      "title": "Együttműködésre lép a foodora és a POS Media",
+      "url": "https://kreativ.hu/cikk/foodora-pos-media-egyuttmukodes-partnerseg",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A partnerség célja, hogy összekapcsolja az online és offline eladáshelyi marketinget: a POS Media a foodora Shops online hirdetési felületeivel bővíti in-store portfólióját, és a kampányok…",
+      "fullSummary": "A partnerség célja, hogy összekapcsolja az online és offline eladáshelyi marketinget: a POS Media a foodora Shops online hirdetési felületeivel bővíti in-store portfólióját, és a kampányok tervezésében, kezelésében, optimalizálásában is részt vesz.",
+      "tags": [
+        "Egyuttmukodes",
+        "Pos Media",
+        "Partnerseg",
+        "Foodora",
+        "Advertising",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "egyuttmukodes",
+        "pos-media",
+        "partnerseg",
+        "foodora",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/p/o/s/-/x/pos-x-foodora-v2-png-20261119-661-49575-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-19T11:15:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-19T11:29:49Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "e1057fd8",
+      "title": "Parázs vitával indult, három tortával zárult – így ünnepelte az új elnökség a 35 éves MPRSZ-t",
+      "url": "https://kreativ.hu/cikk/mprsz-35-szuletesnap-kerekasztal-vita-gryllus-dorka-menopauza",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Magyar PR Szövetség keddi, 35. születésnapján az évforduló szinte elsikkadt a háttérben – de ez nem róható fel, mert cserébe volt benne élet, erősen körvonalazott vélemények, határozott karakterek.…",
+      "fullSummary": "A Magyar PR Szövetség keddi, 35. születésnapján az évforduló szinte elsikkadt a háttérben – de ez nem róható fel, mert cserébe volt benne élet, erősen körvonalazott vélemények, határozott karakterek. Egy élő, együtt gondolkodni és tenni akaró szakmai közösség gyűlt össze a kommersz iskolai ünnepségeket idéző hangulat helyett. Csermely Ákos vitaindítója után a résztvevők a kreativitás és az önszabályozás határairól beszélgettek, mígnem a Gryllus…",
+      "tags": [
+        "Kreativitas",
+        "PR",
+        "Evfordulo",
+        "Mprsz",
+        "Etika",
+        "Vita"
+      ],
+      "rawTags": [
+        "kreativitas",
+        "pr",
+        "evfordulo",
+        "mprsz",
+        "etika",
+        "vita",
+        "kerekasztal",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/5/5/6/5/9/55659478432-83544dd1f6-c-20261119-800-600-90-zc.webp",
+      "author": "Lakos Boglárka",
+      "category": "",
+      "publishedAt": "2026-11-19T10:23:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-19T11:29:49Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "d5469b5c",
+      "title": "Négy országban lesz a Provident kreatív és stratégiai partnere az ACG",
+      "url": "https://kreativ.hu/cikk/provident-europe-acg-reklamugynokseg-tenderhir",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A hazai reklámügynökség nyerte a Provident Europe többfordulós nemzetközi tenderét. Az ACG feladata egy egységes, digitális fókuszú, 360 fokos kommunikációs platform kialakítása és megvalósítása lesz…",
+      "fullSummary": "A hazai reklámügynökség nyerte a Provident Europe többfordulós nemzetközi tenderét. Az ACG feladata egy egységes, digitális fókuszú, 360 fokos kommunikációs platform kialakítása és megvalósítása lesz Magyarországon, Lengyelországban, Csehországban és Romániában.",
+      "tags": [
+        "Reklamugynokseg",
+        "Acg",
+        "Tenderhir",
+        "Provident Europe",
+        "Advertising",
+        "Strategy"
+      ],
+      "rawTags": [
+        "reklamugynokseg",
+        "acg",
+        "tenderhir",
+        "provident-europe",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/c/g/0/-/acg0-20261119-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-19T10:15:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-19T11:29:49Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "d45cb0cb",
+      "title": "Új kommunikációs vezetőt keres a Magyar Közút",
+      "url": "https://kreativ.hu/cikk/allas-kommunikacios-vezeto-magyar-kozut",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A több mint ötezer főt foglalkoztató társaság nyílt pályázaton keres új kommunikációs vezetőt.",
+      "fullSummary": "A több mint ötezer főt foglalkoztató társaság nyílt pályázaton keres új kommunikációs vezetőt.",
+      "tags": [
+        "Allas",
+        "Magyar Kozut",
+        "Vezeto",
+        "Kommunikacios",
+        "Advertising",
+        "Awards"
+      ],
+      "rawTags": [
+        "allas",
+        "magyar-kozut",
+        "vezeto",
+        "kommunikacios",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/a/g/y/a/magyar-kozut0-20261119-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-19T09:53:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-19T11:29:49Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "c7f58802",
+      "title": "A Dalfutár korábbi évadait tűzi műsorra a Network4",
+      "url": "https://kreativ.hu/cikk/a-dalfutar-korabbi-evadait-tuzi-musorra-a-network4",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Hajós András YouTube-on sikerrel futó zenei műsorának korábban leforgatott 12. évadát decembertől a TV4 nézői is láthatják. A Network4 a sugárzási jogokat vásárolta meg, a műsor készítője azonban nem…",
+      "fullSummary": "Hajós András YouTube-on sikerrel futó zenei műsorának korábban leforgatott 12. évadát decembertől a TV4 nézői is láthatják. A Network4 a sugárzási jogokat vásárolta meg, a műsor készítője azonban nem csatlakozik a médiacsoporthoz.",
+      "tags": [
+        "Hajos Andras",
+        "Dalfutar",
+        "Network4",
+        "Tv4",
+        "Media",
+        "Social Media"
+      ],
+      "rawTags": [
+        "hajos-andras",
+        "dalfutar",
+        "network4",
+        "tv4",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/h/a/j/o/s/hajos-andras-jpeg0-20261119-500-375-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-19T09:30:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-19T11:29:49Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "e07f799e",
+      "title": "Élőben követhető a közmédia vezérigazgatói meghallgatása",
+      "url": "https://kreativ.hu/cikk/vezerigazgato-kozmedia-mrtv-meghallgatas-elo-fkt",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "November 19-én és 20-án hallgatja meg a Független Közmédia Testület (FKT) a Magyar Rádió és Televízió Nonprofit Zrt. vezérigazgatói posztjára érvényes pályázatot benyújtó 14 jelöltet. A…",
+      "fullSummary": "November 19-én és 20-án hallgatja meg a Független Közmédia Testület (FKT) a Magyar Rádió és Televízió Nonprofit Zrt. vezérigazgatói posztjára érvényes pályázatot benyújtó 14 jelöltet. A meghallgatásokat élőben közvetítik, a pályázóknak tíz perc áll rendelkezésükre vezetői koncepciójuk bemutatására, ezt követően pedig a testület tagjainak kérdéseire válaszolnak.",
+      "tags": [
+        "Vezerigazgato",
+        "Kozmedia",
+        "Elo",
+        "Meghallgatas",
+        "Fkt",
+        "Mrtv"
+      ],
+      "rawTags": [
+        "vezerigazgato",
+        "kozmedia",
+        "elo",
+        "meghallgatas",
+        "fkt",
+        "mrtv",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/t/v/a/0/mtva0-20261118-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-19T07:15:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-19T11:29:49Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "f0c75451",
+      "title": "Nem engedte a Best FM-hálózat átalakítását a Médiatanács, az RTL-lel is egyeztetett a testület",
+      "url": "https://kreativ.hu/cikk/nem-engedte-a-best-fm-halozat-atalakitasat-a-mediatanacs-az-rtl-lel-is-egyeztetett-a-testulet",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Médiatanács november 16-i ülésén nem járult hozzá ahhoz, hogy több vidéki Best FM-rádió a budapesti Rock FM műsorait vegye át. Két eljárás indításáról is szó volt és a testület Gryllus-ügyben is…",
+      "fullSummary": "A Médiatanács november 16-i ülésén nem járult hozzá ahhoz, hogy több vidéki Best FM-rádió a budapesti Rock FM műsorait vegye át. Két eljárás indításáról is szó volt és a testület Gryllus-ügyben is egyeztetett.",
+      "tags": [
+        "Nmhh",
+        "Mediatanacs",
+        "RTL",
+        "Best Fm",
+        "Media"
+      ],
+      "rawTags": [
+        "nmhh",
+        "mediatanacs",
+        "rtl",
+        "best-fm",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-2040314636-1-jpeg-20261118-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-18T16:31:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-19T11:29:49Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "2655062e",
+      "title": "KitKat turns the equals sign into a chocolate break for coders",
+      "url": "https://www.famouscampaigns.com/2026/11/kitkat-turns-the-equals-sign-into-a-chocolate-break-for-coders/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Type an equals sign and you’re looking at two KitKat fingers. That’s the observation behind Kit=Code, a campaign from KitKat Vietnam and Leo Vietnam that counts the “=” signs in developers’ code and tells them when to take a chocolate…",
+      "fullSummary": "Type an equals sign and you’re looking at two KitKat fingers. That’s the observation behind Kit=Code, a campaign from KitKat Vietnam and Leo Vietnam that counts the “=” signs in developers’ code and tells them when to take a chocolate break. Developers copy a prompt from the Kit=Code site, paste it into Claude or Codex […]",
+      "tags": [
+        "Food & Drink",
+        "PR",
+        "Social Media",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "Food & Drink",
+        "PR",
+        "Social Media"
+      ],
+      "image": null,
+      "author": "James Herring",
+      "category": "Food & Drink",
+      "publishedAt": "2026-11-18T16:10:35Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-19T11:29:49Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "afc0b305",
+      "title": "Rendőrségi realitytől a móri bankrablásig: a true crime felemelkedése",
+      "url": "https://kreativ.hu/cikk/rendorsegi-realitytol-a-mori-bankrablasig-a-true-crime-felemelkedese",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Idén ősszel a magyar televíziós piacon is berobbant a true crime: szeptemberben elindult az AXN Crime, az HBO bemutatja első magyar gyártású true crime-sorozatát, és a TV2 is hazai bűnügyeket…",
+      "fullSummary": "Idén ősszel a magyar televíziós piacon is berobbant a true crime: szeptemberben elindult az AXN Crime, az HBO bemutatja első magyar gyártású true crime-sorozatát, és a TV2 is hazai bűnügyeket feldolgozó doku-realityvel készül. A műfaj hosszú utat járt be a megfigyelő dokumentumfilmtől a rendőrségi realityn át a Netflix sikersorozataiig. Hogyan született meg a zsáner, milyen szerepe van a sikerében a streamingnek, és mit terveznek vele a hazai…",
+      "tags": [
+        "Film & TV",
+        "Reality",
+        "Tv2",
+        "Hbo",
+        "True Crime",
+        "Popkult"
+      ],
+      "rawTags": [
+        "televizio",
+        "reality",
+        "tv2",
+        "hbo",
+        "true-crime",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/t/u/l/e/l/tuleltem-egy-sorozatgyilkost-s2-1-axn-crime-20261118-920-690-90-zc.webp",
+      "author": "Schäffer Dániel",
+      "category": "",
+      "publishedAt": "2026-11-18T15:11:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-19T11:29:49Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "9411b69c",
+      "title": "Black Friday is a race to the brand, and in the UK Amazon is well ahead",
+      "url": "https://www.famouscampaigns.com/2026/11/black-friday-is-a-race-to-the-brand-and-in-the-uk-amazon-is-well-ahead/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Partner content: in association with Tracksuit Discounts get the headlines. New research from Tracksuit argues that shoppers head for the brand they already rate, and half of UK Black Friday shoppers had chosen Amazon before the sales…",
+      "fullSummary": "Partner content: in association with Tracksuit Discounts get the headlines. New research from Tracksuit argues that shoppers head for the brand they already rate, and half of UK Black Friday shoppers had chosen Amazon before the sales began. Black Friday has a reputation as a free-for-all of deep discounts and ever-earlier deals. Research led by […]",
+      "tags": [
+        "Brand Measurement",
+        "Branding",
+        "Retail"
+      ],
+      "rawTags": [
+        "Brand Measurement"
+      ],
+      "image": null,
+      "author": "Staff",
+      "category": "Brand Measurement",
+      "publishedAt": "2026-11-18T14:45:35Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-19T11:29:49Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "c09b81b5",
+      "title": "Mindannyiunk ügye: a fenntartható működésért indít kampányt a Magyar Hospice Alapítvány",
+      "url": "https://kreativ.hu/cikk/hospice-alapitvany-kampany-tamogatas-adomanygyujtes",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Magyar Hospice Alapítvány anyagi helyzetének kiszámíthatósága érdekében annyi, havi rendszeres támogatóra - szám szerint 478-ra - lenne szükség, ahány beteg mellett ők álltak a legutolsó pénzügyi…",
+      "fullSummary": "A Magyar Hospice Alapítvány anyagi helyzetének kiszámíthatósága érdekében annyi, havi rendszeres támogatóra - szám szerint 478-ra - lenne szükség, ahány beteg mellett ők álltak a legutolsó pénzügyi évükben. Ennyien akár már havonta 3500 forintnyi rendszeres támogatással kiszámítható bevételt adnának a 2027-es alapítványi működéshez. Erre hívja fel a figyelmet a szervezet novemberi kampánya.",
+      "tags": [
+        "Hospice",
+        "Tamogatas",
+        "Adomany",
+        "Campaigns",
+        "Media"
+      ],
+      "rawTags": [
+        "hospice",
+        "tamogatas",
+        "adomany",
+        "kampany",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/z/e/n/e/t/zeneterapia-fannival-20261117-920-690-90-zc.webp",
+      "author": "S. D.",
+      "category": "",
+      "publishedAt": "2026-11-18T13:29:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-19T11:29:49Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "287a2159",
+      "title": "Mondy Andrea lett a Process Solutions marketingigazgatója",
+      "url": "https://kreativ.hu/cikk/mondy-andrea-lett-a-process-solutions-marketingigazgatoja",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Az új vezető csapatával öt ország marketingjét hangolják össze, és a munkát AI-ügynökökre épülő folyamatokra állítják át.",
+      "fullSummary": "Az új vezető csapatával öt ország marketingjét hangolják össze, és a munkát AI-ügynökökre épülő folyamatokra állítják át.",
+      "tags": [
+        "Marketing",
+        "Szemelyi Hir",
+        "Process Solutions",
+        "AI",
+        "Advertising"
+      ],
+      "rawTags": [
+        "marketing",
+        "szemelyi-hir",
+        "process-solutions",
+        "ai",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/o/n/d/y/mondy-jpeg-20261118-46725-623-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-18T11:55:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-19T11:29:49Z",
+      "enrichAttempts": 1
+    },
+    {
       "id": "ee42db54",
       "title": "Baráth Krisztina vette át a leváltott TV2 Híradó főszerkesztőjének feladatait",
       "url": "https://kreativ.hu/cikk/barath-krisztina-vette-at-a-levaltott-tv2-hirado-foszerkesztojenek-feladatait",
@@ -72,7 +448,7 @@
         "szemelycsere",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/t/v/2/-/2/tv2-20261118-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/t/v/2/-/2/tv2-20261118-690-920-90-zc.webp",
       "author": "S. D.",
       "category": "",
       "publishedAt": "2026-11-18T09:52:00Z",
@@ -88,7 +464,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A szakember az Indexnél 2026 júniusától októberig dolgozott. A távozás időzítése egybeesett Hont András vezérigazgatói kinevezésével, Murányi azonban saját kérésére, közös megegyezéssel…",
-      "fullSummary": "A szakember az Indexnél 2026 júniusától októberig dolgozott. A távozás időzítése egybeesett Hont András vezérigazgatói kinevezésével, Murányi azonban saját kérésére, közös megegyezéssel távozott.",
+      "fullSummary": "A szakember az Indexnél 2026 júniusától októberig dolgozott. A távozás időzítése egybeesett Hont András vezérigazgatói kinevezésével, Murányi azonban saját kérésére, közös megegyezéssel…",
       "tags": [
         "Nepszabadsag",
         "Index",
@@ -104,7 +480,7 @@
         "muranyi-andras",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/m/u/r/r/2/murr2-png-20261118-800-600-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/m/u/r/r/2/murr2-png-20261118-4515-602-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-18T07:36:00Z",
@@ -120,7 +496,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Ponczók Attila filmje, a Papa nyitotta november 16-án a 23. Verzió Nemzetközi Emberi Jogi Dokumentumfilm Fesztivált. A négy éven át forgatott, saját családtörténetből kiinduló dokumentumfilm…",
-      "fullSummary": "Ponczók Attila filmje, a Papa nyitotta november 16-án a 23. Verzió Nemzetközi Emberi Jogi Dokumentumfilm Fesztivált. A négy éven át forgatott, saját családtörténetből kiinduló dokumentumfilm februárban elnyerte a 45. Magyar Filmszemle legjobb dokumentumfilmnek járó díját.",
+      "fullSummary": "Ponczók Attila filmje, a Papa nyitotta november 16-án a 23. Verzió Nemzetközi Emberi Jogi Dokumentumfilm Fesztivált. A négy éven át forgatott, saját családtörténetből kiinduló dokumentumfilm…",
       "tags": [
         "Emberi Jogok",
         "Verzio",
@@ -134,7 +510,7 @@
         "23-verzio-nemzetkozi-emberi-jogi-dokumentumfilm-fesztival",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/v/e/r/z/i/verzio261116-pozsonyir-megnyito-web-060-20261118-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/v/e/r/z/i/verzio261116-pozsonyir-megnyito-web-060-20261118-54975-733-90-zc.webp",
       "author": "S. D.",
       "category": "",
       "publishedAt": "2026-11-17T19:46:00Z",
@@ -150,7 +526,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Mi minden történt a magyar reklámszakmában az elmúlt 25 évben? Az „énpéldául” című kötet a Café Csoport alapításának 25. évfordulójára készült, amelybe 30 ismert szakember és alkotó írta meg…",
-      "fullSummary": "Mi minden történt a magyar reklámszakmában az elmúlt 25 évben? Az „énpéldául” című kötet a Café Csoport alapításának 25. évfordulójára készült, amelybe 30 ismert szakember és alkotó írta meg személyes történeteit a reklámszakmáról.",
+      "fullSummary": "Mi minden történt a magyar reklámszakmában az elmúlt 25 évben? Az „énpéldául” című kötet a Café Csoport alapításának 25. évfordulójára készült, amelybe 30 ismert szakember és alkotó írta meg…",
       "tags": [
         "Cafe Csoport",
         "Jubileum",
@@ -166,7 +542,7 @@
         "rekkamipar",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/e/n/p/e/l/enpeldaul-front-cafe25-20261117-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/e/n/p/e/l/enpeldaul-front-cafe25-20261117-690-920-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-17T19:18:00Z",
@@ -207,7 +583,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A 46. héten a TV2 Csoport ismét magabiztos előnnyel nyerte a nézettségi versenyt, bár a két főcsatorna között főműsoridőben, a 18-59-es korcsoportban szoros volt az állás. A műsortoplista élén…",
-      "fullSummary": "A 46. héten a TV2 Csoport ismét magabiztos előnnyel nyerte a nézettségi versenyt, bár a két főcsatorna között főműsoridőben, a 18-59-es korcsoportban szoros volt az állás. A műsortoplista élén ezúttal a vasárnapi RTL Híradó végzett, megelőzve a Nemzetek Ligája-meccset és a Sztárban Sztár Gálát.",
+      "fullSummary": "A 46. héten a TV2 Csoport ismét magabiztos előnnyel nyerte a nézettségi versenyt, bár a két főcsatorna között főműsoridőben, a 18-59-es korcsoportban szoros volt az állás. A műsortoplista élén…",
       "tags": [
         "Tv2",
         "Nezettseg",
@@ -220,7 +596,7 @@
         "rtl",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/3/3/9/6/0/339604326-602712028547090-3481085620119465685-n-png-20261117-300-225-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/3/3/9/6/0/339604326-602712028547090-3481085620119465685-n-png-20261117-1695-226-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-11-17T15:59:00Z",
@@ -236,7 +612,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A G7 szerkesztősége és egykori munkatársai létrehozták a Szentkirályi Balázs Alapítványt, amely 2026-tól a portál 2023-ban elhunyt alapító-vezérigazgatójáról elnevezett újságírói díj gondozása…",
-      "fullSummary": "A G7 szerkesztősége és egykori munkatársai létrehozták a Szentkirályi Balázs Alapítványt, amely 2026-tól a portál 2023-ban elhunyt alapító-vezérigazgatójáról elnevezett újságírói díj gondozása mellett hazai tehetséggondozó műhelyként is működik majd.",
+      "fullSummary": "A G7 szerkesztősége és egykori munkatársai létrehozták a Szentkirályi Balázs Alapítványt, amely 2026-tól a portál 2023-ban elhunyt alapító-vezérigazgatójáról elnevezett újságírói díj gondozása…",
       "tags": [
         "Alapitvany",
         "G7",
@@ -318,7 +694,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "November 18. és 22. között tizenötödik alkalommal rendezik meg a Budapesti Zsidó és Izraeli Filmfesztivált (ZSIFI) a budapesti Puskin moziban. A JCC Budapest – Bálint Ház ötnapos eseményén játék-,…",
-      "fullSummary": "November 18. és 22. között tizenötödik alkalommal rendezik meg a Budapesti Zsidó és Izraeli Filmfesztivált (ZSIFI) a budapesti Puskin moziban. A JCC Budapest – Bálint Ház ötnapos eseményén játék-, dokumentum- és rövidfilmek mellett magyar alkotások és egy VR-installáció is helyet kapott.",
+      "fullSummary": "November 18. és 22. között tizenötödik alkalommal rendezik meg a Budapesti Zsidó és Izraeli Filmfesztivált (ZSIFI) a budapesti Puskin moziban. A JCC Budapest – Bálint Ház ötnapos eseményén játék-,…",
       "tags": [
         "Zsido Filmfesztival",
         "Popkult",
@@ -357,7 +733,7 @@
         "kozmedia",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/7/3/2/8/6/732863387-1305085548448553-2193538020299231651-n-jfif0-20261117-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/7/3/2/8/6/732863387-1305085548448553-2193538020299231651-n-jfif0-20261117-920-690-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-11-17T10:21:00Z",
@@ -399,8 +775,8 @@
       "source": "theinspiration",
       "sourceName": "The Inspiration",
       "accent": "#f5b301",
-      "summary": "James Blunt turned the criticism of his own music into a clever piece of album merchandise. To promote his new album Airplane Mode, he offered fans a custom air-sickness bag, personally signed by the singer, with every album bundle…",
-      "fullSummary": "James Blunt turned the criticism of his own music into a clever piece of album merchandise. To promote his new album Airplane Mode, he offered fans a custom air-sickness bag, personally signed by the singer, with every album bundle purchased through his online store. A playful nod to the people who claim his music makes […]",
+      "summary": "James Blunt promotes his album Airplane Mode with a signed air-sickness bag – self-deprecating merch that turns the joke about his music into a collectible. The post James Blunt — Airplane Mode: The Signed Sick Bag appeared first on…",
+      "fullSummary": "James Blunt promotes his album Airplane Mode with a signed air-sickness bag – self-deprecating merch that turns the joke about his music into a collectible. The post James Blunt — Airplane Mode: The Signed Sick Bag appeared first on THEINSPIRATION.COM .",
       "tags": [
         "Advertising",
         "Music"
@@ -545,12 +921,11 @@
       "source": "theinspiration",
       "sourceName": "The Inspiration",
       "accent": "#f5b301",
-      "summary": "Lebara is introducing a new brand mascot to a category that could use a little more personality: a famously chilled-out capybara. Brought to life through beautifully crafted stop-motion animation, the character embodies the campaign’s…",
-      "fullSummary": "Lebara is introducing a new brand mascot to a category that could use a little more personality: a famously chilled-out capybara. Brought to life through beautifully crafted stop-motion animation, the character embodies the campaign’s simple promise: great network, great service and a great price. In a category where consumers have learned to expect less from […]",
+      "summary": "Lebara introduces a chilled-out stop-motion capybara as its new brand mascot in It's All Good – great network, great service, great price, zero stress. The post Lebara — It’s All Good appeared first on THEINSPIRATION.COM .",
+      "fullSummary": "Lebara introduces a chilled-out stop-motion capybara as its new brand mascot in It's All Good – great network, great service, great price, zero stress. The post Lebara — It’s All Good appeared first on THEINSPIRATION.COM .",
       "tags": [
         "Advertising",
-        "Branding",
-        "Campaigns"
+        "Branding"
       ],
       "rawTags": [
         "Advertising"
@@ -756,10 +1131,11 @@
       "source": "theinspiration",
       "sourceName": "The Inspiration",
       "accent": "#f5b301",
-      "summary": "",
-      "fullSummary": "",
+      "summary": "The North Face takes its iconic puffer jacket outdoors in a creative out-of-home campaign. See the billboard execution and campaign images. The post The North Face — Puffer Jacket OOH appeared first on THEINSPIRATION.COM .",
+      "fullSummary": "The North Face takes its iconic puffer jacket outdoors in a creative out-of-home campaign. See the billboard execution and campaign images. The post The North Face — Puffer Jacket OOH appeared first on THEINSPIRATION.COM .",
       "tags": [
         "Advertising",
+        "Campaigns",
         "OOH"
       ],
       "rawTags": [
@@ -780,8 +1156,8 @@
       "source": "theinspiration",
       "sourceName": "The Inspiration",
       "accent": "#f5b301",
-      "summary": "Disney brings the magic of Christmas to life through a beautifully told story about growing up and the moment we start losing our belief in the impossible. Set on a ranch, the film follows a young boy named Jack who is slowly outgrowing…",
-      "fullSummary": "Disney brings the magic of Christmas to life through a beautifully told story about growing up and the moment we start losing our belief in the impossible. Set on a ranch, the film follows a young boy named Jack who is slowly outgrowing his childhood imagination — until he encounters what appears to be an […]",
+      "summary": "Disney's Christmas ad The Invisible Horse follows Jack, a boy outgrowing his imagination – until an invisible horse brings the magic back. Watch the film. The post Disney — The Invisible Horse appeared first on THEINSPIRATION.COM .",
+      "fullSummary": "Disney's Christmas ad The Invisible Horse follows Jack, a boy outgrowing his imagination – until an invisible horse brings the magic back. Watch the film. The post Disney — The Invisible Horse appeared first on THEINSPIRATION.COM .",
       "tags": [
         "Advertising",
         "Film & TV"
@@ -867,11 +1243,10 @@
       "source": "theinspiration",
       "sourceName": "The Inspiration",
       "accent": "#f5b301",
-      "summary": "LEGO takes us behind the scenes of a magical Christmas workshop where every brick gets a little love before becoming the perfect gift. Set to Daft Punk’s ‘One More Time’, the film follows a single LEGO brick on an action-packed journey…",
-      "fullSummary": "LEGO takes us behind the scenes of a magical Christmas workshop where every brick gets a little love before becoming the perfect gift. Set to Daft Punk’s ‘One More Time’, the film follows a single LEGO brick on an action-packed journey through different departments, meeting familiar characters from across the LEGO universe along the way. […]",
+      "summary": "LEGO's Christmas ad follows one brick through a magical holiday workshop to Daft Punk's One More Time – and the finished gift is hard to let go of. The post LEGO — The LEGO Holiday Workshop appeared first on THEINSPIRATION.COM .",
+      "fullSummary": "LEGO's Christmas ad follows one brick through a magical holiday workshop to Daft Punk's One More Time – and the finished gift is hard to let go of. The post LEGO — The LEGO Holiday Workshop appeared first on THEINSPIRATION.COM .",
       "tags": [
-        "Advertising",
-        "Film & TV"
+        "Advertising"
       ],
       "rawTags": [
         "Advertising"
@@ -891,8 +1266,8 @@
       "source": "theinspiration",
       "sourceName": "The Inspiration",
       "accent": "#f5b301",
-      "summary": "Apple tells a heartfelt story about the importance of believing in someone’s creative potential. The four-minute holiday film follows a young boy who, after a series of discouraging experiences, gradually gives up drawing and painting in…",
-      "fullSummary": "Apple tells a heartfelt story about the importance of believing in someone’s creative potential. The four-minute holiday film follows a young boy who, after a series of discouraging experiences, gradually gives up drawing and painting in public, even though he continues creating in secret. Years later, his parents give him a MacBook Neo — not […]",
+      "summary": "Apple's holiday film The Dreamer: a boy stops drawing in public until his parents give him a MacBook Neo. With original artwork by Hebru Brantley. The post Apple — The Dreamer appeared first on THEINSPIRATION.COM .",
+      "fullSummary": "Apple's holiday film The Dreamer: a boy stops drawing in public until his parents give him a MacBook Neo. With original artwork by Hebru Brantley. The post Apple — The Dreamer appeared first on THEINSPIRATION.COM .",
       "tags": [
         "Advertising",
         "Film & TV"
@@ -915,8 +1290,8 @@
       "source": "theinspiration",
       "sourceName": "The Inspiration",
       "accent": "#f5b301",
-      "summary": "Greenpeace turned a giant limestone boulder into an unlikely tribute to Sir David Attenborough — and a weapon in the fight against destructive fishing. Carved in his likeness, the ‘Attenboulder’ is destined for the bottom of the North Sea,…",
-      "fullSummary": "Greenpeace turned a giant limestone boulder into an unlikely tribute to Sir David Attenborough — and a weapon in the fight against destructive fishing. Carved in his likeness, the ‘Attenboulder’ is destined for the bottom of the North Sea, where it will become part of an underwater barrier designed to stop industrial fishing vessels dragging […]",
+      "summary": "Greenpeace carves a limestone boulder in David Attenborough's likeness and sinks it in the North Sea to block destructive bottom-trawling fishing. The post Greenpeace — The Attenboulder appeared first on THEINSPIRATION.COM .",
+      "fullSummary": "Greenpeace carves a limestone boulder in David Attenborough's likeness and sinks it in the North Sea to block destructive bottom-trawling fishing. The post Greenpeace — The Attenboulder appeared first on THEINSPIRATION.COM .",
       "tags": [
         "Advertising",
         "Art",
@@ -1197,8 +1572,8 @@
       "source": "theinspiration",
       "sourceName": "The Inspiration",
       "accent": "#f5b301",
-      "summary": "Netflix celebrates the unexpected shows and movies that turn into our next big obsession. In three films, an axolotl, an astronaut and a vampire each find themselves stepping outside their familiar routines after discovering something they…",
-      "fullSummary": "Netflix celebrates the unexpected shows and movies that turn into our next big obsession. In three films, an axolotl, an astronaut and a vampire each find themselves stepping outside their familiar routines after discovering something they never knew they needed. The campaign plays on the joy of stumbling across something completely unexpected — and the […]",
+      "summary": "Netflix's Find the Thing You Never Knew You Needed: three films with an axolotl, an astronaut and a vampire celebrating the joy of unexpected discovery. The post Netflix — Find the Thing You Never Knew You Needed appeared first on…",
+      "fullSummary": "Netflix's Find the Thing You Never Knew You Needed: three films with an axolotl, an astronaut and a vampire celebrating the joy of unexpected discovery. The post Netflix — Find the Thing You Never Knew You Needed appeared first on THEINSPIRATION.COM .",
       "tags": [
         "Advertising",
         "Film & TV"
@@ -2258,8 +2633,8 @@
       "source": "theinspiration",
       "sourceName": "The Inspiration",
       "accent": "#f5b301",
-      "summary": "",
-      "fullSummary": "",
+      "summary": "Heidi Klum's Halloween costume – photos of the latest jaw-dropping transformation from the queen of Halloween. The post Heidi Klum Halloween Costume appeared first on THEINSPIRATION.COM .",
+      "fullSummary": "Heidi Klum's Halloween costume – photos of the latest jaw-dropping transformation from the queen of Halloween. The post Heidi Klum Halloween Costume appeared first on THEINSPIRATION.COM .",
       "tags": [
         "Design"
       ],
@@ -2281,10 +2656,12 @@
       "source": "theinspiration",
       "sourceName": "The Inspiration",
       "accent": "#f5b301",
-      "summary": "",
-      "fullSummary": "",
+      "summary": "John Lewis Christmas Advert 2026 – watch the British retailer's new festive ad, one of the most anticipated Christmas campaigns of the year. The post John Lewis Christmas Advert 2026 appeared first on THEINSPIRATION.COM .",
+      "fullSummary": "John Lewis Christmas Advert 2026 – watch the British retailer's new festive ad, one of the most anticipated Christmas campaigns of the year. The post John Lewis Christmas Advert 2026 appeared first on THEINSPIRATION.COM .",
       "tags": [
-        "Advertising"
+        "Advertising",
+        "Campaigns",
+        "Retail"
       ],
       "rawTags": [
         "Advertising"
@@ -2304,8 +2681,8 @@
       "source": "theinspiration",
       "sourceName": "The Inspiration",
       "accent": "#f5b301",
-      "summary": "",
-      "fullSummary": "",
+      "summary": "The post Barbour x Wallace & Gromit — Barbour Christmas Film 2026 appeared first on THEINSPIRATION.COM .",
+      "fullSummary": "The post Barbour x Wallace & Gromit — Barbour Christmas Film 2026 appeared first on THEINSPIRATION.COM .",
       "tags": [
         "Advertising",
         "Film & TV"
@@ -3240,7 +3617,7 @@
       "sourceName": "The Inspiration",
       "accent": "#f5b301",
       "summary": "Marvel turned the Seoul skyline into a giant cinematic screen to build hype for Avengers: Doomsday. Using 2,000 synchronised drones above the Han River, the studio brought some of its most iconic characters and moments to life in a…",
-      "fullSummary": "Marvel turned the Seoul skyline into a giant cinematic screen to build hype for Avengers: Doomsday. Using 2,000 synchronised drones above the Han River, the studio brought some of its most iconic characters and moments to life in a spectacular light show. But the real showstopper was the transformation of Iron Man into Doctor Doom […]",
+      "fullSummary": "Marvel turned the Seoul skyline into a giant cinematic screen to build hype for Avengers: Doomsday. Using 2,000 synchronised drones above the Han River, the studio brought some of its most iconic characters and moments to life in a spectacular light show. But the real showstopper was the transformation of Iron Man into Doctor Doom […] The post Marvel Studios — Seoul Drone Show appeared first on THEINSPIRATION.COM .",
       "tags": [
         "Advertising",
         "Art",
@@ -3940,7 +4317,7 @@
       "sourceName": "The Inspiration",
       "accent": "#f5b301",
       "summary": "Columbia is taking aim at billionaire tech bros building survival bunkers by giving everyone else a chance to get one too. The brand is giving away a fully stocked, off-grid bunker to whoever can best demonstrate their outdoor survival…",
-      "fullSummary": "Columbia is taking aim at billionaire tech bros building survival bunkers by giving everyone else a chance to get one too. The brand is giving away a fully stocked, off-grid bunker to whoever can best demonstrate their outdoor survival skills. Built inside a modified shipping container, the “Don’t Panic Room” comes complete with everything from […]",
+      "fullSummary": "Columbia is taking aim at billionaire tech bros building survival bunkers by giving everyone else a chance to get one too. The brand is giving away a fully stocked, off-grid bunker to whoever can best demonstrate their outdoor survival skills. Built inside a modified shipping container, the “Don’t Panic Room” comes complete with everything from […] The post Columbia Sportswear — Don’t Panic Room appeared first on THEINSPIRATION.COM .",
       "tags": [
         "Advertising",
         "Branding",
@@ -4288,7 +4665,7 @@
       "sourceName": "The Inspiration",
       "accent": "#f5b301",
       "summary": "Morrisons turned everyday fruit and vegetables into a cast of Halloween monsters. Avocados become “Monster Eyes”, carrots transform into “Zombie Fingers” and a red pepper becomes a screaming face. Using simple still-life photography,…",
-      "fullSummary": "Morrisons turned everyday fruit and vegetables into a cast of Halloween monsters. Avocados become “Monster Eyes”, carrots transform into “Zombie Fingers” and a red pepper becomes a screaming face. Using simple still-life photography, playful naming and bold price tags, the campaign gives ordinary fresh produce a spooky makeover while keeping affordability at the heart of […]",
+      "fullSummary": "Morrisons turned everyday fruit and vegetables into a cast of Halloween monsters. Avocados become “Monster Eyes”, carrots transform into “Zombie Fingers” and a red pepper becomes a screaming face. Using simple still-life photography, playful naming and bold price tags, the campaign gives ordinary fresh produce a spooky makeover while keeping affordability at the heart of […] The post Morrisons — Market Street Monsters appeared first on…",
       "tags": [
         "Advertising",
         "Photography"
@@ -5263,7 +5640,7 @@
       "sourceName": "The Inspiration",
       "accent": "#f5b301",
       "summary": "“Times can change. The Estonian spirit does not.” In Born From Culture, Tallinn University’s folk dance ensemble Soveldaja performs traditional Estonian folk dance to Future’s “Mask Off”, featuring Ernst Valdmaa on diatonic Estonian…",
-      "fullSummary": "“Times can change. The Estonian spirit does not.” In Born From Culture, Tallinn University’s folk dance ensemble Soveldaja performs traditional Estonian folk dance to Future’s “Mask Off”, featuring Ernst Valdmaa on diatonic Estonian accordion. The result is a striking clash of heritage and hip-hop that shows how some things just run in the blood. Choreography […]",
+      "fullSummary": "“Times can change. The Estonian spirit does not.” In Born From Culture, Tallinn University’s folk dance ensemble Soveldaja performs traditional Estonian folk dance to Future’s “Mask Off”, featuring Ernst Valdmaa on diatonic Estonian accordion. The result is a striking clash of heritage and hip-hop that shows how some things just run in the blood. Choreography […] The post Visit Estonia — Born From Culture appeared first on THEINSPIRATION.COM .",
       "tags": [
         "Advertising"
       ],
@@ -5286,7 +5663,7 @@
       "sourceName": "The Inspiration",
       "accent": "#f5b301",
       "summary": "Apple Music has unveiled a new brand identity, and its new logo was quite literally made by sound. Working with Fred again.. and NEST Acoustics, Apple used music to shape the logo practically, capturing it entirely in camera rather than…",
-      "fullSummary": "Apple Music has unveiled a new brand identity, and its new logo was quite literally made by sound. Working with Fred again.. and NEST Acoustics, Apple used music to shape the logo practically, capturing it entirely in camera rather than building it digitally – “just music, made visible.” The behind-the-scenes film shows how the collaboration […]",
+      "fullSummary": "Apple Music has unveiled a new brand identity, and its new logo was quite literally made by sound. Working with Fred again.. and NEST Acoustics, Apple used music to shape the logo practically, capturing it entirely in camera rather than building it digitally – “just music, made visible.” The behind-the-scenes film shows how the collaboration […] The post Apple Music — Made by Sound appeared first on THEINSPIRATION.COM .",
       "tags": [
         "Design",
         "Branding",
@@ -6235,7 +6612,7 @@
       "sourceName": "The Inspiration",
       "accent": "#f5b301",
       "summary": "Call of Duty turned two of the world’s busiest streets into immersive portals to its latest game. On Sunset Boulevard in Los Angeles and Shoreditch High Street in London, the brand built an entire Korean alleyway inspired by the opening…",
-      "fullSummary": "Call of Duty turned two of the world’s busiest streets into immersive portals to its latest game. On Sunset Boulevard in Los Angeles and Shoreditch High Street in London, the brand built an entire Korean alleyway inspired by the opening level of Modern Warfare 4, complete with authentic shopfronts, neon signs, graffiti and painstakingly recreated […]",
+      "fullSummary": "Call of Duty turned two of the world’s busiest streets into immersive portals to its latest game. On Sunset Boulevard in Los Angeles and Shoreditch High Street in London, the brand built an entire Korean alleyway inspired by the opening level of Modern Warfare 4, complete with authentic shopfronts, neon signs, graffiti and painstakingly recreated […] The post Call of Duty — The Korean Alley appeared first on THEINSPIRATION.COM .",
       "tags": [
         "Advertising",
         "Branding"
@@ -6259,7 +6636,7 @@
       "sourceName": "The Inspiration",
       "accent": "#f5b301",
       "summary": "Paramount turned London’s street signs into a playful promotion for the new Street Fighter movie. By adding the word “Fighter” in the franchise’s distinctive orange lettering to familiar signs in London, the campaign turned everyday city…",
-      "fullSummary": "Paramount turned London’s street signs into a playful promotion for the new Street Fighter movie. By adding the word “Fighter” in the franchise’s distinctive orange lettering to familiar signs in London, the campaign turned everyday city infrastructure into an instantly recognisable piece of film advertising. The idea is brilliantly simple: half the movie title was […]",
+      "fullSummary": "Paramount turned London’s street signs into a playful promotion for the new Street Fighter movie. By adding the word “Fighter” in the franchise’s distinctive orange lettering to familiar signs in London, the campaign turned everyday city infrastructure into an instantly recognisable piece of film advertising. The idea is brilliantly simple: half the movie title was […] The post Paramount — Street Fighter appeared first on THEINSPIRATION.COM .",
       "tags": [
         "Advertising",
         "Campaigns",
@@ -7654,7 +8031,7 @@
       "sourceName": "The Inspiration",
       "accent": "#f5b301",
       "summary": "Ramp turned finance software into an unexpected love letter to skateboarding culture. When Tony Hawk finds himself targeted by the skate mafia, he enters witness protection and is hidden in the last place anyone would expect: a Wall Street…",
-      "fullSummary": "Ramp turned finance software into an unexpected love letter to skateboarding culture. When Tony Hawk finds himself targeted by the skate mafia, he enters witness protection and is hidden in the last place anyone would expect: a Wall Street trading floor, under the name Anthony Stock. Blending the “you look like Tony Hawk” meme with […]",
+      "fullSummary": "Ramp turned finance software into an unexpected love letter to skateboarding culture. When Tony Hawk finds himself targeted by the skate mafia, he enters witness protection and is hidden in the last place anyone would expect: a Wall Street trading floor, under the name Anthony Stock. Blending the “you look like Tony Hawk” meme with […] The post Ramp — Tony Stock: Pro Trader appeared first on THEINSPIRATION.COM .",
       "tags": [
         "Advertising"
       ],
@@ -7677,7 +8054,7 @@
       "sourceName": "The Inspiration",
       "accent": "#f5b301",
       "summary": "Ōura challenges the one-size-fits-all idea of wellness by celebrating the many different ways people live their best lives. Instead of relying on AI-generated visuals, the campaign brings its message to life through a handcrafted miniature…",
-      "fullSummary": "Ōura challenges the one-size-fits-all idea of wellness by celebrating the many different ways people live their best lives. Instead of relying on AI-generated visuals, the campaign brings its message to life through a handcrafted miniature city in Prague, where real performers’ hands become the characters navigating everyday life. With intricate sets, tiny working details and […]",
+      "fullSummary": "Ōura challenges the one-size-fits-all idea of wellness by celebrating the many different ways people live their best lives. Instead of relying on AI-generated visuals, the campaign brings its message to life through a handcrafted miniature city in Prague, where real performers’ hands become the characters navigating everyday life. With intricate sets, tiny working details and […] The post Ōura — Wear Your Best Life appeared first on…",
       "tags": [
         "Advertising",
         "AI",
@@ -11405,360 +11782,6 @@
       "publishedAt": "2026-09-22T08:13:16Z",
       "datePrecise": true,
       "firstSeenAt": "2026-09-23T03:22:41Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "58b6446f",
-      "title": "A Házasság első látásra és a Sztárban Sztár húzta be a legtöbb nézőt – 38. heti nézettségi adatok",
-      "url": "https://kreativ.hu/cikk/nezettseg-38-het-rtl-tv2-sztarban-sztar-hazassag-elso-latasra",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Múlt vasárnap elindult a TV2-n a Sztárban Sztár, és kapásból a második legnézettebb műsor lett. A Házasság első látásra népszerűsége egyelőre töretlen, a Megasztár azonban ugyanezt nem mondhatja el…",
-      "fullSummary": "Múlt vasárnap elindult a TV2-n a Sztárban Sztár, és kapásból a második legnézettebb műsor lett. A Házasság első látásra népszerűsége egyelőre töretlen, a Megasztár azonban ugyanezt nem mondhatja el…",
-      "tags": [
-        "Tv2",
-        "Nezettseg",
-        "RTL",
-        "Media"
-      ],
-      "rawTags": [
-        "tv2",
-        "nezettseg",
-        "rtl",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/s/z/s/z/1/szsz1201-4-of-133-0-20260922-920-690-90-zc.webp",
-      "author": "F. V.",
-      "category": "",
-      "publishedAt": "2026-09-22T07:41:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-23T03:22:41Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "cf56dc38",
-      "title": "Pert indítanak a Fehér Házból kitiltott amerikai lapok a Trump-kormány ellen",
-      "url": "https://kreativ.hu/cikk/feher-haz-cnn-ms-now-politico-trump-akkreditacio-megvont-engedely-kitiltas-pert-indit",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A CNN, az MS NOW és a Politico bírósághoz fordult, miután a Trump-adminisztráció megvonta tudósítóik Fehér Ház-i akkreditációját. A három médium szerint a döntés sérti az amerikai alkotmány első…",
-      "fullSummary": "A CNN, az MS NOW és a Politico bírósághoz fordult, miután a Trump-adminisztráció megvonta tudósítóik Fehér Ház-i akkreditációját. A három médium szerint a döntés sérti az amerikai alkotmány első…",
-      "tags": [
-        "Akkreditacio",
-        "Cnn",
-        "Kitiltas",
-        "Feher Haz",
-        "Trump",
-        "Politico"
-      ],
-      "rawTags": [
-        "akkreditacio",
-        "cnn",
-        "kitiltas",
-        "feher-haz",
-        "trump",
-        "politico",
-        "pert-indit",
-        "megvont-engedely"
-      ],
-      "image": "https://kreativ.hu/img-cache/p/c/r/m/-/pcrm-dorego-lwxgxxdmu38-unsplash-0-20260921-920-690-90-zc.webp",
-      "author": "T. R.",
-      "category": "",
-      "publishedAt": "2026-09-21T14:56:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-22T03:22:14Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "ee6e427d",
-      "title": "Berobbant a híroldalak AI-forgalma – ez sem pótolja a Google-ből elveszített látogatókat",
-      "url": "https://kreativ.hu/cikk/berobbant-a-hiroldalak-ai-forgalma",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Kevesebb mint két év alatt legalább százszorosára nőtt a mesterségesintelligencia-alapú felületekről a vizsgált magyar weboldalakra érkező forgalom. A JabJab Online Marketing elemzése szerint azonban…",
-      "fullSummary": "Kevesebb mint két év alatt legalább százszorosára nőtt a mesterségesintelligencia-alapú felületekről a vizsgált magyar weboldalakra érkező forgalom. A JabJab Online Marketing elemzése szerint azonban…",
-      "tags": [
-        "Google",
-        "Traffic",
-        "AI",
-        "AI Agent 1",
-        "Advertising"
-      ],
-      "rawTags": [
-        "google",
-        "traffic",
-        "ai",
-        "ai-agent-1",
-        "reklam"
-      ],
-      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-1546995731-jpeg-0-20260921-690-920-90-zc.webp",
-      "author": "L. B.",
-      "category": "",
-      "publishedAt": "2026-09-21T14:34:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-22T03:22:14Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "39539f65",
-      "title": "Tesco drops the weekly shop straight into Uber Eats’ bag",
-      "url": "https://www.famouscampaigns.com/2026/09/tesco-drops-the-weekly-shop-straight-into-uber-eats-bag/",
-      "source": "famouscampaigns",
-      "sourceName": "Famous Campaigns",
-      "accent": "#7c5cff",
-      "summary": "Tesco and Uber Eats have launched a nationwide grocery delivery campaign built around a striking piece of outdoor advertising: a Tesco billboard appears to have slipped from its frame, dropping the weekly shop directly into an oversized…",
-      "fullSummary": "Tesco and Uber Eats have launched a nationwide grocery delivery campaign built around a striking piece of outdoor advertising: a Tesco billboard appears to have slipped from its frame, dropping the weekly shop directly into an oversized Uber Eats delivery bag. Created by Mother, with PHD handling media and Grand Visual delivering the special-build execution, […]",
-      "tags": [
-        "COOH",
-        "Food & Drink",
-        "Advertising",
-        "Campaigns",
-        "OOH"
-      ],
-      "rawTags": [
-        "COOH",
-        "Food & Drink"
-      ],
-      "image": null,
-      "author": "James Herring",
-      "category": "COOH",
-      "publishedAt": "2026-09-21T11:25:35Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-22T03:22:14Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "9895dc77",
-      "title": "Polyák Gábort javasolta a Médiatanács elnökének az Országgyűlés szakbizottsága",
-      "url": "https://kreativ.hu/cikk/polyak-gabort-javasolta-a-mediatanacs-elnokenek-az-orszaggyules-szakbizottsaga",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A szakmai tagok által támogatott jelölteket pontozással értékelte a bizottság: Polyák Gábor 130 pontot, Tóth Csaba 127 pontot, Kajzinger Ervin 99 pontot, Schönleber Zoltán pedig 98 pontot kapott…",
-      "fullSummary": "A szakmai tagok által támogatott jelölteket pontozással értékelte a bizottság: Polyák Gábor 130 pontot, Tóth Csaba 127 pontot, Kajzinger Ervin 99 pontot, Schönleber Zoltán pedig 98 pontot kapott…",
-      "tags": [
-        "Mediatanacs",
-        "Polyak Gabor",
-        "Media"
-      ],
-      "rawTags": [
-        "mediatanacs",
-        "polyak-gabor",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/p/o/l/y/a/polyak-gabor-mediatanacs-v2-0-20260921-450-75-601-90-zc.webp",
-      "author": "T. R.",
-      "category": "",
-      "publishedAt": "2026-09-21T11:23:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-22T03:22:14Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "a86d9d94",
-      "title": "Új néven folytatja tovább a Reklámtörténet blog",
-      "url": "https://kreativ.hu/cikk/uj-neven-folytatja-tovabb-a-reklamtortenet-blog",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Beyond Taglines néven folytatja tovább a Reklámtörténet.",
-      "fullSummary": "Beyond Taglines néven folytatja tovább a Reklámtörténet.",
-      "tags": [
-        "White Rabbit",
-        "Reklamtortenet",
-        "Kovacs Levente",
-        "Advertising",
-        "Media"
-      ],
-      "rawTags": [
-        "white-rabbit",
-        "reklamtortenet",
-        "kovacs-levente",
-        "reklam",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-180757110-jpeg-20260921-690-920-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-21T09:26:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-22T03:22:14Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "b00de7d2",
-      "title": "Idegrendszerváltás óriásplakátokon – galériánk a 26. ARC kiállításról",
-      "url": "https://kreativ.hu/cikk/idegrendszervaltas-oriasplakatokon-galeriank-a-26-arc-kiallitasrol",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Most először a Petőfi híd budai hídfőjénél nyílt meg az idei ARC közérzeti kiállítás. Fotósunk is bejárta a tárlatot: galériánkban megmutatjuk, milyen pillanatokat és plakátokat kapott el a…",
-      "fullSummary": "Most először a Petőfi híd budai hídfőjénél nyílt meg az idei ARC közérzeti kiállítás. Fotósunk is bejárta a tárlatot: galériánkban megmutatjuk, milyen pillanatokat és plakátokat kapott el a…",
-      "tags": [
-        "Arc",
-        "Galeria",
-        "Arc Kiallitas",
-        "Advertising",
-        "Photography",
-        "OOH"
-      ],
-      "rawTags": [
-        "arc",
-        "galeria",
-        "arc-kiallitas",
-        "reklam"
-      ],
-      "image": "https://kreativ.hu/img-cache/s/z/r/0/6/szr0616-0-20260921-920-690-90-zc.webp",
-      "author": "L. B.",
-      "category": "",
-      "publishedAt": "2026-09-21T08:46:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-22T03:22:14Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "3a66e282",
-      "title": "Munkahelyeket és adóbevételt vinne el a kormány reklámrendelete az MRSZ szerint",
-      "url": "https://kreativ.hu/cikk/munkahelyeket-es-adobevetelt-vinne-el-a-kormany-reklamrendelete-az-mrsz-szerint",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A Magyar Reklámszövetség Közterületi (OOH) Tagozata szerint a reklámeszközök elhelyezését szigorító kormányzati tervezet 1140 munkahely megszűnésével és 3,4 milliárd forintos adóbevétel-kieséssel…",
-      "fullSummary": "A Magyar Reklámszövetség Közterületi (OOH) Tagozata szerint a reklámeszközök elhelyezését szigorító kormányzati tervezet 1140 munkahely megszűnésével és 3,4 milliárd forintos adóbevétel-kieséssel…",
-      "tags": [
-        "Advertising",
-        "Torveny",
-        "Mrsz",
-        "Szigoritas",
-        "OOH",
-        "Hirdetesi Piac"
-      ],
-      "rawTags": [
-        "reklam",
-        "torveny",
-        "mrsz",
-        "szigoritas",
-        "oriasplakat",
-        "hirdetesi-piac",
-        "tarsadalmi-egyeztetes",
-        "ooh"
-      ],
-      "image": "https://kreativ.hu/img-cache/e/g/y/e/d/egyedulallo-citylight-0-20260921-716-537-90-zc.webp",
-      "author": "T. R.",
-      "category": "",
-      "publishedAt": "2026-09-21T08:15:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-22T03:22:14Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "74d25bf9",
-      "title": "Visszautasítja a Media1 a szakmai szervezetek kritikáját",
-      "url": "https://kreativ.hu/cikk/visszautasitja-a-media1-a-szakmai-szervezetek-kritikajat",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A MEME, az MLE, az MTE és az ÖRT szeptember 18-án pénteken közös közleményben bírálta a Media1 szerkesztési gyakorlatát. A Media1 időközben reagált a kritikára: az általuk elkövetett hibáért…",
-      "fullSummary": "A MEME, az MLE, az MTE és az ÖRT szeptember 18-án pénteken közös közleményben bírálta a Media1 szerkesztési gyakorlatát. A Media1 időközben reagált a kritikára: az általuk elkövetett hibáért…",
-      "tags": [
-        "Kritika",
-        "Media1",
-        "Media"
-      ],
-      "rawTags": [
-        "kritika",
-        "media1",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/m/e/d/i/a/media1-fb-cover-0-20260921-920-690-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-21T06:49:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-22T03:22:14Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "bff0b4e4",
-      "title": "E.ON hires Bob the Builder, sends him back to school",
-      "url": "https://www.famouscampaigns.com/2026/09/e-on-hires-bob-the-builder-sends-him-back-to-school/",
-      "source": "famouscampaigns",
-      "sourceName": "Famous Campaigns",
-      "accent": "#7c5cff",
-      "summary": "Bob the Builder is back in his original stop-motion form for an E.ON Next campaign that sends the much-loved tradesman to green skills training, with Neil Morrissey returning as his voice for the first time since 2011. The 90-second film…",
-      "fullSummary": "Bob the Builder is back in his original stop-motion form for an E.ON Next campaign that sends the much-loved tradesman to green skills training, with Neil Morrissey returning as his voice for the first time since 2011. The 90-second film catches up with Bob after 15 years away. Following a spell of yoga, birdwatching and […]",
-      "tags": [
-        "Environmental",
-        "PR",
-        "Campaigns",
-        "Film & TV"
-      ],
-      "rawTags": [
-        "Environmental",
-        "PR"
-      ],
-      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/bob-the-builder-eon.mp4",
-      "author": "James Herring",
-      "category": "Environmental",
-      "publishedAt": "2026-09-20T09:19:25Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-21T03:22:53Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "e5ebc1d2",
-      "title": "McDonald’s takes over butcher with three-ingredient message",
-      "url": "https://www.famouscampaigns.com/2026/09/mcdonalds-takes-over-butcher-with-three-ingredient-message/",
-      "source": "famouscampaigns",
-      "sourceName": "Famous Campaigns",
-      "accent": "#7c5cff",
-      "summary": "McDonald’s took over a Shoreditch butcher shop last week to show exactly what goes into its British and Irish beef patties and introduce the people behind its supply chain. The Counter, an experiential marketing activation, allowed…",
-      "fullSummary": "McDonald’s took over a Shoreditch butcher shop last week to show exactly what goes into its British and Irish beef patties and introduce the people behind its supply chain. The Counter, an experiential marketing activation, allowed visitors could meet farmers and suppliers see how patties are produced and, in bookable masterclasses, press their own. The […]",
-      "tags": [
-        "Experiential",
-        "Food & Drink",
-        "PR"
-      ],
-      "rawTags": [
-        "Experiential",
-        "Food & Drink",
-        "PR"
-      ],
-      "image": null,
-      "author": "James Herring",
-      "category": "Experiential",
-      "publishedAt": "2026-09-20T09:05:51Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-21T03:22:53Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "0d94c4fd",
-      "title": "IKEA turns FRAKTA into a portrait of everyday Italy",
-      "url": "https://www.famouscampaigns.com/2026/09/ikea-turns-frakta-into-a-portrait-of-everyday-italy/",
-      "source": "famouscampaigns",
-      "sourceName": "Famous Campaigns",
-      "accent": "#7c5cff",
-      "summary": "IKEA Italy is celebrating 30 years of its blue FRAKTA bag by documenting what happens to it after checkout, turning real consumer behaviour into a ten-image campaign by Ogilvy Italy. Called “Belli organizzati”, a play on the beauty of…",
-      "fullSummary": "IKEA Italy is celebrating 30 years of its blue FRAKTA bag by documenting what happens to it after checkout, turning real consumer behaviour into a ten-image campaign by Ogilvy Italy. Called “Belli organizzati”, a play on the beauty of being organised, the photographic series is based on IKEA research into how Italians reuse the bag. […]",
-      "tags": [
-        "Advertising",
-        "Retail",
-        "Campaigns"
-      ],
-      "rawTags": [
-        "Advertising",
-        "Retail"
-      ],
-      "image": null,
-      "author": "James Herring",
-      "category": "Advertising",
-      "publishedAt": "2026-09-19T12:20:42Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-20T03:21:48Z",
       "enrichAttempts": 0
     }
   ]
