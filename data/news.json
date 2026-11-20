@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T11:29:49Z",
+  "generatedAt": "2026-11-20T11:25:54Z",
   "itemCount": 400,
   "sources": [
     {
@@ -8,7 +8,7 @@
       "site": "https://www.thedrum.com/",
       "accent": "#00d1b2",
       "status": "error",
-      "error": "failed to fetch https://www.thedrum.com/: HTTP Error 403: Forbidden",
+      "error": "no JSON-LD itemListElement found on The Drum front page",
       "count": 0
     },
     {
@@ -50,6 +50,165 @@
   ],
   "items": [
     {
+      "id": "aa2bc75f",
+      "title": "Kiszolgálás helyett közszolgálat – kiktől és mit tanulhat az újjáalakuló magyar közmédia?",
+      "url": "https://kreativ.hu/cikk/kiszolgalas-helyett-kozszolgalat-kiktol-es-mit-tanulhat-az-ujjaalakulo-magyar-kozmedia",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A mesterséges intelligencia mindennapi használata a munkavégzést és a gondolkodásmódunkat is alakítja; a TikTok a közéleti kommunikáció fontos felületévé vált; a korábbi „lineáris világot” on-demand…",
+      "fullSummary": "A mesterséges intelligencia mindennapi használata a munkavégzést és a gondolkodásmódunkat is alakítja; a TikTok a közéleti kommunikáció fontos felületévé vált; a korábbi „lineáris világot” on-demand tartalmak és algoritmusok által hiperperszonalizált valóságok váltják fel; miközben újabb, már az okostelefonok és közösségi platformok mellett szocializálódó korosztályok váltak médiafogyasztóvá. Az elmúlt évtized ezen technológiai és…",
+      "tags": [
+        "BBC",
+        "Kozszolgalati Media",
+        "Kozmedia",
+        "Mtva",
+        "Zdf",
+        "Kozszolgalat"
+      ],
+      "rawTags": [
+        "bbc",
+        "kozszolgalati-media",
+        "kozmedia",
+        "mtva",
+        "zdf",
+        "kozszolgalat",
+        "fkt",
+        "yle"
+      ],
+      "image": "https://kreativ.hu/img-cache/1/7/9/5/1/1795170149-pph-temp-mtt79v3kfege99bvsef-20261120-920-690-90-zc.webp",
+      "author": "Lakos Boglárka",
+      "category": "",
+      "publishedAt": "2026-11-20T09:02:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-20T11:25:54Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "747798c1",
+      "title": "2027 végén megszűnik a SkyShowtime streamingplatform",
+      "url": "https://kreativ.hu/cikk/skyshowtime-comcast-skydance-megszunes-streaming-platform",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Comcast és a Skydance közös európai streamingvállalkozása 2027 végén fejezi be működését. A döntés hátterében a globális streamingpiac átalakulása és a nemzetközi versenytársakkal szembeni…",
+      "fullSummary": "A Comcast és a Skydance közös európai streamingvállalkozása 2027 végén fejezi be működését. A döntés hátterében a globális streamingpiac átalakulása és a nemzetközi versenytársakkal szembeni méretgazdaságossági nehézségek állnak. A szolgáltatás addig változatlanul működik, a vállalat vezérigazgatója, Monty Sarhan azonban távozik posztjáról.",
+      "tags": [
+        "Comcast",
+        "Megszunes",
+        "Skyshowtime",
+        "Streaming Platform",
+        "Skydance",
+        "Media"
+      ],
+      "rawTags": [
+        "comcast",
+        "megszunes",
+        "skyshowtime",
+        "streaming-platform",
+        "skydance",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/s/k/y/s/h/skyshowtime-jpeg0-20261119-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-19T16:19:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-20T11:25:54Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "b184f492",
+      "title": "Mutatjuk, kik kerületek 2026-ban a Lollipop legjobbjai közé",
+      "url": "https://kreativ.hu/cikk/shortlist-lollipop-btl-verseny-2026",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Idén 45 pályázatról ítélte úgy a zsűri, hogy arany-, ezüst- vagy bronz-díjra esélyes a Kreatív BTL-versenyén. Az érmesekre a december másodikai díjátadóig még várnunk kell, addig is lássuk kik…",
+      "fullSummary": "Idén 45 pályázatról ítélte úgy a zsűri, hogy arany-, ezüst- vagy bronz-díjra esélyes a Kreatív BTL-versenyén. Az érmesekre a december másodikai díjátadóig még várnunk kell, addig is lássuk kik kerültek a shortlistre!",
+      "tags": [
+        "Btl",
+        "Verseny",
+        "Awards",
+        "Lollipop",
+        "2026"
+      ],
+      "rawTags": [
+        "btl",
+        "verseny",
+        "shortlist",
+        "lollipop",
+        "2026"
+      ],
+      "image": "https://kreativ.hu/img-cache/l/o/l/l/i/lolli2026-640x480-admin-lista-png-20261119-640-480-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-19T14:30:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-20T11:25:54Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "8ea6654f",
+      "title": "Dune Posters Animation By Rudy Willingham",
+      "url": "https://theinspiration.com/2026/11/dune-posters-animation-by-rudy-willingham/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "Artist Rudy Willingham turned 245 Dune movie posters into a giant drive-by stop-motion animation, set to music from the Dune: Part Three soundtrack. The post Dune Posters Animation By Rudy Willingham appeared first on THEINSPIRATION.COM .",
+      "fullSummary": "Artist Rudy Willingham turned 245 Dune movie posters into a giant drive-by stop-motion animation, set to music from the Dune: Part Three soundtrack. The post Dune Posters Animation By Rudy Willingham appeared first on THEINSPIRATION.COM .",
+      "tags": [
+        "Art",
+        "Film & TV",
+        "Music"
+      ],
+      "rawTags": [
+        "Art"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/rudy-willingham-dune-posters-animation-20261119133430-aput-750x536.webp",
+      "author": "Daniel Ingvartsen",
+      "category": "Art",
+      "publishedAt": "2026-11-19T12:35:06Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-20T11:25:54Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "b827e907",
+      "title": "Piaci konzultációt indít a Visit Hungary a performance médiaügynökségi közbeszerzés előtt",
+      "url": "https://kreativ.hu/cikk/visit-hungary-performance-marketing-mediaugynokseg-kozbeszerzes-konzultacio-ppc-palyazat",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Tíznapos, előzetes piaci konzultációt indít a Visit Hungary a december elejére tervezett performance médiaügynökségi közbeszerzés megjelentetése előtt. A társaság a digitális és PPC-területen működő…",
+      "fullSummary": "Tíznapos, előzetes piaci konzultációt indít a Visit Hungary a december elejére tervezett performance médiaügynökségi közbeszerzés megjelentetése előtt. A társaság a digitális és PPC-területen működő ügynökségek észrevételeit is beépítené a végleges pályázati feltételekbe.",
+      "tags": [
+        "Marketing",
+        "Awards",
+        "Kozbeszerzes",
+        "Mediaugynokseg",
+        "Konzultacio",
+        "Ppc"
+      ],
+      "rawTags": [
+        "marketing",
+        "palyazat",
+        "kozbeszerzes",
+        "mediaugynokseg",
+        "konzultacio",
+        "ppc",
+        "visit-hungary",
+        "performance"
+      ],
+      "image": "https://kreativ.hu/img-cache/v/i/s/i/t/visit-hungary-1-jpeg0-20261119-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-19T11:45:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-20T11:25:54Z",
+      "enrichAttempts": 1
+    },
+    {
       "id": "26c5d2b2",
       "title": "Együttműködésre lép a foodora és a POS Media",
       "url": "https://kreativ.hu/cikk/foodora-pos-media-egyuttmukodes-partnerseg",
@@ -57,7 +216,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A partnerség célja, hogy összekapcsolja az online és offline eladáshelyi marketinget: a POS Media a foodora Shops online hirdetési felületeivel bővíti in-store portfólióját, és a kampányok…",
-      "fullSummary": "A partnerség célja, hogy összekapcsolja az online és offline eladáshelyi marketinget: a POS Media a foodora Shops online hirdetési felületeivel bővíti in-store portfólióját, és a kampányok tervezésében, kezelésében, optimalizálásában is részt vesz.",
+      "fullSummary": "A partnerség célja, hogy összekapcsolja az online és offline eladáshelyi marketinget: a POS Media a foodora Shops online hirdetési felületeivel bővíti in-store portfólióját, és a kampányok…",
       "tags": [
         "Egyuttmukodes",
         "Pos Media",
@@ -89,7 +248,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Magyar PR Szövetség keddi, 35. születésnapján az évforduló szinte elsikkadt a háttérben – de ez nem róható fel, mert cserébe volt benne élet, erősen körvonalazott vélemények, határozott karakterek.…",
-      "fullSummary": "A Magyar PR Szövetség keddi, 35. születésnapján az évforduló szinte elsikkadt a háttérben – de ez nem róható fel, mert cserébe volt benne élet, erősen körvonalazott vélemények, határozott karakterek. Egy élő, együtt gondolkodni és tenni akaró szakmai közösség gyűlt össze a kommersz iskolai ünnepségeket idéző hangulat helyett. Csermely Ákos vitaindítója után a résztvevők a kreativitás és az önszabályozás határairól beszélgettek, mígnem a Gryllus…",
+      "fullSummary": "A Magyar PR Szövetség keddi, 35. születésnapján az évforduló szinte elsikkadt a háttérben – de ez nem róható fel, mert cserébe volt benne élet, erősen körvonalazott vélemények, határozott karakterek.…",
       "tags": [
         "Kreativitas",
         "PR",
@@ -124,7 +283,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A hazai reklámügynökség nyerte a Provident Europe többfordulós nemzetközi tenderét. Az ACG feladata egy egységes, digitális fókuszú, 360 fokos kommunikációs platform kialakítása és megvalósítása lesz…",
-      "fullSummary": "A hazai reklámügynökség nyerte a Provident Europe többfordulós nemzetközi tenderét. Az ACG feladata egy egységes, digitális fókuszú, 360 fokos kommunikációs platform kialakítása és megvalósítása lesz Magyarországon, Lengyelországban, Csehországban és Romániában.",
+      "fullSummary": "A hazai reklámügynökség nyerte a Provident Europe többfordulós nemzetközi tenderét. Az ACG feladata egy egységes, digitális fókuszú, 360 fokos kommunikációs platform kialakítása és megvalósítása lesz…",
       "tags": [
         "Reklamugynokseg",
         "Acg",
@@ -172,7 +331,7 @@
         "kommunikacios",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/m/a/g/y/a/magyar-kozut0-20261119-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/m/a/g/y/a/magyar-kozut0-20261119-690-920-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-19T09:53:00Z",
@@ -188,7 +347,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Hajós András YouTube-on sikerrel futó zenei műsorának korábban leforgatott 12. évadát decembertől a TV4 nézői is láthatják. A Network4 a sugárzási jogokat vásárolta meg, a műsor készítője azonban nem…",
-      "fullSummary": "Hajós András YouTube-on sikerrel futó zenei műsorának korábban leforgatott 12. évadát decembertől a TV4 nézői is láthatják. A Network4 a sugárzási jogokat vásárolta meg, a műsor készítője azonban nem csatlakozik a médiacsoporthoz.",
+      "fullSummary": "Hajós András YouTube-on sikerrel futó zenei műsorának korábban leforgatott 12. évadát decembertől a TV4 nézői is láthatják. A Network4 a sugárzási jogokat vásárolta meg, a műsor készítője azonban nem…",
       "tags": [
         "Hajos Andras",
         "Dalfutar",
@@ -204,7 +363,7 @@
         "tv4",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/h/a/j/o/s/hajos-andras-jpeg0-20261119-500-375-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/h/a/j/o/s/hajos-andras-jpeg0-20261119-282-376-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-19T09:30:00Z",
@@ -220,7 +379,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "November 19-én és 20-án hallgatja meg a Független Közmédia Testület (FKT) a Magyar Rádió és Televízió Nonprofit Zrt. vezérigazgatói posztjára érvényes pályázatot benyújtó 14 jelöltet. A…",
-      "fullSummary": "November 19-én és 20-án hallgatja meg a Független Közmédia Testület (FKT) a Magyar Rádió és Televízió Nonprofit Zrt. vezérigazgatói posztjára érvényes pályázatot benyújtó 14 jelöltet. A meghallgatásokat élőben közvetítik, a pályázóknak tíz perc áll rendelkezésükre vezetői koncepciójuk bemutatására, ezt követően pedig a testület tagjainak kérdéseire válaszolnak.",
+      "fullSummary": "November 19-én és 20-án hallgatja meg a Független Közmédia Testület (FKT) a Magyar Rádió és Televízió Nonprofit Zrt. vezérigazgatói posztjára érvényes pályázatot benyújtó 14 jelöltet. A…",
       "tags": [
         "Vezerigazgato",
         "Kozmedia",
@@ -254,7 +413,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Médiatanács november 16-i ülésén nem járult hozzá ahhoz, hogy több vidéki Best FM-rádió a budapesti Rock FM műsorait vegye át. Két eljárás indításáról is szó volt és a testület Gryllus-ügyben is…",
-      "fullSummary": "A Médiatanács november 16-i ülésén nem járult hozzá ahhoz, hogy több vidéki Best FM-rádió a budapesti Rock FM műsorait vegye át. Két eljárás indításáról is szó volt és a testület Gryllus-ügyben is egyeztetett.",
+      "fullSummary": "A Médiatanács november 16-i ülésén nem járult hozzá ahhoz, hogy több vidéki Best FM-rádió a budapesti Rock FM műsorait vegye át. Két eljárás indításáról is szó volt és a testület Gryllus-ügyben is…",
       "tags": [
         "Nmhh",
         "Mediatanacs",
@@ -269,7 +428,7 @@
         "best-fm",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-2040314636-1-jpeg-20261118-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-2040314636-1-jpeg-20261118-54975-733-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-18T16:31:00Z",
@@ -313,7 +472,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Idén ősszel a magyar televíziós piacon is berobbant a true crime: szeptemberben elindult az AXN Crime, az HBO bemutatja első magyar gyártású true crime-sorozatát, és a TV2 is hazai bűnügyeket…",
-      "fullSummary": "Idén ősszel a magyar televíziós piacon is berobbant a true crime: szeptemberben elindult az AXN Crime, az HBO bemutatja első magyar gyártású true crime-sorozatát, és a TV2 is hazai bűnügyeket feldolgozó doku-realityvel készül. A műfaj hosszú utat járt be a megfigyelő dokumentumfilmtől a rendőrségi realityn át a Netflix sikersorozataiig. Hogyan született meg a zsáner, milyen szerepe van a sikerében a streamingnek, és mit terveznek vele a hazai…",
+      "fullSummary": "Idén ősszel a magyar televíziós piacon is berobbant a true crime: szeptemberben elindult az AXN Crime, az HBO bemutatja első magyar gyártású true crime-sorozatát, és a TV2 is hazai bűnügyeket…",
       "tags": [
         "Film & TV",
         "Reality",
@@ -371,7 +530,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Magyar Hospice Alapítvány anyagi helyzetének kiszámíthatósága érdekében annyi, havi rendszeres támogatóra - szám szerint 478-ra - lenne szükség, ahány beteg mellett ők álltak a legutolsó pénzügyi…",
-      "fullSummary": "A Magyar Hospice Alapítvány anyagi helyzetének kiszámíthatósága érdekében annyi, havi rendszeres támogatóra - szám szerint 478-ra - lenne szükség, ahány beteg mellett ők álltak a legutolsó pénzügyi évükben. Ennyien akár már havonta 3500 forintnyi rendszeres támogatással kiszámítható bevételt adnának a 2027-es alapítványi működéshez. Erre hívja fel a figyelmet a szervezet novemberi kampánya.",
+      "fullSummary": "A Magyar Hospice Alapítvány anyagi helyzetének kiszámíthatósága érdekében annyi, havi rendszeres támogatóra - szám szerint 478-ra - lenne szükség, ahány beteg mellett ők álltak a legutolsó pénzügyi…",
       "tags": [
         "Hospice",
         "Tamogatas",
@@ -386,7 +545,7 @@
         "kampany",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/z/e/n/e/t/zeneterapia-fannival-20261117-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/z/e/n/e/t/zeneterapia-fannival-20261117-690-920-90-zc.webp",
       "author": "S. D.",
       "category": "",
       "publishedAt": "2026-11-18T13:29:00Z",
@@ -480,7 +639,7 @@
         "muranyi-andras",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/m/u/r/r/2/murr2-png-20261118-4515-602-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/m/u/r/r/2/murr2-png-20261118-800-600-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-18T07:36:00Z",
@@ -510,7 +669,7 @@
         "23-verzio-nemzetkozi-emberi-jogi-dokumentumfilm-fesztival",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/v/e/r/z/i/verzio261116-pozsonyir-megnyito-web-060-20261118-54975-733-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/v/e/r/z/i/verzio261116-pozsonyir-megnyito-web-060-20261118-920-690-90-zc.webp",
       "author": "S. D.",
       "category": "",
       "publishedAt": "2026-11-17T19:46:00Z",
@@ -542,7 +701,7 @@
         "rekkamipar",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/e/n/p/e/l/enpeldaul-front-cafe25-20261117-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/e/n/p/e/l/enpeldaul-front-cafe25-20261117-920-690-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-17T19:18:00Z",
@@ -596,7 +755,7 @@
         "rtl",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/3/3/9/6/0/339604326-602712028547090-3481085620119465685-n-png-20261117-1695-226-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/3/3/9/6/0/339604326-602712028547090-3481085620119465685-n-png-20261117-300-225-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-11-17T15:59:00Z",
@@ -2681,8 +2840,8 @@
       "source": "theinspiration",
       "sourceName": "The Inspiration",
       "accent": "#f5b301",
-      "summary": "The post Barbour x Wallace & Gromit — Barbour Christmas Film 2026 appeared first on THEINSPIRATION.COM .",
-      "fullSummary": "The post Barbour x Wallace & Gromit — Barbour Christmas Film 2026 appeared first on THEINSPIRATION.COM .",
+      "summary": "Barbour and Aardman team up for another festive film with Wallace & Gromit. In Warm Wishes, Wallace gives Gromit a Barbour wax dog coat so the two can head out for a Christmas Day walk – but of course Wallace has invented something to make…",
+      "fullSummary": "Barbour and Aardman team up for another festive film with Wallace & Gromit. In Warm Wishes, Wallace gives Gromit a Barbour wax dog coat so the two can head out for a Christmas Day walk – but of course Wallace has invented something to make the outing easier. The Walk-o-matic is his favourite armchair mounted […] The post Barbour x Wallace & Gromit — Barbour Christmas Film 2026 appeared first on THEINSPIRATION.COM .",
       "tags": [
         "Advertising",
         "Film & TV"
@@ -11646,143 +11805,6 @@
       "datePrecise": true,
       "firstSeenAt": "2026-09-23T03:22:41Z",
       "enrichAttempts": 1
-    },
-    {
-      "id": "22638202",
-      "title": "Polyák Gábort választották a Médiatanács új elnökének",
-      "url": "https://kreativ.hu/cikk/mediatanacs-elnok-polyak-gabor",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Megválasztotta Polyák Gábort a Nemzeti Média és Hírközlési Hatóság (NMHH) Médiatanácsának elnökévé kedden az Országgyűlés öt évre. A parlament megválasztotta a testület négy, a Tisza-frakció és a Mi…",
-      "fullSummary": "Megválasztotta Polyák Gábort a Nemzeti Média és Hírközlési Hatóság (NMHH) Médiatanácsának elnökévé kedden az Országgyűlés öt évre. A parlament megválasztotta a testület négy, a Tisza-frakció és a Mi…",
-      "tags": [
-        "Mediatanacs",
-        "Polyak Gabor",
-        "Media"
-      ],
-      "rawTags": [
-        "mediatanacs",
-        "polyak-gabor",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/e/l/t/e/b/eltebtk-0-20260922-690-920-90-zc.webp",
-      "author": "F. V.",
-      "category": "",
-      "publishedAt": "2026-09-22T10:23:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-23T03:22:41Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "3db74d30",
-      "title": "McDonald’s lets fans pick the targets for biggest menu heist yet",
-      "url": "https://www.famouscampaigns.com/2026/09/mcdonalds-lets-fans-pick-the-targets-for-biggest-menu-heist-yet/",
-      "source": "famouscampaigns",
-      "sourceName": "Famous Campaigns",
-      "accent": "#7c5cff",
-      "summary": "McDonald’s and Leo UK are bringing back World Menu Heist, using fan demand to steal nine menu items from eight countries and bring them to the UK and Ireland. The haul includes Germany’s Big Rösti, Canada’s Maple & Cheddar Chicken and…",
-      "fullSummary": "McDonald’s and Leo UK are bringing back World Menu Heist, using fan demand to steal nine menu items from eight countries and bring them to the UK and Ireland. The haul includes Germany’s Big Rösti, Canada’s Maple & Cheddar Chicken and China’s Szechuan Sauce. Leo UK used social listening to identify the international products people […]",
-      "tags": [
-        "Advertising",
-        "Food & Drink",
-        "OOH"
-      ],
-      "rawTags": [
-        "Advertising",
-        "Food & Drink",
-        "OOH"
-      ],
-      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/1_Most-Wanted_30Sec-Film-1.mp4",
-      "author": "Staff",
-      "category": "Advertising",
-      "publishedAt": "2026-09-22T09:52:54Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-23T03:22:41Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "97cb0ce4",
-      "title": "Elhárult az utolsó nagy akadály: a Paramount felvásárolhatja a Warner Bros-t",
-      "url": "https://kreativ.hu/cikk/paramount-warner-megallapodas-felvasarlas",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A Paramount Skydance hétfőn győztesen került ki a Warner Bros Discovery megvásárlása körüli jogi csatából, miután peren kívül megegyezett több amerikai tagállammal és a hollywoodi forgatókönyvírók…",
-      "fullSummary": "A Paramount Skydance hétfőn győztesen került ki a Warner Bros Discovery megvásárlása körüli jogi csatából, miután peren kívül megegyezett több amerikai tagállammal és a hollywoodi forgatókönyvírók…",
-      "tags": [
-        "Paramount",
-        "Warner",
-        "Media"
-      ],
-      "rawTags": [
-        "paramount",
-        "warner",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/p/e/x/e/l/pexels-mark-direen-622749-36148684-0-20260922-920-690-90-zc.webp",
-      "author": "F. V.",
-      "category": "",
-      "publishedAt": "2026-09-22T09:15:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-23T03:22:41Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "15170b88",
-      "title": "Tech- és emberfókusz egyszerre – szakmai irányvonalak a 2026-os Marketing Summitról",
-      "url": "https://kreativ.hu/cikk/tech-es-emberfokusz-egyszerre-szakmai-iranyvonalak-a-2026-os-marketing-summitrol",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Az idei Marketing Summit előadásai alapján a marketing legfontosabb kérdése már nem az, hogy mire képes a mesterséges intelligencia, hanem az, hogy mit kezd vele az ember. A Müpa termeiben egyszerre…",
-      "fullSummary": "Az idei Marketing Summit előadásai alapján a marketing legfontosabb kérdése már nem az, hogy mire képes a mesterséges intelligencia, hanem az, hogy mit kezd vele az ember. A Müpa termeiben egyszerre…",
-      "tags": [
-        "Marketing",
-        "Marketing Summit",
-        "Advertising",
-        "Media",
-        "AI"
-      ],
-      "rawTags": [
-        "marketing",
-        "marketing-summit",
-        "reklam",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/i/m/g/-/9/img-9145-0-20260922-920-690-90-zc.webp",
-      "author": "Lakos Boglárka",
-      "category": "",
-      "publishedAt": "2026-09-22T08:30:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-23T03:22:41Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "914cd259",
-      "title": "A tote bag that turns into a life jacket in 15 seconds",
-      "url": "https://www.famouscampaigns.com/2026/09/a-tote-bag-that-turns-into-a-life-jacket-in-15-seconds/",
-      "source": "famouscampaigns",
-      "sourceName": "Famous Campaigns",
-      "accent": "#7c5cff",
-      "summary": "Lifeline is a conceptual tote bag that transforms into a self-inflating life jacket in around 15 seconds. Launched for New York Climate Week, the project was prompted by images of flooding on the city’s subway and asks an uncomfortable…",
-      "fullSummary": "Lifeline is a conceptual tote bag that transforms into a self-inflating life jacket in around 15 seconds. Launched for New York Climate Week, the project was prompted by images of flooding on the city’s subway and asks an uncomfortable question: what happens when emergency equipment starts to look like an everyday essential? The bag was […]",
-      "tags": [
-        "Environmental",
-        "Products",
-        "Sustainability"
-      ],
-      "rawTags": [
-        "Environmental",
-        "Products"
-      ],
-      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/lifeline.mp4",
-      "author": "Staff",
-      "category": "Environmental",
-      "publishedAt": "2026-09-22T08:13:16Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-23T03:22:41Z",
-      "enrichAttempts": 0
     }
   ]
 }
