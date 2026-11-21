@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T11:25:54Z",
+  "generatedAt": "2026-11-21T10:54:07Z",
   "itemCount": 400,
   "sources": [
     {
@@ -8,7 +8,7 @@
       "site": "https://www.thedrum.com/",
       "accent": "#00d1b2",
       "status": "error",
-      "error": "no JSON-LD itemListElement found on The Drum front page",
+      "error": "failed to fetch https://www.thedrum.com/: HTTP Error 403: Forbidden",
       "count": 0
     },
     {
@@ -50,6 +50,92 @@
   ],
   "items": [
     {
+      "id": "95040851",
+      "title": "Szabó Stein Imre és Kert Attila jutott a második szavazási körbe",
+      "url": "https://kreativ.hu/cikk/kozmedia-palyazat-mtva-fkt",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "November 20. péntek délután véget ért a közmédia vezérigazgatói posztjára pályázók szakmai meghallgatása. Az FKT elnöke szoros eredményt hirdetett, a két legtöbb pontszámot kapó jelöltet 21-én…",
+      "fullSummary": "November 20. péntek délután véget ért a közmédia vezérigazgatói posztjára pályázók szakmai meghallgatása. Az FKT elnöke szoros eredményt hirdetett, a két legtöbb pontszámot kapó jelöltet 21-én szombaton újra meghallgatják.",
+      "tags": [
+        "Awards",
+        "Kozmedia",
+        "Mtva",
+        "Fkt",
+        "Media"
+      ],
+      "rawTags": [
+        "palyazat",
+        "kozmedia",
+        "mtva",
+        "fkt",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/s/z/s/i/-/szsi-png0-20261120-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-20T18:23:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-21T10:54:07Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "86bd1856",
+      "title": "Popkulturális ritkaságok aukciója a Plakátfiú árverésén",
+      "url": "https://kreativ.hu/cikk/arveres-popkult-plakat-grafika-design",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Bummm! című, legendás LGT-album pop-art grafikája mellett, A nyolcadik utas a halál grafikáját és ritka Fellini-posztert is elárvereznek Budapesten.",
+      "fullSummary": "A Bummm! című, legendás LGT-album pop-art grafikája mellett, A nyolcadik utas a halál grafikáját és ritka Fellini-posztert is elárvereznek Budapesten.",
+      "tags": [
+        "OOH",
+        "Filmplakat",
+        "Popkult",
+        "Music"
+      ],
+      "rawTags": [
+        "plakat",
+        "filmplakat",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/f/a/l/r/a/falrafel-csillagokhaboruja-0020-20261120-427-32025-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-20T11:53:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-21T10:54:07Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "57322459",
+      "title": "The AI glitches in the Artificial movie poster were created by hand",
+      "url": "https://www.famouscampaigns.com/2026/11/the-ai-glitches-in-the-artificial-movie-poster-were-created-by-hand/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Somebody painted the Golden Gate Bridge underwater on purpose. For Artificial, Luca Guadagnino’s film about OpenAI, Neon enlisted illustrator Mike Thompson and creative agency Gravillis Inc. to painstakingly recreate, by hand, the weird…",
+      "fullSummary": "Somebody painted the Golden Gate Bridge underwater on purpose. For Artificial, Luca Guadagnino’s film about OpenAI, Neon enlisted illustrator Mike Thompson and creative agency Gravillis Inc. to painstakingly recreate, by hand, the weird mistakes that usually give an AI image away. At first glance, it’s a rather lovely view of San Francisco Bay at sunset […]",
+      "tags": [
+        "Entertainment",
+        "AI",
+        "Agencies",
+        "Illustration",
+        "Film & TV"
+      ],
+      "rawTags": [
+        "Entertainment"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/11/artifical-poster.mp4",
+      "author": "James Herring",
+      "category": "Entertainment",
+      "publishedAt": "2026-11-20T11:27:10Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-21T10:54:07Z",
+      "enrichAttempts": 0
+    },
+    {
       "id": "aa2bc75f",
       "title": "Kiszolgálás helyett közszolgálat – kiktől és mit tanulhat az újjáalakuló magyar közmédia?",
       "url": "https://kreativ.hu/cikk/kiszolgalas-helyett-kozszolgalat-kiktol-es-mit-tanulhat-az-ujjaalakulo-magyar-kozmedia",
@@ -57,7 +143,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A mesterséges intelligencia mindennapi használata a munkavégzést és a gondolkodásmódunkat is alakítja; a TikTok a közéleti kommunikáció fontos felületévé vált; a korábbi „lineáris világot” on-demand…",
-      "fullSummary": "A mesterséges intelligencia mindennapi használata a munkavégzést és a gondolkodásmódunkat is alakítja; a TikTok a közéleti kommunikáció fontos felületévé vált; a korábbi „lineáris világot” on-demand tartalmak és algoritmusok által hiperperszonalizált valóságok váltják fel; miközben újabb, már az okostelefonok és közösségi platformok mellett szocializálódó korosztályok váltak médiafogyasztóvá. Az elmúlt évtized ezen technológiai és…",
+      "fullSummary": "A mesterséges intelligencia mindennapi használata a munkavégzést és a gondolkodásmódunkat is alakítja; a TikTok a közéleti kommunikáció fontos felületévé vált; a korábbi „lineáris világot” on-demand…",
       "tags": [
         "BBC",
         "Kozszolgalati Media",
@@ -92,7 +178,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Comcast és a Skydance közös európai streamingvállalkozása 2027 végén fejezi be működését. A döntés hátterében a globális streamingpiac átalakulása és a nemzetközi versenytársakkal szembeni…",
-      "fullSummary": "A Comcast és a Skydance közös európai streamingvállalkozása 2027 végén fejezi be működését. A döntés hátterében a globális streamingpiac átalakulása és a nemzetközi versenytársakkal szembeni méretgazdaságossági nehézségek állnak. A szolgáltatás addig változatlanul működik, a vállalat vezérigazgatója, Monty Sarhan azonban távozik posztjáról.",
+      "fullSummary": "A Comcast és a Skydance közös európai streamingvállalkozása 2027 végén fejezi be működését. A döntés hátterében a globális streamingpiac átalakulása és a nemzetközi versenytársakkal szembeni…",
       "tags": [
         "Comcast",
         "Megszunes",
@@ -125,7 +211,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Idén 45 pályázatról ítélte úgy a zsűri, hogy arany-, ezüst- vagy bronz-díjra esélyes a Kreatív BTL-versenyén. Az érmesekre a december másodikai díjátadóig még várnunk kell, addig is lássuk kik…",
-      "fullSummary": "Idén 45 pályázatról ítélte úgy a zsűri, hogy arany-, ezüst- vagy bronz-díjra esélyes a Kreatív BTL-versenyén. Az érmesekre a december másodikai díjátadóig még várnunk kell, addig is lássuk kik kerültek a shortlistre!",
+      "fullSummary": "Idén 45 pályázatról ítélte úgy a zsűri, hogy arany-, ezüst- vagy bronz-díjra esélyes a Kreatív BTL-versenyén. Az érmesekre a december másodikai díjátadóig még várnunk kell, addig is lássuk kik…",
       "tags": [
         "Btl",
         "Verseny",
@@ -181,7 +267,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Tíznapos, előzetes piaci konzultációt indít a Visit Hungary a december elejére tervezett performance médiaügynökségi közbeszerzés megjelentetése előtt. A társaság a digitális és PPC-területen működő…",
-      "fullSummary": "Tíznapos, előzetes piaci konzultációt indít a Visit Hungary a december elejére tervezett performance médiaügynökségi közbeszerzés megjelentetése előtt. A társaság a digitális és PPC-területen működő ügynökségek észrevételeit is beépítené a végleges pályázati feltételekbe.",
+      "fullSummary": "Tíznapos, előzetes piaci konzultációt indít a Visit Hungary a december elejére tervezett performance médiaügynökségi közbeszerzés megjelentetése előtt. A társaság a digitális és PPC-területen működő…",
       "tags": [
         "Marketing",
         "Awards",
@@ -267,7 +353,7 @@
         "kerekasztal",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/5/5/6/5/9/55659478432-83544dd1f6-c-20261119-800-600-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/5/5/6/5/9/55659478432-83544dd1f6-c-20261119-4515-602-90-zc.webp",
       "author": "Lakos Boglárka",
       "category": "",
       "publishedAt": "2026-11-19T10:23:00Z",
@@ -299,7 +385,7 @@
         "provident-europe",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/a/c/g/0/-/acg0-20261119-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/c/g/0/-/acg0-20261119-690-920-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-19T10:15:00Z",
@@ -576,7 +662,7 @@
         "ai",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/m/o/n/d/y/mondy-jpeg-20261118-46725-623-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/m/o/n/d/y/mondy-jpeg-20261118-828-621-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-18T11:55:00Z",
@@ -607,7 +693,7 @@
         "szemelycsere",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/t/v/2/-/2/tv2-20261118-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/t/v/2/-/2/tv2-20261118-920-690-90-zc.webp",
       "author": "S. D.",
       "category": "",
       "publishedAt": "2026-11-18T09:52:00Z",
@@ -11718,90 +11804,6 @@
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-22T18:22:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-23T03:22:41Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "b35e1272",
-      "title": "Szerényi Szabolcs a Kreatív új főszerkesztője",
-      "url": "https://kreativ.hu/cikk/kreativ-foszerkeszto-valtozas-szerenyi-szabolcs",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Szeptember 21-től Szerényi Szabolcs tölti be a Kreatív főszerkesztői pozícióját. Az új főszerkesztő számára sem a lap, sem a kommunikációs iparág nem ismeretlen terület, 2010 és 2020 között ugyanis…",
-      "fullSummary": "Szeptember 21-től Szerényi Szabolcs tölti be a Kreatív főszerkesztői pozícióját. Az új főszerkesztő számára sem a lap, sem a kommunikációs iparág nem ismeretlen terület, 2010 és 2020 között ugyanis…",
-      "tags": [
-        "Foszerkeszto",
-        "Media"
-      ],
-      "rawTags": [
-        "kreativ",
-        "foszerkeszto",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/2/0/2/3/-/2023-09-05-kreativ-szolgalati-kozlemeny-cover-doboz-0-20260922-920-690-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-22T14:38:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-23T03:22:41Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "ae53e4ca",
-      "title": "Átadták az első Signature Brands díjait",
-      "url": "https://kreativ.hu/cikk/campaign-signature-brands-marketing-summit-signature-dijatado",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Első alkalommal díjazták a márkák mögött működő marketingcsapatok teljes éves teljesítményét a Campaign Signature Brands keretében a szeptember 17-ei Marketing Summit Signature díjátadóján. A 42…",
-      "fullSummary": "Első alkalommal díjazták a márkák mögött működő marketingcsapatok teljes éves teljesítményét a Campaign Signature Brands keretében a szeptember 17-ei Marketing Summit Signature díjátadóján. A 42…",
-      "tags": [
-        "Marketing",
-        "Verseny",
-        "Advertising",
-        "Branding",
-        "Campaigns"
-      ],
-      "rawTags": [
-        "marketing",
-        "verseny",
-        "reklam"
-      ],
-      "image": "https://kreativ.hu/img-cache/i/m/g/-/2/img-2209-0-20260922-690-920-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-22T13:36:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-23T03:22:41Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "e59559b3",
-      "title": "Egy pillanat is dönthet az utakon: a magyarok többsége nem tudja, mekkora távolság számít biztonságosnak",
-      "url": "https://kreativ.hu/cikk/egy-pillanat-is-donthet-az-utakon-a-magyarok-tobbsege-nem-tudja-mekkora-tavolsag-szamit-biztonsagosnak",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Vajon elegendő követési távolságot tartunk? Tudjuk, mekkora oldaltávolság szükséges egy kerékpáros előzésekor, vagy milyen hosszú a féktáv autópálya-tempónál? A Magyar Suzuki és az Ipsos országosan…",
-      "fullSummary": "Vajon elegendő követési távolságot tartunk? Tudjuk, mekkora oldaltávolság szükséges egy kerékpáros előzésekor, vagy milyen hosszú a féktáv autópálya-tempónál? A Magyar Suzuki és az Ipsos országosan…",
-      "tags": [
-        "PR",
-        "Biztonsag",
-        "Suzuki",
-        "Advertising"
-      ],
-      "rawTags": [
-        "pr",
-        "biztonsag",
-        "suzuki",
-        "reklam"
-      ],
-      "image": "https://kreativ.hu/img-cache/s/u/z/i/-/suzi-dob-20260928-640-480-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-22T12:40:00Z",
       "datePrecise": true,
       "firstSeenAt": "2026-09-23T03:22:41Z",
       "enrichAttempts": 1
