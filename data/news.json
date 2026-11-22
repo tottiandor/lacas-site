@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T10:54:07Z",
+  "generatedAt": "2026-11-22T11:10:33Z",
   "itemCount": 400,
   "sources": [
     {
@@ -50,6 +50,39 @@
   ],
   "items": [
     {
+      "id": "5d67a386",
+      "title": "Dr. Kert Attilát választották a közmédia új vezérigazgatójának",
+      "url": "https://kreativ.hu/cikk/dr-kert-attilat-valasztottak-a-kozmedia-uj-vezerigazgatojanak",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Független Közmédia Testület dr. Kert Attilát választotta a Magyar Rádió és Televízió Nonprofit Zrt. vezérigazgatójává. Az Euronews magyarországi irodájának korábbi vezetője Szabó Stein Imrével…",
+      "fullSummary": "A Független Közmédia Testület dr. Kert Attilát választotta a Magyar Rádió és Televízió Nonprofit Zrt. vezérigazgatójává. Az Euronews magyarországi irodájának korábbi vezetője Szabó Stein Imrével szemben nyerte meg a szombati második fordulót, és határozatlan idejű kinevezést kap.",
+      "tags": [
+        "Kinevezes",
+        "Vezerigazgato",
+        "Kozmedia",
+        "Kert Attila",
+        "Mrtv",
+        "Media"
+      ],
+      "rawTags": [
+        "kinevezes",
+        "vezerigazgato",
+        "kozmedia",
+        "kert-attila",
+        "mrtv",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/k/e/r/t/-/kert-attila-20-20261121-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-21T18:21:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-22T11:10:33Z",
+      "enrichAttempts": 1
+    },
+    {
       "id": "95040851",
       "title": "Szabó Stein Imre és Kert Attila jutott a második szavazási körbe",
       "url": "https://kreativ.hu/cikk/kozmedia-palyazat-mtva-fkt",
@@ -57,7 +90,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "November 20. péntek délután véget ért a közmédia vezérigazgatói posztjára pályázók szakmai meghallgatása. Az FKT elnöke szoros eredményt hirdetett, a két legtöbb pontszámot kapó jelöltet 21-én…",
-      "fullSummary": "November 20. péntek délután véget ért a közmédia vezérigazgatói posztjára pályázók szakmai meghallgatása. Az FKT elnöke szoros eredményt hirdetett, a két legtöbb pontszámot kapó jelöltet 21-én szombaton újra meghallgatják.",
+      "fullSummary": "November 20. péntek délután véget ért a közmédia vezérigazgatói posztjára pályázók szakmai meghallgatása. Az FKT elnöke szoros eredményt hirdetett, a két legtöbb pontszámot kapó jelöltet 21-én…",
       "tags": [
         "Awards",
         "Kozmedia",
@@ -78,6 +111,69 @@
       "publishedAt": "2026-11-20T18:23:00Z",
       "datePrecise": true,
       "firstSeenAt": "2026-11-21T10:54:07Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "db82357c",
+      "title": "Médiatanács: több kárt okozhat a reklámadó, mint amennyi bevételt hozna",
+      "url": "https://kreativ.hu/cikk/mediatanacs-tobb-kart-okozhat-a-reklamado-mint-amennyi-bevetelt-hozna",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A testület továbbra sem támogatja a 2027-re tervezett különadót. A reklámszakma és a médiapiaci elemzők korábbi állásfoglalásai, illetve számításai alapján az is kulcskérdés, hogy végül mely…",
+      "fullSummary": "A testület továbbra sem támogatja a 2027-re tervezett különadót. A reklámszakma és a médiapiaci elemzők korábbi állásfoglalásai, illetve számításai alapján az is kulcskérdés, hogy végül mely vállalkozások viselik a terheket.",
+      "tags": [
+        "Mediatanacs",
+        "Meta",
+        "Reklamado",
+        "Polyak Gabor",
+        "Media",
+        "Advertising"
+      ],
+      "rawTags": [
+        "mediatanacs",
+        "meta",
+        "reklamado",
+        "polyak-gabor",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/n/m/h/h/-/nmhh-cover-november0-20261121-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-20T14:58:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-22T11:10:33Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "91a28e8e",
+      "title": "„Vitray Tamás maga a köztelevízió” – visszavárná a legendás műsorvezetőt a közmédia",
+      "url": "https://kreativ.hu/cikk/vitray-tamas-maga-a-koztelevizio-szeleczky-adam-kozmedia",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Szeleczky Ádám programigazgató szerint a 94 éves televíziós szakember tapasztalatára a megújuló közmédiában is szükség lenne. Vitray Tamás azonban egyelőre nem kapott konkrét megkeresést, így a…",
+      "fullSummary": "Szeleczky Ádám programigazgató szerint a 94 éves televíziós szakember tapasztalatára a megújuló közmédiában is szükség lenne. Vitray Tamás azonban egyelőre nem kapott konkrét megkeresést, így a visszatéréséről sincs döntés.",
+      "tags": [
+        "Film & TV",
+        "Kozmedia",
+        "Vitray Tamas",
+        "Szeleczky Adam",
+        "Media"
+      ],
+      "rawTags": [
+        "televizio",
+        "kozmedia",
+        "vitray-tamas",
+        "szeleczky-adam",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/v/i/t/r/a/vitray-fotocentral-20261121-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-20T12:45:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-22T11:10:33Z",
       "enrichAttempts": 1
     },
     {
@@ -226,7 +322,7 @@
         "lollipop",
         "2026"
       ],
-      "image": "https://kreativ.hu/img-cache/l/o/l/l/i/lolli2026-640x480-admin-lista-png-20261119-640-480-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/l/o/l/l/i/lolli2026-640x480-admin-lista-png-20261119-36075-481-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-19T14:30:00Z",
@@ -286,7 +382,7 @@
         "visit-hungary",
         "performance"
       ],
-      "image": "https://kreativ.hu/img-cache/v/i/s/i/t/visit-hungary-1-jpeg0-20261119-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/v/i/s/i/t/visit-hungary-1-jpeg0-20261119-5415-722-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-19T11:45:00Z",
@@ -318,7 +414,7 @@
         "foodora",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/p/o/s/-/x/pos-x-foodora-v2-png-20261119-661-49575-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/p/o/s/-/x/pos-x-foodora-v2-png-20261119-37275-497-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-19T11:15:00Z",
@@ -449,7 +545,7 @@
         "tv4",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/h/a/j/o/s/hajos-andras-jpeg0-20261119-282-376-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/h/a/j/o/s/hajos-andras-jpeg0-20261119-500-375-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-19T09:30:00Z",
@@ -459,7 +555,7 @@
     },
     {
       "id": "e07f799e",
-      "title": "Élőben követhető a közmédia vezérigazgatói meghallgatása",
+      "title": "Itt nézhetők vissza a közmédia vezérigazgatói meghallgatásai",
       "url": "https://kreativ.hu/cikk/vezerigazgato-kozmedia-mrtv-meghallgatas-elo-fkt",
       "source": "kreativ",
       "sourceName": "Kreatív",
@@ -514,7 +610,7 @@
         "best-fm",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-2040314636-1-jpeg-20261118-54975-733-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-2040314636-1-jpeg-20261118-920-690-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-18T16:31:00Z",
@@ -631,7 +727,7 @@
         "kampany",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/z/e/n/e/t/zeneterapia-fannival-20261117-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/z/e/n/e/t/zeneterapia-fannival-20261117-920-690-90-zc.webp",
       "author": "S. D.",
       "category": "",
       "publishedAt": "2026-11-18T13:29:00Z",
@@ -11725,87 +11821,6 @@
       "publishedAt": "2026-09-23T08:05:00Z",
       "datePrecise": true,
       "firstSeenAt": "2026-09-24T03:22:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "335a64b0",
-      "title": "Aldi unveils jacket that transforms into a shopping bag",
-      "url": "https://www.famouscampaigns.com/2026/09/aldi-turns-a-jacket-into-the-shopping-bag/",
-      "source": "famouscampaigns",
-      "sourceName": "Famous Campaigns",
-      "accent": "#7c5cff",
-      "summary": "Aldi has created a jacket that transforms into a reusable shopping bag in 10 seconds, turning one of Britain’s most common supermarket mistakes into a piece of wearable brand merch. The idea comes from a familiar bit of consumer behaviour.…",
-      "fullSummary": "Aldi has created a jacket that transforms into a reusable shopping bag in 10 seconds, turning one of Britain’s most common supermarket mistakes into a piece of wearable brand merch. The idea comes from a familiar bit of consumer behaviour. New Aldi research found 46% of Brits regularly forget their shopping bags, while 85% have […]",
-      "tags": [
-        "Food & Drink",
-        "PR",
-        "Retail",
-        "Branding"
-      ],
-      "rawTags": [
-        "Food & Drink",
-        "PR",
-        "Retail"
-      ],
-      "image": null,
-      "author": "Staff",
-      "category": "Food & Drink",
-      "publishedAt": "2026-09-22T23:01:52Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-23T03:22:41Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "cab1b357",
-      "title": "Apple — Dimensional Drawings of Products",
-      "url": "https://theinspiration.com/2026/09/apple-dimensional-drawings-of-products/",
-      "source": "theinspiration",
-      "sourceName": "The Inspiration",
-      "accent": "#f5b301",
-      "summary": "Please visit developer.apple.com",
-      "fullSummary": "Please visit developer.apple.com",
-      "tags": [
-        "Design"
-      ],
-      "rawTags": [
-        "Design"
-      ],
-      "image": "https://theinspiration.com/wp-content/uploads/editor-1790066927-10abca28-750x536.avif",
-      "author": "Daniel Ingvartsen",
-      "category": "Design",
-      "publishedAt": "2026-09-22T20:53:14Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-23T03:22:41Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "c99b6f35",
-      "title": "Meghalt Krecz Tibor médiaszakember",
-      "url": "https://kreativ.hu/cikk/meghalt-krecz-tibor-mediaszakember",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Életének 63. évében, szeptember 19-én elhunyt Krecz Tibor, Debrecen közismert és elismert média- és kommunikációs szakembere. Halálhírét lánya osztotta meg a közösségi médiában, erről a Hajdupress…",
-      "fullSummary": "Életének 63. évében, szeptember 19-én elhunyt Krecz Tibor, Debrecen közismert és elismert média- és kommunikációs szakembere. Halálhírét lánya osztotta meg a közösségi médiában, erről a Hajdupress…",
-      "tags": [
-        "Debrecen",
-        "Media",
-        "Ujsagiras",
-        "Figyelo",
-        "Social Media"
-      ],
-      "rawTags": [
-        "debrecen",
-        "media",
-        "ujsagiras",
-        "figyelo"
-      ],
-      "image": "https://kreativ.hu/img-cache/k/r/e/c/z/krecz-20260922-549-75-733-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-22T18:22:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-23T03:22:41Z",
       "enrichAttempts": 1
     }
   ]
