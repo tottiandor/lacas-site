@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T11:10:33Z",
+  "generatedAt": "2026-11-23T12:20:28Z",
   "itemCount": 400,
   "sources": [
     {
@@ -18,7 +18,7 @@
       "accent": "#e8453c",
       "status": "ok",
       "error": null,
-      "count": 25
+      "count": 22
     },
     {
       "id": "creativereview",
@@ -50,6 +50,176 @@
   ],
   "items": [
     {
+      "id": "53a35c63",
+      "title": "Kamutemetés és rózsaszín Cadillac – így szálltak be a márkák a GTA VI rajtjába",
+      "url": "https://kreativ.hu/cikk/kamutemetes-es-rozsaszin-cadillac-igy-szalltak-be-a-markak-a-gta-vi-rajtjaba",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Az ausztrál KFC egy kitalált temetéssel adott alibit a játékosoknak, a Specsavers egy fuvarcéggel kötött GTA-partnerséget, a Miami Heat különkiadású mezei pedig másfél óra alatt elfogytak a…",
+      "fullSummary": "Az ausztrál KFC egy kitalált temetéssel adott alibit a játékosoknak, a Specsavers egy fuvarcéggel kötött GTA-partnerséget, a Miami Heat különkiadású mezei pedig másfél óra alatt elfogytak a csarnokban. A Grand Theft Auto VI premierjére készült kampányok közül jöjjön pár olyan, amely a játék körüli figyelmet kézzelfogható élménybe fordította át.",
+      "tags": [
+        "Kampanyok",
+        "Gta",
+        "Grand Theft Auto",
+        "Advertising",
+        "Popkult",
+        "Branding"
+      ],
+      "rawTags": [
+        "kampanyok",
+        "gta",
+        "grand-theft-auto",
+        "reklam",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/g/t/a/-/6/gta-6-png0-20261123-920-690-90-zc.webp",
+      "author": "L. B.",
+      "category": "",
+      "publishedAt": "2026-11-23T10:41:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-23T12:20:28Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "8fbb1c7d",
+      "title": "Kert Attila: „Szeretek úgy állni az élethez, hogy nincs a fejemben B terv”",
+      "url": "https://kreativ.hu/cikk/szeretek-ugy-allni-az-elethez-hogy-nincs-a-fejemben-b-terv",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Kert Attilával 2022-ben készült interjúnkban azt írtuk: igazi news junkie, akinek az újságírás a mai napig nem szakma, hanem hivatás. Az Euronews magyar irodájának vezetője már akkor is úgy gondolta,…",
+      "fullSummary": "Kert Attilával 2022-ben készült interjúnkban azt írtuk: igazi news junkie, akinek az újságírás a mai napig nem szakma, hanem hivatás. Az Euronews magyar irodájának vezetője már akkor is úgy gondolta, hogy noha a magyar média romokban hever, igenis szükség lenne egy színvonalas tartalmakat előállító és tisztességesen működő magyar közszolgálati csatornára. Arra pedig, hogy létrehozzon egy európai közszolgálati médiaszolgáltatási platformot, még…",
+      "tags": [
+        "Interju",
+        "Kert Attila",
+        "2022",
+        "Magazin"
+      ],
+      "rawTags": [
+        "interju",
+        "kert-attila",
+        "2022",
+        "magazin"
+      ],
+      "image": "https://kreativ.hu/img-cache/1/6/4/5/7/1645774778-pph-temp-4tz4gojpg-20220225-920-690-90-zc.webp",
+      "author": "Tóth Olivér",
+      "category": "",
+      "publishedAt": "2026-11-23T10:00:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-23T12:20:28Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "9d2504d2",
+      "title": "Hanghallókról szóló alkotás lett a legjobb nemzetközi dokumentumfilm az idei Verzión",
+      "url": "https://kreativ.hu/cikk/verzio-nyertesek-dij-film-dokumentumfilm",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Kiosztották a 23. Verzió díjait: a Hangok a fejemben című holland film nyerte a legjobb nemzetközi dokumentumfilm díját, a legjobb magyar dokumentumfilm a Papa lett. November 26-tól ötven film…",
+      "fullSummary": "Kiosztották a 23. Verzió díjait: a Hangok a fejemben című holland film nyerte a legjobb nemzetközi dokumentumfilm díját, a legjobb magyar dokumentumfilm a Papa lett. November 26-tól ötven film online is elérhető.",
+      "tags": [
+        "Filmfesztival",
+        "Film & TV",
+        "Verzio Filmfesztival",
+        "Verzio",
+        "Popkult"
+      ],
+      "rawTags": [
+        "filmfesztival",
+        "dokumentumfilm",
+        "verzio-filmfesztival",
+        "verzio",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/h/a/n/g/o/hangok2-20261123-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-23T09:48:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-23T12:20:28Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "c9d45c52",
+      "title": "Százötven hallgató készített reklámot a Gyermelyinek a Sas István Reklámversenyen",
+      "url": "https://kreativ.hu/cikk/sas-istvan-reklamverseny-tanulmany-evfordulo",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Idén lenne nyolcvanéves Sas István Balázs Béla-díjas filmrendező és reklámpszichológus. A Budapesti Metropolitan Egyetem (METU) november 27-én egy 25 tanulmányt tartalmazó emlékkötet bemutatójával,…",
+      "fullSummary": "Idén lenne nyolcvanéves Sas István Balázs Béla-díjas filmrendező és reklámpszichológus. A Budapesti Metropolitan Egyetem (METU) november 27-én egy 25 tanulmányt tartalmazó emlékkötet bemutatójával, valamint a rekordszámú nevezőt vonzó Sas István Reklámverseny döntőjével tiszteleg az egykori egyetemi tanár munkássága előtt.",
+      "tags": [
+        "Tanulmany",
+        "Sas Istvan",
+        "Evfordulo",
+        "Reklamverseny",
+        "Advertising"
+      ],
+      "rawTags": [
+        "tanulmany",
+        "sas-istvan",
+        "evfordulo",
+        "reklamverseny",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/d/s/c/-/1/dsc-1920-1-jpeg0-20261123-920-690-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-11-23T08:46:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-23T12:20:28Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "97d206e2",
+      "title": "The Ordinary — The Ordinary Blood Drive",
+      "url": "https://theinspiration.com/2026/11/the-ordinary-the-ordinary-blood-drive/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "The Ordinary is turning Black Friday into a day of giving rather than shopping. For the seventh consecutive year, the skincare brand is closing its stores and website on the biggest shopping day of the year. But this time, it’s taking the…",
+      "fullSummary": "The Ordinary is turning Black Friday into a day of giving rather than shopping. For the seventh consecutive year, the skincare brand is closing its stores and website on the biggest shopping day of the year. But this time, it’s taking the idea a step further by transforming selected stores in New York and Toronto […] The post The Ordinary — The Ordinary Blood Drive appeared first on THEINSPIRATION.COM .",
+      "tags": [
+        "Advertising",
+        "Branding"
+      ],
+      "rawTags": [
+        "Advertising"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/D61203-ORD-BVM-O-1-scaled-20261123093312-gjtv-750x536.webp",
+      "author": "René Kammersgaard",
+      "category": "Advertising",
+      "publishedAt": "2026-11-23T08:35:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-23T12:20:28Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "b42b9437",
+      "title": "KitKat — Kit=Code",
+      "url": "https://theinspiration.com/2026/11/kitkat-kitcode/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "KitKat found a clever way to bring its iconic “Have a Break, Have a KitKat” message into the world of software developers. The idea starts with a simple visual observation: the two lines of an equals sign (=) look just like two KitKat…",
+      "fullSummary": "KitKat found a clever way to bring its iconic “Have a Break, Have a KitKat” message into the world of software developers. The idea starts with a simple visual observation: the two lines of an equals sign (=) look just like two KitKat fingers. Working with AI coding assistants like Claude and Codex, Kit=Code tracks […] The post KitKat — Kit=Code appeared first on THEINSPIRATION.COM .",
+      "tags": [
+        "Advertising"
+      ],
+      "rawTags": [
+        "Advertising"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/01-KitCode-20261123092736-t1mi-750x536.webp",
+      "author": "René Kammersgaard",
+      "category": "Advertising",
+      "publishedAt": "2026-11-23T08:30:27Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-23T12:20:28Z",
+      "enrichAttempts": 0
+    },
+    {
       "id": "5d67a386",
       "title": "Dr. Kert Attilát választották a közmédia új vezérigazgatójának",
       "url": "https://kreativ.hu/cikk/dr-kert-attilat-valasztottak-a-kozmedia-uj-vezerigazgatojanak",
@@ -57,7 +227,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Független Közmédia Testület dr. Kert Attilát választotta a Magyar Rádió és Televízió Nonprofit Zrt. vezérigazgatójává. Az Euronews magyarországi irodájának korábbi vezetője Szabó Stein Imrével…",
-      "fullSummary": "A Független Közmédia Testület dr. Kert Attilát választotta a Magyar Rádió és Televízió Nonprofit Zrt. vezérigazgatójává. Az Euronews magyarországi irodájának korábbi vezetője Szabó Stein Imrével szemben nyerte meg a szombati második fordulót, és határozatlan idejű kinevezést kap.",
+      "fullSummary": "A Független Közmédia Testület dr. Kert Attilát választotta a Magyar Rádió és Televízió Nonprofit Zrt. vezérigazgatójává. Az Euronews magyarországi irodájának korábbi vezetője Szabó Stein Imrével…",
       "tags": [
         "Kinevezes",
         "Vezerigazgato",
@@ -74,7 +244,7 @@
         "mrtv",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/k/e/r/t/-/kert-attila-20-20261121-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/k/e/r/t/-/kert-attila-jpeg-20261123-920-690-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-21T18:21:00Z",
@@ -105,7 +275,7 @@
         "fkt",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/s/z/s/i/-/szsi-png0-20261120-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/s/z/s/i/-/szsi-png0-20261120-690-920-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-20T18:23:00Z",
@@ -121,7 +291,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A testület továbbra sem támogatja a 2027-re tervezett különadót. A reklámszakma és a médiapiaci elemzők korábbi állásfoglalásai, illetve számításai alapján az is kulcskérdés, hogy végül mely…",
-      "fullSummary": "A testület továbbra sem támogatja a 2027-re tervezett különadót. A reklámszakma és a médiapiaci elemzők korábbi állásfoglalásai, illetve számításai alapján az is kulcskérdés, hogy végül mely vállalkozások viselik a terheket.",
+      "fullSummary": "A testület továbbra sem támogatja a 2027-re tervezett különadót. A reklámszakma és a médiapiaci elemzők korábbi állásfoglalásai, illetve számításai alapján az is kulcskérdés, hogy végül mely…",
       "tags": [
         "Mediatanacs",
         "Meta",
@@ -137,7 +307,7 @@
         "polyak-gabor",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/n/m/h/h/-/nmhh-cover-november0-20261121-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/n/m/h/h/-/nmhh-cover-november0-20261121-690-920-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-20T14:58:00Z",
@@ -153,7 +323,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Szeleczky Ádám programigazgató szerint a 94 éves televíziós szakember tapasztalatára a megújuló közmédiában is szükség lenne. Vitray Tamás azonban egyelőre nem kapott konkrét megkeresést, így a…",
-      "fullSummary": "Szeleczky Ádám programigazgató szerint a 94 éves televíziós szakember tapasztalatára a megújuló közmédiában is szükség lenne. Vitray Tamás azonban egyelőre nem kapott konkrét megkeresést, így a visszatéréséről sincs döntés.",
+      "fullSummary": "Szeleczky Ádám programigazgató szerint a 94 éves televíziós szakember tapasztalatára a megújuló közmédiában is szükség lenne. Vitray Tamás azonban egyelőre nem kapott konkrét megkeresést, így a…",
       "tags": [
         "Film & TV",
         "Kozmedia",
@@ -168,7 +338,7 @@
         "szeleczky-adam",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/v/i/t/r/a/vitray-fotocentral-20261121-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/v/i/t/r/a/vitray-fotocentral-20261121-690-920-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-20T12:45:00Z",
@@ -196,7 +366,7 @@
         "filmplakat",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/f/a/l/r/a/falrafel-csillagokhaboruja-0020-20261120-427-32025-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/f/a/l/r/a/falrafel-csillagokhaboruja-0020-20261120-24075-321-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-20T11:53:00Z",
@@ -258,7 +428,7 @@
         "fkt",
         "yle"
       ],
-      "image": "https://kreativ.hu/img-cache/1/7/9/5/1/1795170149-pph-temp-mtt79v3kfege99bvsef-20261120-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/k/r/e/a/t/kreativ-cimlap-fortepan-ok0-20261120-690-920-90-zc.webp",
       "author": "Lakos Boglárka",
       "category": "",
       "publishedAt": "2026-11-20T09:02:00Z",
@@ -291,7 +461,7 @@
         "skydance",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/s/k/y/s/h/skyshowtime-jpeg0-20261119-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/s/k/y/s/h/skyshowtime-jpeg0-20261119-5415-722-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-19T16:19:00Z",
@@ -322,7 +492,7 @@
         "lollipop",
         "2026"
       ],
-      "image": "https://kreativ.hu/img-cache/l/o/l/l/i/lolli2026-640x480-admin-lista-png-20261119-36075-481-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/l/o/l/l/i/lolli2026-640x480-admin-lista-png-20261119-640-480-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-19T14:30:00Z",
@@ -382,7 +552,7 @@
         "visit-hungary",
         "performance"
       ],
-      "image": "https://kreativ.hu/img-cache/v/i/s/i/t/visit-hungary-1-jpeg0-20261119-5415-722-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/v/i/s/i/t/visit-hungary-1-jpeg0-20261119-920-690-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-19T11:45:00Z",
@@ -414,7 +584,7 @@
         "foodora",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/p/o/s/-/x/pos-x-foodora-v2-png-20261119-37275-497-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/p/o/s/-/x/pos-x-foodora-v2-png-20261119-661-49575-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-19T11:15:00Z",
@@ -449,7 +619,7 @@
         "kerekasztal",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/5/5/6/5/9/55659478432-83544dd1f6-c-20261119-4515-602-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/5/5/6/5/9/55659478432-83544dd1f6-c-20261119-800-600-90-zc.webp",
       "author": "Lakos Boglárka",
       "category": "",
       "publishedAt": "2026-11-19T10:23:00Z",
@@ -11636,189 +11806,6 @@
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-23T13:18:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-24T03:22:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "8c7bdda5",
-      "title": "WhisperTon figyelmeztetést, a Coca-Cola ötmilliós bírságot kapott a GVH-tól",
-      "url": "https://kreativ.hu/cikk/whisper-ton-figyelmeztetest-a-coca-cola-otmillios-birsagot-kapott-a-gvh-tol",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "WhisperTon vizsgált Instagram- és TikTok-posztjainak közel háromnegyedében nem volt megfelelő a reklámjelölés a GVH szerint. A hatóság az influenszert és vállalkozását figyelmeztette, az egyik…",
-      "fullSummary": "WhisperTon vizsgált Instagram- és TikTok-posztjainak közel háromnegyedében nem volt megfelelő a reklámjelölés a GVH szerint. A hatóság az influenszert és vállalkozását figyelmeztette, az egyik…",
-      "tags": [
-        "Advertising",
-        "Popkult",
-        "Social Media"
-      ],
-      "rawTags": [
-        "reklam",
-        "popkult"
-      ],
-      "image": "https://kreativ.hu/img-cache/3/4/9/0/9/349093014-1588008545018906-7064659390790761484-n-0-20260923-920-690-90-zc.webp",
-      "author": "L. B.",
-      "category": "",
-      "publishedAt": "2026-09-23T12:10:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-24T03:22:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "87ff4a3c",
-      "title": "A médiafenntarthatóság nem pusztán technológiai vagy környezetvédelmi ügy",
-      "url": "https://kreativ.hu/cikk/a-mediafenntarthatosag-nem-pusztan-technologiai-vagy-kornyezetvedelmi-ugy",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A médiafenntarthatóság kettős kihívás: fenntarthatóbbá tenni magát a médiaipart, és felhasználni a média rendkívüli kulturális hatását. November 2. az első nevezési határidő Doing Good CSR Award…",
-      "fullSummary": "A médiafenntarthatóság kettős kihívás: fenntarthatóbbá tenni magát a médiaipart, és felhasználni a média rendkívüli kulturális hatását. November 2. az első nevezési határidő Doing Good CSR Award…",
-      "tags": [
-        "Media",
-        "Csr Award",
-        "Doing Good",
-        "Verseny",
-        "Awards"
-      ],
-      "rawTags": [
-        "media",
-        "csr-award",
-        "doing-good",
-        "verseny"
-      ],
-      "image": "https://kreativ.hu/img-cache/c/s/r/2/0/csr2026-640x480-lista-png-20260923-920-690-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-23T11:23:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-24T03:22:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "812867d3",
-      "title": "Éles szemek, tapasztalt szakemberek: bemutatkozik a Lollipop 2026 zsűrije",
-      "url": "https://kreativ.hu/cikk/btl-verseny-pr-lollipop-zsuri-nevezes-2026",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Összeállt a Kreatív nagymúltú BTL- és márkaaktivizációs versenyének zsűrije. Az idei Lollipopon ügyfél és ügynökségi oldalról is a BTL-szektort kiválóan ismerő szakemberek kaptak helyet, hogy…",
-      "fullSummary": "Összeállt a Kreatív nagymúltú BTL- és márkaaktivizációs versenyének zsűrije. Az idei Lollipopon ügyfél és ügynökségi oldalról is a BTL-szektort kiválóan ismerő szakemberek kaptak helyet, hogy…",
-      "tags": [
-        "Btl",
-        "Verseny",
-        "PR",
-        "Lollipop",
-        "Awards",
-        "2026"
-      ],
-      "rawTags": [
-        "btl",
-        "verseny",
-        "pr",
-        "lollipop",
-        "zsuri",
-        "nevezes",
-        "2026"
-      ],
-      "image": "https://kreativ.hu/img-cache/l/o/l/l/i/lolli2026-v3-png-20260923-920-690-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-23T11:09:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-24T03:22:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "17c8eb8f",
-      "title": "Minőségi Újságírás Díj: a Debreciner Akkuváros című filmje kapta a fődíjat",
-      "url": "https://kreativ.hu/cikk/minosegi-ujsagiras-dij-a-debreciner-akkuvaros-cimu-filmje-kapta-a-fodijat",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A debreceni akkumulátoripari beruházásokról készült riportfilmet ismerték el a 2026 második negyedévében megjelent újságírói munkák közül. A Médiafórum Egyesület négy különdíjat is kiosztott: a 444,…",
-      "fullSummary": "A debreceni akkumulátoripari beruházásokról készült riportfilmet ismerték el a 2026 második negyedévében megjelent újságírói munkák közül. A Médiafórum Egyesület négy különdíjat is kiosztott: a 444,…",
-      "tags": [
-        "Minosegi Ujsagiras Dij",
-        "Fodij",
-        "Debreciner",
-        "Media",
-        "Awards",
-        "Business"
-      ],
-      "rawTags": [
-        "minosegi-ujsagiras-dij",
-        "fodij",
-        "debreciner",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/m/i/n/o/s/minosegi-ujsagiras-dij-2026-0-20260923-920-690-90-zc.webp",
-      "author": "L. B.",
-      "category": "",
-      "publishedAt": "2026-09-23T09:11:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-24T03:22:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "27f7d727",
-      "title": "Betongyár mint love brand, omotenashi és hidegburkoló influenszerek",
-      "url": "https://kreativ.hu/cikk/az-omotenashi-szemlelettol-a-hidegburkolo-influenszerekig",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A digitális figyelemgazdaságban már nem feltétlenül a legjobb cég nyer, hanem az, amelyikről beszélnek is. Az ipari vállalatok sikertörténetei csak részben születnek a gyártócsarnokokban; a siker…",
-      "fullSummary": "A digitális figyelemgazdaságban már nem feltétlenül a legjobb cég nyer, hanem az, amelyikről beszélnek is. Az ipari vállalatok sikertörténetei csak részben születnek a gyártócsarnokokban; a siker…",
-      "tags": [
-        "Konferencia",
-        "Techcomm 2026",
-        "Advertising",
-        "Media",
-        "Branding"
-      ],
-      "rawTags": [
-        "konferencia",
-        "kreativ",
-        "techcomm-2026",
-        "reklam",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-2004795089-jpeg-0-20260923-920-690-90-zc.webp",
-      "author": "S. D.",
-      "category": "",
-      "publishedAt": "2026-09-23T08:07:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-24T03:22:17Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "45f5d4a1",
-      "title": "Nem fogadja el a LOUPE a közmédia meghívását – egyelőre",
-      "url": "https://kreativ.hu/cikk/nem-fogadja-el-a-loupe-a-kozmedia-meghivasat-veiszer-alinda-reakcio",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Lovas Rozi és Horváth János Antal is felkérést kapott, hogy vendégként szerepeljen a közmédia egyik műsorában. A LOUPE Színházi Társulás most nemet mondott a meghívásokra: értékeli az elindult…",
-      "fullSummary": "Lovas Rozi és Horváth János Antal is felkérést kapott, hogy vendégként szerepeljen a közmédia egyik műsorában. A LOUPE Színházi Társulás most nemet mondott a meghívásokra: értékeli az elindult változásokat, de úgy látja, az átalakulás még nem tart ott, hogy jó szívvel vállaljon szereplést. Veiszer Alinda is reagált a LOUPE nyilatkozatára.",
-      "tags": [
-        "Kozmedia",
-        "Veiszer Alinda",
-        "Loupe Szinhazi Tarsulas",
-        "Loupe",
-        "Media"
-      ],
-      "rawTags": [
-        "kozmedia",
-        "veiszer-alinda",
-        "loupe-szinhazi-tarsulas",
-        "loupe",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/l/o/u/p/e/loupe-0-20260923-690-920-90-zc.webp",
-      "author": "Lakos Boglárka",
-      "category": "",
-      "publishedAt": "2026-09-23T08:05:00Z",
       "datePrecise": true,
       "firstSeenAt": "2026-09-24T03:22:17Z",
       "enrichAttempts": 1
