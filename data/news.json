@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T13:33:30Z",
+  "generatedAt": "2026-11-25T12:42:44Z",
   "itemCount": 400,
   "sources": [
     {
@@ -50,6 +50,243 @@
   ],
   "items": [
     {
+      "id": "81448dd4",
+      "title": "Why IKEA made its showroom phones ring every 16 minutes",
+      "url": "https://www.famouscampaigns.com/2026/11/why-ikea-made-its-showroom-phones-ring-every-16-minutes/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Every 16 minutes, the phones rang in an IKEA showroom in Portugal. That’s how often someone reports domestic violence in the country. Shoppers who picked up a handset heard a recorded message explaining the timing. IKEA Portugal and…",
+      "fullSummary": "Every 16 minutes, the phones rang in an IKEA showroom in Portugal. That’s how often someone reports domestic violence in the country. Shoppers who picked up a handset heard a recorded message explaining the timing. IKEA Portugal and creative agency Uzina placed the phones throughout the store’s room displays to mark the International Day for […]",
+      "tags": [
+        "Cause Related",
+        "Retail"
+      ],
+      "rawTags": [
+        "Cause Related",
+        "Retail"
+      ],
+      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/11/ikea_wake-up-call_film.mp4",
+      "author": "James Herring",
+      "category": "Cause Related",
+      "publishedAt": "2026-11-25T12:10:02Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-25T12:42:44Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "0ea8e609",
+      "title": "IKEA — Black Deals By Marketsquare",
+      "url": "https://theinspiration.com/2026/11/ikea-black-deals-by-marketsquare/",
+      "source": "theinspiration",
+      "sourceName": "The Inspiration",
+      "accent": "#f5b301",
+      "summary": "Since 2017, IKEA Denmark has charted its own course for Black Friday. So how do we keep the tradition alive and still surprise people? This year, we took Black Friday quite literally. Introducing BLACK DEALS: black products on black…",
+      "fullSummary": "Since 2017, IKEA Denmark has charted its own course for Black Friday. So how do we keep the tradition alive and still surprise people? This year, we took Black Friday quite literally. Introducing BLACK DEALS: black products on black backgrounds, presented in the familiar language of special offers, but at their usual low prices. A […] The post IKEA — Black Deals By Marketsquare appeared first on THEINSPIRATION.COM .",
+      "tags": [
+        "Advertising"
+      ],
+      "rawTags": [
+        "Advertising"
+      ],
+      "image": "https://theinspiration.com/wp-content/uploads/IKEA_BLACK-DEALS_OOH_2_Marketsqaure-20261125122316-saqx-750x536.webp",
+      "author": "Daniel Ingvartsen",
+      "category": "Advertising",
+      "publishedAt": "2026-11-25T11:27:58Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-25T12:42:44Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "13b24793",
+      "title": "Nem mindegy, melyik AI-nál akarunk látszani: 22 860 válasz tanulságai",
+      "url": "https://kreativ.hu/cikk/ai-mesterseges-intelligencia-marketing-reklam-aeo-chatgpt-gemini-perplexity-claude-deepseek-grok",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A ChatGPT több mint háromszor hosszabb válaszokat adhat, mint a Claude, a Perplexity pedig úgy mutat alig néhány linket a válasz szövegében, hogy közben számos forrásjelölt kapcsolódik hozzá. Az…",
+      "fullSummary": "A ChatGPT több mint háromszor hosszabb válaszokat adhat, mint a Claude, a Perplexity pedig úgy mutat alig néhány linket a válasz szövegében, hogy közben számos forrásjelölt kapcsolódik hozzá. Az AnswerTracker 22 860, magyar piacra célzott AI-választ elemzett, és az eredményekből jól látszik: az AI-keresés nem egyetlen, egységes csatorna. A márkáknak sem érdemes így kezelniük.",
+      "tags": [
+        "Marketing",
+        "Advertising",
+        "AI",
+        "Gemini",
+        "Grok",
+        "Aeo"
+      ],
+      "rawTags": [
+        "marketing",
+        "reklam",
+        "mesterseges-intelligencia",
+        "ai",
+        "gemini",
+        "chatgpt",
+        "grok",
+        "aeo"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/a/r/t/e/marten-newhall-uafjfsms3yy-unsplash-20261125-920-690-90-zc.webp",
+      "author": "Krankovics Béla",
+      "category": "",
+      "publishedAt": "2026-11-25T10:11:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-25T12:42:44Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "b18ed05d",
+      "title": "MRSZ: a reklámadó fékezi a gazdaság motorját",
+      "url": "https://kreativ.hu/cikk/mrsz-a-reklamado-fekezi-a-gazdasag-motorjat",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Hét és fél év után, 2027. január 1-jétől ismét reklámadó sújtja a reklámközzétételből származó bevételeket.",
+      "fullSummary": "Hét és fél év után, 2027. január 1-jétől ismét reklámadó sújtja a reklámközzétételből származó bevételeket.",
+      "tags": [
+        "Gazdasag",
+        "Mrsz",
+        "Reklamado",
+        "Advertising",
+        "Business"
+      ],
+      "rawTags": [
+        "gazdasag",
+        "mrsz",
+        "reklamado",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/r/s/z/-/mrsz-jfif-20261125-920-690-90-zc.webp",
+      "author": "S. D.",
+      "category": "",
+      "publishedAt": "2026-11-25T09:48:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-25T12:42:44Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "a7bee907",
+      "title": "A hazai nyomdaipar legjobbjait díjazták a Best Print Hungary 2026 versenyén",
+      "url": "https://kreativ.hu/cikk/a-hazai-nyomdaipar-legjobbjait-dijaztak-a-best-print-hungary-2026-versenyen",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "November 19-én, a TRIBE Budapest Stadium szállodában rendezték meg a Best Print Hungary 2026 díjátadóját, amelyen a hazai nyomdaipar kiemelkedő teljesítményeit ismerték el. Az idei versenyre 96…",
+      "fullSummary": "November 19-én, a TRIBE Budapest Stadium szállodában rendezték meg a Best Print Hungary 2026 díjátadóját, amelyen a hazai nyomdaipar kiemelkedő teljesítményeit ismerték el. Az idei versenyre 96 pályamunka érkezett, nyolc kategóriában, a könyv- és folyóirat-nyomtatástól a csomagolásokon és reklámkiadványokon át a digitális termékekig.",
+      "tags": [
+        "Verseny",
+        "Dijak",
+        "Nyomdaipar",
+        "Advertising"
+      ],
+      "rawTags": [
+        "verseny",
+        "dijak",
+        "nyomdaipar",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/b/p/h/-/d/bph-dijatado-2026-csoportkep-20261125-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-25T08:46:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-25T12:42:44Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "b35434b7",
+      "title": "Megalakult a Sajtóalap, januárban indul a 600 milliós működési támogatási pályázat",
+      "url": "https://kreativ.hu/cikk/sajtoalap-nmhh-tamogatas-palyazat",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Egyhangú szavazással fogadta el kedden a Nemzeti Média- és Hírközlési Hatóság (NMHH) Médiatanácsa a Sajtóalap alapító okiratát – közölte a hatóság. Az új, önálló jogi személyként létrejövő szervezet…",
+      "fullSummary": "Egyhangú szavazással fogadta el kedden a Nemzeti Média- és Hírközlési Hatóság (NMHH) Médiatanácsa a Sajtóalap alapító okiratát – közölte a hatóság. Az új, önálló jogi személyként létrejövő szervezet megbízott vezetője Bellay Szilvia lett, az első, 600 millió forintos működési alaptámogatási pályázatot pedig január elején írják ki.",
+      "tags": [
+        "Awards",
+        "Tamogatas",
+        "Nmhh",
+        "Sajtoalap",
+        "Media"
+      ],
+      "rawTags": [
+        "palyazat",
+        "tamogatas",
+        "nmhh",
+        "sajtoalap",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/k/e/p/-/f/kep-forrasa-nmhh0-20261124-690-920-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-11-24T18:02:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-25T12:42:44Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "cc270755",
+      "title": "Pusztay András vezeti az idei TOP50 Digitális vezető listát",
+      "url": "https://kreativ.hu/cikk/pusztay-andras-vezeti-az-idei-top50-digitalis-vezeto-listat",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Telex és a G7 kiadójának vezérigazgatója, Pusztay András végzett az élen a Marketing&Média tizenhetedik alkalommal összeállított „TOP50 Digitális vezető” rangsorában, mögötte Gulyás Márton…",
+      "fullSummary": "A Telex és a G7 kiadójának vezérigazgatója, Pusztay András végzett az élen a Marketing&Média tizenhetedik alkalommal összeállított „TOP50 Digitális vezető” rangsorában, mögötte Gulyás Márton (Partizán) és Bán Zoltán (Net Média) áll a dobogón. Az első tíz helyezettből négyen olyan digitális médiaszereplőkhöz kötődnek, amelyek működésében meghatározó az előfizetés, a közvetlen támogatás vagy az egyszázalékos felajánlás – derül ki a szaklap…",
+      "tags": [
+        "Digitalis",
+        "Rangsor",
+        "Vezeto",
+        "Media"
+      ],
+      "rawTags": [
+        "digitalis",
+        "rangsor",
+        "vezeto",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/k/a/b/o/o/kaboompics-man-791049-1920-20261124-690-920-90-zc.webp",
+      "author": "F. V.",
+      "category": "",
+      "publishedAt": "2026-11-24T13:31:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-25T12:42:44Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "532d2086",
+      "title": "Polyák Gábor: „Tíz év múlva is lesz igény magyar újságírókra – kérdés, hogy ki finanszírozza őket”",
+      "url": "https://kreativ.hu/cikk/polyak-gabor-tiz-ev-mulva-is-lesz-igeny-magyar-ujsagirokra-kerdes-hogy-ki-finanszirozza-oket",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A globális platformok és az MI alapjaiban alakítják át a hazai médiapiacot, miközben az állami hirdetések visszaszorulása esélyt teremthet a reklámpiac kiegyensúlyozottabb működésére.…",
+      "fullSummary": "A globális platformok és az MI alapjaiban alakítják át a hazai médiapiacot, miközben az állami hirdetések visszaszorulása esélyt teremthet a reklámpiac kiegyensúlyozottabb működésére. Polyák Gábor médiajogász, kutató, egyetemi oktató, a Médiatanács és az NMHH elnöke az influenszerek szabályozásáról, a Sajtóalapról és a magyar újságírás jövőjéről beszélt a Kreatívnak.",
+      "tags": [
+        "Szabalyozas",
+        "Marketing",
+        "Interju",
+        "Advertising",
+        "Nmhh",
+        "Mediatanacs"
+      ],
+      "rawTags": [
+        "szabalyozas",
+        "marketing",
+        "interju",
+        "reklam",
+        "nmhh",
+        "mediatanacs",
+        "polyak-gabor",
+        "influenszer"
+      ],
+      "image": "https://kreativ.hu/img-cache/s/z/r/2/8/szr2814-20261124-920-690-90-zc.webp",
+      "author": "Tiszóczi Roland",
+      "category": "",
+      "publishedAt": "2026-11-24T13:30:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-25T12:42:44Z",
+      "enrichAttempts": 1
+    },
+    {
       "id": "54f1a807",
       "title": "Meta wants to help with your big Christmas shop",
       "url": "https://www.famouscampaigns.com/2026/11/meta-wants-to-help-with-your-big-christmas-shop/",
@@ -81,7 +318,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Nyilvánossá tették a Közhang platform közmédiáról szóló, több mint 16 ezer ember által kitöltött felmérésének eredményeit. Radnai Márk Működő és Emberséges Magyarországért felelős kormánybiztos…",
-      "fullSummary": "Nyilvánossá tették a Közhang platform közmédiáról szóló, több mint 16 ezer ember által kitöltött felmérésének eredményeit. Radnai Márk Működő és Emberséges Magyarországért felelős kormánybiztos hétfőn közölte: a javaslatokat eljuttatják a Független Közmédia Testületnek (FKT) és a közmédia új vezérigazgatójának, Kert Attilának is.",
+      "fullSummary": "Nyilvánossá tették a Közhang platform közmédiáról szóló, több mint 16 ezer ember által kitöltött felmérésének eredményeit. Radnai Márk Működő és Emberséges Magyarországért felelős kormánybiztos…",
       "tags": [
         "Felmeres",
         "Kozmedia",
@@ -95,7 +332,7 @@
         "radnai-mark",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/7/3/2/8/6/732863387-1305085548448553-2193538020299231651-n-jfif0-20261124-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/7/3/2/8/6/732863387-1305085548448553-2193538020299231651-n-jfif0-20261124-690-920-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-11-24T11:51:00Z",
@@ -122,7 +359,7 @@
         "reklamado",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/m/a/r/i/a/mariakray-billboard-6761325-1920-20261124-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/m/a/r/i/a/mariakray-billboard-6761325-1920-20261124-690-920-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-11-24T10:37:00Z",
@@ -138,7 +375,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A kelet-közép-európai régió internetezőinek 8–18 százaléka fizet a YouTube Premiumért vagy használja azt megosztott előfizetéssel, amivel a szolgáltatás a térség öt legnépszerűbb fizetős…",
-      "fullSummary": "A kelet-közép-európai régió internetezőinek 8–18 százaléka fizet a YouTube Premiumért vagy használja azt megosztott előfizetéssel, amivel a szolgáltatás a térség öt legnépszerűbb fizetős videóplatformja közé tartozik – derül ki a WPP Media hét országra kiterjedő, ViewTube CEE című kutatásából. A hirdetők számára komoly kihívás, hogy a fizetős YouTube-használók között felülreprezentáltak a 34 év alattiak és a kisgyermekes szülők, miközben a…",
+      "fullSummary": "A kelet-közép-európai régió internetezőinek 8–18 százaléka fizet a YouTube Premiumért vagy használja azt megosztott előfizetéssel, amivel a szolgáltatás a térség öt legnépszerűbb fizetős…",
       "tags": [
         "Kutatas",
         "Social Media",
@@ -151,7 +388,7 @@
         "wpp-media",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/4/8/5/8/2/485821374-685729317302838-1291923560301735909-n-20261124-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/4/8/5/8/2/485821374-685729317302838-1291923560301735909-n-20261124-5415-722-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-11-24T09:19:00Z",
@@ -236,7 +473,7 @@
         "reklam",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/2/0/2/6/1/20261123-libri-indie-kicsi-csibi-0130-20261123-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/2/0/2/6/1/20261123-libri-indie-kicsi-csibi-0130-20261123-920-690-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-23T14:28:00Z",
@@ -11551,244 +11788,6 @@
       "datePrecise": true,
       "firstSeenAt": "2026-09-25T03:21:13Z",
       "enrichAttempts": 1
-    },
-    {
-      "id": "b016eb09",
-      "title": "Merre tartanak a kreatív szakmák? – kibeszélő",
-      "url": "https://kreativ.hu/cikk/merre-tartanak-a-kreativ-szakmak-kreativ-jovokep-forum",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A mesterséges intelligencia, a social media és a gyorsan változó technológia alapjaiban alakítja át a kreatív iparágat. A Kreatív Jövőkép Fórum alkotókkal és szakemberekkel keresi a választ arra,…",
-      "fullSummary": "A mesterséges intelligencia, a social media és a gyorsan változó technológia alapjaiban alakítja át a kreatív iparágat. A Kreatív Jövőkép Fórum alkotókkal és szakemberekkel keresi a választ arra,…",
-      "tags": [
-        "Esemeny",
-        "Beszelgetes",
-        "Kreativ Jovokep Forum",
-        "Advertising",
-        "AI",
-        "Social Media"
-      ],
-      "rawTags": [
-        "esemeny",
-        "beszelgetes",
-        "kreativ-jovokep-forum",
-        "reklam"
-      ],
-      "image": "https://kreativ.hu/img-cache/k/r/e/a/t/kreativ-jovokep-forum-1-1-png-0-20260924-920-690-90-zc.webp",
-      "author": "T. R.",
-      "category": "",
-      "publishedAt": "2026-09-24T14:40:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-25T03:21:13Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "3c6dc494",
-      "title": "This campaign wants Brits to rethink their ‘digital diet’",
-      "url": "https://www.famouscampaigns.com/2026/09/this-campaign-wants-brits-to-rethink-their-digital-diet/",
-      "source": "famouscampaigns",
-      "sourceName": "Famous Campaigns",
-      "accent": "#7c5cff",
-      "summary": "The Online Responsibility Network has unveiled a giant London billboard comparing online content to food, launching what it calls the first online safety trust mark for consumers as part of the inaugural Online Responsibility Day on…",
-      "fullSummary": "The Online Responsibility Network has unveiled a giant London billboard comparing online content to food, launching what it calls the first online safety trust mark for consumers as part of the inaugural Online Responsibility Day on Thursday 24 September. The idea turns the familiar language of nutrition labels and product safety ratings into a test […]",
-      "tags": [
-        "Advertising",
-        "OOH",
-        "Technology",
-        "Campaigns",
-        "Food & Drink"
-      ],
-      "rawTags": [
-        "Advertising",
-        "OOH",
-        "Technology"
-      ],
-      "image": null,
-      "author": "Staff",
-      "category": "Advertising",
-      "publishedAt": "2026-09-24T13:59:24Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-25T03:21:13Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "8d7ea2c8",
-      "title": "Németh Csenge és Dani Melinda nyerte a Creative Express válogatóját, ők képviselhetik hazánkat az ADCE barcelonai döntőjében",
-      "url": "https://kreativ.hu/cikk/nemeth-csenge-es-dani-melinda-nyerte-a-creative-express-u28-as-valogatojat",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Németh Csenge, a feat. Content Creative-ja és Dani Melinda, a White Rabbit Account Executive-ja alkotta páros végzett az első helyen a Creative Express Budapest U28-as tehetségválogatóján. A hazai…",
-      "fullSummary": "Németh Csenge, a feat. Content Creative-ja és Dani Melinda, a White Rabbit Account Executive-ja alkotta páros végzett az első helyen a Creative Express Budapest U28-as tehetségválogatóján. A hazai…",
-      "tags": [
-        "White Rabbit",
-        "Feat",
-        "Creative Express",
-        "U28",
-        "Art Directors Club Of Europe",
-        "Advertising"
-      ],
-      "rawTags": [
-        "white-rabbit",
-        "feat",
-        "creative-express",
-        "u28",
-        "art-directors-club-of-europe",
-        "reklam"
-      ],
-      "image": "https://kreativ.hu/img-cache/1/7/8/8/2/1788248052280-20260903-1620-0-90-cr-0-20260924-690-920-90-zc.webp",
-      "author": "T. R.",
-      "category": "",
-      "publishedAt": "2026-09-24T13:22:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-25T03:21:13Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "4b2089f0",
-      "title": "Hawkstone turns ‘Wild Thing’ into a farmers’ anthem",
-      "url": "https://www.famouscampaigns.com/2026/09/hawkstone-turns-wild-thing-into-a-farmers-anthem/",
-      "source": "famouscampaigns",
-      "sourceName": "Famous Campaigns",
-      "accent": "#7c5cff",
-      "summary": "Jeremy Clarkson’s Hawkstone has reunited its Farmers’ Choir with Wildfarmed co-founder and Groove Armada musician Andy Cato for a charity cover of ‘Wild Thing’, launching alongside new regenerative lager Wildthing and raising money for…",
-      "fullSummary": "Jeremy Clarkson’s Hawkstone has reunited its Farmers’ Choir with Wildfarmed co-founder and Groove Armada musician Andy Cato for a charity cover of ‘Wild Thing’, launching alongside new regenerative lager Wildthing and raising money for farming and mental health charities. Here’s a taster… Created by T&P, the brand campaign gives Hawkstone’s unlikely choir another life after […]",
-      "tags": [
-        "Advertising",
-        "Food & Drink",
-        "Music",
-        "Health"
-      ],
-      "rawTags": [
-        "Advertising",
-        "Food & Drink"
-      ],
-      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/wild-thing.mp4",
-      "author": "James Herring",
-      "category": "Advertising",
-      "publishedAt": "2026-09-24T12:28:18Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-25T03:21:13Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "0218d19f",
-      "title": "40 éves a Macskafogó: október 2-án országos rajzfilmnézés!",
-      "url": "https://kreativ.hu/cikk/40-eves-a-macskafogo-oktober-2-an-orszagos-rajzfilmnezes",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "2026. október 2-án 19.00-kor országos és online közös filmnézéssel ünnepeljük a Macskafogó 40. születésnapját. A Nemzeti Filmintézet jóvoltából a film online ingyenesen elérhető lesz, miközben…",
-      "fullSummary": "2026. október 2-án 19.00-kor országos és online közös filmnézéssel ünnepeljük a Macskafogó 40. születésnapját. A Nemzeti Filmintézet jóvoltából a film online ingyenesen elérhető lesz, miközben…",
-      "tags": [
-        "Popkult",
-        "Film & TV"
-      ],
-      "rawTags": [
-        "popkult"
-      ],
-      "image": "https://kreativ.hu/img-cache/m/a/c/s/k/macskafogo-40-0-20260924-690-920-90-zc.webp",
-      "author": "T. R.",
-      "category": "",
-      "publishedAt": "2026-09-24T12:27:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-25T03:21:13Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "9502432d",
-      "title": "Újraindul a Népszabadság!",
-      "url": "https://kreativ.hu/cikk/ujraindul-a-nepszabadsag",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "2026. október 8-án, pontosan tíz évvel azután, hogy megszüntették, újraindul a Népszabadság. Az új lap online újságként és nyomtatott hetilapként működik tovább. Kiadója a Liberty Press Kft., amely a…",
-      "fullSummary": "2026. október 8-án, pontosan tíz évvel azután, hogy megszüntették, újraindul a Népszabadság. Az új lap online újságként és nyomtatott hetilapként működik tovább. Kiadója a Liberty Press Kft., amely a…",
-      "tags": [
-        "Nepszava",
-        "Nepszabadsag",
-        "Ujraindul",
-        "Napilap",
-        "Jelen",
-        "Liberty Press Kft"
-      ],
-      "rawTags": [
-        "nepszava",
-        "nepszabadsag",
-        "ujraindul",
-        "napilap",
-        "jelen",
-        "liberty-press-kft",
-        "4sight-media-group-zrt",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/n/s/z/-/l/nsz-logo-v4-20260924-690-920-90-zc.webp",
-      "author": "T. R.",
-      "category": "",
-      "publishedAt": "2026-09-24T11:19:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-25T03:21:13Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "a090cf66",
-      "title": "Jön a negyedik Budapest Contemporary kiállítás és vásár a Bálnában",
-      "url": "https://kreativ.hu/cikk/jon-a-negyedik-budapest-contemporary-kiallitast-es-vasar-a-balnaban",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Közel 70 kiállító, több ezer műalkotás és izgalmas kísérőprogramok várják a látogatókat az idén.",
-      "fullSummary": "Közel 70 kiállító, több ezer műalkotás és izgalmas kísérőprogramok várják a látogatókat az idén.",
-      "tags": [
-        "Vasar",
-        "Kiallitas",
-        "Kepzomuveszet",
-        "Gyujto",
-        "Mualkotas",
-        "Iparmuveszet"
-      ],
-      "rawTags": [
-        "vasar",
-        "kiallitas",
-        "kepzomuveszet",
-        "gyujto",
-        "mualkotas",
-        "iparmuveszet",
-        "budapest-contemporary",
-        "popkult"
-      ],
-      "image": "https://kreativ.hu/img-cache/n/e/m/e/s/nemes-galeria-siskov-ludmil-20260924-920-690-90-zc.webp",
-      "author": "T. R.",
-      "category": "",
-      "publishedAt": "2026-09-24T10:47:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-25T03:21:13Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "1a667514",
-      "title": "Tesco + Uber Eats — The Weekly Shop",
-      "url": "https://theinspiration.com/2026/09/tesco-uber-eats-the-weekly-shop/",
-      "source": "theinspiration",
-      "sourceName": "The Inspiration",
-      "accent": "#f5b301",
-      "summary": "Tesco turned its new Uber Eats partnership into a brilliantly simple piece of outdoor advertising: a giant Tesco weekly shop appears to have fallen straight from the billboard into an oversized Uber Eats bag. The physical stunt makes the…",
-      "fullSummary": "Tesco turned its new Uber Eats partnership into a brilliantly simple piece of outdoor advertising: a giant Tesco weekly shop appears to have fallen straight from the billboard into an oversized Uber Eats bag. The physical stunt makes the message instantly clear — your weekly shop can now come to you — while cleverly turning […]",
-      "tags": [
-        "Advertising",
-        "OOH"
-      ],
-      "rawTags": [
-        "Advertising"
-      ],
-      "image": "https://theinspiration.com/wp-content/uploads/1790089350786-750x536.webp",
-      "author": "René Kammersgaard",
-      "category": "Advertising",
-      "publishedAt": "2026-09-24T09:38:45Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-25T03:21:13Z",
-      "enrichAttempts": 0
     }
   ]
 }
