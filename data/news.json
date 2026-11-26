@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T12:42:44Z",
+  "generatedAt": "2026-11-26T12:16:48Z",
   "itemCount": 400,
   "sources": [
     {
@@ -18,7 +18,7 @@
       "accent": "#e8453c",
       "status": "ok",
       "error": null,
-      "count": 22
+      "count": 25
     },
     {
       "id": "creativereview",
@@ -49,6 +49,296 @@
     }
   ],
   "items": [
+    {
+      "id": "264e0fae",
+      "title": "Az ATV-vezér szerint nem eladó a csatorna: „Nekem is sok álmom van, például a Manchester United”",
+      "url": "https://kreativ.hu/cikk/az-atv-vezer-szerint-nem-elado-a-csatorna",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Németh S. Szilárd visszautasította a Network4 tulajdonosának felvásárlási érdeklődését, és hangsúlyozta, hogy az ATV önállóan is sikeresen működik. A vezérigazgató a Blikknek elmondta: az elmúlt fél…",
+      "fullSummary": "Németh S. Szilárd visszautasította a Network4 tulajdonosának felvásárlási érdeklődését, és hangsúlyozta, hogy az ATV önállóan is sikeresen működik. A vezérigazgató a Blikknek elmondta: az elmúlt fél év médiapiaci átrendeződésének a csatorna a nyertese lett.",
+      "tags": [
+        "Media",
+        "Atv",
+        "Business",
+        "Nemeth S Szilard",
+        "Network4",
+        "Visszautasit"
+      ],
+      "rawTags": [
+        "mediapiac",
+        "atv",
+        "felvasarlas",
+        "nemeth-s-szilard",
+        "network4",
+        "visszautasit",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/n/e/m/e/t/nemeth-s-szilard0-20261126-600-450-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-26T10:11:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-26T12:16:48Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "29be5033",
+      "title": "A Network4 tulajdonosa az ATV-t is megvenné, de adott esetben a TV2 felvásárlását sem zárná ki",
+      "url": "https://kreativ.hu/cikk/network4-borsany-gyenes-andras-kontroll-atv-tv2",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Borsány-Gyenes András, a Network4 Media Group tulajdonosa szerint a magyar médiapiac átalakulása új üzleti lehetőségeket teremt. A HVG-nek adott interjújában elmondta: a vállalat közéleti műsorokkal…",
+      "fullSummary": "Borsány-Gyenes András, a Network4 Media Group tulajdonosa szerint a magyar médiapiac átalakulása új üzleti lehetőségeket teremt. A HVG-nek adott interjújában elmondta: a vállalat közéleti műsorokkal bővítené kínálatát, együttműködik a Kontrollal, ajánlatot tett az ATV-nek, és egy esetleges TV2-felvásárlást is megvizsgálna.",
+      "tags": [
+        "Tv2",
+        "Atv",
+        "Kontroll",
+        "Network4",
+        "Borsany Gyenes Andras",
+        "Media"
+      ],
+      "rawTags": [
+        "tv2",
+        "atv",
+        "kontroll",
+        "network4",
+        "borsany-gyenes-andras",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/b/o/r/s/a/borsany-gyenes-andras0-20261126-727-54525-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-26T09:30:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-26T12:16:48Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "9dda8796",
+      "title": "Fotókon a 2026-os Prizma díjátadó!",
+      "url": "https://kreativ.hu/cikk/prizma-2026-pr-verseny-fotok-dijatado-galeria",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "November 25-én a budapesti Symbol Music Hallban adtuk át a Kreatív idei PR-versenyének díjait. Mutatjuk az estéről készült fotókat.",
+      "fullSummary": "November 25-én a budapesti Symbol Music Hallban adtuk át a Kreatív idei PR-versenyének díjait. Mutatjuk az estéről készült fotókat.",
+      "tags": [
+        "Galeria",
+        "Prizma Kreativ PR Dij",
+        "Prizma 2026",
+        "Advertising",
+        "Verseny",
+        "Music"
+      ],
+      "rawTags": [
+        "galeria",
+        "prizma-kreativ-pr-dij",
+        "prizma-2026",
+        "reklam",
+        "verseny"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/8/a/5/4/a8a54630-20261126-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-26T09:20:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-26T12:16:48Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "b041b55b",
+      "title": "LEGO-ruha, mémkutatás és favágó-világbajnokság – itt vannak a 2026-os Prizma díjazottjai",
+      "url": "https://kreativ.hu/cikk/prizma-2026-pr-verseny-dijazottak",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A Kreatív idei PR-versenyén pontazonosság miatt Az Év PR-ügynöksége címet az ACG PRo és a Noguchi, az Év Megbízója címet az OTP Bank és a Richter Gedeon kapta. Az Év PR-megoldása az ACG PRo és a…",
+      "fullSummary": "A Kreatív idei PR-versenyén pontazonosság miatt Az Év PR-ügynöksége címet az ACG PRo és a Noguchi, az Év Megbízója címet az OTP Bank és a Richter Gedeon kapta. Az Év PR-megoldása az ACG PRo és a Világszép Gyermekvédelmi Alapítvány „Ez a nap más, mint a többi...” című kampánya lett. A kategóriákban 12 arany-, 12 ezüst- és 22 bronzminősítés született.",
+      "tags": [
+        "Nyertesek",
+        "Prizma Kreativ PR Dij",
+        "Dijazottak",
+        "Prizma 2026",
+        "Advertising",
+        "Verseny"
+      ],
+      "rawTags": [
+        "nyertesek",
+        "prizma-kreativ-pr-dij",
+        "dijazottak",
+        "prizma-2026",
+        "reklam",
+        "verseny"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/8/a/5/3/a8a5367-20261126-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-26T09:01:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-26T12:16:48Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "2d4d6756",
+      "title": "Sebestyén Balázs utoljára vezeti a Nyerő Párost",
+      "url": "https://kreativ.hu/cikk/sebestyen-balazs-utoljara-vezeti-a-nyero-parost",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "December 9-én indul a Nyerő Páros tizedik évada, amelyben nyolc sztárpár költözik a Villába. A reality ezúttal kizárólag az RTL+ Premiumon lesz látható, Sebestyén Balázs pedig utoljára vállalta a…",
+      "fullSummary": "December 9-én indul a Nyerő Páros tizedik évada, amelyben nyolc sztárpár költözik a Villába. A reality ezúttal kizárólag az RTL+ Premiumon lesz látható, Sebestyén Balázs pedig utoljára vállalta a műsorvezetést.",
+      "tags": [
+        "Online",
+        "Sebestyen Balazs",
+        "RTL",
+        "Nyero Paros",
+        "Linearis Televizio",
+        "RTL Premium"
+      ],
+      "rawTags": [
+        "online",
+        "sebestyen-balazs",
+        "rtl",
+        "nyero-paros",
+        "linearis-televizio",
+        "rtl-premium",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/s/e/b/e/s/sebestyen-balazs-jpeg0-20261126-400-300-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-26T08:40:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-26T12:16:48Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "305365dc",
+      "title": "A Noguchi az Év ügynöksége, a Dreher Sörgyárak a Legjobb megbízó a 2026-os Employer Branding Awardon",
+      "url": "https://kreativ.hu/cikk/a-noguchi-az-ev-ugynoksege-a-dreher-sorgyarak-a-legjobb-megbizo-a-2026-os-employer-branding-awardon",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Idén is elismerte a hazai munkáltatói márkaépítés kiemelkedő projektjeit a Magyar Public Relations Szövetség (MPRSZ). A kilencedik alkalommal megrendezett Employer Branding Award idei mezőnyéből négy…",
+      "fullSummary": "Idén is elismerte a hazai munkáltatói márkaépítés kiemelkedő projektjeit a Magyar Public Relations Szövetség (MPRSZ). A kilencedik alkalommal megrendezett Employer Branding Award idei mezőnyéből négy arany-, tizenkét ezüst- és tíz bronzdíjas pályázat került ki. A legtöbb elismerést a storytelling kategóriában osztották ki, az Év ügynöksége címet a Noguchi, az Év megbízója díjat pedig a Dreher Sörgyárak Zrt. kapta.",
+      "tags": [
+        "Verseny",
+        "Awards",
+        "Employer Branding Award",
+        "Advertising",
+        "Media",
+        "Agencies"
+      ],
+      "rawTags": [
+        "verseny",
+        "dij",
+        "employer-branding-award",
+        "reklam",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/p/r/s/z/mprsz50-20261125-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-25T15:36:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-26T12:16:48Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "97f3273a",
+      "title": "Csirke Dániel távozik a Mediatortól",
+      "url": "https://kreativ.hu/cikk/csirke-daniel-tavozik-a-mediatortol",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Csirke Dániel vezető kreatívigazgató négy év után távozik a Mediator reklámügynökségtől, egy karácsonyi pihenő követően új kihívások elé néz, amiről még nem szeretett volna többet elárulni a…",
+      "fullSummary": "Csirke Dániel vezető kreatívigazgató négy év után távozik a Mediator reklámügynökségtől, egy karácsonyi pihenő követően új kihívások elé néz, amiről még nem szeretett volna többet elárulni a szakember. A Mediator kreatív osztályának vezetését az eddigi kreatívigazgató társa, Barát Zoltán egyedüli kreatívigazgatóként veszi át.",
+      "tags": [
+        "Szemelyi Hir",
+        "Mediator",
+        "Csirke Daniel",
+        "Advertising",
+        "Media",
+        "Careers"
+      ],
+      "rawTags": [
+        "szemelyi-hir",
+        "mediator",
+        "csirke-daniel",
+        "reklam",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/c/s/d/-/2/csd-20261125-36225-483-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-25T15:08:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-26T12:16:48Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "e7cfb087",
+      "title": "Everyone wants a piece of GTA: brands join the heist",
+      "url": "https://www.famouscampaigns.com/2026/11/everyone-wants-a-piece-of-gta-brands-join-the-heist/",
+      "source": "famouscampaigns",
+      "sourceName": "Famous Campaigns",
+      "accent": "#7c5cff",
+      "summary": "Grand Theft Auto VI launched on 19 November, and brands rushed to get into the biggest entertainment release in years. The game broke records within days. According to PlayStation, PS5 players logged 683 million hours in the game by 22…",
+      "fullSummary": "Grand Theft Auto VI launched on 19 November, and brands rushed to get into the biggest entertainment release in years. The game broke records within days. According to PlayStation, PS5 players logged 683 million hours in the game by 22 November, an average of 17.4 hours each. Even before launch, Sensor Tower estimated 19 million […]",
+      "tags": [
+        "Gaming",
+        "PR",
+        "Social Media",
+        "Branding"
+      ],
+      "rawTags": [
+        "Gaming",
+        "PR",
+        "Social Media"
+      ],
+      "image": null,
+      "author": "Staff",
+      "category": "Gaming",
+      "publishedAt": "2026-11-25T13:50:24Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-26T12:16:48Z",
+      "enrichAttempts": 0
+    },
+    {
+      "id": "d1810074",
+      "title": "Négy magyar kampány, kilenc shortlisthelyezés az Epica Awards idei mezőnyében",
+      "url": "https://kreativ.hu/cikk/negy-magyar-kampany-kilenc-shortlisthelyezes-az-epica-awards-idei-mezonyeben",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Kilenc kategóriában kerültek a nemzetközi szakmai shortlistre magyar kampányok az idei Epica Awardson.",
+      "fullSummary": "Kilenc kategóriában kerültek a nemzetközi szakmai shortlistre magyar kampányok az idei Epica Awardson.",
+      "tags": [
+        "Awards",
+        "Epica",
+        "Epica Awards",
+        "Epica Awards 2026",
+        "Advertising",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "shortlist",
+        "epica",
+        "epica-awards",
+        "epica-awards-2026",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/e/p/i/c/a/epica-20261125-18075-241-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-25T13:34:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-26T12:16:48Z",
+      "enrichAttempts": 1
+    },
     {
       "id": "81448dd4",
       "title": "Why IKEA made its showroom phones ring every 16 minutes",
@@ -105,7 +395,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A ChatGPT több mint háromszor hosszabb válaszokat adhat, mint a Claude, a Perplexity pedig úgy mutat alig néhány linket a válasz szövegében, hogy közben számos forrásjelölt kapcsolódik hozzá. Az…",
-      "fullSummary": "A ChatGPT több mint háromszor hosszabb válaszokat adhat, mint a Claude, a Perplexity pedig úgy mutat alig néhány linket a válasz szövegében, hogy közben számos forrásjelölt kapcsolódik hozzá. Az AnswerTracker 22 860, magyar piacra célzott AI-választ elemzett, és az eredményekből jól látszik: az AI-keresés nem egyetlen, egységes csatorna. A márkáknak sem érdemes így kezelniük.",
+      "fullSummary": "A ChatGPT több mint háromszor hosszabb válaszokat adhat, mint a Claude, a Perplexity pedig úgy mutat alig néhány linket a válasz szövegében, hogy közben számos forrásjelölt kapcsolódik hozzá. Az…",
       "tags": [
         "Marketing",
         "Advertising",
@@ -133,6 +423,35 @@
       "enrichAttempts": 1
     },
     {
+      "id": "c2dff976",
+      "title": "Ki felel azért, ha a mesterséges intelligencia diszkriminál?",
+      "url": "https://kreativ.hu/cikk/ki-felel-azert-ha-a-mesterseges-intelligencia-diszkriminal",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Ki garantálja, hogy az algoritmusok igazságosabbak lesznek az embereknél, és nem örökítik tovább a társadalomban már meglévő előítéleteket? Kampányt indít az Egyenlítő Alapítvány és az IVSZ.",
+      "fullSummary": "Ki garantálja, hogy az algoritmusok igazságosabbak lesznek az embereknél, és nem örökítik tovább a társadalomban már meglévő előítéleteket? Kampányt indít az Egyenlítő Alapítvány és az IVSZ.",
+      "tags": [
+        "Diszkriminacio",
+        "AI",
+        "Media",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "diszkriminacio",
+        "mesterseges-intelligencia",
+        "ai",
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/a/i/-/2/0/ai-20261125-411-548-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-25T09:53:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-26T12:16:48Z",
+      "enrichAttempts": 1
+    },
+    {
       "id": "b18ed05d",
       "title": "MRSZ: a reklámadó fékezi a gazdaság motorját",
       "url": "https://kreativ.hu/cikk/mrsz-a-reklamado-fekezi-a-gazdasag-motorjat",
@@ -154,12 +473,43 @@
         "reklamado",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/m/r/s/z/-/mrsz-jfif-20261125-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/m/r/s/z/-/mrsz-jfif-20261125-54975-733-90-zc.webp",
       "author": "S. D.",
       "category": "",
       "publishedAt": "2026-11-25T09:48:00Z",
       "datePrecise": true,
       "firstSeenAt": "2026-11-25T12:42:44Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "c7c32cde",
+      "title": "Szereted a munkád, épp ezért szabadulnál meg egy részétől szívesen",
+      "url": "https://kreativ.hu/cikk/szereted-a-munkad-epp-ezert-szabadulnal-meg-egy-reszetol-szivesen",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Gondolkoztál már azon, hogy a munkád mekkora részét emésztik fel az előkészítő feladatok, amikor valaminek utána kell nézni, valamit elő kell keresni? Vajon mennyi időt visznek el a rutinfeladatok,…",
+      "fullSummary": "Gondolkoztál már azon, hogy a munkád mekkora részét emésztik fel az előkészítő feladatok, amikor valaminek utána kell nézni, valamit elő kell keresni? Vajon mennyi időt visznek el a rutinfeladatok, amelyekhez nem kell agymunka és akár automatizálhatók is lehetnének? Ha másokat is bevonsz, vajon hány munkaóra ég el a fölösleges meetingeken, amelyeken a résztvevők próbálnak képbe kerülni, felzárkózni?",
+      "tags": [
+        "Pulse",
+        "Progressive",
+        "AI Agent 1",
+        "Now",
+        "Tamogatott Tartalom"
+      ],
+      "rawTags": [
+        "pulse",
+        "progressive",
+        "ai-agent-1",
+        "now",
+        "tamogatott-tartalom"
+      ],
+      "image": "https://kreativ.hu/img-cache/d/s/f/5/9/dsf5960r-725x544-20261123-725-54375-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-25T09:14:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-26T12:16:48Z",
       "enrichAttempts": 1
     },
     {
@@ -170,7 +520,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "November 19-én, a TRIBE Budapest Stadium szállodában rendezték meg a Best Print Hungary 2026 díjátadóját, amelyen a hazai nyomdaipar kiemelkedő teljesítményeit ismerték el. Az idei versenyre 96…",
-      "fullSummary": "November 19-én, a TRIBE Budapest Stadium szállodában rendezték meg a Best Print Hungary 2026 díjátadóját, amelyen a hazai nyomdaipar kiemelkedő teljesítményeit ismerték el. Az idei versenyre 96 pályamunka érkezett, nyolc kategóriában, a könyv- és folyóirat-nyomtatástól a csomagolásokon és reklámkiadványokon át a digitális termékekig.",
+      "fullSummary": "November 19-én, a TRIBE Budapest Stadium szállodában rendezték meg a Best Print Hungary 2026 díjátadóját, amelyen a hazai nyomdaipar kiemelkedő teljesítményeit ismerték el. Az idei versenyre 96…",
       "tags": [
         "Verseny",
         "Dijak",
@@ -183,7 +533,7 @@
         "nyomdaipar",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/b/p/h/-/d/bph-dijatado-2026-csoportkep-20261125-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/b/p/h/-/d/bph-dijatado-2026-csoportkep-20261125-54975-733-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-25T08:46:00Z",
@@ -199,7 +549,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Egyhangú szavazással fogadta el kedden a Nemzeti Média- és Hírközlési Hatóság (NMHH) Médiatanácsa a Sajtóalap alapító okiratát – közölte a hatóság. Az új, önálló jogi személyként létrejövő szervezet…",
-      "fullSummary": "Egyhangú szavazással fogadta el kedden a Nemzeti Média- és Hírközlési Hatóság (NMHH) Médiatanácsa a Sajtóalap alapító okiratát – közölte a hatóság. Az új, önálló jogi személyként létrejövő szervezet megbízott vezetője Bellay Szilvia lett, az első, 600 millió forintos működési alaptámogatási pályázatot pedig január elején írják ki.",
+      "fullSummary": "Egyhangú szavazással fogadta el kedden a Nemzeti Média- és Hírközlési Hatóság (NMHH) Médiatanácsa a Sajtóalap alapító okiratát – közölte a hatóság. Az új, önálló jogi személyként létrejövő szervezet…",
       "tags": [
         "Awards",
         "Tamogatas",
@@ -230,7 +580,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Telex és a G7 kiadójának vezérigazgatója, Pusztay András végzett az élen a Marketing&Média tizenhetedik alkalommal összeállított „TOP50 Digitális vezető” rangsorában, mögötte Gulyás Márton…",
-      "fullSummary": "A Telex és a G7 kiadójának vezérigazgatója, Pusztay András végzett az élen a Marketing&Média tizenhetedik alkalommal összeállított „TOP50 Digitális vezető” rangsorában, mögötte Gulyás Márton (Partizán) és Bán Zoltán (Net Média) áll a dobogón. Az első tíz helyezettből négyen olyan digitális médiaszereplőkhöz kötődnek, amelyek működésében meghatározó az előfizetés, a közvetlen támogatás vagy az egyszázalékos felajánlás – derül ki a szaklap…",
+      "fullSummary": "A Telex és a G7 kiadójának vezérigazgatója, Pusztay András végzett az élen a Marketing&Média tizenhetedik alkalommal összeállított „TOP50 Digitális vezető” rangsorában, mögötte Gulyás Márton…",
       "tags": [
         "Digitalis",
         "Rangsor",
@@ -243,7 +593,7 @@
         "vezeto",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/k/a/b/o/o/kaboompics-man-791049-1920-20261124-690-920-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/k/a/b/o/o/kaboompics-man-791049-1920-20261124-920-690-90-zc.webp",
       "author": "F. V.",
       "category": "",
       "publishedAt": "2026-11-24T13:31:00Z",
@@ -259,7 +609,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A globális platformok és az MI alapjaiban alakítják át a hazai médiapiacot, miközben az állami hirdetések visszaszorulása esélyt teremthet a reklámpiac kiegyensúlyozottabb működésére.…",
-      "fullSummary": "A globális platformok és az MI alapjaiban alakítják át a hazai médiapiacot, miközben az állami hirdetések visszaszorulása esélyt teremthet a reklámpiac kiegyensúlyozottabb működésére. Polyák Gábor médiajogász, kutató, egyetemi oktató, a Médiatanács és az NMHH elnöke az influenszerek szabályozásáról, a Sajtóalapról és a magyar újságírás jövőjéről beszélt a Kreatívnak.",
+      "fullSummary": "A globális platformok és az MI alapjaiban alakítják át a hazai médiapiacot, miközben az állami hirdetések visszaszorulása esélyt teremthet a reklámpiac kiegyensúlyozottabb működésére.…",
       "tags": [
         "Szabalyozas",
         "Marketing",
@@ -1273,7 +1623,7 @@
         "true-crime",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/t/u/l/e/l/tuleltem-egy-sorozatgyilkost-s2-1-axn-crime-20261118-920-690-90-zc.webp",
+      "image": null,
       "author": "Schäffer Dániel",
       "category": "",
       "publishedAt": "2026-11-18T15:11:00Z",
@@ -11473,320 +11823,6 @@
       "publishedAt": "2026-09-28T07:56:00Z",
       "datePrecise": true,
       "firstSeenAt": "2026-09-29T03:24:19Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "0dba9de9",
-      "title": "Saját fejlesztésű, AI-alapú applikációval újít a talent management területén a PFR Group",
-      "url": "https://kreativ.hu/cikk/sajat-fejlesztesu-ai-alapu-applikacioval-ujit-a-talent-management-teruleten-a-pfr-group-1",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A PFR Group 10 éve fejleszt marketing- és médiaszoftver-infrastruktúrát az influencer marketing piacon. Ennek legújabb eredménye a cégcsoport negyedik saját fejlesztésű terméke, a PFR Talent App,…",
-      "fullSummary": "A PFR Group 10 éve fejleszt marketing- és médiaszoftver-infrastruktúrát az influencer marketing piacon. Ennek legújabb eredménye a cégcsoport negyedik saját fejlesztésű terméke, a PFR Talent App,…",
-      "tags": [
-        "Applikacio",
-        "AI",
-        "Pfr Group",
-        "Advertising",
-        "Media",
-        "Social Media"
-      ],
-      "rawTags": [
-        "applikacio",
-        "ai",
-        "pfr-group",
-        "reklam",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/p/f/r/-/m/pfr-miskolczimilan-hu-0151-20260928-920-690-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-28T07:42:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-29T03:24:19Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "c528cc25",
-      "title": "A Csend anatómiája – párbeszédet kezdeményező fotókiállítás",
-      "url": "https://kreativ.hu/cikk/a-csend-anatomiaja-fotokiallitas-a-petefeszekrakrol",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Gáldi Vinkó Andrea kiállítása nem dramatizálni szeretne, hanem személyes történeteken keresztül hívja fel a figyelmet a petefészekrákra, a korai felismerés és szűrés fontosságára.",
-      "fullSummary": "Gáldi Vinkó Andrea kiállítása nem dramatizálni szeretne, hanem személyes történeteken keresztül hívja fel a figyelmet a petefészekrákra, a korai felismerés és szűrés fontosságára.",
-      "tags": [
-        "Egeszsegugy",
-        "Fotokiallitas",
-        "Egeszsegugyi Kommunikacio",
-        "Advertising",
-        "Media"
-      ],
-      "rawTags": [
-        "egeszsegugy",
-        "fotokiallitas",
-        "egeszsegugyi-kommunikacio",
-        "reklam",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/c/s/e/n/d/csend-anatomiaja-5-0-20260925-920-690-90-zc.webp",
-      "author": "S. D.",
-      "category": "",
-      "publishedAt": "2026-09-25T15:00:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-26T03:21:15Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "b81cec0b",
-      "title": "Médiaügynökséget keres a Szerencsejáték Zrt.",
-      "url": "https://kreativ.hu/cikk/nyilt-palyazatot-hirdet-a-szerencsejatek-zrt",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Médiatervezési és vásárlási feladatainak ellátására - a határidő október 1.",
-      "fullSummary": "Médiatervezési és vásárlási feladatainak ellátására - a határidő október 1.",
-      "tags": [
-        "Awards",
-        "Szerencsejatek Zrt",
-        "Media"
-      ],
-      "rawTags": [
-        "palyazat",
-        "szerencsejatek-zrt",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/l/o/t/t/o/lotto-0-20260925-340-255-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-25T13:16:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-26T03:21:15Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "7cc5b3f3",
-      "title": "Mutatjuk az idei Prizma PR-verseny zsűritagjait!",
-      "url": "https://kreativ.hu/cikk/prizma-2026-pr-verseny-zsuritagok",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A Prizma Kreatív PR Díj pályamunkáit megbízói és ügynökségi oldalon dolgozó szakemberek értékelik; bemutatjuk a tizenkét fős zsűrit. A verseny első nevezési határideje október 12-én jár…",
-      "fullSummary": "A Prizma Kreatív PR Díj pályamunkáit megbízói és ügynökségi oldalon dolgozó szakemberek értékelik; bemutatjuk a tizenkét fős zsűrit. A verseny első nevezési határideje október 12-én jár…",
-      "tags": [
-        "PR",
-        "Prizma",
-        "PR Verseny",
-        "Zsuritagok",
-        "Verseny",
-        "Agencies"
-      ],
-      "rawTags": [
-        "pr",
-        "prizma",
-        "pr-verseny",
-        "zsuritagok",
-        "verseny"
-      ],
-      "image": "https://kreativ.hu/img-cache/p/r/i/z/m/prizma-26-social-1080x1080-1-png-20260925-920-690-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-25T10:32:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-26T03:21:15Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "0be557d2",
-      "title": "IKEA — IVAR, ALEX & PERJOHAN",
-      "url": "https://theinspiration.com/2026/09/ikea-ivar-alex-perjohan/",
-      "source": "theinspiration",
-      "sourceName": "The Inspiration",
-      "accent": "#f5b301",
-      "summary": "IKEA turned an everyday truth into a playful campaign: the right storage can create more peace at home and fewer arguments. By giving familiar storage products like IVAR, ALEX and PERJOHAN human personalities, the campaign brought this…",
-      "fullSummary": "IKEA turned an everyday truth into a playful campaign: the right storage can create more peace at home and fewer arguments. By giving familiar storage products like IVAR, ALEX and PERJOHAN human personalities, the campaign brought this insight to life — showing that better organisation can make everyday life a little easier.",
-      "tags": [
-        "Advertising",
-        "Campaigns"
-      ],
-      "rawTags": [
-        "Advertising"
-      ],
-      "image": "https://theinspiration.com/wp-content/uploads/2l9nlaqofkmtri4vaaet5kfv5d9p-750x536.webp",
-      "author": "René Kammersgaard",
-      "category": "Advertising",
-      "publishedAt": "2026-09-25T09:44:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-26T03:21:15Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "c78280cb",
-      "title": "MaReSz: új hatástanulmány ad hivatkozási alapot a rendezvényágazatnak",
-      "url": "https://kreativ.hu/cikk/maresz-rendezvenyek-uzleti-rendezvenyek-tanulmany",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Az Events Industry Council (EIC) és az Oxford Economics legfrisebb tanulmánya az üzleti rendezvények gazdasági hatását vizsgálja. A riport 2025-ös eredmények mellett 2028-as előrejelzésekről is…",
-      "fullSummary": "Az Events Industry Council (EIC) és az Oxford Economics legfrisebb tanulmánya az üzleti rendezvények gazdasági hatását vizsgálja. A riport 2025-ös eredmények mellett 2028-as előrejelzésekről is…",
-      "tags": [
-        "Maresz",
-        "Hatastanulmany",
-        "Rendezvenyek",
-        "Advertising",
-        "Media"
-      ],
-      "rawTags": [
-        "maresz",
-        "hatastanulmany",
-        "rendezvenyek",
-        "reklam",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-252154999-jpeg-20260925-549-75-733-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-25T09:32:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-26T03:21:15Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "67735199",
-      "title": "PepsiCo — Pepsi Max Drive-Thru-Thru",
-      "url": "https://theinspiration.com/2026/09/pepsico-pepsi-max-drive-thru-thru/",
-      "source": "theinspiration",
-      "sourceName": "The Inspiration",
-      "accent": "#f5b301",
-      "summary": "Pepsi Max turned its “meals taste better with Pepsi Max” platform into a playful Australian stunt. A guerrilla Drive Thru-Thru booth appeared at the end of regular drive-thrus, making sure no meal could leave without an ice-cold Pepsi Max.…",
-      "fullSummary": "Pepsi Max turned its “meals taste better with Pepsi Max” platform into a playful Australian stunt. A guerrilla Drive Thru-Thru booth appeared at the end of regular drive-thrus, making sure no meal could leave without an ice-cold Pepsi Max. A simple, unexpected intervention turned an everyday moment into entertaining social content — bringing the brand […]",
-      "tags": [
-        "Advertising"
-      ],
-      "rawTags": [
-        "Advertising"
-      ],
-      "image": "https://d2clgeqocjw7k2.cloudfront.net/6ab5fd10009746148472b213/high.mp4",
-      "author": "René Kammersgaard",
-      "category": "Advertising",
-      "publishedAt": "2026-09-25T09:22:36Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-26T03:21:15Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "b32ea31b",
-      "title": "Radikális, mert Katona - átalakul az ikonikus színház arculata",
-      "url": "https://kreativ.hu/cikk/a-muveszi-iranyvonallal-egyutt-a-katona-jozsef-szinhaz-arculata-is-valtozik",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A Katona számára tervezett betűkészlet formálja újjá a színház vizuális világát, de a kommunikációs felületek is frissültek.",
-      "fullSummary": "A Katona számára tervezett betűkészlet formálja újjá a színház vizuális világát, de a kommunikációs felületek is frissültek.",
-      "tags": [
-        "Branding",
-        "Katona Jozsef Szinhaz",
-        "Popkult"
-      ],
-      "rawTags": [
-        "arculat",
-        "katona-jozsef-szinhaz",
-        "popkult"
-      ],
-      "image": "https://kreativ.hu/img-cache/k/a/t/o/n/katona-2026-domolky-daniel-print-004-1-20260925-549-75-733-90-zc.webp",
-      "author": "S. D.",
-      "category": "",
-      "publishedAt": "2026-09-25T07:42:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-26T03:21:15Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "7148a669",
-      "title": "Mi termeli az innovációt? Nem a pénz. – Tanulságok az idei Brain Barról",
-      "url": "https://kreativ.hu/cikk/brainbar2026-innovacio-ai-kreativipar-tanulsagok",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A mesterséges intelligencia újabb technológiai buborékot fúj, vagy egy hosszú innovációs korszak kezdetén járunk? Többek között erre kereste a választ az idei Brain Bar, amelynek pénteki előadásaiból…",
-      "fullSummary": "A mesterséges intelligencia újabb technológiai buborékot fúj, vagy egy hosszú innovációs korszak kezdetén járunk? Többek között erre kereste a választ az idei Brain Bar, amelynek pénteki előadásaiból…",
-      "tags": [
-        "Innovacio",
-        "AI",
-        "Brainbar Budapest",
-        "Popkult"
-      ],
-      "rawTags": [
-        "innovacio",
-        "ai",
-        "brainbar-budapest",
-        "popkult"
-      ],
-      "image": "https://kreativ.hu/img-cache/i/m/g/-/9/img-9174-png-0-20260924-920-690-90-zc.webp",
-      "author": "Lakos Boglárka",
-      "category": "",
-      "publishedAt": "2026-09-25T07:25:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-26T03:21:15Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "06c95fb9",
-      "title": "Bella Ramsey filmje nyitja az idei Cinemira fesztivált",
-      "url": "https://kreativ.hu/cikk/filmes-alkotoi-workshopok-bella-ramsey-vel-is-lehet-talalkozni-az-idei-cinemiran",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Michel Gondry, japán anime Annecyból, díjnyertes dán gyerekfilmpremier és rengeteg kisfilm a Cinemira Gyerek- és Ifjúsági Filmfesztiválon.",
-      "fullSummary": "Michel Gondry, japán anime Annecyból, díjnyertes dán gyerekfilmpremier és rengeteg kisfilm a Cinemira Gyerek- és Ifjúsági Filmfesztiválon.",
-      "tags": [
-        "Filmfesztival",
-        "Popkult"
-      ],
-      "rawTags": [
-        "filmfesztival",
-        "cinemira-nemzetkozi-gyerek-es-ifjusagi-filmfesztival",
-        "popkult"
-      ],
-      "image": "https://kreativ.hu/img-cache/a/-/n/y/a/a-nyar-kalandorai1-20260925-920-690-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-25T05:55:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-26T03:21:15Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "cd6b829d",
-      "title": "Mit tehet a design a társadalomért? – Háromnapos nemzetközi szimpózium a MOME-n",
-      "url": "https://kreativ.hu/cikk/mit-tehet-a-design-a-tarsadalomert-haromnapos-nemzetkozi-szimpozium-a-mome-n",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Október 6–8. között a társadalmi felelősségvállalás, a befogadás és a fenntartható közösségek kérdései kerülnek fókuszba a Moholy-Nagy Művészeti Egyetemen (MOME). A Social Dialogues in Art and…",
-      "fullSummary": "Október 6–8. között a társadalmi felelősségvállalás, a befogadás és a fenntartható közösségek kérdései kerülnek fókuszba a Moholy-Nagy Művészeti Egyetemen (MOME). A Social Dialogues in Art and…",
-      "tags": [
-        "Szimpozium",
-        "Mome",
-        "Soda",
-        "Social Dialogues In Art And Design",
-        "Popkult",
-        "Design"
-      ],
-      "rawTags": [
-        "szimpozium",
-        "mome",
-        "soda",
-        "social-dialogues-in-art-and-design",
-        "popkult"
-      ],
-      "image": "https://kreativ.hu/img-cache/d/a/n/u/b/danube-dance-alliance-velenje-1-photo-peter-z-agar-small-20260924-920-690-90-zc.webp",
-      "author": "T. R.",
-      "category": "",
-      "publishedAt": "2026-09-24T15:17:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-25T03:21:13Z",
       "enrichAttempts": 1
     }
   ]
