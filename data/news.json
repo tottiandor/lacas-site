@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T12:16:48Z",
+  "generatedAt": "2026-11-27T12:04:19Z",
   "itemCount": 400,
   "sources": [
     {
@@ -50,6 +50,170 @@
   ],
   "items": [
     {
+      "id": "d2dca337",
+      "title": "Mit tanulhat egy cégvezető attól a fiataltól, aki most árulja az első kollekcióját? – interjú Trunk Tamással",
+      "url": "https://kreativ.hu/cikk/mit-tanulhat-egy-cegvezeto-attol-a-fiataltol-aki-most-arulja-az-elso-kollekciojat-interju-trunk-tamassal",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "November 28–29-én a budapesti BOK Csarnokban a New Universe sneaker- és streetwear-vásárral, koncertekkel és kiállítással várja a közönséget. Ugyanott rendezik a HypeWise szakmai konferenciát is,…",
+      "fullSummary": "November 28–29-én a budapesti BOK Csarnokban a New Universe sneaker- és streetwear-vásárral, koncertekkel és kiállítással várja a közönséget. Ugyanott rendezik a HypeWise szakmai konferenciát is, amelynek meghirdetett vendégei között ott van Hiroshi Fujiwara japán dizájner is. Trunk Tamással, újgenerációs-márkaépítési tanácsadóval, a két program szervezőjével arról beszélgettünk, mit tanulhat egy cégvezető a vásáron, és mi tereli a fiatalokat a…",
+      "tags": [
+        "Konferencia",
+        "Sneaker",
+        "Trunk Tamas",
+        "Gen Z 1",
+        "Advertising",
+        "Popkult"
+      ],
+      "rawTags": [
+        "konferencia",
+        "sneaker",
+        "trunk-tamas",
+        "gen-z-1",
+        "reklam",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/t/r/u/n/k/trunk-tamas-eloado-hypewise-img-02-20261127-767-57525-90-zc.webp",
+      "author": "Lakos Boglárka",
+      "category": "",
+      "publishedAt": "2026-11-27T11:43:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-27T12:04:19Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "9b659d91",
+      "title": "Kortárs díszek és adományautomaták a karácsonyi Westendben",
+      "url": "https://kreativ.hu/cikk/westend-karacsony-2026-advent-giving-machine-kortars-alkotok",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Három magyar alkotó készített díszeket a Westend karácsonyfájára az Art is Business közreműködésével. A november 26-i fénygyújtáson a Giving Machine is bemutatkozott: az automatáknál a látogatók azt…",
+      "fullSummary": "Három magyar alkotó készített díszeket a Westend karácsonyfájára az Art is Business közreműködésével. A november 26-i fénygyújtáson a Giving Machine is bemutatkozott: az automatáknál a látogatók azt is kiválaszthatják, milyen tárgyhoz vagy szolgáltatáshoz járulnak hozzá.",
+      "tags": [
+        "Karacsony",
+        "Advent",
+        "Westend",
+        "Kortars Alkotok",
+        "Popkult"
+      ],
+      "rawTags": [
+        "karacsony",
+        "advent",
+        "westend",
+        "kortars-alkotok",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/w/e/s/t/e/westend-karacsony-4-jpeg0-20261127-920-690-90-zc.webp",
+      "author": "L. B.",
+      "category": "",
+      "publishedAt": "2026-11-27T09:52:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-27T12:04:19Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "4652f7c6",
+      "title": "Átadták a jubileumi Effie Awards Hungary díjait",
+      "url": "https://kreativ.hu/cikk/atadtak-a-jubileumi-effie-awards-hungary-dijait",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Az idei Platina győztes kampány az OTP Pénzkérés simán bevezető kampánya lett, az Év Megbízója ismét a Progress Promotion Kft. (McDonald’s), az Év Ügynöksége a DDB Budapest. A negyedszázados…",
+      "fullSummary": "Az idei Platina győztes kampány az OTP Pénzkérés simán bevezető kampánya lett, az Év Megbízója ismét a Progress Promotion Kft. (McDonald’s), az Év Ügynöksége a DDB Budapest. A negyedszázados évforduló alkalmából a verseny történetében először Titanium Effie díjjal ismerték el az elmúlt 25 év legeredményesebb megbízóját és ügynökségét.",
+      "tags": [
+        "Dijatado",
+        "Effie Awards Hungary",
+        "Jubileumi",
+        "Advertising",
+        "Agencies",
+        "Campaigns"
+      ],
+      "rawTags": [
+        "dijatado",
+        "effie-awards-hungary",
+        "jubileumi",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/e/f/f/i/e/effie-awards-hungary-20260-20261126-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-26T20:00:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-27T12:04:19Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "5e64858d",
+      "title": "Eljárást indított Hajdú Péter csatornája ellen a Médiatanács, az RTL Gryllus Dorkával forgatott menopauzakampánya viszont megúszta",
+      "url": "https://kreativ.hu/cikk/nmhh-mediatanacs-hajdu-peter-rtl-tv2-kozteve-hirmusor-radiofrekvencia-palyazat-eljaras-jogsertes",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Az NMHH Médiatanácsa november 24-i ülésén négy ügyben állapított meg jogsértést a korábbi közmédia, illetve a TV2 hírműsorai miatt, eljárást indított Hajdú Péter YouTube-csatornája ellen, és döntött…",
+      "fullSummary": "Az NMHH Médiatanácsa november 24-i ülésén négy ügyben állapított meg jogsértést a korábbi közmédia, illetve a TV2 hírműsorai miatt, eljárást indított Hajdú Péter YouTube-csatornája ellen, és döntött két budapesti rádiófrekvencia-pályázat előkészületeiről. Az RTL Gryllus Dorkával forgatott menopauzakampánya miatt viszont – bár etikailag kifogásolhatónak tartja – nem indít eljárást.",
+      "tags": [
+        "Jogsertes",
+        "Awards",
+        "Tv2",
+        "Nmhh",
+        "Mediatanacs",
+        "Eljaras"
+      ],
+      "rawTags": [
+        "jogsertes",
+        "palyazat",
+        "tv2",
+        "nmhh",
+        "mediatanacs",
+        "eljaras",
+        "radiofrekvencia",
+        "hirmusor"
+      ],
+      "image": "https://kreativ.hu/img-cache/s/z/r/2/5/szr25990-20261126-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-26T13:50:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-27T12:04:19Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "c88ef9a2",
+      "title": "A „human” lett a Cambridge Dictionary 2026-os év szava",
+      "url": "https://kreativ.hu/cikk/human-ember-emberi-ev-szava-cambridge-dictionary-2026",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A mesterséges intelligencia terjedése miatt egyre fontosabbá válik annak jelölése, hogy egy tartalom valódi emberi munkával vagy gépi generálással készült. A Cambridge Dictionary szerint ezt a…",
+      "fullSummary": "A mesterséges intelligencia terjedése miatt egyre fontosabbá válik annak jelölése, hogy egy tartalom valódi emberi munkával vagy gépi generálással készült. A Cambridge Dictionary szerint ezt a változást tükrözi a 2026-os év szavának választott „human”, vagyis „emberi” kifejezés is.",
+      "tags": [
+        "Ember",
+        "Human",
+        "2026",
+        "Cambridge Dictionary",
+        "Emberi",
+        "Ev Szava"
+      ],
+      "rawTags": [
+        "ember",
+        "human",
+        "2026",
+        "cambridge-dictionary",
+        "emberi",
+        "ev-szava",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/r/a/y/u/l/rayul-m6gy9ohgii-unsplash-20261126-920-690-90-zc.webp",
+      "author": "T. R.",
+      "category": "",
+      "publishedAt": "2026-11-26T12:33:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-27T12:04:19Z",
+      "enrichAttempts": 1
+    },
+    {
       "id": "264e0fae",
       "title": "Az ATV-vezér szerint nem eladó a csatorna: „Nekem is sok álmom van, például a Manchester United”",
       "url": "https://kreativ.hu/cikk/az-atv-vezer-szerint-nem-elado-a-csatorna",
@@ -57,7 +221,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Németh S. Szilárd visszautasította a Network4 tulajdonosának felvásárlási érdeklődését, és hangsúlyozta, hogy az ATV önállóan is sikeresen működik. A vezérigazgató a Blikknek elmondta: az elmúlt fél…",
-      "fullSummary": "Németh S. Szilárd visszautasította a Network4 tulajdonosának felvásárlási érdeklődését, és hangsúlyozta, hogy az ATV önállóan is sikeresen működik. A vezérigazgató a Blikknek elmondta: az elmúlt fél év médiapiaci átrendeződésének a csatorna a nyertese lett.",
+      "fullSummary": "Németh S. Szilárd visszautasította a Network4 tulajdonosának felvásárlási érdeklődését, és hangsúlyozta, hogy az ATV önállóan is sikeresen működik. A vezérigazgató a Blikknek elmondta: az elmúlt fél…",
       "tags": [
         "Media",
         "Atv",
@@ -75,7 +239,7 @@
         "visszautasit",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/n/e/m/e/t/nemeth-s-szilard0-20261126-600-450-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/n/e/m/e/t/nemeth-s-szilard0-20261126-33825-451-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-26T10:11:00Z",
@@ -91,7 +255,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Borsány-Gyenes András, a Network4 Media Group tulajdonosa szerint a magyar médiapiac átalakulása új üzleti lehetőségeket teremt. A HVG-nek adott interjújában elmondta: a vállalat közéleti műsorokkal…",
-      "fullSummary": "Borsány-Gyenes András, a Network4 Media Group tulajdonosa szerint a magyar médiapiac átalakulása új üzleti lehetőségeket teremt. A HVG-nek adott interjújában elmondta: a vállalat közéleti műsorokkal bővítené kínálatát, együttműködik a Kontrollal, ajánlatot tett az ATV-nek, és egy esetleges TV2-felvásárlást is megvizsgálna.",
+      "fullSummary": "Borsány-Gyenes András, a Network4 Media Group tulajdonosa szerint a magyar médiapiac átalakulása új üzleti lehetőségeket teremt. A HVG-nek adott interjújában elmondta: a vállalat közéleti műsorokkal…",
       "tags": [
         "Tv2",
         "Atv",
@@ -108,7 +272,7 @@
         "borsany-gyenes-andras",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/b/o/r/s/a/borsany-gyenes-andras0-20261126-727-54525-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/b/o/r/s/a/borsany-gyenes-andras0-20261126-41025-547-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-26T09:30:00Z",
@@ -140,7 +304,7 @@
         "reklam",
         "verseny"
       ],
-      "image": "https://kreativ.hu/img-cache/a/8/a/5/4/a8a54630-20261126-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/8/a/5/4/a8a54630-20261126-690-920-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-26T09:20:00Z",
@@ -156,7 +320,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A Kreatív idei PR-versenyén pontazonosság miatt Az Év PR-ügynöksége címet az ACG PRo és a Noguchi, az Év Megbízója címet az OTP Bank és a Richter Gedeon kapta. Az Év PR-megoldása az ACG PRo és a…",
-      "fullSummary": "A Kreatív idei PR-versenyén pontazonosság miatt Az Év PR-ügynöksége címet az ACG PRo és a Noguchi, az Év Megbízója címet az OTP Bank és a Richter Gedeon kapta. Az Év PR-megoldása az ACG PRo és a Világszép Gyermekvédelmi Alapítvány „Ez a nap más, mint a többi...” című kampánya lett. A kategóriákban 12 arany-, 12 ezüst- és 22 bronzminősítés született.",
+      "fullSummary": "A Kreatív idei PR-versenyén pontazonosság miatt Az Év PR-ügynöksége címet az ACG PRo és a Noguchi, az Év Megbízója címet az OTP Bank és a Richter Gedeon kapta. Az Év PR-megoldása az ACG PRo és a…",
       "tags": [
         "Nyertesek",
         "Prizma Kreativ PR Dij",
@@ -189,7 +353,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "December 9-én indul a Nyerő Páros tizedik évada, amelyben nyolc sztárpár költözik a Villába. A reality ezúttal kizárólag az RTL+ Premiumon lesz látható, Sebestyén Balázs pedig utoljára vállalta a…",
-      "fullSummary": "December 9-én indul a Nyerő Páros tizedik évada, amelyben nyolc sztárpár költözik a Villába. A reality ezúttal kizárólag az RTL+ Premiumon lesz látható, Sebestyén Balázs pedig utoljára vállalta a műsorvezetést.",
+      "fullSummary": "December 9-én indul a Nyerő Páros tizedik évada, amelyben nyolc sztárpár költözik a Villába. A reality ezúttal kizárólag az RTL+ Premiumon lesz látható, Sebestyén Balázs pedig utoljára vállalta a…",
       "tags": [
         "Online",
         "Sebestyen Balazs",
@@ -207,7 +371,7 @@
         "rtl-premium",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/s/e/b/e/s/sebestyen-balazs-jpeg0-20261126-400-300-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/s/e/b/e/s/sebestyen-balazs-jpeg0-20261126-22575-301-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-26T08:40:00Z",
@@ -223,7 +387,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Idén is elismerte a hazai munkáltatói márkaépítés kiemelkedő projektjeit a Magyar Public Relations Szövetség (MPRSZ). A kilencedik alkalommal megrendezett Employer Branding Award idei mezőnyéből négy…",
-      "fullSummary": "Idén is elismerte a hazai munkáltatói márkaépítés kiemelkedő projektjeit a Magyar Public Relations Szövetség (MPRSZ). A kilencedik alkalommal megrendezett Employer Branding Award idei mezőnyéből négy arany-, tizenkét ezüst- és tíz bronzdíjas pályázat került ki. A legtöbb elismerést a storytelling kategóriában osztották ki, az Év ügynöksége címet a Noguchi, az Év megbízója díjat pedig a Dreher Sörgyárak Zrt. kapta.",
+      "fullSummary": "Idén is elismerte a hazai munkáltatói márkaépítés kiemelkedő projektjeit a Magyar Public Relations Szövetség (MPRSZ). A kilencedik alkalommal megrendezett Employer Branding Award idei mezőnyéből négy…",
       "tags": [
         "Verseny",
         "Awards",
@@ -239,7 +403,7 @@
         "reklam",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/m/p/r/s/z/mprsz50-20261125-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/m/p/r/s/z/mprsz50-20261125-57675-769-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-25T15:36:00Z",
@@ -255,7 +419,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Csirke Dániel vezető kreatívigazgató négy év után távozik a Mediator reklámügynökségtől, egy karácsonyi pihenő követően új kihívások elé néz, amiről még nem szeretett volna többet elárulni a…",
-      "fullSummary": "Csirke Dániel vezető kreatívigazgató négy év után távozik a Mediator reklámügynökségtől, egy karácsonyi pihenő követően új kihívások elé néz, amiről még nem szeretett volna többet elárulni a szakember. A Mediator kreatív osztályának vezetését az eddigi kreatívigazgató társa, Barát Zoltán egyedüli kreatívigazgatóként veszi át.",
+      "fullSummary": "Csirke Dániel vezető kreatívigazgató négy év után távozik a Mediator reklámügynökségtől, egy karácsonyi pihenő követően új kihívások elé néz, amiről még nem szeretett volna többet elárulni a…",
       "tags": [
         "Szemelyi Hir",
         "Mediator",
@@ -331,7 +495,7 @@
         "epica-awards-2026",
         "reklam"
       ],
-      "image": "https://kreativ.hu/img-cache/e/p/i/c/a/epica-20261125-18075-241-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/e/p/i/c/a/epica-20261125-320-240-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-25T13:34:00Z",
@@ -489,7 +653,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Gondolkoztál már azon, hogy a munkád mekkora részét emésztik fel az előkészítő feladatok, amikor valaminek utána kell nézni, valamit elő kell keresni? Vajon mennyi időt visznek el a rutinfeladatok,…",
-      "fullSummary": "Gondolkoztál már azon, hogy a munkád mekkora részét emésztik fel az előkészítő feladatok, amikor valaminek utána kell nézni, valamit elő kell keresni? Vajon mennyi időt visznek el a rutinfeladatok, amelyekhez nem kell agymunka és akár automatizálhatók is lehetnének? Ha másokat is bevonsz, vajon hány munkaóra ég el a fölösleges meetingeken, amelyeken a résztvevők próbálnak képbe kerülni, felzárkózni?",
+      "fullSummary": "Gondolkoztál már azon, hogy a munkád mekkora részét emésztik fel az előkészítő feladatok, amikor valaminek utána kell nézni, valamit elő kell keresni? Vajon mennyi időt visznek el a rutinfeladatok,…",
       "tags": [
         "Pulse",
         "Progressive",
@@ -11673,154 +11837,6 @@
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-09-28T13:36:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-29T03:24:19Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "1cc4f25a",
-      "title": "A Sztárban Sztár érdekelte a legtöbb nézőt – 39. heti nézettségi adatok",
-      "url": "https://kreativ.hu/cikk/nezettseg-39-het-rtl-tv2-sztarban-sztar",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Az elmúlt héten mindkét vizsgált korcsoportban a Sztárban Sztár volt a legnézettebb műsor, a Celeb vagyok, ments ki innen! és a Farm VIP a top 10-be sem került be.",
-      "fullSummary": "Az elmúlt héten mindkét vizsgált korcsoportban a Sztárban Sztár volt a legnézettebb műsor, a Celeb vagyok, ments ki innen! és a Farm VIP a top 10-be sem került be.",
-      "tags": [
-        "Tv2",
-        "Nezettseg",
-        "RTL",
-        "Media"
-      ],
-      "rawTags": [
-        "tv2",
-        "nezettseg",
-        "rtl",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/7/7/8/9/8/778984982-1605744394915219-5632191412665658015-n-0-20260928-609-812-90-zc.webp",
-      "author": "F. V.",
-      "category": "",
-      "publishedAt": "2026-09-28T13:28:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-29T03:24:19Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "ff2a5213",
-      "title": "Új kreatívigazgatót igazolt a BO agency",
-      "url": "https://kreativ.hu/cikk/megujult-a-bo-agency-kreativ-csapata",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Petz Anna Creative Directorként, Balassa Tünde Event Creative-ként, Simon-Takács Kata pedig Senior Art Directorként csatlakozott a több mint húsz éve működő live communication és…",
-      "fullSummary": "Petz Anna Creative Directorként, Balassa Tünde Event Creative-ként, Simon-Takács Kata pedig Senior Art Directorként csatlakozott a több mint húsz éve működő live communication és…",
-      "tags": [
-        "Kreativigazgato",
-        "Bo Agency",
-        "Advertising",
-        "Media",
-        "Agencies"
-      ],
-      "rawTags": [
-        "kreativ",
-        "kreativigazgato",
-        "bo-agency",
-        "reklam",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/p/e/t/z/-/petz-a-20260928-403-5-538-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-28T12:35:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-29T03:24:19Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "74edd3c7",
-      "title": "GENER8ION + Yung Lean — 2026 VMAs",
-      "url": "https://theinspiration.com/2026/09/gener8ion-yung-lean-2026-vmas/",
-      "source": "theinspiration",
-      "sourceName": "The Inspiration",
-      "accent": "#f5b301",
-      "summary": "",
-      "fullSummary": "",
-      "tags": [
-        "Art",
-        "Music"
-      ],
-      "rawTags": [
-        "Art",
-        "Music"
-      ],
-      "image": "https://theinspiration.com/wp-content/uploads/Skaermbillede-2026-09-28-kl.-13.26.03-750x536.webp",
-      "author": "René Kammersgaard",
-      "category": "Art",
-      "publishedAt": "2026-09-28T11:29:38Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-29T03:24:19Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "214289f5",
-      "title": "„Értsd meg, ami számít” – szeptember 28. a Hírek Világnapja",
-      "url": "https://kreativ.hu/cikk/ertsd-meg-ami-szamit-ma-van-a-hirek-vilagnapja",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Több mint 100 ország, több mint 1000 szerkesztősége és támogató szervezete csatlakozott az idei globális kampányhoz a Hírek Világnapja alkalmából (World News Day) és fogott össze a hiteles…",
-      "fullSummary": "Több mint 100 ország, több mint 1000 szerkesztősége és támogató szervezete csatlakozott az idei globális kampányhoz a Hírek Világnapja alkalmából (World News Day) és fogott össze a hiteles…",
-      "tags": [
-        "Campaigns",
-        "Vilagnap",
-        "Hirek",
-        "Media"
-      ],
-      "rawTags": [
-        "kampany",
-        "vilagnap",
-        "hirek",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/w/o/r/l/d/worldnewsday-cartoon-fin-2000px-1-20260928-690-920-90-zc.webp",
-      "author": "S. D.",
-      "category": "",
-      "publishedAt": "2026-09-28T08:04:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-29T03:24:19Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "89c4c668",
-      "title": "A magyar fejlesztésű QRGATE kapta a „Best Event Operations SaaS Platform 2026 - Europe” elismerést",
-      "url": "https://kreativ.hu/cikk/qrgate-best-event-2026",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A rendezvényregisztrációtól és a vendéglistától a digitális jegyeken át a helyszíni beléptetésig és valós idejű eseményoperációig egyetlen platform fogja össze a teljes vendégkezelési folyamatot.",
-      "fullSummary": "A rendezvényregisztrációtól és a vendéglistától a digitális jegyeken át a helyszíni beléptetésig és valós idejű eseményoperációig egyetlen platform fogja össze a teljes vendégkezelési folyamatot.",
-      "tags": [
-        "Btl",
-        "Rendezveny",
-        "Event",
-        "Awards",
-        "Qr",
-        "Qrgate"
-      ],
-      "rawTags": [
-        "btl",
-        "rendezveny",
-        "event",
-        "award",
-        "qr",
-        "qrgate",
-        "tamogatott-tartalom"
-      ],
-      "image": "https://kreativ.hu/img-cache/q/r/g/a/t/qrgate-wallet-post-png-20260925-920-690-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-28T07:56:00Z",
       "datePrecise": true,
       "firstSeenAt": "2026-09-29T03:24:19Z",
       "enrichAttempts": 1
