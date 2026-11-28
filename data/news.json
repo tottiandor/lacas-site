@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T12:04:19Z",
+  "generatedAt": "2026-11-28T11:37:54Z",
   "itemCount": 400,
   "sources": [
     {
@@ -8,7 +8,7 @@
       "site": "https://www.thedrum.com/",
       "accent": "#00d1b2",
       "status": "error",
-      "error": "failed to fetch https://www.thedrum.com/: HTTP Error 403: Forbidden",
+      "error": "no JSON-LD itemListElement found on The Drum front page",
       "count": 0
     },
     {
@@ -50,6 +50,89 @@
   ],
   "items": [
     {
+      "id": "87bf59e5",
+      "title": "Kifogásolja a MaReSz két állami rendezvénybeszerzés feltételeit, tisztességes piaci verseny biztosítására szólít fel",
+      "url": "https://kreativ.hu/cikk/maresz-magyar-kozut-mav-allami-beszerzes-ajanlatkeres-tisztesseges-piaci-verseny",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "A rendezvényszervezők szakmai szövetsége szerint túl kevés idő jutott az ajánlatok összeállítására a Magyar Közút karácsonyi rendezvényének beszerzésénél. Az Agrármarketing Centrum négy külföldi…",
+      "fullSummary": "A rendezvényszervezők szakmai szövetsége szerint túl kevés idő jutott az ajánlatok összeállítására a Magyar Közút karácsonyi rendezvényének beszerzésénél. Az Agrármarketing Centrum négy külföldi kiállításra kiírt közbeszerzésénél a műszaki feltételeket is kifogásolja. A karácsonyi ajánlatkérés eredetileg péntek reggeli határidejét időközben péntek délutánra módosították.",
+      "tags": [
+        "Maresz",
+        "Advertising"
+      ],
+      "rawTags": [
+        "maresz",
+        "reklam"
+      ],
+      "image": "https://kreativ.hu/img-cache/m/a/r/e/s/maresz-rendezvenybeszerzes-boritokep-v20-20261127-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-27T15:39:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-28T11:37:54Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "ecbe5d1b",
+      "title": "Nyilvános a közmédia auditja, 26 milliárd forintba került a külső közvetítési kapacitás",
+      "url": "https://kreativ.hu/cikk/nyilvanos-a-kozmedia-auditja-26-milliard-forintba-kerult-a-kulso-kozvetitesi-kapacitas",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Közzétették a közmédia csaknem négy hónapos átvilágításának összefoglalóját. A jelentés szerint a 14 legnagyobb beszállítóhoz került a külső szolgáltatásokra és anyagokra fordított kiadások közel…",
+      "fullSummary": "Közzétették a közmédia csaknem négy hónapos átvilágításának összefoglalóját. A jelentés szerint a 14 legnagyobb beszállítóhoz került a külső szolgáltatásokra és anyagokra fordított kiadások közel kétharmada, a 2025-ös leltározáskor pedig 9738 eszköz hiányzott. A vizsgálat az MTI korábbi szerkesztési gyakorlatát is áttekintette. Az átmeneti vezetés két ügyben tett feljelentést.",
+      "tags": [
+        "Media"
+      ],
+      "rawTags": [
+        "media"
+      ],
+      "image": "https://kreativ.hu/img-cache/k/o/z/m/e/kozmedia-hvg-veres-viktor0-20261127-920-690-90-zc.webp",
+      "author": "Kreatív",
+      "category": "",
+      "publishedAt": "2026-11-27T14:55:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-28T11:37:54Z",
+      "enrichAttempts": 1
+    },
+    {
+      "id": "966f6566",
+      "title": "„Helye volt a kritikának” – Jakupcsek reagált a Dér Heni-interjú által generált szakmai-közéleti vitára",
+      "url": "https://kreativ.hu/cikk/jakupcsek-gabriella-der-heni-interju-kritika-reakcio",
+      "source": "kreativ",
+      "sourceName": "Kreatív",
+      "accent": "#e8453c",
+      "summary": "Jakupcsek Gabriella november 27-én a Facebookon reagált az RTL Reggeliben készült interjúja miatt kapott kritikákra. A műsorvezető azt írta, idegen terepre tévedt, és hibázott, amikor Dér Heni…",
+      "fullSummary": "Jakupcsek Gabriella november 27-én a Facebookon reagált az RTL Reggeliben készült interjúja miatt kapott kritikákra. A műsorvezető azt írta, idegen terepre tévedt, és hibázott, amikor Dér Heni fideszes kampányszerepléséről kérdezett, és úgy érezte, a személyes, empatikus megközelítése ebben a helyzetben kevésnek bizonyult. A beszélgetés nyomán megjelent bírálatok egy része a kérdezés módját kifogásolta, más megszólalások az énekesnő politikai…",
+      "tags": [
+        "Reakcio",
+        "Interju",
+        "Kritika",
+        "Jakupcsek Gabriella",
+        "Politikai Kampany",
+        "Der Heni"
+      ],
+      "rawTags": [
+        "reakcio",
+        "interju",
+        "kritika",
+        "jakupcsek-gabriella",
+        "politikai-kampany",
+        "der-heni",
+        "media",
+        "popkult"
+      ],
+      "image": "https://kreativ.hu/img-cache/j/a/k/u/p/jakupcsek-der-heni-boritokep0-20261127-920-690-90-zc.webp",
+      "author": "L. B.",
+      "category": "",
+      "publishedAt": "2026-11-27T13:06:00Z",
+      "datePrecise": true,
+      "firstSeenAt": "2026-11-28T11:37:54Z",
+      "enrichAttempts": 1
+    },
+    {
       "id": "d2dca337",
       "title": "Mit tanulhat egy cégvezető attól a fiataltól, aki most árulja az első kollekcióját? – interjú Trunk Tamással",
       "url": "https://kreativ.hu/cikk/mit-tanulhat-egy-cegvezeto-attol-a-fiataltol-aki-most-arulja-az-elso-kollekciojat-interju-trunk-tamassal",
@@ -57,7 +140,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "November 28–29-én a budapesti BOK Csarnokban a New Universe sneaker- és streetwear-vásárral, koncertekkel és kiállítással várja a közönséget. Ugyanott rendezik a HypeWise szakmai konferenciát is,…",
-      "fullSummary": "November 28–29-én a budapesti BOK Csarnokban a New Universe sneaker- és streetwear-vásárral, koncertekkel és kiállítással várja a közönséget. Ugyanott rendezik a HypeWise szakmai konferenciát is, amelynek meghirdetett vendégei között ott van Hiroshi Fujiwara japán dizájner is. Trunk Tamással, újgenerációs-márkaépítési tanácsadóval, a két program szervezőjével arról beszélgettünk, mit tanulhat egy cégvezető a vásáron, és mi tereli a fiatalokat a…",
+      "fullSummary": "November 28–29-én a budapesti BOK Csarnokban a New Universe sneaker- és streetwear-vásárral, koncertekkel és kiállítással várja a közönséget. Ugyanott rendezik a HypeWise szakmai konferenciát is,…",
       "tags": [
         "Konferencia",
         "Sneaker",
@@ -90,7 +173,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Három magyar alkotó készített díszeket a Westend karácsonyfájára az Art is Business közreműködésével. A november 26-i fénygyújtáson a Giving Machine is bemutatkozott: az automatáknál a látogatók azt…",
-      "fullSummary": "Három magyar alkotó készített díszeket a Westend karácsonyfájára az Art is Business közreműködésével. A november 26-i fénygyújtáson a Giving Machine is bemutatkozott: az automatáknál a látogatók azt is kiválaszthatják, milyen tárgyhoz vagy szolgáltatáshoz járulnak hozzá.",
+      "fullSummary": "Három magyar alkotó készített díszeket a Westend karácsonyfájára az Art is Business közreműködésével. A november 26-i fénygyújtáson a Giving Machine is bemutatkozott: az automatáknál a látogatók azt…",
       "tags": [
         "Karacsony",
         "Advent",
@@ -121,7 +204,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Az idei Platina győztes kampány az OTP Pénzkérés simán bevezető kampánya lett, az Év Megbízója ismét a Progress Promotion Kft. (McDonald’s), az Év Ügynöksége a DDB Budapest. A negyedszázados…",
-      "fullSummary": "Az idei Platina győztes kampány az OTP Pénzkérés simán bevezető kampánya lett, az Év Megbízója ismét a Progress Promotion Kft. (McDonald’s), az Év Ügynöksége a DDB Budapest. A negyedszázados évforduló alkalmából a verseny történetében először Titanium Effie díjjal ismerték el az elmúlt 25 év legeredményesebb megbízóját és ügynökségét.",
+      "fullSummary": "Az idei Platina győztes kampány az OTP Pénzkérés simán bevezető kampánya lett, az Év Megbízója ismét a Progress Promotion Kft. (McDonald’s), az Év Ügynöksége a DDB Budapest. A negyedszázados…",
       "tags": [
         "Dijatado",
         "Effie Awards Hungary",
@@ -152,7 +235,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "Az NMHH Médiatanácsa november 24-i ülésén négy ügyben állapított meg jogsértést a korábbi közmédia, illetve a TV2 hírműsorai miatt, eljárást indított Hajdú Péter YouTube-csatornája ellen, és döntött…",
-      "fullSummary": "Az NMHH Médiatanácsa november 24-i ülésén négy ügyben állapított meg jogsértést a korábbi közmédia, illetve a TV2 hírműsorai miatt, eljárást indított Hajdú Péter YouTube-csatornája ellen, és döntött két budapesti rádiófrekvencia-pályázat előkészületeiről. Az RTL Gryllus Dorkával forgatott menopauzakampánya miatt viszont – bár etikailag kifogásolhatónak tartja – nem indít eljárást.",
+      "fullSummary": "Az NMHH Médiatanácsa november 24-i ülésén négy ügyben állapított meg jogsértést a korábbi közmédia, illetve a TV2 hírműsorai miatt, eljárást indított Hajdú Péter YouTube-csatornája ellen, és döntött…",
       "tags": [
         "Jogsertes",
         "Awards",
@@ -187,7 +270,7 @@
       "sourceName": "Kreatív",
       "accent": "#e8453c",
       "summary": "A mesterséges intelligencia terjedése miatt egyre fontosabbá válik annak jelölése, hogy egy tartalom valódi emberi munkával vagy gépi generálással készült. A Cambridge Dictionary szerint ezt a…",
-      "fullSummary": "A mesterséges intelligencia terjedése miatt egyre fontosabbá válik annak jelölése, hogy egy tartalom valódi emberi munkával vagy gépi generálással készült. A Cambridge Dictionary szerint ezt a változást tükrözi a 2026-os év szavának választott „human”, vagyis „emberi” kifejezés is.",
+      "fullSummary": "A mesterséges intelligencia terjedése miatt egyre fontosabbá válik annak jelölése, hogy egy tartalom valódi emberi munkával vagy gépi generálással készült. A Cambridge Dictionary szerint ezt a…",
       "tags": [
         "Ember",
         "Human",
@@ -205,7 +288,7 @@
         "ev-szava",
         "popkult"
       ],
-      "image": "https://kreativ.hu/img-cache/r/a/y/u/l/rayul-m6gy9ohgii-unsplash-20261126-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/r/a/y/u/l/rayul-m6gy9ohgii-unsplash-20261126-690-920-90-zc.webp",
       "author": "T. R.",
       "category": "",
       "publishedAt": "2026-11-26T12:33:00Z",
@@ -337,7 +420,7 @@
         "reklam",
         "verseny"
       ],
-      "image": "https://kreativ.hu/img-cache/a/8/a/5/3/a8a5367-20261126-920-690-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/a/8/a/5/3/a8a5367-20261126-54975-733-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-26T09:01:00Z",
@@ -403,7 +486,7 @@
         "reklam",
         "media"
       ],
-      "image": "https://kreativ.hu/img-cache/m/p/r/s/z/mprsz50-20261125-57675-769-90-zc.webp",
+      "image": "https://kreativ.hu/img-cache/m/p/r/s/z/mprsz50-20261125-920-690-90-zc.webp",
       "author": "Kreatív",
       "category": "",
       "publishedAt": "2026-11-25T15:36:00Z",
@@ -11743,103 +11826,6 @@
       "datePrecise": true,
       "firstSeenAt": "2026-09-29T03:24:19Z",
       "enrichAttempts": 0
-    },
-    {
-      "id": "29026dca",
-      "title": "Globális házhozszállítási márkaportfólió médiaügynöksége lett a WPP",
-      "url": "https://kreativ.hu/cikk/globalis-hazhozszallitasi-markaportfolio-mediaugynoksege-lett-a-wpp",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "A DoorDash a WPP Mediát választotta első globális médiaügynökségi partnerének teljes házhozszállítási márkaportfóliója – a DoorDash, a Deliveroo és a Wolt – számára.",
-      "fullSummary": "A DoorDash a WPP Mediát választotta első globális médiaügynökségi partnerének teljes házhozszállítási márkaportfóliója – a DoorDash, a Deliveroo és a Wolt – számára.",
-      "tags": [
-        "Agencies",
-        "Deliveroo",
-        "Wolt",
-        "Wpp Media",
-        "Advertising",
-        "Media"
-      ],
-      "rawTags": [
-        "wpp",
-        "deliveroo",
-        "wolt",
-        "wpp-media",
-        "reklam",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/a/d/o/b/e/adobestock-1840613849-editorial-use-only-jpeg-20260928-920-690-90-zc.webp",
-      "author": "S. D.",
-      "category": "",
-      "publishedAt": "2026-09-28T14:20:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-29T03:24:19Z",
-      "enrichAttempts": 1
-    },
-    {
-      "id": "ee37f27f",
-      "title": "EA Sports makes its biggest names disappear from Times Square",
-      "url": "https://www.famouscampaigns.com/2026/09/ea-sports-makes-its-biggest-names-disappear-from-times-square/",
-      "source": "famouscampaigns",
-      "sourceName": "Famous Campaigns",
-      "accent": "#7c5cff",
-      "summary": "EA SPORTS FC marked the global launch of FC 27 with a Times Square takeover that made its celebrity cast disappear from their usual billboards, only to reveal where they had gone: playing the game together. Created by Uncommon, ‘Everyone’s…",
-      "fullSummary": "EA SPORTS FC marked the global launch of FC 27 with a Times Square takeover that made its celebrity cast disappear from their usual billboards, only to reveal where they had gone: playing the game together. Created by Uncommon, ‘Everyone’s Missing’ brought Jude Bellingham, Kylian Mbappé, Lewis Hamilton, Ted Lasso, Alyssa Thompson and Lewis Capaldi […]",
-      "tags": [
-        "Celebrity",
-        "COOH",
-        "Entertainment",
-        "Gaming",
-        "Sport",
-        "OOH"
-      ],
-      "rawTags": [
-        "Celebrity",
-        "COOH",
-        "Entertainment",
-        "Gaming"
-      ],
-      "image": "https://www.famouscampaigns.com/wp-content/uploads/2026/09/FC27-LF-16x9-1-1.mp4",
-      "author": "Staff",
-      "category": "Celebrity",
-      "publishedAt": "2026-09-28T13:59:24Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-29T03:24:19Z",
-      "enrichAttempts": 0
-    },
-    {
-      "id": "a2b90d0e",
-      "title": "Holló Márta váltotta Beke Zsuzsát az Employer Branding Award zsűrijének élén",
-      "url": "https://kreativ.hu/cikk/hollo-marta-valtotta-beke-zsuzsat-az-employer-branding-award-zsurijenek-elen",
-      "source": "kreativ",
-      "sourceName": "Kreatív",
-      "accent": "#e8453c",
-      "summary": "Összeállt a Magyar PR Szövetség Employer Branding Award-jának zsűrije, a grémium elnöke Holló Márta, a Telekom Corporate Communications Directora.",
-      "fullSummary": "Összeállt a Magyar PR Szövetség Employer Branding Award-jának zsűrije, a grémium elnöke Holló Márta, a Telekom Corporate Communications Directora.",
-      "tags": [
-        "Mprsz",
-        "Awards",
-        "Employer Branding",
-        "Employer Branding Award",
-        "Advertising",
-        "Media"
-      ],
-      "rawTags": [
-        "mprsz",
-        "zsuri",
-        "employer-branding",
-        "employer-branding-award",
-        "reklam",
-        "media"
-      ],
-      "image": "https://kreativ.hu/img-cache/e/b/a/-/f/eba-fozsuri-montazs-2026-20260928-549-75-733-90-zc.webp",
-      "author": "Kreatív",
-      "category": "",
-      "publishedAt": "2026-09-28T13:36:00Z",
-      "datePrecise": true,
-      "firstSeenAt": "2026-09-29T03:24:19Z",
-      "enrichAttempts": 1
     }
   ]
 }
